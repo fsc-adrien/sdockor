@@ -1,0 +1,283 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "65449b32-df22-43b3-8c4a-4c7abfa7e561": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_kopia-1_1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_kopia_2-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<p>Nedan finner du några rejält nedsatta dockor. De flesta av våra Black Week sexdockor har expressleverans (2-4 arbetsdagar). Längre ned finner du fler Black Week erbjudanden från premium-märken såsom WM-Doll, Irontech Doll, Zelex, Starpery, mfl. </p><p><strong>OBS! Erbjudanden gäller till och med 28/11. Dockor med expressleverans finns i begränsat antal och några brukar alltid sälja slut under Black Week. Besök oss gärna i Borlänge för fler specialerbjudanden! </strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165217872584090210": {
+      "type": "content-page",
+      "disabled": true,
+      "settings": {
+        "content_page": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "40797287-347d-40e7-b1e6-ae6c5ac6bdb6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Expressleverans - Prissänkta dockor",
+        "collection_description": true,
+        "collection": "black-week-black-friday-sexdockor",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "14546b2f-9f70-4967-8561-73ae90b5ae1e": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/irohtech_doll_black_week_black_friday_docklandet_wide-1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/irohtech_doll_black_week_black_friday_docklandet_instagram-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "shopify://collections/irontech-doll-silicone-real-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a888146a-b094-4505-b529-cd4913a44ac2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Irontech Doll (silikon)",
+        "collection_description": false,
+        "collection": "irontech-doll-silicone-real-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "bf8d2ba4-0bff-4454-a47f-e8dd2e1cdcbb": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Se mer av Irontech Doll  (Black Week)",
+        "button_link": "shopify://collections/irontech-doll-silicone-real-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b5f7269c-4fe8-4a7e-bf4f-9d569e76bc52": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/wm-doll_extra_huvud_Instagram_docklandet_sexdockor_real_doll_black_week_black_friday_kopia-1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/wm-doll_extra_huvud_Instagram_docklandet_sexdockor_real_doll_black_week_black_friday-1_3_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "shopify://collections/wm-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3cb2e13c-4316-4ae9-be29-3d53669f056c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WM-Doll (TPE)",
+        "collection_description": false,
+        "collection": "wm-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "cc4c22c0-e26d-4978-bf4d-49eb6e8bd8eb": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Se mer av WM-Doll (Black Week)",
+        "button_link": "shopify://collections/wm-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "41323395-209a-4de8-b35b-d09d980e17b8": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/wm-doll_extra_huvud_Instagram_docklandet_sexdockor_real_doll_black_week_black_friday_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Zelex-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4c42428b-55df-44c0-9b8b-14315376638a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Zelex (silikon)",
+        "collection_description": false,
+        "collection": "zelex-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ff37cd5a-a897-4529-87ec-5f4e5bed4813": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Se mer av Zelex (Black Week)",
+        "button_link": "shopify://collections/zelex-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5057dae8-256a-4770-8e7e-89ba3676b521": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Starpery_Sex_Doll_Silicone_TPE_Real_Doll_Black_Week_Wide-1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Starpery_Sex_Doll_Silicone_TPE_Real_Doll_Black_Week-1_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "shopify://collections/starpery",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "47f3dc8a-db17-452e-980d-5d4e0db9d3c3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Starpery (TPE+Silikon)",
+        "collection_description": false,
+        "collection": "starpery",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c79378b2-cef6-4005-989b-cc0ffdce7ee0": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Se mer av Starpery (Black Week)",
+        "button_link": "shopify://collections/starpery",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f2f8d71a-78a6-4a43-8367-65461fe0416b": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_Copy-1_2_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_kopia-1_1_Sexdocka_Docklandet_36dd7d23-3c28-4473-947d-0f082f220931.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e620c5f4-5371-48be-9864-1834458921c0": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1666646823571e1d4e": {
+      "type": "apps",
+      "blocks": {
+        "1b92d18f-e9c8-4b6d-a8c4-9577f2d615e2": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "1b92d18f-e9c8-4b6d-a8c4-9577f2d615e2"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "65449b32-df22-43b3-8c4a-4c7abfa7e561",
+    "165217872584090210",
+    "40797287-347d-40e7-b1e6-ae6c5ac6bdb6",
+    "14546b2f-9f70-4967-8561-73ae90b5ae1e",
+    "a888146a-b094-4505-b529-cd4913a44ac2",
+    "bf8d2ba4-0bff-4454-a47f-e8dd2e1cdcbb",
+    "b5f7269c-4fe8-4a7e-bf4f-9d569e76bc52",
+    "3cb2e13c-4316-4ae9-be29-3d53669f056c",
+    "cc4c22c0-e26d-4978-bf4d-49eb6e8bd8eb",
+    "41323395-209a-4de8-b35b-d09d980e17b8",
+    "4c42428b-55df-44c0-9b8b-14315376638a",
+    "ff37cd5a-a897-4529-87ec-5f4e5bed4813",
+    "5057dae8-256a-4770-8e7e-89ba3676b521",
+    "47f3dc8a-db17-452e-980d-5d4e0db9d3c3",
+    "c79378b2-cef6-4005-989b-cc0ffdce7ee0",
+    "f2f8d71a-78a6-4a43-8367-65461fe0416b",
+    "e620c5f4-5371-48be-9864-1834458921c0",
+    "1666646823571e1d4e"
+  ]
+}

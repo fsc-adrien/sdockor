@@ -1,0 +1,14 @@
+.bold_option_value_swatch {
+width: 66px;
+height: 66px;
+}
+
+
+.bold_tooltip>*:not(a), .bold_option_swatch .bold_option_value .bold_option_swatch_title .bold_option_value_title {
+    pointer-events: none;
+    color: white;
+}
+.bold_option_swatch_title span {
+   
+    color: hotpink;
+}

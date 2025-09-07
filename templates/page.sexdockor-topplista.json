@@ -1,0 +1,394 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165217872584090210": {
+      "type": "content-page",
+      "disabled": true,
+      "settings": {
+        "content_page": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "81122c8a-2e1e-464d-8033-14fde816b494": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Topp_10._Copy_copy_2_Sexdocka_Docklandet.png",
+        "title": "",
+        "content": "<p>Här hittar du listor med de populäraste dockorna i vår butik. Full-size dockor i TPE är populärast, men även miniatyrer och dyrare silikondockor är omtyckta. De dockor som ligger i toppen har vi ofta i lager för snabb leverans!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "71380b00-9692-4806-8c6d-2da3f1d89215": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/wm-doll_sex_dolls_tpe_docklandet_sexdockor_real_doll_sweden-1_1_Sexdocka_Docklandet_f6af9794-76ea-41d3-9b43-4d480a6523a9.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "cb393797-fd37-474c-bd2d-6b8b4fc4ba89": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-wm-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "fee1d23f-adc6-40ab-8cb8-5dd79219779e": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Starpery_Sex_Doll_Docklandet_Real_Doll_Silcone_TPE_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f04171f9-0d64-4b3b-8516-1c2053867172": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-starpery-tpe-silikon",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5ac67588-47f6-4432-a990-f8796fabe411": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_TPE-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "77cd9131-d677-4ae3-9b7d-79b657a4fe0e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-irontech-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "434bb4de-c3b6-4524-972d-a2640739eea9": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_silikon-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f2d37fb6-5aa2-4967-bab1-121a615d79fc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-irontech-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ba970beb-9af5-4b2e-932e-063b3028f3bb": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Zelex_Docklandet_Real_Doll_Sexdockor_2_Stor_d808a1d0-3daa-4524-8f54-2322346aca97.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7cd36855-37e1-459e-87e6-9f005eabd162": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-zelex-silikon",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6bf0ee1e-23b5-4537-b237-48c4daa159d5": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/aibei_doll_docklandet_sexdocka-1_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b3514548-7f27-4eb0-a8ce-83935618d99b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-entity-real-doll",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "244af43d-f16f-43ee-8110-a4c0bf52bec7": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/DX_Value_sexdocka_real_Doll_sexdockor_docklandet-1_1_Sexdocka_Docklandet_0c50e48f-7d45-4962-8ab7-d5f770248996.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "10916739-4f5a-4be9-91e3-4ca0dcb7e3ad": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-dx-value",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3ebc9d63-e997-4eae-a7a4-6fedb2ad00d2": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Piper_Doll_topp10banner-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e39077ca-6607-40b6-b538-f4266134888d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-piper-doll-tpe-silikon",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "eb0250cb-ea1c-4cd8-9b50-c514ff4117c7": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irokebijin_Anime_Sexdockor_Docklandet_Real_Doll-1_Sexdocka_Docklandet_2ee76a27-525a-4021-990b-39efc41f962f.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f15343d9-1bd2-4ef8-a121-b466d4c0f4d5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-irokebijin-tpe-silikon",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "page-no-title-template",
+      "settings": {}
+    },
+    "b5fb4109-8f92-425f-86cb-8f2d45ed37cb": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "04aa1e71-7880-4ea3-8839-dea0dd5d63b9": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "blond-sexdocka"
+          }
+        },
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdocka-brunett-brown-hair"
+          }
+        },
+        "5a96df83-38e8-457d-9836-fef03366cc74": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "41533755-a1ea-4c76-9d93-0caeff9a915b": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "ba953ffc-e312-4ae5-bdc3-d8f8db0fe7eb": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        }
+      },
+      "block_order": [
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-1",
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-2",
+        "5a96df83-38e8-457d-9836-fef03366cc74",
+        "41533755-a1ea-4c76-9d93-0caeff9a915b",
+        "ba953ffc-e312-4ae5-bdc3-d8f8db0fe7eb",
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-0"
+      ],
+      "settings": {
+        "title": "Ute efter något mer specifikt?",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1675103951c502b4ff": {
+      "type": "apps",
+      "blocks": {
+        "6003dd58-a012-43f1-8405-7cb48fef6606": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "21"
+          }
+        }
+      },
+      "block_order": [
+        "6003dd58-a012-43f1-8405-7cb48fef6606"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "165217872584090210",
+    "81122c8a-2e1e-464d-8033-14fde816b494",
+    "71380b00-9692-4806-8c6d-2da3f1d89215",
+    "cb393797-fd37-474c-bd2d-6b8b4fc4ba89",
+    "fee1d23f-adc6-40ab-8cb8-5dd79219779e",
+    "f04171f9-0d64-4b3b-8516-1c2053867172",
+    "5ac67588-47f6-4432-a990-f8796fabe411",
+    "77cd9131-d677-4ae3-9b7d-79b657a4fe0e",
+    "434bb4de-c3b6-4524-972d-a2640739eea9",
+    "f2d37fb6-5aa2-4967-bab1-121a615d79fc",
+    "ba970beb-9af5-4b2e-932e-063b3028f3bb",
+    "7cd36855-37e1-459e-87e6-9f005eabd162",
+    "6bf0ee1e-23b5-4537-b237-48c4daa159d5",
+    "b3514548-7f27-4eb0-a8ce-83935618d99b",
+    "244af43d-f16f-43ee-8110-a4c0bf52bec7",
+    "10916739-4f5a-4be9-91e3-4ca0dcb7e3ad",
+    "3ebc9d63-e997-4eae-a7a4-6fedb2ad00d2",
+    "e39077ca-6607-40b6-b538-f4266134888d",
+    "eb0250cb-ea1c-4cd8-9b50-c514ff4117c7",
+    "f15343d9-1bd2-4ef8-a121-b466d4c0f4d5",
+    "main",
+    "b5fb4109-8f92-425f-86cb-8f2d45ed37cb",
+    "04aa1e71-7880-4ea3-8839-dea0dd5d63b9",
+    "1675103951c502b4ff"
+  ]
+}

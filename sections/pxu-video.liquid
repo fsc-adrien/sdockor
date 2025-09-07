@@ -1,0 +1,608 @@
+{%- comment -%}
+  🧰 Video section
+{%- endcomment -%}
+
+{%- liquid
+  assign video_type = ''
+  if section.settings.shopify_hosted_video != blank
+    assign video_type = 'shopify_hosted'
+  elsif section.settings.video_url != blank
+    if section.settings.video_url.type == 'youtube'
+      assign video_type = 'youtube'
+    else
+      assign video_type = 'vimeo'
+    endif
+  endif
+
+  if section.settings.desktop_video_aspect_ratio == '16:9'
+    assign desktop_aspect_ratio_class = '16-9'
+  elsif section.settings.desktop_video_aspect_ratio == '21:9'
+    assign desktop_aspect_ratio_class = '21-9'
+  elsif section.settings.desktop_video_aspect_ratio == '4:3'
+    assign desktop_aspect_ratio_class = '4-3'
+  endif
+
+  if section.settings.mobile_video_aspect_ratio == '16:9'
+    assign mobile_aspect_ratio_class = '16-9'
+  elsif section.settings.mobile_video_aspect_ratio == '4:3'
+    assign mobile_aspect_ratio_class = '4-3'
+  elsif section.settings.mobile_video_aspect_ratio == '1:1'
+    assign mobile_aspect_ratio_class = '1-1'
+  endif
+
+  assign video_id = section.settings.video_url.id
+
+  assign video_cover = "none"
+  if section.settings.cover_image != blank
+    assign video_cover = section.settings.cover_image
+  endif
+
+  assign video_cover_position = "50% 50%"
+  if section.settings.cover_image.presentation.focal_point
+    assign video_cover_position = section.settings.cover_image.presentation.focal_point
+  endif
+
+  assign video_overlay_opacity = section.settings.image_overlay_opacity | divided_by: 100.0
+
+  assign enable_video_autoplay = false
+  if section.settings.video_playback == 'autoplay'
+    assign enable_video_autoplay = true
+  endif
+
+  assign mute_video = false
+  if section.settings.mute_video or enable_video_autoplay
+    assign mute_video = true
+  endif
+-%}
+
+<section
+  id="{{ section.id }}"
+  class="
+    pxu-section
+    pxu-video
+  "
+  style="
+    --pxu-section-content-width: {{ section.settings.content_width }};
+    --pxu-section-text-color: {{ section.settings.text_color }};
+    --pxu-section-background-color: {{ section.settings.background_color }};
+    --pxu-section-padding-top: {{ section.settings.padding_top }}px;
+    --pxu-section-padding-bottom: {{ section.settings.padding_bottom }}px;
+    --pxu-section-margin-top: {{ section.settings.margin_top }}px;
+    --pxu-section-margin-bottom: {{ section.settings.margin_bottom }}px;
+    {% unless enable_video_autoplay or video_cover == "none" %}
+    --pxu-video-cover-bg: url({{ video_cover | image_url: width: '1200px' }}) no-repeat {{ video_cover_position }} / cover;
+    {% endunless %}
+    {% if section.settings.image_overlay.alpha > 0.0 %}
+    --pxu-video-overlay: {{ section.settings.image_overlay | color_modify: 'alpha', video_overlay_opacity }}
+    {% endif %}
+  "
+  data-pxu-video
+>
+  <script
+    type="application/json"
+    data-component-data
+  >
+    {
+      "id": "{{ section.id }}",
+      "handle": "pxu-video",
+      "className": "VideoSection",
+      "name": "Video",
+      "version": "1.0.2",
+      "scriptsUrl": "{{ 'scripts.js' | asset_url | replace: '/assets/', '/compiled_assets/' }}",
+      "videoType": "{{ video_type }}",
+      "videoId": "{{ video_id }}",
+      "enableVideoAutoplay": {{ enable_video_autoplay }}
+    }
+  </script>
+
+  <div
+    class="
+      pxu-section__container
+      pxu-video__container
+      pxu-video__container--aspect-ratio-desktop-{{ desktop_aspect_ratio_class }}
+      pxu-video__container--aspect-ratio-mobile-{{ mobile_aspect_ratio_class }}
+    "
+  >
+    {%- if section.blocks.size > 0 or section.settings.video_playback == 'play_button' -%}
+      <div class="pxu-video__overlay" data-pxu-video-overlay>
+        <div class="pxu-video__overlay-inner">
+          {%- for block in section.blocks -%}
+            <div
+              id="{{ block.id }}"
+              style="
+                --pxu-heading-size: {{ block.settings.heading_size }}px;
+                --pxu-heading-size-mobile: {{ block.settings.heading_size_mobile }}px;
+                --pxu-text-size: {{ block.settings.text_size }}px;
+                --pxu-text-size-mobile: {{ block.settings.text_size_mobile }}px;
+              "
+              {{ block.shopify_attributes }}
+            >
+              {%- case block.type -%}
+                {%- when 'heading' -%}
+                  {%- assign heading = block.settings.heading | strip -%}
+                  {%- if heading != blank -%}
+                    <h2 class="pxu-video__block-heading pxu-heading">
+                      {{- heading -}}
+                    </h2>
+                  {%- endif -%}
+
+                {%- when 'text' -%}
+                  {%- assign text = block.settings.text -%}
+                  {%- if text != blank -%}
+                    <div class="pxu-video__block-text pxu-rte">
+                      {{- text -}}
+                    </div>
+                  {%- endif -%}
+              {%- endcase -%}
+            </div>
+          {%- endfor -%}
+
+          {%- unless enable_video_autoplay -%}
+            <button
+              class="pxu-video__btn"
+              aria-label="Play video"
+              data-pxu-video-btn
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
+                <g clip-path="url(#clip0_387_5506)">
+                  <path d="M30 59.6104C13.6465 59.6104 0.389648 46.3535 0.389648 30C0.389648 13.6465 13.6465 0.389648 30 0.389648C46.3535 0.389648 59.6104 13.6465 59.6104 30C59.6104 46.3535 46.3535 59.6104 30 59.6104ZM30 57.2728C45.0624 57.2728 57.2728 45.0624 57.2728 30C57.2728 14.9377 45.0624 2.72731 30 2.72731C14.9377 2.72731 2.72731 14.9377 2.72731 30C2.72731 45.0624 14.9377 57.2728 30 57.2728ZM24.0156 41.2302C23.2309 41.6759 22.5974 41.4016 22.5974 40.613V19.3871C22.5974 18.6 23.2294 18.3226 24.0156 18.7699L42.2696 29.1912C43.0512 29.6369 43.0551 30.36 42.2696 30.8081L24.0148 41.2302H24.0156Z" fill="{{ section.settings.play_button_color }}"/>
+                </g>
+                <defs>
+                  <clipPath id="clip0_387_5506">
+                    <rect width="60" height="60" fill="{{ section.settings.play_button_color }}"/>
+                  </clipPath>
+                </defs>
+              </svg>
+            </button>
+          {%- endunless -%}
+        </div>
+      </div>
+    {%- endif -%}
+
+    {%- case video_type -%}
+      {%- when 'youtube' -%}
+        {%- liquid
+          assign attribute_string = 'enablejsapi=1|'
+
+          if enable_video_autoplay
+            assign attribute_string = attribute_string | append: 'autoplay=1|controls=0|'
+          endif
+          
+          if mute_video
+            assign attribute_string = attribute_string | append: 'mute=1|'
+          endif
+
+          if section.settings.play_video_on_loop
+            assign attribute_string = attribute_string | append: 'loop=1|'
+            assign attribute_string = attribute_string | append: 'playlist=' | append: video_id | append: '|'
+          endif
+
+          assign attribute_string = attribute_string | split: '|'  | join: '&'
+        -%}
+
+        <div
+          class="pxu-video__video-placeholder"
+          data-youtube-placeholder
+          data-attribute-string="{{ attribute_string }}"
+        >
+        </div>
+
+      {%- when 'vimeo' -%}
+        {%- liquid
+          assign attribute_string = ''
+
+          if enable_video_autoplay
+            assign attribute_string = attribute_string | append: 'autoplay=1|background=1|'
+          endif
+          
+          if mute_video
+            assign attribute_string = attribute_string | append: 'muted=1|'
+          endif
+
+          if section.settings.play_video_on_loop
+            assign attribute_string = attribute_string | append: 'loop=1|'
+          endif
+
+          assign attribute_string = attribute_string | split: '|'  | join: '&'
+        -%}
+
+        <div
+          class="pxu-video__video-placeholder"
+          data-vimeo-placeholder
+          data-attribute-string="{{ attribute_string }}"
+        >
+        </div>
+
+      {%- when 'shopify_hosted' -%}
+        {{ section.settings.shopify_hosted_video | video_tag: muted: mute_video, loop: section.settings.play_video_on_loop, class: 'pxu-video__video', image_size: '1200x' }}
+
+      {%- else -%}
+        {{- 'image' | placeholder_svg_tag: 'pxu-placeholder' -}}
+    {%- endcase -%}
+  </div>
+</section>
+
+<style type="text/css">
+.pxu-section{--pxu-current-bp:"xxs"}@media only screen and (min-width:480px){.pxu-section{--pxu-current-bp:"xs"}}@media only screen and (min-width:720px){.pxu-section{--pxu-current-bp:"small"}}@media only screen and (min-width:860px){.pxu-section{--pxu-current-bp:"medium"}}@media only screen and (min-width:1024px){.pxu-section{--pxu-current-bp:"large"}}.pxu-video{background-color:var(--pxu-section-background-color);color:var(--pxu-section-text-color);margin-bottom:calc(var(--pxu-section-margin-bottom, 0)*.75);margin-top:calc(var(--pxu-section-margin-top, 0)*.75);padding-bottom:calc(var(--pxu-section-padding-bottom, 0)*.75);padding-top:calc(var(--pxu-section-padding-top, 0)*.75)}@media only screen and (min-width:480px){.pxu-video{margin-bottom:var(--pxu-section-margin-bottom,0);margin-top:var(--pxu-section-margin-top,0);padding-bottom:var(--pxu-section-padding-bottom,0);padding-top:var(--pxu-section-padding-top,0)}}.pxu-video__container{background-color:#000;position:relative}.pxu-video__overlay{align-items:center;background:var(--pxu-video-cover-bg);display:flex;height:100%;justify-content:center;padding:var(--pxu-space-4);position:absolute;transition:opacity .3s ease;width:100%;z-index:2}@media only screen and (min-width:480px){.pxu-video__overlay{padding:var(--pxu-space-6)}}.pxu-video__overlay:after{background:var(--pxu-video-overlay);content:"";display:block;height:100%;left:0;position:absolute;top:0;width:100%;z-index:2}.pxu-video__overlay-inner{display:flex;flex-direction:column;gap:var(--pxu-space-2);max-width:var(--pxu-section-content-width);position:relative;text-align:center;z-index:3}@media only screen and (min-width:480px){.pxu-video__overlay-inner{gap:var(--pxu-space-3)}}.pxu-video__block-heading,.pxu-video__block-text{width:100%}.pxu-video__block-heading.pxu-heading{font-size:var(--pxu-heading-size-mobile);margin:0}@media only screen and (min-width:860px){.pxu-video__block-heading.pxu-heading{font-size:var(--pxu-heading-size)}}.pxu-video__block-text{font-size:var(--pxu-text-size-mobile);margin-bottom:var(--pxu-space-1)}@media only screen and (min-width:480px){.pxu-video__block-text{margin-bottom:var(--pxu-space-3)}}@media only screen and (min-width:860px){.pxu-video__block-text{font-size:var(--pxu-text-size)}}.pxu-video__block-text>:first-child{margin-top:0}.pxu-video__block-text>:last-child{margin-bottom:0}.pxu-video__btn{-webkit-appearance:none;-moz-appearance:none;appearance:none;background:none;border:0;cursor:pointer;line-height:0;margin:0 auto;outline:0;transition:transform .15s ease}.pxu-video__btn:hover{transform:scale(1.05)}.pxu-section .pxu-video__video-placeholder>div{display:contents}.pxu-section .pxu-video__video{background-color:#000;border:0;height:100%;left:0;-o-object-fit:cover;object-fit:cover;position:absolute;top:0;width:100%;z-index:1}@media only screen and (max-width:719px){.pxu-video__container--aspect-ratio-mobile-16-9{aspect-ratio:auto 16/9}.pxu-video__container--aspect-ratio-mobile-4-3{aspect-ratio:auto 4/3}.pxu-video__container--aspect-ratio-mobile-1-1{aspect-ratio:auto 1/1}}@media only screen and (min-width:720px){.pxu-video__container--aspect-ratio-desktop-16-9{aspect-ratio:auto 16/9}.pxu-video__container--aspect-ratio-desktop-21-9{aspect-ratio:auto 21/9}.pxu-video__container--aspect-ratio-desktop-4-3{aspect-ratio:auto 4/3}}</style>
+{% javascript %}
+const { Section } = window.PxuThemeSections;
+
+class VideoSection extends Section {
+  constructor($root) {
+    super($root);
+    this.$root = $root;
+    this.$overlay = this.query('[data-pxu-video-overlay]');
+    this.$btn = this.query('[data-pxu-video-btn]');
+    this.$shopifyVideo = this.query('.pxu-video__video');
+    this.id = $root.id;
+    this.data = this.loadData();
+    this.observer = null;
+
+    this.onMount();
+  }
+
+  onMount() {
+    this.initEventListeners();
+    this.initIntersectionObserver();
+  }
+
+  onUnmount() {
+    this.events.unregisterAll();
+    this.observer.unobserve(this.$root);
+  }
+
+  initEventListeners() {
+    if (this.$btn) {
+      this.events.register(this.$btn, 'click', (e) => this.handleClick(e));
+    }
+  }
+
+  initIntersectionObserver() {
+    this.observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          this.initVideo();
+          observer.unobserve(this.$root);
+        }
+      });
+    }, { threshold: 0 });
+    this.observer.observe(this.$root);
+  }
+
+  handleClick(e) {
+    e.preventDefault();
+    this.$overlay.style.opacity = 0;
+    this.$overlay.style.pointerEvents = 'none';
+
+    if (this.data.videoType === 'youtube') {
+      const $video = this.query('[data-pxu-video-youtube');
+      $video.src += '&autoplay=1';
+    } else if (this.data.videoType === 'vimeo') {
+      const $video = this.query('[data-pxu-video-vimeo]');
+      $video.src += '&autoplay=1';
+    } else if (this.data.videoType === 'shopify_hosted') {
+      this.$shopifyVideo.play();
+      this.$shopifyVideo.setAttribute('controls', '');
+    }
+  }
+
+  initVideo() {
+    switch (this.data.videoType) {
+      case 'youtube':
+        this.initYouTube();
+        break;
+      case 'vimeo':
+        this.initVimeo();
+        break;
+      case 'shopify_hosted':
+        if (this.data.enableVideoAutoplay) {
+          this.$shopifyVideo.play();
+        }
+        break;
+      default:
+        console.error('Unsupported video type:', this.data.videoType);
+    }
+  }
+
+  initYouTube() {
+    if (this.data.videoType !== 'youtube') return;
+    const $ytPlaceholder = this.query('[data-youtube-placeholder]');
+    const ytAttributeString = $ytPlaceholder.dataset.attributeString;
+    const ytTitle = $ytPlaceholder.dataset.title;
+    $ytPlaceholder.innerHTML = `
+      <iframe
+        class="pxu-video__video"
+        src="https://www.youtube.com/embed/${this.data.videoId}?${ytAttributeString}"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+        title="${ytTitle}"
+        data-pxu-video-youtube
+      ></iframe>
+    `;
+  }
+
+  initVimeo() {
+    if (this.data.videoType !== 'vimeo') return;
+    const $vimeoPlaceholder = this.query('[data-vimeo-placeholder]');
+    const vimeoAttributeString = $vimeoPlaceholder.dataset.attributeString;
+    $vimeoPlaceholder.innerHTML = `
+      <iframe
+        class="pxu-video__video"
+        src="https://player.vimeo.com/video/${this.data.videoId}?${vimeoAttributeString}"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+        data-pxu-video-vimeo
+      ></iframe>
+    `;
+  }
+}
+
+document.querySelectorAll('[data-pxu-video]').forEach(($section) => {
+  Section.init($section, VideoSection);
+});
+
+// export class for theme editor instance management
+if (Shopify.designMode) {
+  window.PxuThemeSections.VideoSection = VideoSection;
+}
+{% endjavascript %}
+{% schema %}
+{
+  "name": "t:pxu_sections.sections.video.name",
+  "class": "pxu-video-section",
+  "max_blocks": 2,
+  "settings": [
+    {
+      "type": "select",
+      "id": "content_width",
+      "label": "t:pxu_sections.common.content_width.label",
+      "options": [
+        {
+          "value": "650px",
+          "label": "t:pxu_sections.common.content_width.regular"
+        },
+        {
+          "value": "800px",
+          "label": "t:pxu_sections.common.content_width.wide"
+        },
+        {
+          "value": "100%",
+          "label": "t:pxu_sections.common.content_width.full_width"
+        }
+      ],
+      "default": "650px"
+    },
+    {
+      "type": "video",
+      "id": "shopify_hosted_video",
+      "label": "t:pxu_sections.sections.video.shopify_hosted_video.label",
+      "info": "t:pxu_sections.sections.video.shopify_hosted_video.info"
+    },
+    {
+      "type": "video_url",
+      "id": "video_url",
+      "label": "URL",
+      "info": "t:pxu_sections.sections.video.video_url.info",
+      "accept": [
+        "youtube",
+        "vimeo"
+      ],
+      "default": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+    },
+    {
+      "type": "select",
+      "id": "desktop_video_aspect_ratio",
+      "label": "t:pxu_sections.sections.video.desktop_video_aspect_ratio.label",
+      "default": "16:9",
+      "options": [
+        {
+          "value": "16:9",
+          "label": "16:9"
+        },
+        {
+          "value": "21:9",
+          "label": "21:9"
+        },
+        {
+          "value": "4:3",
+          "label": "4:3"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "mobile_video_aspect_ratio",
+      "label": "t:pxu_sections.sections.video.mobile_video_aspect_ratio.label",
+      "default": "16:9",
+      "options": [
+        {
+          "value": "16:9",
+          "label": "16:9"
+        },
+        {
+          "value": "4:3",
+          "label": "4:3"
+        },
+        {
+          "value": "1:1",
+          "label": "1:1"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "video_playback",
+      "label": "t:pxu_sections.sections.video.video_playback.label",
+      "default": "play_button",
+      "info": "t:pxu_sections.sections.video.video_playback.info",
+      "options": [
+        {
+          "value": "play_button",
+          "label": "t:pxu_sections.sections.video.video_playback.options.play_button"
+        },
+        {
+          "value": "autoplay",
+          "label": "t:pxu_sections.sections.video.video_playback.options.autoplay"
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "play_video_on_loop",
+      "label": "t:pxu_sections.sections.video.play_video_on_loop.label",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "mute_video",
+      "label": "t:pxu_sections.sections.video.mute_video.label"
+    },
+    {
+      "type": "image_picker",
+      "id": "cover_image",
+      "label": "t:pxu_sections.sections.video.cover_image.label",
+      "info": "t:pxu_sections.sections.video.cover_image.info"
+    },
+    {
+      "type": "header",
+      "content": "t:pxu_sections.common.color.color"
+    },
+    {
+      "type": "color",
+      "id": "play_button_color",
+      "label": "t:pxu_sections.sections.video.play_button_color.label",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "t:pxu_sections.common.color.text_color",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "image_overlay",
+      "label": "t:pxu_sections.sections.video.image_overlay.label",
+      "default": "#000000"
+    },
+    {
+      "type": "range",
+      "id": "image_overlay_opacity",
+      "label": "t:pxu_sections.sections.video.image_overlay_opacity.label",
+      "default": 20,
+      "min": 0,
+      "max": 100,
+      "unit": "%"
+    },
+    {
+      "type": "header",
+      "content": "t:pxu_sections.common.margin.header"
+    },
+    {
+      "type": "range",
+      "id": "margin_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "t:pxu_sections.common.margin.top",
+      "default": 64
+    },
+    {
+      "type": "range",
+      "id": "margin_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "t:pxu_sections.common.margin.bottom",
+      "default": 64
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "name": "t:pxu_sections.common.heading.name",
+      "settings": [
+        {
+          "type": "inline_richtext",
+          "id": "heading",
+          "label": "t:pxu_sections.common.heading.name",
+          "default": "t:pxu_sections.sections.video.block_heading.default"
+        },
+        {
+          "type": "range",
+          "id": "heading_size",
+          "min": 16,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "t:pxu_sections.common.heading.heading_size",
+          "default": 40
+        },
+        {
+          "type": "range",
+          "id": "heading_size_mobile",
+          "min": 16,
+          "max": 64,
+          "step": 1,
+          "unit": "px",
+          "label": "t:pxu_sections.common.heading.heading_size_mobile",
+          "default": 24
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "name": "t:pxu_sections.common.text.name",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "t:pxu_sections.common.text.name",
+          "default": "t:pxu_sections.sections.video.block_text.default"
+        },
+        {
+          "type": "range",
+          "id": "text_size",
+          "min": 12,
+          "max": 32,
+          "step": 1,
+          "unit": "px",
+          "label": "t:pxu_sections.common.text.text_size",
+          "default": 16
+        },
+        {
+          "type": "range",
+          "id": "text_size_mobile",
+          "min": 12,
+          "max": 24,
+          "step": 1,
+          "unit": "px",
+          "label": "t:pxu_sections.common.text.text_size_mobile",
+          "default": 16
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": [
+      "header",
+      "footer"
+    ]
+  },
+  "presets": [
+    {
+      "name": "t:pxu_sections.sections.video.name",
+      "blocks": [
+        {
+          "type": "heading"
+        },
+        {
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

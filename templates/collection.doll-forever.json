@@ -1,0 +1,293 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1652887834adb4ea94": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/doll_forever_banner_docklandet-1.jpg",
+        "title": "",
+        "content": "<h1>Doll Forever</h1><p><strong>Unika sexdockor av högsta kvalitet från kända Doll Forever. Doll Forever tillverkas i samma fabrik som Piper Doll och Irokebijin</strong></p><p>Vi är officiell distributör i Norden och kan erbjuda våra kunder alla sexdockor ur Doll Forever's sortiment. Doll Forever har många fina silikon och TPE-dockor i både surrealistisk och realistisk stil. </p><p></p>",
+        "button_label": "Läs mer om Doll Forever",
+        "button_link": "https://docklandet.se/collections/doll-forever#Doll-Forever_Info",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16603973257d998081": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_TPE_Sexdockor_Docklandet_Real_Doll_copy-1.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3b8b0a78-e954-4a55-ae05-495a80f6292d": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Image_20230706104007_Sexdocka_Docklandet_RealDoll_Sexdockor_5ba2bdba-7362-4c76-8079-dca1270c99d4.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "76bf0b59-c187-415b-91fc-14e3b6e5c41d": {
+          "type": "recently_viewed",
+          "settings": {
+            "sidebar_rv_title": "Gillar du?",
+            "sidebar_rv_per": 2
+          }
+        }
+      },
+      "block_order": [
+        "76bf0b59-c187-415b-91fc-14e3b6e5c41d"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "1238857c-a6da-437c-9f95-5af4ca8044a4": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h3><strong>- SEXDOCKOR FRÅN DOLL FOREVER -</strong></h3><p>Doll Forever är en etablerad tillverkare av sexdockor och arbetar tätt ihop med sina systerbolag Irokebijin, Piper Doll och Dollhouse 168. </p><p>Doll Forever är kända för att kunna ha en lätt surrealistisk touch på sina dockor utan att tumma på verklighetsupplevelsen. Doll Forever's dockor är ofta söta, har lite större ögon och påminner i vissa fall lite lätt om tecknade figurer.  <br/></p><p><strong>Sexdockor från Doll Forever har även:</strong></p><p>Piper Doll Platinum TPE/Silikon. För extra verklig känsla och hållbarhet. </p><p>Piper Doll Platinum skelett: hög kvalitet, lite mindre vikt och stor rörlighet (EVO)</p><p>Gel-bröst-implantat för mjukare bröst och mer realistisk känsla.</p><p>Stående fot. För TPE så ser det ut som vanligt med bultar under foten, för silikon så är dockans fotsula istället lite hårdare vilket gör att dockan kan balanseras och stå upp. </p><p>Vissa av Doll Forevers nyare huvuden har rörlig käke. </p><p><strong>OBS!</strong> De flesta dockor från Doll Forever skickas direkt från Doll Forevers huvudlager och leveranstid är ungefär 3-5 veckor efter produktion. Priset är inklusive frakt, skatt och tullavgifter. Vi på Docklandet ansvarar för leverans, support och garanterar såklart att du får den produkt du beställt. Vi kommer att ha några utvalda dockor från Doll Forever i lager i Borlänge. Det går bra att göra ändringar och tillval, vid beställning från fabrik är allt möjligt och vi kan justera priset i efterhand om nödvändigt. Kontakta oss på <strong>info@docklandet.se</strong></p><p>Om det är någon docka från Doll Forever du saknar hos oss så går det bra att beställa den över mail. Vi kan leverera samtliga dockor ur Doll Forever's sortiment till förmånliga priser! </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9940fbef-3882-4b7d-b2a3-da250ef08383": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Piperdoll_Sexdockor_Docklandet_Sexdocka.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d9186c74-f093-497d-b480-e04704af0c72": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdockor_Docklandet_Piper_Doll_Peruker_Wigs.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3241ef71-25a6-45df-8784-1844706d806d": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": true,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": false,
+        "iframe_video": "https://player.vimeo.com/video/641181669?h=0da32da6fd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "Play Video",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c5fd895e-e35e-412f-97f2-601b94d4ee3c": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16721485988098__c5fd895e-e35e-412f-97f2-601b94d4ee3c-collection-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "template--16721485988098__c5fd895e-e35e-412f-97f2-601b94d4ee3c-collection-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "template--16721485988098__c5fd895e-e35e-412f-97f2-601b94d4ee3c-collection-3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "49c070da-378f-4a61-9b18-2f1cca5fb1eb": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721485988098__c5fd895e-e35e-412f-97f2-601b94d4ee3c-collection-1",
+        "template--16721485988098__c5fd895e-e35e-412f-97f2-601b94d4ee3c-collection-2",
+        "template--16721485988098__c5fd895e-e35e-412f-97f2-601b94d4ee3c-collection-3",
+        "49c070da-378f-4a61-9b18-2f1cca5fb1eb"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "83821f51-e065-4be5-b8c8-8fc31d03b7de": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f2f52cbd-9c90-4690-aa82-596d007568a0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    },
+    "abb0101c-5c12-4495-8245-385bb678eeb6": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1652887834adb4ea94",
+    "16603973257d998081",
+    "3b8b0a78-e954-4a55-ae05-495a80f6292d",
+    "main",
+    "1238857c-a6da-437c-9f95-5af4ca8044a4",
+    "9940fbef-3882-4b7d-b2a3-da250ef08383",
+    "d9186c74-f093-497d-b480-e04704af0c72",
+    "3241ef71-25a6-45df-8784-1844706d806d",
+    "c5fd895e-e35e-412f-97f2-601b94d4ee3c",
+    "16508260667ee95abe",
+    "83821f51-e065-4be5-b8c8-8fc31d03b7de",
+    "f2f52cbd-9c90-4690-aa82-596d007568a0",
+    "1652224218445a4dc3",
+    "abb0101c-5c12-4495-8245-385bb678eeb6"
+  ]
+}

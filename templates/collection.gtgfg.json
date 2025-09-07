@@ -1,0 +1,80 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": true,
+        "wide_display": true,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": true,
+        "products_per_row": 3,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": true,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Subscribe",
+        "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …</p>",
+        "newsletter_section_text_align": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16503832153f06a857": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection_description": true,
+        "collection": "",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650383646424bf4cc": {
+      "type": "search",
+      "settings": {}
+    },
+    "165038368572cd2a1b": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "",
+        "blog_widget_select": "sexdockor",
+        "home_page_articles": 3,
+        "blog_tags": false,
+        "blog_author": false,
+        "read_time": false,
+        "blog_date": false,
+        "blog_comment_count": false,
+        "read_more_link": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "newsletter",
+    "16503832153f06a857",
+    "1650383646424bf4cc",
+    "165038368572cd2a1b"
+  ]
+}

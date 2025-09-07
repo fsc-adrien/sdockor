@@ -1,0 +1,391 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_TQCYD6": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h1>Furry Sexdockor</h1><p>Furry-sexdockor är specialtillverkade sexleksaker som kombinerar egenskaper från traditionella sexdockor med ett “furry”-tema, det vill säga karaktärer som har både mänskliga och djurliknande drag (päls, svansar, djuröron osv.).<br/><br/>En furry-sexdocka kan variera mycket i design – från mindre, enklare modeller till mer avancerade och realistiska dockor i verklig storlek. Dessa produkter riktar sig främst till personer inom furry-fandom eller de som har en särskild förkärlek för antropomorfa karaktärer. Det finns även en del Furry-dockor inspirerade av verkliga karaktärer och dessa är populära hos samlare med egen utställning hemma. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "image": "shopify://shop_images/wmdolls3.jpg",
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 44,
+        "toggle": false
+      }
+    },
+    "174272405186d35808": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_shorts_widget_block_Vrtriy": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-shorts-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "21",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_shorts_widget_block_Vrtriy"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "pxu_video_Y3dN7p": {
+      "type": "pxu-video",
+      "blocks": {
+        "heading_7gXWCG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Fire Doll - Introduction",
+            "heading_size": 40,
+            "heading_size_mobile": 24
+          }
+        },
+        "text_CMajwW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A guided tour of the Top Fire Doll factory! Get an insight into the production of a doll</p>",
+            "text_size": 16,
+            "text_size_mobile": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_7gXWCG",
+        "text_CMajwW"
+      ],
+      "disabled": true,
+      "name": "t:pxu_sections.sections.video.name",
+      "settings": {
+        "content_width": "650px",
+        "shopify_hosted_video": "shopify://files/videos/Introducing Top Fire Doll.mp4",
+        "video_url": "",
+        "desktop_video_aspect_ratio": "16:9",
+        "mobile_video_aspect_ratio": "16:9",
+        "video_playback": "play_button",
+        "play_video_on_loop": true,
+        "mute_video": false,
+        "play_button_color": "#ffffff",
+        "text_color": "#ffffff",
+        "image_overlay": "#000000",
+        "image_overlay_opacity": 20,
+        "margin_top": 64,
+        "margin_bottom": 64
+      }
+    },
+    "featured_promotions_VKjwrW": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_TRgBty": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyhet_sexdockor_climax_doll_tpe_silicone_real_doll_nyhet_news_sexdockor_75_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/lola-bunny-sexdocka-climax-doll-ultra-150cm-c-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_inkG9J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyhet_sexdockor_dolls_castle_docklandet_silicone_doll_tpe_doll_fantasy_doll_64_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/judy-the-rabbit-rabbitie-sexdocka-dolls-castle-120cm-c-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_bLKiz4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/elsa_babe_nyhet_sexdockor_docklandet_3_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/morikawa-yuki-sexdocka-elsa-babe-150cm-zhb001-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_EEVhx8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyhet_sexdockor_dolls_castle_docklandet_silicone_doll_tpe_doll_fantasy_doll_8_Sexdocka_Docklandet_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/cowady-sexdocka-dolls-castle-158cm-d-kupa-sz3-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_TRgBty",
+        "image_inkG9J",
+        "image_bLKiz4",
+        "image_EEVhx8"
+      ],
+      "name": "Featured promotions",
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 4,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c0deb75d-c382-4806-9e2d-f20921f067d9": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Furry Sexdockor - Realistiska Furry-dockor</h2><p>Har du någonsin hört talas om Furry-sexdockor? Dessa dockor representerar en spännande kombination av fantasi, design och intimitet. Furry-kulturen har länge varit känd för sin kreativitet och lekfullhet, och nu har den tagit steget in i en helt ny värld: sexdockor. En Furry-sexdocka är en specialdesignad sexdocka som kombinerar mänskliga drag med djurliknande egenskaper – till exempel päls, svans, tassar eller unika ansiktsdrag. De kan vara allt från lätt stiliserade till fullständigt fantasifulla varelser.<br/><br/>Det finns flera skäl till varför människor dras till dessa dockor. För vissa handlar det om att utforska en fantasivärld, medan det för andra är en trygg och kreativ form av självuttryck. Vissa ser även dockorna som ett sätt att uppleva intimitet utan sociala begränsningar. Furry-kulturen började som en subkultur i konst och berättande. Genom åren har den vuxit till en global gemenskap med konvent, forum och en enorm kreativ produktion. Furry-fandom har öppnat dörrar för unika former av självuttryck, där Furry-sexdockor är en naturlig förlängning av denna frihet.<br/><br/>Till skillnad från standarddocken erbjuder Furry-versionerna en djupare grad av anpassning och kreativitet. De är mer än bara en sexuell produkt – de representerar en karaktär, ofta med en egen ”personlighet”. Furry-dockor som känslomässigt stöd, många användare upplever dockorna som mer än bara sexpartners – de kan fungera som emotionellt stöd eller som sällskap. Furry-sexdockor väcker frågor om gränsen mellan fantasi och verklighet. <br/><br/>Furry-sexdockor är mer än bara en trend – de representerar en kreativ och personlig form av intimitet. Oavsett om det handlar om fantasi, självuttryck eller sällskap, är dessa dockor här för att stanna.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_yk37TR": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_R6TBVy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/instagram_dolls_docklandet-10_15_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/frenni-sexdocka-dolls-castle-160cm-q-kupa-sz5-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_kGpCdP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/instagram_dolls_docklandet-15_2_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/lori-bunny-sexdocka-climax-doll-mini-70cm-c-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_jPrW77": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/instagram_dolls_docklandet-9_19_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/carny-sexdocka-dolls-castle-168cm-a-kupa-s10-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_kpNqqX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/instagram_dolls_docklandet-10_31_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/judy-the-rabbit-sexdocka-dolls-castle-168cm-a-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_HLAacy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyhet_sexdockor_irontech_doll_sexdocka_docklandet_borlange_4_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/suki-cat-sex-doll-irontech-doll-165cm-f-kupa-s20-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_P6kVVi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_nyhet_news_instagram_docklandet_sexdocka_23_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/campanula-sexdocka-bezlya-doll-155cm-e-kupa-2-2cf-silikon-1",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_znLRbh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyhet_sexdockor_irontech_doll_sexdocka_docklandet_borlange_102_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/yeona-leopard-sex-doll-irontech-doll-165cm-f-kupa-s37-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_KeTGmT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyhet_sexdockor_wm-doll_sexdocka_docklandet_kopia_7_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/josefin-sexdocka-wm-doll-166cm-c-kupa-ss182-tpe-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_R6TBVy",
+        "image_kGpCdP",
+        "image_jPrW77",
+        "image_kpNqqX",
+        "image_HLAacy",
+        "image_P6kVVi",
+        "image_znLRbh",
+        "image_KeTGmT"
+      ],
+      "name": "Featured promotions",
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 4,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_iaYBTh": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_UDrhML": {
+      "type": "featured-text",
+      "name": "Rich text and image",
+      "settings": {
+        "title": "",
+        "content": "<h3>Furry Sexdockor – Den Ultimata Guiden för Samlare och Entusiaster</h3><p>I takt med att <strong>sexuella hjälpmedel</strong> och <strong>dockor</strong> utvecklas teknologiskt har en ny nisch vuxit fram – <strong>furry sexdockor</strong>. Dessa dockor kombinerar <strong>det bästa av anpassningsbar design, fantasifulla inslag och realistiska material</strong> för att tillgodose ett brett spektrum av preferenser hos användare och samlare. I denna omfattande guide går vi igenom allt du behöver veta om <strong>furry sexdockor</strong>: från deras historia och materialval till köpguider och underhållstips.</p><h4>Vad Är Furry Sexdockor?</h4><p>En <strong>furry sexdocka</strong> är en <strong>specialiserad typ av realistisk docka</strong> som kombinerar <strong>antropomorfa drag</strong> (djurliknande egenskaper som svansar, öron och päls) med en <strong>sexdockas funktionalitet</strong>. Dessa dockor är populära inom <strong>furry-kulturen</strong>, men har även vunnit mark hos personer som vill ha en unik och personlig upplevelse bortom traditionella dockor.</p><h4>Kombinationen av Fantasi och Teknologi</h4><p>Det som särskiljer dessa dockor är att de är <strong>skräddarsydda för att matcha specifika fantasier</strong>, ofta med avancerade detaljer som <strong>realistisk pälsstruktur</strong>, <strong>utbytbara ansiktsdelar</strong> och <strong>inbyggda uppvärmningsfunktioner</strong> för att ge en mer autentisk känsla.</p><h4>Varför Välja en Furry Sexdocka?</h4><p>Att investera i en <strong>furry sexdocka</strong> handlar inte bara om sexuell njutning – det är en <strong>livsstilsinvestering</strong>.</p><h5>1. Anpassning efter Dina Preferenser</h5><p>De flesta tillverkare erbjuder <strong>anpassningsbara alternativ</strong> där du kan välja <strong>storlek, hudfärg, typ av päls, svansdesign och till och med ögonfärg</strong>. Detta gör det möjligt att skapa en docka som speglar <strong>din personliga fantasi</strong>.</p><h5>2. Hög Kvalitet och Lång Livslängd</h5><p>Moderna furry sexdockor är tillverkade av <strong>premium TPE (termoplastisk elastomer)</strong> eller <strong>silikon</strong> – material som är kända för sin <strong>hudlika känsla och hållbarhet</strong>.</p><h5>3. Diskretion och Samlarvärde</h5><p>Förutom användning som ett intimt hjälpmedel har många <strong>dockor ett högt samlarvärde</strong> och kan visas upp i privata samlingar. De levereras ofta i <strong>diskreta förpackningar</strong> och med säker frakt.</p><h4>Material och Konstruktion – Vad Gör Skillnaden?</h4><p>Att förstå <strong>materialvalet</strong> är avgörande vid köp av en furry sexdocka.</p><h5>Silikon vs TPE</h5><ul><li>Mer hållbart, lättare att rengöra, tål högre temperaturer. Perfekt för långvarig användning.<br/></li><li>Mjukare och mer hudlik känsla, men kräver mer omsorg och underhåll.<br/></li></ul><h5>Rörlighet och Stomme</h5><p>De bästa dockorna har en <strong>metallstomme</strong> som ger <strong>flexibilitet</strong> och möjliggör olika positioner, vilket ökar realism och funktionalitet.</p><h4>Anpassningsmöjligheter – Skapa Din Perfekta Docka</h4><p>Ett av de största försäljningsargumenten för furry sexdockor är <strong>möjligheten att skapa en helt unik design</strong>.</p><ul><li>Välj mellan kort, lång eller specialdesignad docka.<br/></li><li>Anpassa storlek och form för att spegla ditt favoritdjur.<br/></li><li>Vissa tillverkare erbjuder <strong>bytbara ansikten</strong> för att ändra uttryck.<br/></li><li>Uppvärmning, röstfunktioner och till och med AI-stöd finns som tillval.<br/></li></ul><h4>Pris och Värde – Vad Kostar en Furry Sexdocka?</h4><p>Priserna varierar beroende på <strong>storlek, material och anpassningsgrad</strong>.</p><ul><li>Från cirka <strong>15 000–25 000 SEK</strong>.<br/></li><li>Kan kosta upp mot <strong>30</strong> <strong>000–90 000 SEK</strong>.<br/></li></ul><p>Det är viktigt att se detta som en <strong>långsiktig investering</strong> i både kvalitet och personlig tillfredsställelse.<br/></p><h4>Slutsats – Är Furry Sexdockor Något för Dig?</h4><p><strong>Furry sexdockor</strong> erbjuder en <strong>unik kombination av fantasi, design och teknologi</strong>. Oavsett om du är en del av <strong>furry-communityn</strong>, en samlare eller helt enkelt nyfiken på något nytt, finns det <strong>en docka som kan passa just dina behov</strong>.</p><p>Genom att välja rätt <strong>material, anpassning och leverantör</strong> kan du få en produkt som inte bara tillfredsställer dina fantasier utan även håller i många år.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "49e7361a-0f81-4549-a15c-d43af4db8a64": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": true,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8e2e0bf2-0432-4442-a35f-16691caed329": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_hnjHQX": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "blocks": {
+        "6759620a-f807-4871-bd02-6faaf0296055": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "6759620a-f807-4871-bd02-6faaf0296055"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "e6067d59-cbe7-451d-aae1-278c5d6d2c36": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_TQCYD6",
+    "main",
+    "174272405186d35808",
+    "pxu_video_Y3dN7p",
+    "featured_promotions_VKjwrW",
+    "c0deb75d-c382-4806-9e2d-f20921f067d9",
+    "featured_promotions_yk37TR",
+    "divider_iaYBTh",
+    "featured_text_UDrhML",
+    "49e7361a-0f81-4549-a15c-d43af4db8a64",
+    "8e2e0bf2-0432-4442-a35f-16691caed329",
+    "featured_collection_hnjHQX",
+    "16508256797a71ad8f",
+    "e6067d59-cbe7-451d-aae1-278c5d6d2c36"
+  ]
+}

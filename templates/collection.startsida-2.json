@@ -1,0 +1,816 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_Pxz9eg": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_real_doll_sexdockor_sex_doll_docklandet_start_banner_2024_1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/sexdocka_start_real_doll_sexdockor_2024_04_mobile_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_E7HFUW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "black-week-2024",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 18,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "slideshow_U6PxyQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_3Jet7h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_real_doll_sexdockor_sex_doll_docklandet_start_banner_2024_Sexdocka_Docklandet_3513639a-9894-4362-af97-27fd0208336e.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_PxTAVF": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/black_week_sexdocka_real_doll_sexdockor_sverige_docklandet_start2023_kopia_2_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "shopify://collections/sexdockor-rea",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_4qz4K3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/black_week_sexdocka_real_doll_sexdockor_sverige_docklandet_start2023_kopia_6_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "shopify://collections/sexdockor-rea",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_PciCrb": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/black_week_sexdocka_real_doll_sexdockor_sverige_docklandet_start2023_kopia_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "shopify://collections/sexdockor-rea",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_9qQLaR": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/black_week_sexdocka_real_doll_sexdockor_sverige_docklandet_start2023_kopia_5_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "shopify://collections/sexdockor-rea",
+            "button1_style": "global-button--primary",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "image_3Jet7h",
+        "image_PxTAVF",
+        "image_4qz4K3",
+        "image_PciCrb",
+        "image_9qQLaR"
+      ],
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 4,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_gwKNfc": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 15,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_UNM9ht": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "black-week-2024-express",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_X4n3xi": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_16_Sexdocka_Docklandet_74e73113-a02e-40cd-ae1e-27db826ae255.jpg",
+        "mobile_image": "shopify://shop_images/360x640_copy_black_centered_48fa2e7b-ae22-453f-afe1-1706681644bd.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "shopify://pages/klarna-sexdockor",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "text_columns_with_images_XbFmwT": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "text_block_LVbdhR": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "<h4><strong>SVENSK SUPPORT</strong></h4><p>Vi har många års erfarenhet av dockor. Nås vardagar på telefon eller mail</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "text_block_xXXBXR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/docklandet_free_delivery_cars_Sexdocka_Docklandet.png",
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "<h4><strong>FRI LEVERANS</strong></h4><p>Diskret leverans till hela Sverige. Paket levereras ända fram till dörren</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "text_block_NdPHBC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/docklandet_lager_warehouse_copy_Sexdocka_Docklandet.png",
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "<h4><strong>EGET LAGER</strong> </h4><p>Vi har egna lager med massvis av olika dockor för snabb leverans (2-4 dagar)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "text_block_n673qB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/docklandet_doll_brands_copy_Sexdocka_Docklandet.png",
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "<h4><strong>AUKTORISERAD PARTNER</strong></h4><p>Vi samarbetar med de främsta och mest kända tillverkarna i världen</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "text_block_CjrxgN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/docklandet_display_show_room_Sexdocka_Docklandet.png",
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "<h4><strong>GIGANTISKT SHOW ROOM</strong></h4><p>Vi har över 70 dockor uppställda i vår butik. Ett av världens största show room</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_LVbdhR",
+        "text_block_xXXBXR",
+        "text_block_NdPHBC",
+        "text_block_n673qB",
+        "text_block_CjrxgN"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_4yRn8V": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_UYaDCc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_start_sex_doll_docklandet-1_1.jpg",
+            "link": "shopify://collections/sexdockor-full-size-extra",
+            "title": "<b>Full-size+</b>",
+            "text": "<p><a href=\"/collections/sexdockor-full-size-extra\" title=\"Full-Size Sexdockor (Extra Långa)\"><strong>(</strong></a><strong> 165 cm - 180 cm</strong> <a href=\"/collections/sexdockor-full-size-extra\" title=\"Full-Size Sexdockor (Extra Långa)\"><strong>)</strong></a></p>",
+            "button_label": ""
+          }
+        },
+        "image_BLFqBQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_start_sex_doll_docklandet_copy-1_1.jpg",
+            "link": "shopify://collections/sexdockor-full-size",
+            "title": "<b>Full-Size</b>",
+            "text": "<p><a href=\"/collections/sexdockor-full-size\" title=\"Full-Size Sexdockor\"><strong>(</strong></a><strong> 150 cm - 165 cm</strong> <a href=\"/collections/sexdockor-full-size\" title=\"Full-Size Sexdockor\"><strong>)</strong></a></p>",
+            "button_label": ""
+          }
+        },
+        "image_PnC4Ft": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_start_sex_doll_docklandet_copy_2-1_2.jpg",
+            "link": "shopify://collections/sexdockor-medium-size",
+            "title": "<b>Medium-Size</b>",
+            "text": "<p><strong> </strong><a href=\"/collections/sexdockor-medium-size\" title=\"Medium-size Sexdockor (mellanstora)\"><strong>(</strong></a><strong> 120 cm - 150 cm</strong> <a href=\"/collections/sexdockor-medium-size\" title=\"Medium-size Sexdockor (mellanstora)\"><strong>)</strong></a></p>",
+            "button_label": ""
+          }
+        },
+        "image_ND3WAY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_start_sex_doll_docklandet_copy-1_3.jpg",
+            "link": "shopify://collections/mini-sexdocka-miniatyr",
+            "title": "<b>Mini-Size</b>",
+            "text": "<p><a href=\"/collections/mini-sexdocka-miniatyr\" title=\"Mini Sexdockor\"><strong>(</strong></a><strong> 80 cm - 120 cm</strong> <a href=\"/collections/mini-sexdocka-miniatyr\" title=\"Mini Sexdockor\"><strong>)</strong></a></p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_UYaDCc",
+        "image_BLFqBQ",
+        "image_PnC4Ft",
+        "image_ND3WAY"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 4,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7f83f320-06b0-4f86-9bc5-873eec6dccf6": {
+      "type": "featured-promotions",
+      "blocks": {
+        "a0cef8c7-d9a9-4ace-b423-325ca6f32390": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://pages/klarna-sexdockor",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "1743c141-74f4-4bf3-b3b7-ee90c9607ff3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Torso_Sexdockor_Docklandet-1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/sexdoll-torso",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "0811c659-0596-46f3-8a97-03da097f4110": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kurviga_Sexdockor_Docklandet_Real_Doll_Curvy_Sex_Doll_3e5c36f2-d0a0-4d7f-aa50-865b0e53691f.jpg",
+            "link": "shopify://collections/kurvig-sexdocka",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "template--16413739778306__7f83f320-06b0-4f86-9bc5-873eec6dccf6-16793315012f017afb-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_21_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/anime-sexdocka-manga",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "template--16413739778306__7f83f320-06b0-4f86-9bc5-873eec6dccf6-16793315012f017afb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_14_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/sexdockor-full-size-2",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "template--16413739778306__7f83f320-06b0-4f86-9bc5-873eec6dccf6-16793315012f017afb-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Manlig_sexdocka_docklandet_real_doll_man-1_1_Sexdocka_Docklandet_4487abda-f58a-4163-b929-ee00fd1085ca.jpg",
+            "link": "shopify://collections/manlig-sexdocka",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "a0cef8c7-d9a9-4ace-b423-325ca6f32390",
+        "1743c141-74f4-4bf3-b3b7-ee90c9607ff3",
+        "0811c659-0596-46f3-8a97-03da097f4110",
+        "template--16413739778306__7f83f320-06b0-4f86-9bc5-873eec6dccf6-16793315012f017afb-1",
+        "template--16413739778306__7f83f320-06b0-4f86-9bc5-873eec6dccf6-16793315012f017afb-0",
+        "template--16413739778306__7f83f320-06b0-4f86-9bc5-873eec6dccf6-16793315012f017afb-2"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_FYEKdJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "TPE-dockor i lager",
+        "collection_description": false,
+        "collection": "tpe-dockor-i-lager-expressleverans-2",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_xgiWjU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Silikondockor i lager",
+        "collection_description": false,
+        "collection": "silikon-dockor-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_N7eXmm": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor_Sexdocka_Docklandet_077d36b4-8019-4ef2-91a5-806a9f731bab.jpg",
+        "mobile_image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor__mobile_2_Sexdocka_Docklandet_a9c69dd4-62b6-4dab-a094-be2e00bf8d74.jpg",
+        "title": "",
+        "content": "<p><strong>Vi har väldigt många olika dockor i lager för snabb leverans. Normal leveranstid är 2-4 arbetsdagar. De dockor vi har i lager är färdigpackade och går ej att modifiera. </strong></p><p>Vårat sortiment erbjuder även tusentals andra dockor som skickas direkt från fabrik. Dessa dockor går bra att modifiera utan extra kostnad och går i vissa fall även att uppgradera med diverse funktioner.</p>",
+        "button_label": "Visa alla dockor i lager",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1705488138997c6502": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_tJTHLy": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "<b>Docklandet Instagram</b>",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_tJTHLy"
+      ],
+      "settings": {}
+    },
+    "divider_a7TQc7": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_KzCkhJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära TPE-dockor",
+        "collection_description": false,
+        "collection": "billiga-sexdockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_d6Pni8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_4Wzegk": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya TPE-dockor",
+        "collection_description": false,
+        "collection": "nya-tpe-dockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9c2b9305-5278-4cfc-bde4-17b40df15917": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya Silikondockor",
+        "collection_description": false,
+        "collection": "nyheter-silikon",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_PrQgUb": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "disabled": true,
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": true,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 5,
+        "pagination_limit": 30,
+        "toggle": false
+      }
+    },
+    "image_with_text_overlay_WxRxz8": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/sexdocka_real_doll_sexdockor_sverige_docklandet_start2023_english2_1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "Auktoriserad partner",
+        "subtitle": "<p><strong>Vi samarbetar med världens främsta och mest etablerade dock-fabrikat</strong></p>",
+        "button1": "TPE-märken",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "Silikon-märken",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_ieXiUT": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_i3W8YY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_2_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/wm-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_n8hjzW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_3_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/irontech-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_KYe69Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_4_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/zelex-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_wh4XFq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/irokebijin-anime-sexdockor",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_xF4Yiy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/starpery",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_raAxG9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_5_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/piper-doll-sexdockor",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_WwJr9X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/se-doll_banner_tpe_doll_docklandet_3.jpg",
+            "link": "shopify://collections/se-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_qFnf3f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/funwest_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet_ef93f15c-436d-4997-8137-d07809706f9c.jpg",
+            "link": "shopify://collections/funwest-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_N69QkR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_real_doll_dolls_castle_banner_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/dolls-castle",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_kMgc6d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_climax_doll_sexdockor_real_doll_docklandet_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/climax-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_KTQTjB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak_doll_angel_kiss_doll_banner_docklandet_wide-1_3_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+            "link": "shopify://collections/ak-doll-angel-kiss-doll-silicone",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_JdmLEG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka_kopia-1.jpg",
+            "link": "shopify://collections/game-lady-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_i3W8YY",
+        "image_n8hjzW",
+        "image_KYe69Q",
+        "image_wh4XFq",
+        "image_xF4Yiy",
+        "image_raAxG9",
+        "image_WwJr9X",
+        "image_qFnf3f",
+        "image_N69QkR",
+        "image_kMgc6d",
+        "image_KTQTjB",
+        "image_JdmLEG"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a09c9700-f7e1-4929-98f7-dfec87c88121": {
+      "type": "newsletter",
+      "custom_css": [
+        "p {color: white; font-size: 40px; font-family: Oswald, sans-serif;}"
+      ],
+      "settings": {
+        "wide_display": false,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Docklandet's Nyhetsbrev",
+        "newsletter_text": "",
+        "newsletter_section_text_align": "center",
+        "image": "shopify://shop_images/sexdocka_real_doll_banner_start_docklandet_sexdockor_sex_doll_newsletter_9062e17b-c09e-4528-ac4c-42063c97f879.jpg",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_cz4Eaw": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2><strong>VARFÖR VÄLJA DOCKLANDET?</strong></h2><p>Vi är Sveriges största återförsäljare av sexdockor och har unika partnerskap med världens främsta tillverkare. Detta innebär att vi kan erbjuda de senaste dockorna på marknaden till väldigt konkurrenskraftiga priser. Vi har även erbjudanden unika för vår butik. För flera av våra märken ingår dyra uppgraderingar av dockor utan extra kostnad.</p><p>Hos Docklandet kan du alltid lita på att du får vad du betalar för. Vi har egna lager och showroom och kan erbjuda expressleverans på många av våra populäraste sexdockor. Du kan även modifiera din sexdocka utan extra kostnad men då behöver den tillverkas i fabrik. Docklandet tar då ansvar för hela processen från tillverkning till hemleverans.</p><p>Alla sexdockor i vår butik är av högsta kvalitet och noga utvalda av oss. Vi kan gå i god för att du kommer få det bästa marknaden har att erbjuda till ett riktigt bra pris. Detta gäller allt i vår butik, allt från våra dyraste silikondockor till våra lågpris-sexdockor.</p><h4><strong>PRISGARANTI (MARKNADENS LÄGSTA PRIS)</strong></h4><p>Vi håller alltid lägsta tillåtna pris på våra dockor</p><h6><strong>PRISVÄRDA BILLIGA SEXDOCKOR</strong></h6><p>(lågpris dockor av hög kvalitet, inga missvisande bilder)</p><h6><strong>EXKLUSIVA PREMIUM SEXDOCKOR</strong></h6><p>(från marknadsledande tillverkare och märken)</p><h6><strong>EN AV EUROPAS STÖRSTA BTUIKER</strong></h6><p>(över 8000 nöjda kunder)</p><h6><strong>SVERIGES BÄSTA PRISER OCH UTBUD</strong></h6><p>(över 5000 dockor i sortimentet)</p><h6><strong>EUROPAS STÖRSTA SHOW-ROOM</strong></h6><p>(jämför olika dockor innan köp)</p><h6><strong>EGET LAGER MED SNABB DISKRET LEVERANS</strong></h6><p>(fri frakt och 2-4 dagars leveranstid)</p><h6><strong>SVENSK PROFESSIONELL SUPPORT</strong></h6><p>(vi brinner för dockor och har många års erfarenhet i branschen)</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "custom_liquid_exCJdK": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"looxReviews\" data-loox-aggragator class=\"loox-reviews-default\"></div>",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_Pxz9eg",
+    "featured_collection_E7HFUW",
+    "slideshow_U6PxyQ",
+    "divider_gwKNfc",
+    "featured_collection_UNM9ht",
+    "featured_text_X4n3xi",
+    "text_columns_with_images_XbFmwT",
+    "featured_promotions_4yRn8V",
+    "7f83f320-06b0-4f86-9bc5-873eec6dccf6",
+    "featured_collection_FYEKdJ",
+    "featured_collection_xgiWjU",
+    "featured_text_N7eXmm",
+    "1705488138997c6502",
+    "divider_a7TQc7",
+    "featured_collection_KzCkhJ",
+    "featured_collection_d6Pni8",
+    "featured_collection_4Wzegk",
+    "9c2b9305-5278-4cfc-bde4-17b40df15917",
+    "divider_PrQgUb",
+    "main",
+    "image_with_text_overlay_WxRxz8",
+    "featured_promotions_ieXiUT",
+    "a09c9700-f7e1-4929-98f7-dfec87c88121",
+    "featured_text_cz4Eaw",
+    "custom_liquid_exCJdK"
+  ]
+}

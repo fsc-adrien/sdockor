@@ -1,0 +1,932 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/YJL_Doll_banner_silicone_doll_docklandet_sex_dolls_copy-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1><strong>YJL Doll – Prisvärda och realistiska sexdockor i TPE & silikon</strong></h1><p>YJL Doll är en väletablerad tillverkare av realistiska sexdockor som kombinerar prisvärdhet med pålitlig kvalitet. Med ett brett sortiment av både TPE- och silikondockor erbjuder YJL många olika kroppstyper, storlekar och stilar – perfekt för dig som vill hitta en docka som matchar dina önskemål.</p><p>Som officiell distributör för YJL Doll kan vi erbjuda hela deras kollektion direkt till våra kunder, alltid med de senaste modellerna och bästa funktionerna.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "pxu_slideshow_GNQQCJ": {
+      "type": "pxu-slideshow",
+      "blocks": {
+        "slide_EpxXNX": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/15.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_ypeAQ8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/13_7d9b00fb-03a0-45c2-a2b8-7d66fdff26a7.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_MzKxHL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/1_fb373932-0ed4-4c19-a038-9badeb5b3999.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_NU8BVh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/16.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_Tff9aB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/9_91abe4b2-ea20-47d9-abed-1e583674f149.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_kUhcx6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/10_255c4b36-c6da-4af0-a7e4-b744a762aa9d.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_FTiTRz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/14.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_Uzq448": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HomePage_Banner_1_c0e4164b-5779-4bfe-8822-ea46acf80f8e.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_jkfMt3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HomePage_Banner_6.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_yUJjcV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HomePage_Banner_7.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_79wWwy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HomePage_Banner_5.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_BNcLw9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HomePage_Banner_2.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_3tT44z": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/5_5a2a5939-c403-42c2-a5d0-9776362474d7.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_K4C3kg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/7_2cc0cbfa-3bd3-4073-839f-079779a7ac8f.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_jhBt8h": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/3_358c6e4b-a32a-4ccd-bcf4-b7f2d5ab0aee.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "slide_EpxXNX",
+        "slide_ypeAQ8",
+        "slide_MzKxHL",
+        "slide_NU8BVh",
+        "slide_Tff9aB",
+        "slide_kUhcx6",
+        "slide_FTiTRz",
+        "slide_Uzq448",
+        "slide_jkfMt3",
+        "slide_yUJjcV",
+        "slide_79wWwy",
+        "slide_BNcLw9",
+        "slide_3tT44z",
+        "slide_K4C3kg",
+        "slide_jhBt8h"
+      ],
+      "name": "🧰 Slideshow Produkt",
+      "settings": {
+        "content_width": "650px",
+        "autoplay": true,
+        "autoplay_duration": 5,
+        "slide_height": "adapt",
+        "enable_animations": true,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "pxu_slideshow_747gVY": {
+      "type": "pxu-slideshow",
+      "blocks": {
+        "slide_WhWT9A": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/4_8db7efa3-91ed-4be5-93bd-4e5aa89016d9.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_33MJgL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/8_4dcb64b8-053f-48cb-9db0-93f173f844f8.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_LGmDg4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/11_83ef1aea-03ce-41a4-801a-4c3f02712ef4.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_enKJRA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/12_384f70f5-ea87-458a-ae96-6d550a9c7265.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_KRVQKy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/17.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_HAiPJN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2024-12-23_at_02.52.56_1.jpg",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_FVgFm4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HomePage_Banner_3.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "slide_WhWT9A",
+        "slide_33MJgL",
+        "slide_LGmDg4",
+        "slide_enKJRA",
+        "slide_KRVQKy",
+        "slide_HAiPJN",
+        "slide_FVgFm4"
+      ],
+      "disabled": true,
+      "name": "🧰 Slideshow SALE",
+      "settings": {
+        "content_width": "100%",
+        "autoplay": false,
+        "autoplay_duration": 5,
+        "slide_height": "small",
+        "enable_animations": true,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 4
+          }
+        }
+      },
+      "block_order": [
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 44,
+        "toggle": false
+      }
+    },
+    "pxu_video_NqP9ng": {
+      "type": "pxu-video",
+      "name": "t:pxu_sections.sections.video.name",
+      "settings": {
+        "content_width": "100%",
+        "shopify_hosted_video": "shopify://files/videos/6 (video).mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "desktop_video_aspect_ratio": "16:9",
+        "mobile_video_aspect_ratio": "16:9",
+        "video_playback": "play_button",
+        "play_video_on_loop": true,
+        "mute_video": false,
+        "play_button_color": "#ffffff",
+        "text_color": "#ffffff",
+        "image_overlay": "#000000",
+        "image_overlay_opacity": 20,
+        "margin_top": 64,
+        "margin_bottom": 64
+      }
+    },
+    "featured_promotions_qArzhg": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_pMpYUy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/YJL_docklandet_sexdockor_TPE_sexdolls_realdolls_copy-1-Recovered.jpg",
+            "link": "",
+            "title": "Bijou",
+            "text": "<p>163 cm F-kupa Hybrid</p>",
+            "button_label": ""
+          }
+        },
+        "image_LjbURR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Zhou_Ting_170D_Hybrid_7cd80275-f4f1-438a-aa06-67f671085389.jpg",
+            "link": "",
+            "title": "Zhou Ting",
+            "text": "<p>170 cm D-kupa Hybrid</p>",
+            "button_label": ""
+          }
+        },
+        "image_rnKC8p": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2N2A1633_80fd1593-c092-4eb7-b3d5-c6b08f6312ab.jpg",
+            "link": "",
+            "title": "Parvati",
+            "text": "<p>163 cm F-kupa Hybrid</p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pMpYUy",
+        "image_LjbURR",
+        "image_rnKC8p"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>YJL Doll – Realistiska och prisvärda sexdockor</h2><p>YJL Doll är ett av de mest populära och prisvärda varumärkena på marknaden. Märket har blivit eftertraktat tack vare sin kombination av realistisk design, hög kvalitet och tillgängligt pris. Med dockor i både silikon och TPE får du en autentisk känsla av hud och kroppsrörelser – perfekt för dig som vill ha en naturtrogen upplevelse utan att betala premiumpriser.</p><h3>Varför välja YJL Doll?</h3><ul><li><br/>Tillverkade i <strong>silikon eller TPE</strong> för en realistisk hudkänsla.<br/></li><li><br/>Handgjorda detaljer med autentiska ansiktsdrag och proportioner.<br/></li><li><br/>Lättskötta och hållbara material.<br/></li><li><br/>Anpassningsbara alternativ som peruker, ögonfärger och kroppstyper.<br/></li><li><br/>Säker och diskret leverans.<br/></li></ul><h3>Realism och anpassning</h3><p>YJL Doll erbjuder dockor som kan personifieras efter dina önskemål. Välj bland olika ansikten, hårstilar, ögonfärger, kroppsstorlekar och poser. Det gör varje docka unik och skräddarsydd för just dig.</p><h3>Perfekt för alla ändamål</h3><p>Oavsett om du söker en intim följeslagare, en samlardocka eller en modell för fotografering är YJL Doll ett utmärkt val. De realistiska detaljerna, kombinerat med enkel rengöring och lång hållbarhet, gör YJL till en av de mest uppskattade tillverkarna i sin kategori.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt YJL TPE",
+        "collection_description": false,
+        "collection": "yjl-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt YJL Silikon",
+        "collection_description": false,
+        "collection": "yjl-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_CmY9Me": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_yCecHy": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt lågt pris",
+        "collection_description": false,
+        "collection": "billiga-sexdockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_fxp6eb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "pxu_slideshow_GNQQCJ",
+    "pxu_slideshow_747gVY",
+    "main",
+    "pxu_video_NqP9ng",
+    "featured_promotions_qArzhg",
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "divider_CmY9Me",
+    "1650824619c8dde57c",
+    "featured_collection_yCecHy",
+    "featured_collection_fxp6eb",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

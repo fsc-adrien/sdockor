@@ -1,0 +1,574 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ab69c651-664c-42fa-aa58-f19c08cf07a9": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/video_sexdocka_fullsizesexdolls_Copy_4_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Videoklipp med sexdockor</h1><p>Här finner du massvis av korta klipp och filmer på dockor som säljs i vår butik. Det finns även fler videos inne på produktsidor och i kollektioner för olika märken. Dockorna är i de flesta fall filmade utan filter och du kan tydligt se hur dockan ser ut i verkligheten. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4aa3ed85-48dd-4e40-9668-b3336e0af093": {
+      "type": "video",
+      "settings": {
+        "wide_display": false,
+        "aspect_ratio": "16:9",
+        "autoplay": true,
+        "autoloop": false,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": false,
+        "iframe_video": "https://youtu.be/RWh3hV2693w?si=B1Zk6mzEDn28knzc",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "<p><strong>Musikvideo med dockor</strong></p>",
+        "heading": "Ängie - In For A Penny",
+        "subheading": "<p><strong>Inspelad hos Docklandet!</strong></p>",
+        "button1_label": "Play",
+        "button1_link": "",
+        "button1_style": "global-button--primary",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1734004329695b9456": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_grid_widget_block_LjRzwL": {
+          "type": "shopify://apps/youtube-gallery/blocks/grid-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "2",
+            "themeId": "light"
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_grid_widget_block_LjRzwL"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "divider_KeqjXK": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_q8y6Hc": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2><strong>Videor från Instagram</strong></h2><p>På våran Instagram lägger vi kontinuerligt in bilder och filmer på utvalda nya dockor från världens främsta dock-märken!</p>",
+        "button_label": "Besök Docklandets Instagram",
+        "button_link": "https://www.youtube.com/@Docklandet_Sweden",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1734005552a4110f20": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_ih8jBN": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": "<style>\n#feed-14434 { \nwidth:68%;\n}\n</style>\n\n<div id=\"feed-14434\" class=\"instafeed-shopify\"></div>\n\n<style>\n#insta-feed .profile-picture {\n    content: url('https://cdn.shopify.com/s/files/1/0302/6436/1099/files/Docklandet_logo_circle_100x100.png?v=1662379431');\n}\n</style>\n\n<script>\nvar checkExist = setInterval(function() {\nvar els = document.querySelectorAll('.tagged-buy-button');\nif (els.length > 0) { els.forEach(function(el) {\nel.innerText = 'KÖP NU';\n}); clearInterval(checkExist); }\n}, 100);\n</script>"
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_ih8jBN"
+      ],
+      "settings": {}
+    },
+    "featured_text_tMjtBF": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2><strong>Videor från Youtube</strong></h2><p>Här nedan finner du videoklipp av dockor som vi säljer! Youtube har strikta regler gällandes nakenhet så dessa videor innehåller endast påklädda eller skylda dockor. Fler och mer avklädda videos finner du i vår butik om du söker på dockans namn! (vi lägger alltid upp alla tillgängliga videos i vår webbutik tillsammans med dockorna)</p>",
+        "button_label": "Besök Docklandets Youtube",
+        "button_link": "https://www.youtube.com/@Docklandet_Sweden",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "166223355583379989": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_grid_widget_block_VXMQ9T": {
+          "type": "shopify://apps/youtube-gallery/blocks/grid-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "2",
+            "themeId": "dark"
+          }
+        },
+        "youtube_gallery_carousel_widget_block_qKxn3J": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "12",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_RNEL4R": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "16",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_shorts_widget_block_QRFpg3": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-shorts-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "3",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_N6DqC9": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "7",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_NazwzF": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "6",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_fGfywk": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "18",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_WUJVm7": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "8",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_mQPjJn": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "9",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_9zUKXK": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "13",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_DpVEJJ": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "14",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_3jJrDe": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "disabled": true,
+          "settings": {
+            "contentIndex": "4",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_CqnDK3": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "disabled": true,
+          "settings": {
+            "contentIndex": "5",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_tG7EG3": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "disabled": true,
+          "settings": {
+            "contentIndex": "15",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_WMabBr": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "disabled": true,
+          "settings": {
+            "contentIndex": "17",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_pLgCMm": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "disabled": true,
+          "settings": {
+            "contentIndex": "11",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_7NAizy": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "disabled": true,
+          "settings": {
+            "contentIndex": "10",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "f6e50c53-e771-4ff3-b12f-5f6041ac7867": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": "<h2 style=\"text-align:center\"><b>   <a href=\"https://www.instagram.com/docklandet/\" target=\"_blank\"><font color=\"black\">Videor från Instagram</font></a> </b></h2>\n\n<style>\n#feed-14434 { \nwidth:70%;\n}\n</style>\n\n<div id=\"feed-14434\" class=\"instafeed-shopify\"></div>\n\n<style>\n#insta-feed .profile-picture {\n    content: url('https://cdn.shopify.com/s/files/1/0302/6436/1099/files/Docklandet_logo_circle_100x100.png?v=1662379431');\n}\n</style>\n\n<script>\nvar checkExist = setInterval(function() {\nvar els = document.querySelectorAll('.tagged-buy-button');\nif (els.length > 0) { els.forEach(function(el) {\nel.innerText = 'KÖP NU';\n}); clearInterval(checkExist); }\n}, 100);\n</script>"
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_grid_widget_block_VXMQ9T",
+        "youtube_gallery_carousel_widget_block_qKxn3J",
+        "youtube_gallery_carousel_widget_block_RNEL4R",
+        "youtube_gallery_carousel_shorts_widget_block_QRFpg3",
+        "youtube_gallery_carousel_widget_block_N6DqC9",
+        "youtube_gallery_carousel_widget_block_NazwzF",
+        "youtube_gallery_carousel_widget_block_fGfywk",
+        "youtube_gallery_carousel_widget_block_WUJVm7",
+        "youtube_gallery_carousel_widget_block_mQPjJn",
+        "youtube_gallery_carousel_widget_block_9zUKXK",
+        "youtube_gallery_carousel_widget_block_DpVEJJ",
+        "youtube_gallery_carousel_widget_block_3jJrDe",
+        "youtube_gallery_carousel_widget_block_CqnDK3",
+        "youtube_gallery_carousel_widget_block_tG7EG3",
+        "youtube_gallery_carousel_widget_block_WMabBr",
+        "youtube_gallery_carousel_widget_block_pLgCMm",
+        "youtube_gallery_carousel_widget_block_7NAizy",
+        "f6e50c53-e771-4ff3-b12f-5f6041ac7867"
+      ],
+      "settings": {}
+    },
+    "divider_RV9Dri": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 15,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "17340059644859c4a7": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_widget_block_ikyNRe": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "4",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_6iLceM": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "5",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_iU4tVV": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "17",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_qp9PPJ": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "15",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_ejTYBC": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "11",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_carousel_widget_block_UixJ4y": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "10",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_widget_block_ikyNRe",
+        "youtube_gallery_carousel_widget_block_6iLceM",
+        "youtube_gallery_carousel_widget_block_iU4tVV",
+        "youtube_gallery_carousel_widget_block_qp9PPJ",
+        "youtube_gallery_carousel_widget_block_ejTYBC",
+        "youtube_gallery_carousel_widget_block_UixJ4y"
+      ],
+      "settings": {}
+    },
+    "17340075345ac521bf": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_widget_block_VmtJTi": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "10",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_widget_block_VmtJTi"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "video_484NxU": {
+      "type": "video",
+      "settings": {
+        "wide_display": false,
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": false,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": false,
+        "iframe_video": "https://vimeo.com/953450414",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "Irontech Doll",
+        "subheading": "",
+        "button1_label": "Play",
+        "button1_link": "",
+        "button1_style": "global-button--primary",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_LwJ6cc": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a8392da5-c6e4-4c83-96e2-22a64e2c2f4d": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "page-no-title-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "165217872584090210": {
+      "type": "content-page",
+      "disabled": true,
+      "settings": {
+        "content_page": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_hqmafB": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a5564aef-2d9a-4d4b-9fa6-30b19e6ec4a7": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": false,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "<b><font color=\"ffffff\">Docklandet's Nyhetsbrev</font></b>",
+        "newsletter_text": "",
+        "newsletter_section_text_align": "center",
+        "image": "shopify://shop_images/sexdocka_real_doll_banner_start_docklandet_sexdockor_sex_doll_newsletter_9062e17b-c09e-4528-ac4c-42063c97f879.jpg",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "53209c68-8a45-42dc-a474-fc6a2ddc685b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nylanserade dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_tDHtHG": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikondockor",
+        "collection_description": true,
+        "collection": "populara-silikondockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_bHit4K": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lågpris-dockor i lager",
+        "collection_description": true,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a2753a67-2adb-4943-a540-d6173b3929f3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "99b39eef-bc69-4ab5-be0d-cae6011696f6": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "ab69c651-664c-42fa-aa58-f19c08cf07a9",
+    "4aa3ed85-48dd-4e40-9668-b3336e0af093",
+    "1734004329695b9456",
+    "divider_KeqjXK",
+    "featured_text_q8y6Hc",
+    "1734005552a4110f20",
+    "featured_text_tMjtBF",
+    "166223355583379989",
+    "divider_RV9Dri",
+    "17340059644859c4a7",
+    "17340075345ac521bf",
+    "video_484NxU",
+    "divider_LwJ6cc",
+    "a8392da5-c6e4-4c83-96e2-22a64e2c2f4d",
+    "main",
+    "165217872584090210",
+    "divider_hqmafB",
+    "a5564aef-2d9a-4d4b-9fa6-30b19e6ec4a7",
+    "53209c68-8a45-42dc-a474-fc6a2ddc685b",
+    "featured_collection_tDHtHG",
+    "featured_collection_bHit4K",
+    "a2753a67-2adb-4943-a540-d6173b3929f3",
+    "99b39eef-bc69-4ab5-be0d-cae6011696f6"
+  ]
+}

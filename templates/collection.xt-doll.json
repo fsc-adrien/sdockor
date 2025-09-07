@@ -1,0 +1,924 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/xtdoll_banner_doll_docklandet-9.jpg",
+        "title": "",
+        "content": "<h1><br/>XT Doll – Realistiska sexdockor i hög kvalitet till bra pris</h1><p>XT Doll är en etablerad tillverkare av realistiska sexdockor, kända för att kombinera prisvärdhet med imponerande kvalitet. I sortimentet hittar du dockor i flera olika storlekar och stilar – både i TPE och silikon – vilket gör att du enkelt kan hitta en modell som passar just dina önskemål.</p><p>Som officiell distributör för XT Doll erbjuder vi alltid det senaste inom design, material och funktioner som EVO-skelett, rörliga leder och realistisk hudtextur. XT Doll är det självklara valet för dig som vill ha en naturtrogen upplevelse utan att kompromissa på pris.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "pxu_slideshow_GNQQCJ": {
+      "type": "pxu-slideshow",
+      "blocks": {
+        "slide_BUXUdf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Promotional_cover_2cd5cf3f-f85e-445c-ae59-697650228aea.jpg",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_FkCRUm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/XT-byb30_d9c26b7b-d9ec-488f-a5d9-39508c8ececf.jpg",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "slide_BUXUdf",
+        "slide_FkCRUm"
+      ],
+      "disabled": true,
+      "name": "🧰 Slideshow Produkt",
+      "settings": {
+        "content_width": "650px",
+        "autoplay": true,
+        "autoplay_duration": 5,
+        "slide_height": "adapt",
+        "enable_animations": true,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "pxu_slideshow_747gVY": {
+      "type": "pxu-slideshow",
+      "blocks": {
+        "slide_WhWT9A": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/4_8db7efa3-91ed-4be5-93bd-4e5aa89016d9.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_33MJgL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/8_4dcb64b8-053f-48cb-9db0-93f173f844f8.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_LGmDg4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/11_83ef1aea-03ce-41a4-801a-4c3f02712ef4.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_enKJRA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/12_384f70f5-ea87-458a-ae96-6d550a9c7265.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_KRVQKy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/17.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_HAiPJN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2024-12-23_at_02.52.56_1.jpg",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_FVgFm4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HomePage_Banner_3.png",
+            "heading": "",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "slide_WhWT9A",
+        "slide_33MJgL",
+        "slide_LGmDg4",
+        "slide_enKJRA",
+        "slide_KRVQKy",
+        "slide_HAiPJN",
+        "slide_FVgFm4"
+      ],
+      "disabled": true,
+      "name": "🧰 Slideshow SALE",
+      "settings": {
+        "content_width": "100%",
+        "autoplay": false,
+        "autoplay_duration": 5,
+        "slide_height": "small",
+        "enable_animations": true,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "image_with_text_overlay_6rBpEg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/XTDoll_silicone_promotion_september_kampanj_sale_2025_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 4
+          }
+        }
+      },
+      "block_order": [
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 44,
+        "toggle": false
+      }
+    },
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h1><br/>XT Doll – Realistiska sexdockor för alla smaker</h1><p>XT Doll är en av världens mest kända tillverkare av realistiska sexdockor. Med fokus på hög kvalitet, prisvärda modeller och enastående design erbjuder XT dockor i både TPE och silikon. Här hittar du allt från nätta och smidiga kroppar till fylligare modeller med naturtrogna detaljer.</p><h3>Varför välja en XT Doll?</h3><ul><li><br/>Tillverkade i premium TPE eller silikon med realistisk hudkänsla.<br/></li><li><br/>Handgjorda detaljer och anpassade kroppstyper.<br/></li><li><br/>EVO-skelett och rörliga leder för flexibilitet.<br/></li><li><br/>Stort urval av ansikten, kroppar och hudtoner.<br/></li></ul><h3>Innovation och realism</h3><p>XT Doll utvecklar ständigt nya modeller med avancerad design, realistiska proportioner och autentiska ansiktsdrag. Med fokus på detaljrikedom – från ögonens glans till fingertopparnas struktur – skapas en känsla som ligger mycket nära verkligheten.</p><h3>Officiell distributör</h3><p>Som officiell återförsäljare erbjuder vi alltid senaste kollektionerna från XT Doll. Utforska vårt sortiment och hitta den docka som bäst passar dina önskemål – oavsett om du söker något diskret, prisvärt eller en avancerad premiummodell.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_tm7d6E": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/perla_XT-42_163F_355040b2-2273-4a23-a1a9-9efac1ce1613.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_kGwJrg": {
+      "type": "gallery",
+      "blocks": {
+        "image_wWpXQ3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-1-A_Seanna.png"
+          }
+        },
+        "image_p4wrfJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-1-B_Faye.png"
+          }
+        },
+        "image_H6LbbV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-2_Nancy.png"
+          }
+        },
+        "image_qED8jJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-2-B_Miriam.png"
+          }
+        },
+        "image_9y4XEJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-3_Cynthia.png"
+          }
+        },
+        "image_L9rpa9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-4_Elena.png"
+          }
+        },
+        "image_bEEWNR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-4-B_amelia.png"
+          }
+        },
+        "image_94RrKx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-7_Chiao.png"
+          }
+        },
+        "image_KYHAgK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-7-B_Chase.png"
+          }
+        },
+        "image_rfErQt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-8_Aelene.png"
+          }
+        },
+        "image_EANdQQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-8-B_Angel.png"
+          }
+        },
+        "image_kFtf6q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-9_Mercat.png"
+          }
+        },
+        "image_JCQNCz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-10_Sally.png"
+          }
+        },
+        "image_ptxfyN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-11_Jennifer.png"
+          }
+        },
+        "image_MMh3Ga": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-11-B_Isabella.png"
+          }
+        },
+        "image_ymw4KC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-12_Harley.png"
+          }
+        },
+        "image_MTjhMh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-12-B_Vienve.png"
+          }
+        },
+        "image_cTj34J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-13_Hailey.png"
+          }
+        },
+        "image_WjL4Ck": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-14_Eva.png"
+          }
+        },
+        "image_7TRhgD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-15_Hannah.png"
+          }
+        },
+        "image_xq4xR7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-15-B_Melanie.png"
+          }
+        },
+        "image_qVbJc4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-18_Irina.png"
+          }
+        },
+        "image_pGQ9nF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-19_Everleigh.png"
+          }
+        },
+        "image_Hb6xT7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-19-B_Everleigh.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_wWpXQ3",
+        "image_p4wrfJ",
+        "image_H6LbbV",
+        "image_qED8jJ",
+        "image_9y4XEJ",
+        "image_L9rpa9",
+        "image_bEEWNR",
+        "image_94RrKx",
+        "image_KYHAgK",
+        "image_rfErQt",
+        "image_EANdQQ",
+        "image_kFtf6q",
+        "image_JCQNCz",
+        "image_ptxfyN",
+        "image_MMh3Ga",
+        "image_ymw4KC",
+        "image_MTjhMh",
+        "image_cTj34J",
+        "image_WjL4Ck",
+        "image_7TRhgD",
+        "image_xq4xR7",
+        "image_qVbJc4",
+        "image_pGQ9nF",
+        "image_Hb6xT7"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "wide_display": false,
+        "title": "XT Doll Huvuden",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_E4LYmD": {
+      "type": "gallery",
+      "blocks": {
+        "image_kLHLCc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-20_Lin.png"
+          }
+        },
+        "image_3ygMby": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-20-B.png"
+          }
+        },
+        "image_RRqx3p": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-20-C_Lily.png"
+          }
+        },
+        "image_PgjHPb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-20-D_Lily.png"
+          }
+        },
+        "image_kViCrB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-22_Phoebe.png"
+          }
+        },
+        "image_3JMLR8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-22_Phoebe_78c8c1e0-22b0-40eb-b2b9-284d789d565d.png"
+          }
+        },
+        "image_jpDba9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-23_Lisa.png"
+          }
+        },
+        "image_g8XXH6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-25_Chloe.png"
+          }
+        },
+        "image_VUExpV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-28_Seraphina.png"
+          }
+        },
+        "image_tDMRfn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-28-B_Ophelia.png"
+          }
+        },
+        "image_x3qb6d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-31_Natalie.png"
+          }
+        },
+        "image_j9PmBt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-31_Natalie2.png"
+          }
+        },
+        "image_x8aVeF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-34_Southey.png"
+          }
+        },
+        "image_rCBLCi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-B001-A_Yomi.png"
+          }
+        },
+        "image_nmydUU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-B001-B_Emi.png"
+          }
+        },
+        "image_QUxBWb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-BY4_bing.png"
+          }
+        },
+        "image_BUgzG3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-BY4-B_Miss_Bing.png"
+          }
+        },
+        "image_UCkdky": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-BY4-B_MissBing.png"
+          }
+        },
+        "image_dBtAiL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byb14_Rosaire.png"
+          }
+        },
+        "image_QpWGiT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byb17-A_Xueer.png"
+          }
+        },
+        "image_ikJciK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byb17-A_Miyuki.png"
+          }
+        },
+        "image_XM8DbG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byb17-A_Xueer_0212c20f-fc9d-49c2-af64-cf6e221b565f.png"
+          }
+        },
+        "image_Pq3Hbk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-bym-5_Susan.png"
+          }
+        },
+        "image_weFgAh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-bym13_Lydia.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_kLHLCc",
+        "image_3ygMby",
+        "image_RRqx3p",
+        "image_PgjHPb",
+        "image_kViCrB",
+        "image_3JMLR8",
+        "image_jpDba9",
+        "image_g8XXH6",
+        "image_VUExpV",
+        "image_tDMRfn",
+        "image_x3qb6d",
+        "image_j9PmBt",
+        "image_x8aVeF",
+        "image_rCBLCi",
+        "image_nmydUU",
+        "image_QUxBWb",
+        "image_BUgzG3",
+        "image_UCkdky",
+        "image_dBtAiL",
+        "image_QpWGiT",
+        "image_ikJciK",
+        "image_XM8DbG",
+        "image_Pq3Hbk",
+        "image_weFgAh"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_WC496q": {
+      "type": "gallery",
+      "blocks": {
+        "image_PBzqaY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-bym13_Lydia_f134f601-23e7-4fda-be29-e70561b9c02a.png"
+          }
+        },
+        "image_C3LFcx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-bym16_Asumi.png"
+          }
+        },
+        "image_BiyiCH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byx2-A_Akira.png"
+          }
+        },
+        "image_aNTb8Y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byx3-A_kitty.png"
+          }
+        },
+        "image_8q4QVn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byx4-A_YOYO_f0bd86ff-231e-4936-bd15-b01d7bd5a8c9.png"
+          }
+        },
+        "image_DNWyUb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-byx4-B_Cocoa_46fa5b8e-c92c-48bf-99c2-f1900915ea85.png"
+          }
+        },
+        "image_bf8XG4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-S1_Ruby_ba7e6eb8-cff9-471a-968e-6b4c36579c3c.png"
+          }
+        },
+        "image_rbT9z6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-S1-B_Flora_4626d3f1-9a84-4177-9a59-aa655b8852fd.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_PBzqaY",
+        "image_C3LFcx",
+        "image_BiyiCH",
+        "image_aNTb8Y",
+        "image_8q4QVn",
+        "image_DNWyUb",
+        "image_bf8XG4",
+        "image_rbT9z6"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_CmY9Me": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_yCecHy": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt Silikon",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_fxp6eb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "pxu_slideshow_GNQQCJ",
+    "pxu_slideshow_747gVY",
+    "image_with_text_overlay_6rBpEg",
+    "main",
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
+    "image_with_text_overlay_tm7d6E",
+    "gallery_kGwJrg",
+    "gallery_E4LYmD",
+    "gallery_WC496q",
+    "divider_CmY9Me",
+    "featured_collection_yCecHy",
+    "featured_collection_fxp6eb",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

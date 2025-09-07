@@ -1,0 +1,243 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "featured_text_6KTfYK": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/se-doll_banner_tpe_doll_docklandet_copy_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Normon Doll</h1><p>Vi är officiell distributör för Normon Doll  och kan erbjuda våra kunder alla dockor ur Normon Dolls sortiment. Vi uppdaterar kontinuerligt vårat sortiment med det senaste från Normon Doll! Normon Dolls dockor är designade efter verkliga modeller och finns i både TPE och silikon-versioner</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_P8GJGP": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Normon_Doll_promotion_kampanj_silicone_september_summer_sale_rea_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 36,
+        "toggle": false
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {}
+    },
+    "c0deb75d-c382-4806-9e2d-f20921f067d9": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>- Sexdockor från Normon Doll - </h2><p>Docklandet.se är stolta att presentera att vi numera samarbetar med sexdocktillverkaren Normon-Doll.  </p><p>Vi är officiell distributör i Sverige och de enda som säljer äkta Normon Doll's. Hos oss hittar du alltid de absolut bästa priserna på utvalda Normon Doll-sexdockor. OBS! För önskemål om andra Normon-dockor så kan pris och leveranstider skilja.</p><p>Normon Doll grundades 2021, ligger i Shenzhen, Kina, och specialiserar sig på att tillverka dockor både i TPE och Silikon i högsta kvalité. Dockorna från Normon Doll använder de bästa materialen och skeletten som finns ute på marknaden idag.</p><p>Det går bra att göra ändringar och tillval, vid beställning från fabrik är allt möjligt och vi kan justera priset i efterhand om nödvändigt. Kontakta oss innan eller efter order för att göra ändringar eller tillägg, vi nås som vanligt på <strong>info@docklandet.se.</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5badeb65-a227-4df0-8d08-0dc915c9b3bb": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Normon_doll_heads.jpg",
+        "mobile_image": "shopify://shop_images/Normon_doll_heads_3be77b58-92aa-4ed7-8333-9f3ab0f47d1d.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ddbb3371-c394-4876-902d-00691c398cb3": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Normondoll_heads_Stor.jpg",
+        "mobile_image": "shopify://shop_images/Normondoll_heads_Stor_95c2badd-02b6-4d0e-af88-a4a3dd006a93.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d88ca0b3-403f-4100-9492-c6c6e4b3ecc2": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Eye_Colors_Stor.jpg",
+        "mobile_image": "shopify://shop_images/Eye_Colors_Stor_e1330523-34b5-4270-b517-12e49d516977.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2fc72bd9-810b-4cff-82ea-9135deb5e0a2": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Ogon_R-N_Stor.jpg",
+        "mobile_image": "shopify://shop_images/Ogon_R-N_Stor_35129bde-6a94-447a-813c-ee98181aa3ad.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "66f5465e-bfe7-4630-b5bf-dfc0b225f6b4": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "- SE Doll's egna instruktioner för hantering och vård av sexdockor -",
+        "content": "<p><strong>Hur man sköter sina SE-dockor, drift- och underhållsinstruktioner (översatt till svenska)</strong></p><p><strong>1.</strong> Ytterlagret på din SE-Doll är tillverkat av elastisk TPE (termoplastiska elastomerer) av hög standard koppling med epoxihartser i fast kroppsstöd och fint utformat skelett. Allt material uppfyller nationella hälso- och säkerhetsstandarder och är ofarliga för människor samt miljövänliga.</p><p><strong>2.</strong> Skelettet och lederna gör att modellen kan posera i många positioner och stilar, vilket ger en väldigt realistisk upplevelse. För längre hållbarhet, placera inte dockan i utsträckta positioner under långa tidsperioder. Även om TPE -materialets elasticitet är fantastiskt slitstark och hållbart så kan överdriven töjning under lång tid resultera i deformation eller sprickor. Flytta modellen till sin ursprungliga position, med händerna vilade nedåt, efter användning.</p><p><strong>3.</strong> Det är ett standardförfarande under tillverkningen att montera och placera dess skelett på exakta punkter. Olika stöd fästes under injektionsprocessen, så det kommer att finnas några små fyllningar på dessa hål som inte klassificeras som tillverkningsfel.</p><p><strong>4.</strong> Undvik vassa föremål eller knådning med överdriven styrka.</p><p><strong>5. </strong>Var alltid försiktig vid användning av kläder på din sexdocka. Tvätta alltid plaggen minst 2-3 gånger innan användning för att säkerställa att de inte färgar av sig. </p><p><strong>6.</strong> Utsätt inte modellen för solljus under en längre tid. Detta kan öka åldrandet av TPE-material ochförkorta livslängden på dockan.</p><p><strong>7.</strong> Om veck eller tryckmärken uppstår, så kan du applicera varm handduk på det veckade området för att få bort märket. Tryckmärken försvinner ofta av sig själva med tiden. En värmepistol går att använda för att mjuka upp material och laga skador.</p><p><strong>8.</strong> Damm och smuts kan tas bort med vanlig tvål i dusch eller skumbad. Rengör försiktigt med handflatan och se upp med fingernaglar och grova och vassa material som kan påverka eller repa ytan. Efter torkning rekommenderas att applicera talk-pulver eller majsstärkelsepulver. Modellen blir som ny igen. Vi rekommenderar starkt periodiskt underhåll av din modell.</p><p><strong>9.</strong> Om modellens yta har fått repor, skär-märken eller hål, använd då TPE-lim för att täta. Rengör det skadade området med sminkborttagare innan du limmar. Se till att den defekta ytan inte är i spänning när du applicerar TPE -lim. Härdningstiden är ungefär en halvtimme. Du kan även värma upp TPE och använda som lim. Det medföljer en stor bit TPE med varje SE-Doll.</p><p>Om du har andra funderingar när det gäller tekniska aspekter eller underhåll av modellen, tveka inte att kontakta leverantören för ytterligare hjälp. Alltså oss på Docklandet. Du har garanti och livslång support från oss på din SE-docka.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_t4JdUH": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "025b12a1-79e1-4876-a14b-78aacf99287f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_QTjH9r": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Silikondockor i lager",
+        "collection_description": false,
+        "collection": "silikon-dockor-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_twYc3j": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "featured_text_6KTfYK",
+    "image_with_text_overlay_P8GJGP",
+    "main",
+    "16508256797a71ad8f",
+    "c0deb75d-c382-4806-9e2d-f20921f067d9",
+    "5badeb65-a227-4df0-8d08-0dc915c9b3bb",
+    "ddbb3371-c394-4876-902d-00691c398cb3",
+    "d88ca0b3-403f-4100-9492-c6c6e4b3ecc2",
+    "2fc72bd9-810b-4cff-82ea-9135deb5e0a2",
+    "66f5465e-bfe7-4630-b5bf-dfc0b225f6b4",
+    "16508260667ee95abe",
+    "featured_collection_t4JdUH",
+    "025b12a1-79e1-4876-a14b-78aacf99287f",
+    "featured_collection_QTjH9r",
+    "divider_twYc3j"
+  ]
+}

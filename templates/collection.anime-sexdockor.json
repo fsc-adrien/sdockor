@@ -1,0 +1,162 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Anime_Sexdockor_Docklandet_Real_Doll-1_Sexdocka_Docklandet_1.jpg",
+        "mobile_image": "shopify://shop_images/Anime_Sexdockor_Docklandet_Real_Doll_Mobile-1_Sexdocka_Docklandet_1.jpg",
+        "title": "",
+        "content": "<h1>Anime sexdocka</h1><p>Här kan du hitta en anime-sexdocka gjord av TPE eller silikon. Våra sexdockor med anime/manga-stil finns i flera olika storlekar och stilar.</p><p><strong>Vi erbjuder express-leverans på flera dockor, men vissa har längre leveranstid. Vi har många anime-sexdockor i lager och uppställda hos oss i Borlänge! Välkommen!</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "3c0108f4-9b78-471f-99d3-3ea1981fa338": {
+          "type": "recently_viewed",
+          "settings": {
+            "sidebar_rv_title": "Du kanske gillar",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "3c0108f4-9b78-471f-99d3-3ea1981fa338"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "278bd9a0-f729-405b-9a09-7ee4978a43f6": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor_1_Sexdocka_Docklandet_d01d3e78-b689-42cd-ad00-7e6ded5d09aa.png",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor__mobile_2_Sexdocka_Docklandet_e8050b8d-6479-4fed-b5a3-b590867eabbd.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e6f5bd88-4805-4abd-ba1a-58f97eec232b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "998eb1c7-b3d9-4a62-89b3-3a7c1d0c3371": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {}
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    },
+    "7c0ee0ce-2923-4e43-8d72-c803d67a3d75": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "main",
+    "278bd9a0-f729-405b-9a09-7ee4978a43f6",
+    "e6f5bd88-4805-4abd-ba1a-58f97eec232b",
+    "16508260667ee95abe",
+    "998eb1c7-b3d9-4a62-89b3-3a7c1d0c3371",
+    "16508256797a71ad8f",
+    "1652224218445a4dc3",
+    "7c0ee0ce-2923-4e43-8d72-c803d67a3d75"
+  ]
+}

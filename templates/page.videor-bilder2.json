@@ -1,0 +1,78 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "settings": {}
+    },
+    "1ae962d4-6237-49da-b7a0-4a9cf660b6b2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9e0ad48d-96ed-4ced-ab97-670c847a9bc3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1696535382de53eb6f": {
+      "type": "apps",
+      "blocks": {
+        "b570447a-22c7-49ab-b7ff-858ac8ffad46": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "b570447a-22c7-49ab-b7ff-858ac8ffad46"
+      ],
+      "settings": {}
+    },
+    "80d68ea7-4973-4250-8e91-c568c417a4f2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1ae962d4-6237-49da-b7a0-4a9cf660b6b2",
+    "9e0ad48d-96ed-4ced-ab97-670c847a9bc3",
+    "1696535382de53eb6f",
+    "80d68ea7-4973-4250-8e91-c568c417a4f2"
+  ]
+}

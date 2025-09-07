@@ -1,0 +1,861 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_JpXXGd": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Bezlya_Doll_Sexdockor_Docklandet_Real_Doll_banner_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Bezlya Doll</h1><p><strong>Bezlya är en erfaren tillverkare av exklusiva realistiska dockor. Bezlya Doll erbjuder ett sortiment av både prisvärda TPE dockor och mer exklusiva silikondockor. Det som utmärker Bezlyas dockor är deras unika funktioner och uppgraderings-möjligheter.</strong></p><p>Vi är officiell distributör för Bezlya Doll i Norden och vi kan erbjuda våra kunder alla dockor ur Bezlyas sortiment!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f9969e49-dbff-4c21-8a98-e67e14a5bcee": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Zelex_promotion_januari_new_year_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1657633353ab2cfdcf": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/zelex_rea_docklandet_sexdockor-1_1.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/zelex_hybrid_sexdockor_docklandet_kopia-1_1_Sexdocka_Docklandet.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 4
+          }
+        }
+      },
+      "block_order": [
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "1734456890aad90b4b": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_widget_block_ENaL4b": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "disabled": true,
+          "settings": {
+            "contentIndex": "16",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "youtube_gallery_grid_widget_block_dmJked": {
+          "type": "shopify://apps/youtube-gallery/blocks/grid-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "16",
+            "themeId": "light",
+            "showMoreId": true
+          }
+        },
+        "instafeed_app_block_LiPKPJ": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38504",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_widget_block_ENaL4b",
+        "youtube_gallery_grid_widget_block_dmJked",
+        "instafeed_app_block_LiPKPJ"
+      ],
+      "settings": {}
+    },
+    "featured_text_NGnjBa": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Bezlya: Dockmärket som tar världen med storm</h2><p>Bezlya är ett dockmärke som har blivit känt för sina unika och noggrant designade dockor. För dig som söker en exklusiv docka med design och funktioner som skiljer sig från de flesta andra märken/dockor så är Bezlya helt klart värt att spana in. Bezlyas dockor finns i flera utföranden, storlekar och stilar. Dockorna är tillverkade av materialen TPE och silikon. Alla Bezlya-huvuden är ultra-realistiska och gjorda helt i silikon. Bezlya 2.0 series är hybrid-dockor (kropp av TPE och huvud av silikon). Övriga dockor från Bezlya är tillverkade helt i silikon. Med sitt fokus på kvalitet och kreativitet har Bezlya blivit ett favorit-val för dock-entusiaster världen över. Låt oss utforska vad som gör dessa dockor så speciella och varför de har blivit en sådan sensation.</p><p>Bezlya grundades med en vision att skapa realistiska dockor som är mer än bara sexleksaker. Varje docka är designad med kärlek och omsorg och speglar en unik personlighet. Inspirationen kommer från olika kulturer, mode och trender, vilket gör varje Bezlya-docka till ett konstverk i sig.</p><p>En av de största fördelarna med Bezlya är deras höga fokus på kvalitet. Dockorna är tillverkade av förstklassiga material, vilket säkerställer att de håller länge och tål daglig lek. Hantverket bakom varje docka är imponerande, och det är tydligt att stor omsorg har lagts på detaljerna, från ansiktsuttryck till kläder och tillbehör.</p><p>En annan aspekt som gör Bezlya unikt är deras engagemang för miljön. Dockorna är tillverkade av hållbara och miljövänliga material. Detta gör att föräldrar kan känna sig trygga med att de köper en produkt som inte bara är av hög kvalitet utan också vänlig mot planeten.</p><p>Bezlya erbjuder ett brett utbud av sexdockor som är perfekta för alla åldrar. Dessa dockor har en tidlös design och passar utmärkt för både samling, utställning och diverse lekar. </p><h3>Vad utmärker dockor från Bezlya?</h3><p>- Viktreduktion (minskar vikt 7-14 kg)<br/>- Egen typ av värmesystem (unik vätske-uppvärmning)<br/>- Mängder av andra funktioner och uppgraderingar<br/>- Högkvalitativa hälso- och miljövänliga material </p><h3>Olika typer av dockor</h3><p><strong>Bezlya Bionic 2.0 - Standardfunktioner<br/></strong>- TPE kropp med silikon-huvud<br/>- Extra mjuka bröst (gel)<br/>- Stående fot (med bultar)<br/>- Själv-lubricerande vagina</p><p><strong>Bezlya Bionic 2.1 - Standardfunktioner<br/></strong>- Kropp och huvud helt i silikon<br/>- Viktreduktion<br/>- Artikulerade fingrar<br/>- Premium make-up<br/>- Extra mjuka bröst (gel)<br/>- Stående fot (med bultar)</p><p><strong>Bezlya Bionic 2.2 / 2.2U / 2.2F - Standardfunktioner<br/></strong>- Kropp och huvud helt i silikon<strong><br/></strong>- Huvud med rörlig käke<br/>- Viktreduktion<br/>- Artikulerade fingrar<br/>- Premium make-up<br/>- Extra mjuka bröst (gel)<br/>- Stående fot (med bultar)</p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_ggXcpT": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/bezlya_doll_banner_realistic_dolls_docklandet_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3>Varför välja Bezlya Doll?</h3><p>Att investera i en Bezlya-docka innebär att du får en produkt som håller över tid. Bezlya är mer än bara ett dockmärke; det är en värld av kreativitet, kvalitet och fantasi. Med sina unika design, miljövänliga material och breda utbud av dockor är det lätt att förstå varför så många förälskar sig i detta varumärke. Om du letar efter en docka som kombinerar skönhet, kvalitet och hållbarhet är Bezlya det perfekta valet.</p><p>Att köpa en realistisk fullstor docka från märket \"Bezlya\" kan vara fördelaktigt av flera skäl:</p><ol><li><strong>Hög kvalitet och realism</strong>: Bezlya är känt för att tillverka dockor med en mycket hög grad av detaljrikedom och realism. De använder kvalitetsmaterial som ger en naturlig känsla både visuellt och vid beröring.</li><li><strong>Anpassningsmöjligheter</strong>: Många av Bezlyas dockor är anpassningsbara, vilket innebär att du kan välja olika funktioner som hårfärg, ögonfärg, kroppstyp och kläder. Detta gör att du kan få en docka som passar exakt dina preferenser.</li><li><strong>Hållbarhet</strong>: Bezlya är känd för att skapa dockor som är byggda för att hålla. De använder slitstarka material som gör att dockan förblir i gott skick under lång tid, även vid frekvent användning.</li><li><strong>Flera användningsområden</strong>: Realistiska dockor från Bezlya kan användas för olika syften, inklusive sällskap, utställning, konstprojekt, fotografering, mode, mm. Deras mångsidighet gör dem till ett värdefull investering både för dig som företagare eller privatperson.</li><li><strong>Diskret och säker leverans</strong>: Om du är orolig för integritet så erbjuder Docklandet alltid diskret leverans, vilket gör det möjligt att få din produkt skickad på ett säkert och konfidentiellt sätt.</li></ol><p>Att köpa en realistisk docka från Bezlya kan vara en långsiktig investering för någon som söker en högkvalitativ och personlig produkt med många användningsmöjligheter.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_eWBUyd": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_T77Grn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_15_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/gardenia-sexdocka-bezlya-doll-155cm-e-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_RQR7ha": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_6_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_xAqJAK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_17_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/campanula-sexdocka-bezlya-doll-155cm-e-kupa-2-2cf-silikon-1",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_ywRx9j": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_12_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/campanula-sexdocka-bezlya-doll-149cm-d-kupa-2-1-silikon-2",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_HKnN7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_16_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/lagenaria-sexdocka-bezlya-doll-153cm-c-kupa-2-2u-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_MC4dhT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_7_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/rem-sexdocka-bezlya-doll-149cm-d-kupa-tpe-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_btfCEL": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_14_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_UFkp6T": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_9_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_RLdUAr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/torenia-sexdocka-bezlya-doll-160cm-c-kupa-2-0-tpe-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_T77Grn",
+        "image_RQR7ha",
+        "image_xAqJAK",
+        "image_ywRx9j",
+        "image_HKnN7e",
+        "image_MC4dhT",
+        "image_btfCEL",
+        "image_UFkp6T",
+        "image_RLdUAr"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": false,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_JA7HiL": {
+      "type": "gallery",
+      "blocks": {
+        "image_YkCBGY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_30.jpg"
+          }
+        },
+        "image_H988Qt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_29.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_YkCBGY",
+        "image_H988Qt"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_TCGcCQ": {
+      "type": "gallery",
+      "blocks": {
+        "image_EPtxaB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_33_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_tPBaU6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_31.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_EPtxaB",
+        "image_tPBaU6"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "de8d049f-cebd-4aba-9dc4-8ef56f6a3426": {
+      "type": "gallery",
+      "blocks": {
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_97b4c889-43a0-4f61-8baa-48cbb24c99fa.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_1_74261daf-2a2a-45c7-8507-e474a6929ee6.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_2_fa85d7cc-c2cf-4be7-8764-3a4f289312ca.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_3.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_4_c95bab3e-fa5f-4602-9744-4a4f25c654a0.jpg"
+          }
+        },
+        "image_3Jr9qT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_5_9d27f4fc-984d-4f3a-b7ea-449418fc3b89.jpg"
+          }
+        },
+        "image_a9RdYr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_6_728811d2-dba6-44c5-bccc-2aeffeb319d8.jpg"
+          }
+        },
+        "image_qJTb8i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_7.jpg"
+          }
+        },
+        "image_aq4Ma7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_8_705ca64e-e472-439c-a27a-ec712ba3271a.jpg"
+          }
+        },
+        "image_VLPKVN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_9.jpg"
+          }
+        },
+        "image_M7qb97": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_10.jpg"
+          }
+        },
+        "image_yUVHfB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_11.jpg"
+          }
+        },
+        "image_TnBbXb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_12.jpg"
+          }
+        },
+        "image_iz96Aj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_13.jpg"
+          }
+        },
+        "image_YTAhMz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_14.jpg"
+          }
+        },
+        "image_xmtDKh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_15.jpg"
+          }
+        },
+        "image_REyJPM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_16.jpg"
+          }
+        },
+        "image_NFUAWw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_17.jpg"
+          }
+        },
+        "image_yBzWRH": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "image_Yaiyba": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "image_Ma8dUd": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "image_gmn3tM": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "image_8zcaFk": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "image_9fnybC": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-0",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-2",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-3",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-4",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-5",
+        "image_3Jr9qT",
+        "image_a9RdYr",
+        "image_qJTb8i",
+        "image_aq4Ma7",
+        "image_VLPKVN",
+        "image_M7qb97",
+        "image_yUVHfB",
+        "image_TnBbXb",
+        "image_iz96Aj",
+        "image_YTAhMz",
+        "image_xmtDKh",
+        "image_REyJPM",
+        "image_NFUAWw",
+        "image_yBzWRH",
+        "image_Yaiyba",
+        "image_Ma8dUd",
+        "image_gmn3tM",
+        "image_8zcaFk",
+        "image_9fnybC"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_djjbMr": {
+      "type": "gallery",
+      "blocks": {
+        "image_DyRWhw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_18.jpg"
+          }
+        },
+        "image_DaGGNz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_19.jpg"
+          }
+        },
+        "image_X8brUM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_20.jpg"
+          }
+        },
+        "image_8HrqEj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_21.jpg"
+          }
+        },
+        "image_HWrffT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_22.jpg"
+          }
+        },
+        "image_zEg8ex": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_23.jpg"
+          }
+        },
+        "image_bpmb4d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_24.jpg"
+          }
+        },
+        "image_KRHK9W": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_25.jpg"
+          }
+        },
+        "image_tregUF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_26.jpg"
+          }
+        },
+        "image_CxqGW4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_27.jpg"
+          }
+        },
+        "image_YCgWxX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_28.jpg"
+          }
+        },
+        "image_Yrmqri": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_measurements_docklandet_34_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_DyRWhw",
+        "image_DaGGNz",
+        "image_X8brUM",
+        "image_8HrqEj",
+        "image_HWrffT",
+        "image_zEg8ex",
+        "image_bpmb4d",
+        "image_KRHK9W",
+        "image_tregUF",
+        "image_CxqGW4",
+        "image_YCgWxX",
+        "image_Yrmqri"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_q6qe6n": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_eJEEPP": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_NPqi7z": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_EPiQR9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_2_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_6XHFxy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_13_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_3WAxJp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_Sexdocka_Docklandet_1.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_LbtCCE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_11_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_f7NGab": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_5_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_jyz36W": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_10_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_UfWbxU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_3_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_TbDc3d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bezlya_doll_realistic_dolls_docklandet_8_Sexdocka_Docklandet.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NPqi7z",
+        "image_EPiQR9",
+        "image_6XHFxy",
+        "image_3WAxJp",
+        "image_LbtCCE",
+        "image_f7NGab",
+        "image_jyz36W",
+        "image_UfWbxU",
+        "image_TbDc3d"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_cNTXex": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_JpXXGd",
+    "f9969e49-dbff-4c21-8a98-e67e14a5bcee",
+    "1657633353ab2cfdcf",
+    "main",
+    "1734456890aad90b4b",
+    "featured_text_NGnjBa",
+    "featured_text_ggXcpT",
+    "featured_promotions_eWBUyd",
+    "gallery_JA7HiL",
+    "gallery_TCGcCQ",
+    "de8d049f-cebd-4aba-9dc4-8ef56f6a3426",
+    "gallery_djjbMr",
+    "divider_q6qe6n",
+    "featured_promotions_eJEEPP",
+    "divider_cNTXex",
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "1652224218445a4dc3",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

@@ -1,0 +1,4 @@
+{%- assign tag_start = tag | slice: 0 -%}
+{% if tag_start == "_" or tag contains "no import" %}
+ {% continue %}
+{% endif %}

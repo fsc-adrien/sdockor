@@ -1,0 +1,211 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "65449b32-df22-43b3-8c4a-4c7abfa7e561": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdockor_Halloween_Docklandet_Real_Doll-1_3_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Sexdockor_Halloween_Docklandet_Real_Doll_kopia-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<p>Halloween deals på premium-dockor från Irontech Doll, Starpery, Zelex och WM-Doll! Gäller t.o.m 6/11</p><p><strong>OBS! Erbjudanden gäller för samtliga dockor ur vardera märkes sortiment förutom miniatyrer</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165217872584090210": {
+      "type": "content-page",
+      "disabled": true,
+      "settings": {
+        "content_page": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f923cfb3-411c-40dd-b5cd-af9bb7a66c69": {
+      "type": "featured-promotions",
+      "blocks": {
+        "template--16605078061314__f923cfb3-411c-40dd-b5cd-af9bb7a66c69-166664466210d0953e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Iroontech_Doll_Halloween_Docklandet_Real_Doll_Sexdockor-1_1_Sexdocka_Docklandet_50d23891-337c-4299-b09b-a00f3bb5f6b6.jpg",
+            "link": "shopify://collections/irontech-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "template--16605078061314__f923cfb3-411c-40dd-b5cd-af9bb7a66c69-166664466210d0953e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Sex_Doll_Silicone_TPE_Real_Doll_kopia_NaN-1_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/starpery",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "template--16605078061314__f923cfb3-411c-40dd-b5cd-af9bb7a66c69-166664466210d0953e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyhet_sexdockor_irontech_doll_sexdocka_docklandet_copy_kopia-1.jpg",
+            "link": "shopify://collections/zelex-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "8a5e4ceb-d009-4e9f-9531-3d07e844b498": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wm-doll_extra_huvud_Instagram_docklandet_sexdockor_real_doll-1_Sexdocka_Docklandet_0fcf2667-b3a3-432f-a589-1fa3a8947966.jpg",
+            "link": "shopify://collections/wm-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16605078061314__f923cfb3-411c-40dd-b5cd-af9bb7a66c69-166664466210d0953e-1",
+        "template--16605078061314__f923cfb3-411c-40dd-b5cd-af9bb7a66c69-166664466210d0953e-2",
+        "template--16605078061314__f923cfb3-411c-40dd-b5cd-af9bb7a66c69-166664466210d0953e-0",
+        "8a5e4ceb-d009-4e9f-9531-3d07e844b498"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a888146a-b094-4505-b529-cd4913a44ac2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Irontech Doll (exempel)",
+        "collection_description": false,
+        "collection": "irontech-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "47f3dc8a-db17-452e-980d-5d4e0db9d3c3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Starpery (exempel)",
+        "collection_description": false,
+        "collection": "starpery",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4c42428b-55df-44c0-9b8b-14315376638a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Zelex (exempel)",
+        "collection_description": false,
+        "collection": "zelex-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3cb2e13c-4316-4ae9-be29-3d53669f056c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WM-Doll (exempel)",
+        "collection_description": false,
+        "collection": "wm-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e620c5f4-5371-48be-9864-1834458921c0": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "41323395-209a-4de8-b35b-d09d980e17b8": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdockor_Halloween_Docklandet_Real_Doll_kopia-1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Sexdockor_Halloween_Docklandet_Real_Doll-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1666646823571e1d4e": {
+      "type": "apps",
+      "blocks": {
+        "1b92d18f-e9c8-4b6d-a8c4-9577f2d615e2": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "1b92d18f-e9c8-4b6d-a8c4-9577f2d615e2"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "65449b32-df22-43b3-8c4a-4c7abfa7e561",
+    "165217872584090210",
+    "f923cfb3-411c-40dd-b5cd-af9bb7a66c69",
+    "a888146a-b094-4505-b529-cd4913a44ac2",
+    "47f3dc8a-db17-452e-980d-5d4e0db9d3c3",
+    "4c42428b-55df-44c0-9b8b-14315376638a",
+    "3cb2e13c-4316-4ae9-be29-3d53669f056c",
+    "e620c5f4-5371-48be-9864-1834458921c0",
+    "41323395-209a-4de8-b35b-d09d980e17b8",
+    "1666646823571e1d4e"
+  ]
+}

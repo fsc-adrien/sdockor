@@ -1,0 +1,803 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1652887834adb4ea94": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/rea_sexdocka_docklandet_real_doll_sale-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1><strong>SEXDOCKOR REA </strong></h1><p>Här hittar du dockor till extra nedsatt pris samt information om pågående kampanjer för olika märken.</p>",
+        "button_label": "",
+        "button_link": "#IronTech_Info",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "disabled": true,
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": true,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "featured_text_hkaDeP": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/black_week_sexdocka_real_doll_sexdockor_sverige_docklandet_start2023_kopia_1_Sexdocka_Docklandet_96ec3fb9-1bea-4dcc-bf43-64bc4b54aa6a.jpg",
+        "mobile_image": "shopify://shop_images/sexdocka_start_black_week_docklandet_sexdocka_sverige_real_doll_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h4><strong>BLACK WEEK 2024</strong></h4><p>Här nedan kan du se kampanjer från våra samarbetspartners! Flera uppgraderingar och extra tillbehör medföljer, värde ända upp till 15 000 kr (gäller olika för olika märken). När du lägger en order på en docka från någon av våra märken som har Black Week kampanjer igång, så kommer dessa uppgraderingar automatiskt inkluderas med dockan du beställer. Är det någon uppgradering du ej önskar, så kan du \"klicka av\" den när du lägger order, alternativt skriva dina önskemål i meddelandefälter eller kontakta oss. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e78123ea-5ae0-42d0-8d60-c54287b5af13": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_n4ABX6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Real_Lady_promotion_kampanj_silicone_august_summer_sale_rea_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/real-lady",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_mD4J9U": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_promotion_kampanj_silicone_august_summer_sale_rea_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/irontech-doll-silicone-real-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_cktEwi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SEDOLL_TPE_promotion_september_kampanj_sale_2025_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/se-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_9WJ4fx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SEDOLL_silicone_promotion_september_kampanj_sale_2025_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/se-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_Dqr8P9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/funwest_silicone_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet..jpg",
+            "link": "shopify://collections/funwest-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_V9cxWU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/funwest_tpe_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet_b5a74387-d8e7-4421-bf27-347395a55f65.jpg",
+            "link": "shopify://collections/funwest-doll-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_4Amn9x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lusandy_Doll_promotion_kampanj_silicone_september_summer_sale_rea_2025_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/lusandy-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_4hqbdV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TOP_CYDOLL_promotion_kampanj_rea_sale_september_Banner_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/top-cydoll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_g4afdh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Galatea_silicone_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/galatea-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_Yn4LUf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/JKDoll_Promotion_kampanj_september_Sexdocka_Docklandet_Sexdocka_Docklandet_7afc6366-c8ca-4deb-9129-53b04ee15f9e.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_n4ABX6",
+        "image_mD4J9U",
+        "image_cktEwi",
+        "image_9WJ4fx",
+        "image_Dqr8P9",
+        "image_V9cxWU",
+        "image_4Amn9x",
+        "image_4hqbdV",
+        "image_g4afdh",
+        "image_Yn4LUf"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "",
+        "feature_style": "rounded",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_xdYE9f": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_NRLp6H": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WMDoll_Promotion_kampanj_september_Sexdocka_Docklandet_Sexdocka_Docklandet_ba2de59b-d1c5-42a4-9b9c-771f4ba45d0c.jpg",
+            "link": "shopify://collections/wm-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_BXn7QR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AKDoll_Promotion_kampanj_september_Sexdocka_Docklandet_Sexdocka_Docklandet_9d829edd-8aaf-46ee-8323-7f083a75d14d.jpg",
+            "link": "shopify://collections/ak-doll-angel-kiss-doll-silicone",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_MjK6cH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_promotion_kampanj_rea_sale_september_summer_Banner_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/starpery",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_dTDcpK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Fanreal_promotion_kampanj_rea_sale_september_Banner_Sexdocka_Docklandet_b9dac9c0-64ab-46e2-b5a2-193d489c092e.jpg",
+            "link": "shopify://collections/fanreal-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_zrTnXj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ridmii_promotion_hybrid_kampanj_rea_sale_september_Banner_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/ridmii",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_mt8bf7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Topfiredoll_silicone_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/top-fire-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_3kkeaJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lushdoll_promotion_kampanj_rea_sale_july_summer_Banner_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/lushdoll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_UCcA47": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Dolls_castle_silicone_TPE_september_promotion_rea_sale_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/dolls-castle",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_HVgnRW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sigafun_silicone_TPE_promotion_august_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/sigafun",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_Tm67Dy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XTDoll_silicone_promotion_september_kampanj_sale_2025_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/xtdoll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NRLp6H",
+        "image_BXn7QR",
+        "image_MjK6cH",
+        "image_dTDcpK",
+        "image_zrTnXj",
+        "image_mt8bf7",
+        "image_3kkeaJ",
+        "image_UCcA47",
+        "image_HVgnRW",
+        "image_Tm67Dy"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": false,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "",
+        "feature_style": "rounded",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_kQeddP": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Gamelady_silicone_promotion_september_bayonetta_eve_rea_kampanj_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "shopify://collections/game-lady-doll",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_8rgLFf": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_VenmR9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "black-week-2024-express",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_9r6qj9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "black-week-2024",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "14d79d85-20aa-48c2-9fd3-b7f3c78ded36": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "52ca13d1-df97-49ca-a259-908d1e77d254": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-rea",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "fedc3ef5-abde-45aa-a641-6ce17c9e0dfd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "el-doll-torso",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 10,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "539588f9-e369-4d27-92ad-c5abd7201a73": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "d1fc4475-5593-40f4-8fdc-54aee9f721bd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/wm-doll_sex_dolls_tpe_docklandet_sexdockor_real_doll_sweden-1_1_Sexdocka_Docklandet_85abfe61-0248-4345-abe2-fe70341f1753.jpg",
+            "title": "WM-Doll (TPE)",
+            "heading_size": "regular_text",
+            "text": "<p>- Extra huvud (välj mellan 400+ huvuden)<br/>- Extra peruk (välj mellan 15 olika)<br/>- Uppgraderade händer (med leder)<br/>- Uppgraderad mun (större, med tunga)<br/>- Kroppsmålning (vener, rodnad, mm)<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "template--16713285959938__539588f9-e369-4d27-92ad-c5abd7201a73-1678450760cdbed547-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_TPE-1_Sexdocka_Docklandet_ca5c406a-8351-4982-b860-3c98fd86afc8.jpg",
+            "title": "Irontech Doll (TPE)",
+            "heading_size": "regular_text",
+            "text": "<p>- Uppgraderad mun (större, med tunga)<br/>- Kroppsmålning (vener, rodnad, mm)<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Viktreducering (tar bort runt 5 kg)<br/>- Implanterade ögonbryn och fransar<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "template--16713285959938__539588f9-e369-4d27-92ad-c5abd7201a73-1678450760cdbed547-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_4_Sexdocka_Docklandet.jpg",
+            "title": "Zelex (Silikon+TPE)",
+            "heading_size": "regular_text",
+            "text": "<p>- Huvud med rörlig käke (valfritt)<br/>- Kroppsmålning (vener, rodnad, mm)<br/>- Uppgraderade händer (med leder)<br/>- Premium ögon (rörliga med vener)<br/>- Viktreducering (tar bort 5-10 kg)<br/>- Implanterade ögonbryn och fransar<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "eb7b73d3-d22a-4403-8f7c-1b64df344fc1": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "73426e33-31e9-49c5-9fc7-fafac2c7e716": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "d1fc4475-5593-40f4-8fdc-54aee9f721bd",
+        "template--16713285959938__539588f9-e369-4d27-92ad-c5abd7201a73-1678450760cdbed547-0",
+        "template--16713285959938__539588f9-e369-4d27-92ad-c5abd7201a73-1678450760cdbed547-1",
+        "eb7b73d3-d22a-4403-8f7c-1b64df344fc1",
+        "73426e33-31e9-49c5-9fc7-fafac2c7e716"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5228f104-6003-4832-9667-ae71906eaa59": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "b986461f-4617-4918-a1cf-1d071e3802f7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Starpery_Sex_Doll_Docklandet_Real_Doll_Silcone_TPE_Sexdocka_Docklandet_7df357a3-d52f-4a6a-ab69-88fa50040ed1.jpg",
+            "title": "Starpery (Silikon+TPE)",
+            "heading_size": "regular_text",
+            "text": "<p>- Kroppsmålning (vener, rodnad, mm)<br/>- Premium ögon (rörliga med vener)<br/>- Viktreducering (tar bort 5-10 kg)<br/>- Implanterade ögonbryn och fransar<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Mjukt huvud istället för hårt (valfritt)<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "template--16713285959938__5228f104-6003-4832-9667-ae71906eaa59-1678450760cdbed547-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_silikon-1_Sexdocka_Docklandet_92836791-a901-451f-ba7c-c0eeff82ebb4.jpg",
+            "title": "Irontech Doll (Silikon)",
+            "heading_size": "regular_text",
+            "text": "<p>- Hårda händer + fötter<br/>- Uppgraderade händer (med leder)<br/>- Kroppsmålning (vener, rodnad, mm)<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Premium ögon (rörliga)<br/>- Viktreducering (tar bort 5-10 kg)<br/>- Implanterade ögonbryn och fransar<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Extra mjuk insida av vagina<br/>- Stående fot (dockan kan stå)<br/>- Mjukt huvud istället för hårt (valfritt)<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "shopify://collections/starpery",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "eaaea49c-8475-4327-8d67-624bd5ec3841": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Zelex_Docklandet_Real_Doll_Sexdockor_2_Stor_57511f74-93db-4a05-a8df-a0c189995f1f.jpg",
+            "title": "Zelex (Silikon)",
+            "heading_size": "regular_text",
+            "text": "<p>- Huvud med rörlig käke (valfritt)<br/>- Kroppsmålning (vener, rodnad, mm)<br/>- Uppgraderade händer (med leder)<br/>- Hårdare händer/fotsulor (inga bultar)<br/>- Premium ögon (rörliga)<br/>- Viktreducering (tar bort 5-10 kg)<br/>- Implanterade ögonbryn och fransar<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Matt hy, inte lika glansig (valfri) <br/>- Utbytbar vagina premium (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "template--16713285959938__5228f104-6003-4832-9667-ae71906eaa59-1678450760cdbed547-0": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Docklandet_Piper_Doll_topp10banner-1_Sexdocka_Docklandet_66e236ff-176c-4584-ae71-4085b03e5a85.jpg",
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "b986461f-4617-4918-a1cf-1d071e3802f7",
+        "template--16713285959938__5228f104-6003-4832-9667-ae71906eaa59-1678450760cdbed547-1",
+        "eaaea49c-8475-4327-8d67-624bd5ec3841",
+        "template--16713285959938__5228f104-6003-4832-9667-ae71906eaa59-1678450760cdbed547-0"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ea2c1268-9f28-4a5d-94c9-0cb69fec3295": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--16721486020866__ea2c1268-9f28-4a5d-94c9-0cb69fec3295-168063458190ab3b59-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_5_Sexdocka_Docklandet.jpg",
+            "title": "Piper Doll (TPE)",
+            "heading_size": "regular_text",
+            "text": "<p>- Uppgraderad mun (större, med tunga)<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Platinum TPE (extra mjuk)<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "template--16721486020866__ea2c1268-9f28-4a5d-94c9-0cb69fec3295-168063458190ab3b59-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_5_Sexdocka_Docklandet.jpg",
+            "title": "Piper Doll (Silikon)",
+            "heading_size": "regular_text",
+            "text": "<p>- Viktreducering (5-10 kg)<br/>- Hårdare händer/fotsulor (inga bultar)<br/>- Kroppsmålning (vener, rodnad, mm)<br/>- Uppgraderat skelett och axlar (EVO)<br/>- Platinum Silikon (extra mjuk)<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Piper Doll Official Outfit ingår<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "99ce5d09-7260-427c-a8b2-7e54485c575e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_Sexdocka_Docklandet.jpg",
+            "title": "Irokebijin (TPE eller Silikon)",
+            "heading_size": "regular_text",
+            "text": "<p>- Irokebijin Official Outfit (endast silikon)<br/>- Hårdare händer/fotsulor (endast silikon)<br/>- Kroppsmålning (endast silikon)<br/>- Platinum TPE (extra mjuk, endast TPE)<br/>- Extra mjuka bröst (gel-fyllda)<br/>- Stående fot (dockan kan stå)<br/>- Utbytbar vagina (valfritt)<br/>- Hår på vagina (valfritt)</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721486020866__ea2c1268-9f28-4a5d-94c9-0cb69fec3295-168063458190ab3b59-0",
+        "template--16721486020866__ea2c1268-9f28-4a5d-94c9-0cb69fec3295-168063458190ab3b59-1",
+        "99ce5d09-7260-427c-a8b2-7e54485c575e"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5e6edd5a-dbbc-4678-b3c1-55a81c277dcb": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/1366x768_white_copy_mobile3.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "shopify://pages/klarna-sexdockor",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "dfad159a-7d50-40ec-ac9a-710987b6635c": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/billiga_sexdockor_docklandet_sexdocka_sverige_real_doll2-1_1_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "mobile_image": "shopify://shop_images/billiga_sexdockor_docklandet_sexdocka_sverige_real_doll_2-1_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "",
+        "content": "<p>Prisvärda sexdockor av hög kvalitet från Aibei Doll och DX Value. Vi har håller alltid ett extra lågt pris på dessa dockor och vi kan erbjuda snabb leverans på många av våra billiga sexdockor. Detta är väldigt fina och prisvärda dockor, dock ej inte lika uppgraderare som dyrare sexdockor</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5171f20a-471c-4f70-9ca3-48da947ca904": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-dx-value",
+        "collection_style": "grid",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "39aae6a4-37e7-41f7-99cc-67228695cbf5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "aibei-doll",
+        "collection_style": "grid",
+        "products_per": 7,
+        "products_limit": 42,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ccc1e347-cea9-4a00-b23e-d42884c6a2da": {
+      "type": "collection-list",
+      "blocks": {
+        "cc83d4a1-e496-4c82-a066-73998f0a06ba": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "d8da1564-1adb-4263-9830-b0cfc712a038": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "900192c0-25d0-42f4-82af-a5e256b41dc7": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "blond-sexdocka"
+          }
+        },
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdocka-brunett-brown-hair"
+          }
+        }
+      },
+      "block_order": [
+        "cc83d4a1-e496-4c82-a066-73998f0a06ba",
+        "d8da1564-1adb-4263-9830-b0cfc712a038",
+        "900192c0-25d0-42f4-82af-a5e256b41dc7",
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-2",
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-0",
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Något mer specifikt?",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "42a3ba20-8cb6-4d07-9cfd-9fa7573b765b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Prisvärda sexdockor",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4aa35c2a-b579-4737-986f-362ae58139e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b8448781-6d8a-4008-97e6-529bbccccb8b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": true,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1652887834adb4ea94",
+    "main",
+    "featured_text_hkaDeP",
+    "e78123ea-5ae0-42d0-8d60-c54287b5af13",
+    "featured_promotions_xdYE9f",
+    "image_with_text_overlay_kQeddP",
+    "divider_8rgLFf",
+    "featured_collection_VenmR9",
+    "featured_collection_9r6qj9",
+    "14d79d85-20aa-48c2-9fd3-b7f3c78ded36",
+    "52ca13d1-df97-49ca-a259-908d1e77d254",
+    "fedc3ef5-abde-45aa-a641-6ce17c9e0dfd",
+    "539588f9-e369-4d27-92ad-c5abd7201a73",
+    "5228f104-6003-4832-9667-ae71906eaa59",
+    "ea2c1268-9f28-4a5d-94c9-0cb69fec3295",
+    "5e6edd5a-dbbc-4678-b3c1-55a81c277dcb",
+    "dfad159a-7d50-40ec-ac9a-710987b6635c",
+    "5171f20a-471c-4f70-9ca3-48da947ca904",
+    "39aae6a4-37e7-41f7-99cc-67228695cbf5",
+    "ccc1e347-cea9-4a00-b23e-d42884c6a2da",
+    "42a3ba20-8cb6-4d07-9cfd-9fa7573b765b",
+    "4aa35c2a-b579-4737-986f-362ae58139e6",
+    "b8448781-6d8a-4008-97e6-529bbccccb8b"
+  ]
+}

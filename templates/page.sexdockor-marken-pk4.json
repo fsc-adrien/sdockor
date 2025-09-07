@@ -1,0 +1,291 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "settings": {}
+    },
+    "1e5ff891-0fff-4a94-b586-5c301f3e5b73": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Zelex_Docklandet_Real_Doll_Sexdockor_2_Stor_765fd28a-eeb6-4c50-8459-89f23d473cc9.jpg",
+        "title": "",
+        "content": "<h3><strong>Zelex Doll (Silikon)</strong></h3><p>Zelex är en av världens främsta tillverkare av dockor. Sexdockor från Zelex är av absolut högsta kvalitet och finns i versioner gjorda både av TPE eller helt i silikon. Nedan ser du exempel på populära silikon-dockor från Zelex. En Zelex-docka är utrustad med de senaste funktionerna på marknaden.</p>",
+        "button_label": "SE ALLA ZELEX DOLL'S",
+        "button_link": "shopify://collections/zelex-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "625e1691-f9f7-4c2e-a2f1-c5c03bb4d5e7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "zelex-populara-dockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/fanreal_doll_banner_silicone_doll_docklandet_sex_dolls_copy-1_1_Sexdocka_Docklandet_c1df8335-001d-4df9-bcb9-b372bee13f22.jpg",
+        "title": "",
+        "content": "<h3><strong>FanReal Doll (Silikon)</strong></h3><p>FanReal är ett väletablerat namn kända för sina exklusiva silikon-dockor. Om du söker de senaste funktionerna på marknaden samt design och kvalitet på högsta nivå så är en docka från FanReal ett bra val. FanReal's modeller har ofta ett jordnära men samtidigt perfekt utseende.</p>",
+        "button_label": "SE ALLA FANREAL DOLL'S",
+        "button_link": "shopify://collections/fanreal-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "fanreal-bestsellers",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d7028397-9aba-4f4b-a015-9bc47ab8c93c": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka-1_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Game Lady Doll (Silikon)</strong></h3><p>Game Lady Doll's extremt realistiska silikondockor är så kallade cosplay-dockor och av absolut högsta kvalitet. En cosplay-docka innebär att dockan har utseende och stil inspirerad av en känd karaktär från till exempel en film eller ett spel.<strong> </strong>Vi är officiell distributör för Game Lady i Norden.</p>",
+        "button_label": "SE ALLA GAME LADY DOLL'S",
+        "button_link": "shopify://collections/game-lady-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8edac57b-bacd-4df1-99c1-f6c666b84022": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-game-lady-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b0f8111b-407e-48fc-9afe-c8c6f521a315": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Starpery_Sex_Doll_Docklandet_Real_Doll_Silcone_TPE_a6ec9efe-ca9c-4d06-99b1-f36762ef4801.jpg",
+        "title": "",
+        "content": "<h3><strong>Starpery Doll (Silikon)</strong></h3><p>Dockor från Starpery säljs i hybridversion som standard med går att uppgradera till helt i silikon för ca 7000 kr (620€). Starpery är kända för enorm detaljrikedom, unika utseenden samt egen typ av kroppar med viktreduktion och annan typ av värmesystem. </p>",
+        "button_label": "SE ALLA STARPERY DOLL'S",
+        "button_link": "shopify://collections/starpery",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7404af3f-040e-46b2-b141-ad6147a9cb00": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-starpery-tpe-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "09fefcb5-ff9f-4e90-af53-ace6ed2a27db": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Piper_Doll_banner_Sexdocka_Docklandet_ec6a0c4c-dd48-4f33-93bc-b859727dece9.jpg",
+        "title": "",
+        "content": "<h3><strong>Piper Doll (Silikon)</strong></h3><p>Silikondockor av högsta kvalitet från världskända Piper Doll. Dockorna har alltid huvud och kropp helt ihopsatta, det går alltså inte att skruva av huvudet. De är kända för att ha en unik surrealistisk stil på sina dockor.<strong> </strong>Nedan ser du exempel på populära silikon-dockor (finns även i TPE).</p>",
+        "button_label": "SE ALLA PIPER DOLL'S",
+        "button_link": "shopify://collections/piper-doll-sexdockor",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5fdd4ae1-e86c-4f88-b37c-326df5baf58b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "piper-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9535adaa-507d-4374-8182-b9f66e3be7cf": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/elsababe_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Elsa Babe Doll (silikon)</strong></h3><p>Elsa Babe utmärker sig med dockor som har en lätt surrealistisk stil. Sexdockor från Elsa Babe är gjorda av silikon och är av absolut högsta kvalitet.<strong> </strong>Elsa Babe är ett unikt märke med egen design/produktion och helt egna typer av dockor som inte går att hitta hos andra fabrikat.</p>",
+        "button_label": "SE ALLA ELSA BABE'S",
+        "button_link": "shopify://collections/elsa-babe-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "eb7a290c-7f47-4a44-96bc-303e5dae52dc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "populara-elsa-babe-dockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8d6b47b1-1a62-4c3b-9dbd-7899e6641ee1": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/real_lady_doll_banner_silicone_doll_docklandet_sex_dolls-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Real Lady Doll (Silikon)</strong></h3><p>Silikondockor från Real Lady är fullt uppgraderade med de senaste funktionerna på marknaden. För dig som söker en exklusiv silikon-docka är verkligen Real Lady något att spana in. Real Lady har ett nära samarbete med väletablerade och erfarna tillverkaren Irontech Doll. </p>",
+        "button_label": "SE ALLA REAL LADY'S",
+        "button_link": "shopify://collections/real-lady",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f9a78517-5ed8-4509-a45e-77681ca17a92": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "real-lady",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8aafb447-ea89-496a-84f9-15e2dc83fab6": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Tayu_Doll_Sexdockor_Docklandet_Real_Doll_banner_3_Sexdocka_Docklandet_4c001173-f3d2-4eca-9f79-ec42a4cb0c9b.jpg",
+        "title": "",
+        "content": "<h3><strong>Tayu Doll (Silikon)</strong></h3><p>Tayu Doll är ett relativt nytt märke men har redan blivit ett känt namn i dock-värden. Tayu utmärker sig genom att designa dockor framtagna för att uppfylla även de mest kräsna dock-entusiasters behov. Tayu's dockor är exklusiva och utrustade med en egen typ av viktreduktion.</p>",
+        "button_label": "SE ALLA TAYU DOLL'S",
+        "button_link": "shopify://collections/tayu-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "42b84d16-de00-4330-89e9-a35d2827508e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": true,
+        "collection": "populara-tayu-dolls",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "41bb2ecf-d41b-4271-8283-0ad3bc62089d": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/gynoid_docklandet_sexdocka-1_Sexdocka_Docklandet_f2d36288-ad39-43a7-823d-3732c84c80d3.jpg",
+        "title": "",
+        "content": "<h3><strong>Gynoid (Silikon)</strong></h3><p>Gynoid är en fantastisk designer och tillverkare av naturtrogna, hyperrealistiska sexdockor i silikon. En silikondocka från Gynoid är bland det mest exklusiva som går att hitta i dockvärlden.</p>",
+        "button_label": "SE ALLA GYNOID DOLL'S",
+        "button_link": "shopify://collections/gynoid-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e66de0aa-4653-46c3-903e-74dc337922d7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "gynoid-popular-2",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_kBPez3": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1e5ff891-0fff-4a94-b586-5c301f3e5b73",
+    "625e1691-f9f7-4c2e-a2f1-c5c03bb4d5e7",
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f",
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c",
+    "d7028397-9aba-4f4b-a015-9bc47ab8c93c",
+    "8edac57b-bacd-4df1-99c1-f6c666b84022",
+    "b0f8111b-407e-48fc-9afe-c8c6f521a315",
+    "7404af3f-040e-46b2-b141-ad6147a9cb00",
+    "09fefcb5-ff9f-4e90-af53-ace6ed2a27db",
+    "5fdd4ae1-e86c-4f88-b37c-326df5baf58b",
+    "9535adaa-507d-4374-8182-b9f66e3be7cf",
+    "eb7a290c-7f47-4a44-96bc-303e5dae52dc",
+    "8d6b47b1-1a62-4c3b-9dbd-7899e6641ee1",
+    "f9a78517-5ed8-4509-a45e-77681ca17a92",
+    "8aafb447-ea89-496a-84f9-15e2dc83fab6",
+    "42b84d16-de00-4330-89e9-a35d2827508e",
+    "41bb2ecf-d41b-4271-8283-0ad3bc62089d",
+    "e66de0aa-4653-46c3-903e-74dc337922d7",
+    "divider_kBPez3"
+  ]
+}

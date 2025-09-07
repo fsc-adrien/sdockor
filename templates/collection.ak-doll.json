@@ -1,0 +1,434 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_trnjh4": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/ak_doll_angel_kiss_doll_banner_docklandet_wide-1_3_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "",
+        "content": "<h2>Angel Kiss Doll (AK-Doll) – Realistiska silikonsexdockor</h2><p>Angel Kiss Doll, även kallat AK-Doll, är kända för sina högkvalitativa silikonsexdockor med naturtrogen känsla och noggrant handgjorda detaljer. Märket samarbetar nära med WM-Doll, vilket innebär att du kommer känna igen flera populära ansikten och kroppstyper – men till en mer konkurrenskraftig nivå.</p><p>För dig som drömt om en realistisk WM-Doll i silikon är AK-Doll ett perfekt alternativ. Dockorna kombinerar exklusiv design, hållbarhet och verklighetstrogen känsla, vilket gör dem till ett av de mest attraktiva märkena på marknaden.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1657633353ab2cfdcf": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/zelex_hybrid_sexdockor_docklandet_kopia-1_1_Sexdocka_Docklandet.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_KN6HLw": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/AKDoll_Promotion_kampanj_september_Sexdocka_Docklandet_Sexdocka_Docklandet_9d829edd-8aaf-46ee-8323-7f083a75d14d.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "afd7f7d9-653f-432d-8ff6-e02b7116a749": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "afd7f7d9-653f-432d-8ff6-e02b7116a749"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 28,
+        "toggle": false
+      }
+    },
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "17383151288ecf6a73": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_Ee4qU9": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38339",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_Ee4qU9"
+      ],
+      "settings": {}
+    },
+    "featured_text_mArUxN": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>AK-Doll (Angel Kiss Doll) – Realistiska silikonsexdockor</h2><p>AK-Doll, även kallat <strong>Angel Kiss Doll</strong>, är känt för sina högkvalitativa silikonsexdockor som kombinerar realism, detaljer och hållbarhet. Märket har ett nära samarbete med WM-Doll, vilket gör att många ansikten och kroppstyper känns igen från deras populära kollektioner. Dockorna är tillverkade i förstklassigt silikon och erbjuder samma funktioner som WM-Dolls TPE-modeller – men i en exklusivare silikonversion.</p><h3>Funktioner hos AK-Doll</h3><ul><li><br/>Uppgraderade händer med leder<br/></li><li><br/>Gel-fyllda bröst för mjuk känsla<br/></li><li><br/>Extra rörligt EVO-skelett<br/></li><li><br/>Realistisk kroppsmålning och hudstruktur<br/></li><li><br/>Stående fötter som standard<br/></li></ul><h3>Varför välja AK-Doll?</h3><p>AK-Doll fokuserar på <strong>hyperrealism</strong> – dockorna är målade för att efterlikna verklig hud, ansiktsuttryck och kroppens proportioner. Varje modell är noggrant tillverkad för att ge en så autentisk känsla som möjligt.</p><p>De erbjuder även <strong>anpassningsmöjligheter</strong>: välj hårfärg, ögonfärg, kroppstyp och kläder för att skräddarsy din docka. Vissa modeller kan även utrustas med röstmoduler och interaktiva funktioner.</p><h3>Hållbarhet och kvalitet</h3><p>Dockorna tillverkas i premium-silikon, vilket gör dem både mjukare och mer slitstarka. Materialet är lätt att rengöra och konstruerat för att hålla länge. Varje docka kvalitetskontrolleras noggrant innan leverans.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_JEp8fc": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_87QLRA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_1.jpg",
+            "link": "shopify://products/elsa-sexdocka-ak-doll-168cm-d-kupa-ls-43-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_TyqbkL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_2.jpg",
+            "link": "shopify://products/navi-sexdocka-ak-doll-164cm-d-kupa-ls-45-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_gdH8mA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_4.jpg",
+            "link": "shopify://products/lena-sexdocka-ak-doll-162cm-c-kupa-ls-31-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_fUfCXn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_7.jpg",
+            "link": "shopify://products/ak8-sexdocka-ak-doll-168cm-d-kupa-ls35-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_NQG8LK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_3.jpg",
+            "link": "shopify://products/inessa-sexdocka-ak-doll-162cm-c-kupa-ls-45-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_kRW9tY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner.jpg",
+            "link": "shopify://products/tina-sexdocka-ak-doll-168cm-d-kupa-ls-53-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_4eYXDf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_6.jpg",
+            "link": "shopify://products/ak6-sexdocka-ak-doll-157cm-f-kupa-ls46-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_RPKcLj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_edd3b217-2281-4db4-b2da-e58fd9c884cc.jpg",
+            "link": "shopify://products/lucy-sexdocka-ak-doll-167cm-a-kupa-ls-45-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_RCcnnh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak-doll_silicone_dolls_jinsan_sexdocka_dockalndet_banner_1_5cb5c6d2-c0c2-4a3b-9ece-3f5d8ddea3e6.jpg",
+            "link": "shopify://products/xia-sexdocka-ak-doll-164cm-d-kupa-silicone-s23",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_87QLRA",
+        "image_TyqbkL",
+        "image_gdH8mA",
+        "image_fUfCXn",
+        "image_NQG8LK",
+        "image_kRW9tY",
+        "image_4eYXDf",
+        "image_RPKcLj",
+        "image_RCcnnh"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9fd2389b-a9cf-4b64-b81b-9709782c1a93": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya silikondockor",
+        "collection_description": true,
+        "collection": "nyheter-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5ac16d04-fe6c-4469-9281-db4e531f4c07": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": true,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_3jw6xR": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Silikondockor i lager",
+        "collection_description": false,
+        "collection": "silikon-dockor-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_trnjh4",
+    "1657633353ab2cfdcf",
+    "image_with_text_overlay_KN6HLw",
+    "main",
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1",
+    "17383151288ecf6a73",
+    "featured_text_mArUxN",
+    "featured_promotions_JEp8fc",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd",
+    "1650824619c8dde57c",
+    "9fd2389b-a9cf-4b64-b81b-9709782c1a93",
+    "5ac16d04-fe6c-4469-9281-db4e531f4c07",
+    "featured_collection_3jw6xR",
+    "1652224218445a4dc3",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

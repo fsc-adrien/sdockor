@@ -1,0 +1,284 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "settings": {
+        "toggle": false
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "form": {
+          "type": "form",
+          "settings": {}
+        },
+        "text_TRaQCa": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><strong>LEVERANS OCH BETALNING</strong></h6><ul><li><strong>Fri frakt:</strong> Frakt, tullavgift och skatt är inkluderat i dockans pris<br/>OBS För kunder i UK/NO/CH/LI tillkommer importmoms</li><li><strong>Expressleverans:</strong> 2 - 5 arbetsdagar (från våra lager, SE/EU/US)</li><li><strong>Ej i lager eller modifierad docka:</strong> 3 - 5 veckor (efter produktion)</li><li><strong>Betalningsalternativ:</strong> Kort (Debit/Kredit), PayPal, Google Pay</li><li>För mer info se vår leveranspolicy <a href=\"https://docklandet.se/policies/shipping-policy\" target=\"_blank\" title=\"https://docklandet.se/policies/shipping-policy\"><strong>här</strong></a></li></ul>"
+          }
+        },
+        "af487565-3702-4186-b560-c51481823314": {
+          "type": "tabs",
+          "settings": {
+            "show_product_description": false,
+            "show_tabs_below_product_gallery": true,
+            "tab_heading_1": "Galatea - Docklandet",
+            "tab_text_1": "<h3>- GALATEA DOLL -</h3><p>Docklandet.se är auktoriserad samarbetspartner och officiell distributör för Galatea i Europa och kan erbjuda våra kunder förmånliga priser på deras dockor. </p><p>Sexdockor från Galatea Doll har alltid följande premium-egenskaper: </p><ul><li><strong>Rörlig käke</strong> (gäller utvalda huvuden)</li><li><strong>Kroppsmålning</strong> (vener, rodnad, mm)</li><li><strong>Implanterade</strong> ögonbryn och fransar</li><li><strong>Extra rörligt skelett och axlar</strong> (EVO)</li><li><strong>Gel-fyllda bröst</strong> (känns mer realistiska) </li><li><strong>Uppgraderade händer</strong> (fingrar med leder)</li><li><strong>Händer av extra hård silikon</strong> (realism och hållbarhet)</li><li><strong>Stående fot</strong> (med hård fotsula)</li></ul><p>Galatea Doll är en erfaren tillverkare av realistiska dockor. Om du söker de senaste funktionerna på marknaden samt design och kvalitet på högsta nivå så kan en docka från Galatea vara ett bra val. </p>",
+            "tab_heading_2": "Ändra utseende - Uppgraderingar - Tillbehör",
+            "tab_text_2": "<h6><strong>Egenskaper sexdocka</strong></h6><ul><li>Våra sexdockor har flera premiumegenskaper</li><li>Du kan se i de små rutorna ovan vilka egenskaper dockor av detta fabrikat har</li><li>Även i beskrivningen av detta märke kan du hitta information</li><li>Vilka egenskaper och funktioner dockor har skiljer sig mellan olika märken</li><li>Storlek och om dockan är gjord av TPE eller silikon påverkar också</li></ul><h6><strong>Modifiera dockas utseende</strong></h6><ul><li>Dockans standardutförande är det som visas på produktbilderna. Har dockan flera stilar så är standardutförande den stil som används på de första bilderna</li><li>Du kan modifiera din docka. Att ändra dockans utseende kostar inget extra. Du kan byta hudfärg, ögonfärg, peruk, mm</li><li>För att ändra din dockas utseende så trycker du på knappen \"modifiera docka\" innan du lägger i varukorgen</li><li>Om du ändrar utseende så behöver dockan tillverkas efter dina önskemål. Produktionstid skiljer sig mellan märken, normalt tar det runt 1 vecka att tillverka en TPE-docka och ungefär 3 veckor för en av silikon</li><li>När dockan producerats så får vi fabriksbilder för inspektion. Om kund önskar så delar vi dessa</li><li>Efter att vi godkänt bilderna så paketeras dockan ordentligt och skickas</li></ul><h6><strong>Uppgradera docka</strong></h6><ul><li>De flesta dockor går att uppgradera, men många uppgraderingar kostar extra</li><li>En del uppgraderingar är inkluderade i standardutförande för dockor</li><li>Vilka uppgraderingar som är inkluderade eller går att välja på skiljer sig mellan olika märken</li><li>Uppgraderingar behöver nödvändigtvis inte göra en docka bättre men i många fall kan det förbättra utseende eller upplevelse av en docka</li><li>För att uppgradera en docka så väljer du \"modifiera docka\" innan du lägger i varukorgen</li><li>Dockans pris uppdateras automatiskt om du väljer att lägga till en uppgradering</li><li>De flesta uppgraderingar kräver att dockan tillverkas i fabrik</li></ul><h6><strong>Tillbehör</strong></h6><ul><li>Det ingår alltid flera tillbehör med våra dockor, men vilka tillbehör som ingår skiljer sig mellan olika märken</li><li>Du kan se i de små rutorna ovan vilka tillbehör ingår med dockan. Dessa medföljer utan extra kostnad</li><li>Vi har även en hel del andra tillbehör som du kan beställa tillsammans med en docka eller separat</li><li>För att se fler tillbehör så trycker du på rutan \"Tillbehör\" innan du lägger i varukorgen</li><li>Vanliga tillbehör att beställa till en docka är extra peruker, alternativa ögon, insats för tänder, shemale dildos, klädesplagg</li><li>Andra tillbehör som är vanliga är glidmedel och även produkter för lagning såsom talk, TPE-lim och TPE fläckborttagnings-salva</li><li>Det är även vanligt att beställa extra huvuden till dockor. Alla märken utom Piper Doll och Irokebijin har samma typ av anslutning för huvud i dockans hals</li></ul><h6><strong>Övrigt, bra att veta</strong></h6><ul><li>Standarddjup på öppningar är 18 cm för vagina, 16 cm för anal och 10 cm för mun. Detta kan dock kan variera mellan märken och storlekar. Öppningarna är ofta något flexibla på insidan</li><li>Silikon-huvuden är hårda som standard med sluten mun, men går ofta att få som mjuka med munöppning för oral funktion. <br/>TPE-huvuden är mjuka och har munöppning</li><li>Fotografer använder ofta egna peruker, kläder, accessoarer och styling för att lyfta dockans utseende för en fotosession, och vi kan inte garantera att man får exakt samma peruk som på bilderna. Klädesplaggen och eventuella accessoarer på bilderna ingår ej, men man får oftast med ett standard-plagg i sin beställning</li><li>Dockorna kan ibland ha uppgraderingar på bilderna, såsom silikon-kropp, hår-implantat och realistisk kroppsmålning. Dessa tillval är vanligtvis inte inkluderade utan kostar extra, och kan hittas under dockans uppgraderingar</li><li>Kroppsvikt och längd kan avvika något då varje docka är unik och i stort sett tillverkad för hand, och kan också skilja på grund av eventuella uppgraderingar samt tillval man gör</li></ul>",
+            "tab_heading_3": "Mer information",
+            "tab_text_3": "<h6><strong>Information - Sexdockor</strong></h6><ul><li><a href=\"https://docklandet.se/pages/sexdockor-faq\"><span style=\"text-decoration:underline\"><strong>F.A.Q.</strong></span></a> - Vanliga frågor och svar</li><li><a href=\"https://docklandet.se/blogs/sexdockor/tpe-eller-silikon-vilket-material-ska-du-valja\"><span style=\"text-decoration:underline\"><strong>TPE vs Silikon</strong></span></a> - Jämför material inför köp</li><li><a href=\"https://docklandet.se/pages/fabriksbilder-sexdockor\"><span style=\"text-decoration:underline\"><strong>Fabriksbilder</strong></span></a> - Oredigerade bilder från tidigare ordrar</li></ul><h6><strong>Docklandet - Kontakt</strong></h6><ul><li><strong>Mail:</strong> info@docklandet.se</li><li><strong>Telefon:</strong> +46 (0) 10 641 06 66</li><li><strong>Dalarna Exclusive AB</strong> (559265-0468)</li></ul><h6><strong>Leverans</strong></h6><ul><li><strong>Fri frakt:</strong> Frakt, tullavgift och skatt är inkluderat i dockans pris<br/>OBS För kunder i UK/NO/CH/LI tillkommer importmoms</li><li><strong>Expressleverans:</strong> 2 - 5 arbetsdagar (från våra lager, SE/EU/US)</li><li><strong>Ej i lager eller modifierad docka:</strong> 3 - 5 veckor (efter produktion)</li><li><strong>100% diskret:</strong> Ordentligt paketerat, tryggt och säkert</li></ul><h6><strong>Betalning (välj i kassan)</strong></h6><ul><li><strong>Kort </strong>- VISA/Mastercard/Mastro/AMEX</li><li><strong>Klarna</strong> - Betala efter leverans eller delbetala i upp till 36 månader</li><li><strong>PayPal</strong> - Smidigt och säkert</li><li><strong>100% diskret</strong> - Syns ej på faktura eller kontoutdrag vad som beställts.</li></ul><h6>Social Medier</h6><ul><li><a href=\"https://www.facebook.com/docklandet\" target=\"_blank\" title=\"https://www.facebook.com/docklandet\"><strong>Facebook</strong></a></li><li><a href=\"https://www.instagram.com/docklandet/\" target=\"_blank\" title=\"https://www.instagram.com/docklandet/\"><strong>Instagram</strong></a></li><li><a href=\"https://www.youtube.com/@Docklandet_Sweden\" target=\"_blank\" title=\"https://www.youtube.com/@Docklandet_Sweden\"><strong>Youtube</strong></a></li><li><a href=\"https://x.com/docklandet_eu\" target=\"_blank\" title=\"https://x.com/docklandet_eu\"><strong>X</strong></a></li><li><a href=\"https://dollforum.com/forum/viewforum.php?f=695&sid=fc3f9d466a91db0ead8866ede39b8c86\" target=\"_blank\" title=\"The Doll Forum\"><strong>TDF (The Doll Forum)</strong></a></li></ul><h6><strong>Övrigt</strong></h6><ul><li><a href=\"https://docklandet.se/policies/shipping-policy\"><strong>Leveransvillkor</strong></a> (fraktpolicy)</li><li><a href=\"https://docklandet.se/policies/refund-policy\"><strong>Retur & ångerrätt</strong></a> (återbetalningspolicy)</li></ul>"
+          }
+        },
+        "7a14091c-de35-4900-a311-f46f7b24e65b": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "credit-promotion-badge",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description",
+        "form",
+        "text_TRaQCa",
+        "af487565-3702-4186-b560-c51481823314",
+        "7a14091c-de35-4900-a311-f46f7b24e65b"
+      ],
+      "settings": {
+        "product_breadcrumb": false,
+        "media_position": "is-flex-row",
+        "set_product_height": true,
+        "product_height": 800,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": false,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "16508241729f32ff4d": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_VWCehY": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 4,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_VWCehY"
+      ],
+      "settings": {}
+    },
+    "image_with_text_overlay_yKHBnR": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Galatea_Doll_sexdocka_real_doll_sex_doll_docklandet_Sexdocka_Docklandet_a4e7d592-3e01-4a6c-8d02-58b831495eb1.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "Galatea Kollektion",
+        "button1_link": "shopify://collections/galatea-doll",
+        "button1_style": "global-button--primary",
+        "button2": "Till Startsidan",
+        "button2_link": "/",
+        "button2_style": "global-button--primary",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/sexdocka_real_doll_sex_doll_docklandet_svart_box_210a2c34-e294-4d82-a7ab-271199c73f76.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_mjyYKP": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_WFxwpe": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_fMqFwR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gt04_js051_poster2_Sexdocka_Docklandet_cff7abef-9b5e-457f-b8e8-06030baad9b5.jpg",
+            "link": "shopify://products/krystal-sexdocka-galatea-doll-162cm-c-kupa-js051-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_ryXBDq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gt02_js050_poster1_Sexdocka_Docklandet_90256624-6d96-458a-92c2-577de80360ff.jpg",
+            "link": "shopify://products/ally-sexdocka-galatea-doll-163cm-d-kupa-js050-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_VEpBjG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gt01_js044_poster1_Sexdocka_Docklandet_ac6d18e5-f591-4cd4-9cac-940f2c21a77b.jpg",
+            "link": "shopify://products/ivanna-sexdocka-galatea-doll-168cm-c-kupa-js044-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fMqFwR",
+        "image_ryXBDq",
+        "image_VEpBjG"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "wide_display": false,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per_row": 3,
+        "recommended_products_limit": 4
+      }
+    },
+    "5e43c28a-f8e7-4d48-85c9-36933ffc545b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt Galatea Doll",
+        "collection_description": false,
+        "collection": "galatea-doll",
+        "collection_style": "slider",
+        "products_per": 6,
+        "products_limit": 30,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "52f67d8a-2953-41f0-9ccb-d0fa14e8c74e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "slider",
+        "products_per": 6,
+        "products_limit": 30,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "975ac5a0-69df-43ba-a1e0-413856ddfdfc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 6,
+        "products_limit": 30,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a2c57df2-598c-48fd-8fe5-02160f0c4f1c": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16522273695cf6b73a": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "16508241729f32ff4d",
+    "image_with_text_overlay_yKHBnR",
+    "divider_mjyYKP",
+    "featured_promotions_WFxwpe",
+    "recommendations",
+    "5e43c28a-f8e7-4d48-85c9-36933ffc545b",
+    "52f67d8a-2953-41f0-9ccb-d0fa14e8c74e",
+    "975ac5a0-69df-43ba-a1e0-413856ddfdfc",
+    "a2c57df2-598c-48fd-8fe5-02160f0c4f1c",
+    "16522273695cf6b73a"
+  ]
+}

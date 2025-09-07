@@ -1,0 +1,619 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/jarliet_doll_banner_tpe_doll_docklandet_copy-4_Sexdocka_Docklandet_1.jpg",
+        "title": "",
+        "content": "<h1>Jarliet Doll</h1><p><strong>Jarliet är ett väletablerat namn i dock-branschen med över 4 års erfarenhet. Om du är ute efter en docka till ett bra pris utan att tumma på kvaliteten så är Jarliet ett bra val.</strong></p><p>Vi är officiell distributör för Jarliet Doll i Norden och vi kan erbjuda våra kunder alla dockor ur Jarliet's sortiment!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f9969e49-dbff-4c21-8a98-e67e14a5bcee": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/jarliet_silicone_promotion_halloween_october_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_kxqFVH": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1657633353ab2cfdcf": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/jarliet_TPE_promotion_halloween_october_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/zelex_hybrid_sexdockor_docklandet_kopia-1_1_Sexdocka_Docklandet.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 4
+          }
+        }
+      },
+      "block_order": [
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "2fa0902a-191a-42f5-98f0-a09f0eaccf7b": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "ZELEX I LAGER (EXPRESSLEVERANS)",
+        "content": "<p>Vi kan erbjuda snabb leverans (2-4 dagar) på flera populära dockor från Zelex Doll</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1af79b6f-ce5e-4514-ad29-31708570f889": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "zelex-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d649fd19-1ed1-468a-9545-3b367d1edd92": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Visa fler dockor i lager",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "slideshow_Ydep3E": {
+      "type": "slideshow",
+      "blocks": {
+        "image_REaX8X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/helen_160_hybrid_1_Sexdocka_Docklandet.jpg",
+            "pretext": "<p><strong>Jarliet Doll</strong></p>",
+            "title": "",
+            "subtitle": "",
+            "button1": "Helen",
+            "button1_link": "https://docklandet.se/products/helen-sexdocka-jarliet-160cm-c-kupa-tpe-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "May",
+            "button2_link": "https://docklandet.se/products/may-sexdocka-jarliet-156cm-c-kupa-tpe",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_wXKciD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/may_156_hybrid_1_Sexdocka_Docklandet.jpg",
+            "pretext": "<p><strong>Jarliet Doll</strong></p>",
+            "title": "",
+            "subtitle": "",
+            "button1": "Helen",
+            "button1_link": "https://docklandet.se/products/helen-sexdocka-jarliet-160cm-c-kupa-tpe-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "May",
+            "button2_link": "https://docklandet.se/products/may-sexdocka-jarliet-156cm-c-kupa-tpe",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_EqpBWK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/helen_160_hybrid_3_Sexdocka_Docklandet.jpg",
+            "pretext": "<p><strong>Jarliet Doll</strong></p>",
+            "title": "",
+            "subtitle": "",
+            "button1": "Helen",
+            "button1_link": "https://docklandet.se/products/helen-sexdocka-jarliet-160cm-c-kupa-tpe-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "May",
+            "button2_link": "https://docklandet.se/products/may-sexdocka-jarliet-156cm-c-kupa-tpe",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_8K3tDE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/may_156_hybrid_2_Sexdocka_Docklandet.jpg",
+            "pretext": "<p><strong>Jarliet Doll</strong></p>",
+            "title": "",
+            "subtitle": "",
+            "button1": "Helen",
+            "button1_link": "https://docklandet.se/products/helen-sexdocka-jarliet-160cm-c-kupa-tpe-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "May",
+            "button2_link": "https://docklandet.se/products/may-sexdocka-jarliet-156cm-c-kupa-tpe",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "image_REaX8X",
+        "image_wXKciD",
+        "image_EqpBWK",
+        "image_8K3tDE"
+      ],
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_eqkVjx": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Jarliet Doll</h2><p>Jarliet Doll har dykt upp som ett av de bästa valen för dem som söker högkvalitativa, realistiska följeslagare. Dessa sexdockor erbjuder inte bara fysisk tillfredsställelse utan också känslomässig komfort, vilket gör dem till en värdefull investering för många människor. Jarliet Doll är kända för sina dockor utav högkvalitativa material och sin uppmärksamhet på detaljer för att skapa en verkligt anmärkningsvärd produkt. </p><h3>Material och hantverk</h3><p>En av de utmärkande egenskaperna hos Jarliet-dockor är det överlägsna materialet som används i deras konstruktion. Tillverkade av högkvalitativt silikon eller TPE (termoplastisk elastomer), är dessa dockor byggda för att hålla samtidigt som de behåller en mjuk, realistisk känsla. Hantverket är förstklassigt, med varje detalj noggrant designad för att förstärka dockans verklighetstrogna utseende. Jarliet-dockor utmärker sig i realism, från hudens struktur till precisionen i ansiktsdragen. Anatomisk noggrannhet är ett nyckelfokus, vilket säkerställer att varje kurva och kontur känns naturlig. Oavsett om du letar efter en docka som speglar människokroppen eller något mer konstnärligt, erbjuder Jarliet en rad stilar för att möta olika smaker.</p><h3>Anpassning och modifiering</h3><p>En av de främsta anledningarna till att köpa en Jarliet sexdocka är de omfattande anpassningsalternativen som finns. Du kan anpassa din docka för att passa dina exakta preferenser. Jarliet erbjuder ett brett utbud av kroppstyper och modeller, så att du kan välja en docka som passar dina önskemål. Från petite till vällustiga, utbudet av kroppstyper säkerställer att det finns en perfekt matchning för alla. Förutom kroppstyper kan du också anpassa hudton, ögonfärg, hårtyp och andra fysiska egenskaper. Dessa alternativ möjliggör en mycket personlig upplevelse, vilket säkerställer att din docka ser ut precis som du föreställer dig. Jarliet tar hälsa och säkerhet på allvar. Deras dockor är gjorda av giftfria, kroppssäkra material, vilket säkerställer att de uppfyller höga säkerhetsstandarder.</p><h4>Pris kontra kvalitet</h4><p>När du överväger att köpa en Jarliet sexdocka är det viktigt att tänka på det långsiktiga värdet. Även om Jarliet-dockor kan ha en högre initialkostnad jämfört med andra märken, gör deras hållbarhet och kvalitet dem till en värdefull investering. Du betalar för en produkt som är designad för att hålla och erbjuder långsiktig tillfredsställelse och tillförlitlighet.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Jarliet Doll Silicone</h2>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_CYQU4N": {
+      "type": "gallery",
+      "blocks": {
+        "image_krNNXY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-Skin_tone-silicone.jpg"
+          }
+        },
+        "image_WPeWxn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/option-oral-tongue-jaw-silicone.jpg"
+          }
+        },
+        "image_an78pG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-Areola_Color-_Silicone.jpg"
+          }
+        },
+        "image_4tCzKB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-Eye_color.jpg"
+          }
+        },
+        "image_AMyHW3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-hands_fingers.jpg"
+          }
+        },
+        "image_7yCmJm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-Implanted_Hair.jpg"
+          }
+        },
+        "image_QyQm8M": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_172_cm_body_size_chart._Sex_doll_Docklandet_f65deb3d-e5d0-4b88-93f8-166e4f9f66a0.jpg"
+          }
+        },
+        "image_VJmwpC": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_173_cm_body_size_chart._Sex_doll_Docklandet_a2ea5fd0-00e8-4121-b0e1-8fabfda98f81.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_krNNXY",
+        "image_WPeWxn",
+        "image_an78pG",
+        "image_4tCzKB",
+        "image_AMyHW3",
+        "image_7yCmJm",
+        "image_QyQm8M",
+        "image_VJmwpC"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_wxKaEP": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_iFiiCc": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Jarliet Doll TPE</h2>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_bJfjtE": {
+      "type": "gallery",
+      "blocks": {
+        "image_WAJFBb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-Skin_tone-TPE.jpg"
+          }
+        },
+        "image_Y3wnnA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-Areola_size.jpg"
+          }
+        },
+        "image_W39TH6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-Breasts-TPE.jpg"
+          }
+        },
+        "image_K9nHxb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option_-_Nails.jpg"
+          }
+        },
+        "image_nLtGYp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Option-hands_fingers_38a8c562-79e4-4b5c-9f57-cf59ca866bbc.jpg"
+          }
+        },
+        "image_4RXF9E": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Options-Realism-TPE.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_WAJFBb",
+        "image_Y3wnnA",
+        "image_W39TH6",
+        "image_K9nHxb",
+        "image_nLtGYp",
+        "image_4RXF9E"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_PQjJxT": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Options-wigs.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_UrJaLg": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_CmY9Me": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "f9969e49-dbff-4c21-8a98-e67e14a5bcee",
+    "divider_kxqFVH",
+    "1657633353ab2cfdcf",
+    "main",
+    "2fa0902a-191a-42f5-98f0-a09f0eaccf7b",
+    "1af79b6f-ce5e-4514-ad29-31708570f889",
+    "d649fd19-1ed1-468a-9545-3b367d1edd92",
+    "slideshow_Ydep3E",
+    "featured_text_eqkVjx",
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
+    "gallery_CYQU4N",
+    "divider_wxKaEP",
+    "featured_text_iFiiCc",
+    "gallery_bJfjtE",
+    "image_with_text_overlay_PQjJxT",
+    "divider_UrJaLg",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "divider_CmY9Me",
+    "1650824619c8dde57c",
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

@@ -1,0 +1,572 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_KhjTEE": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/elsababe_doll_banner_docklandet_wide_kopia_2_2.jpg",
+        "title": "",
+        "content": "<h1>ELSA BABE</h1><p><strong>Elsa Babe är en av världens främsta tillverkare av dockor. Sexdockor från Elsa Babe är av absolut högsta kvalitet och är gjorda av silikon. Elsa Babe utmärker sig främst med sina exklusiva och unika anime-dockor, men har även dockor med mer realistisk stil</strong></p><p>Vi är officiell distributör för Elsa Babe och vi kan erbjuda våra kunder alla dockor ur Elsa Babe's sortiment!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1657633353ab2cfdcf": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/elsababe_promotion_september_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/zelex_hybrid_sexdockor_docklandet_kopia-1_1_Sexdocka_Docklandet.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_yghMHz": {
+      "type": "gallery",
+      "blocks": {
+        "image_yjMxDz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Elsa_babe_silicone_september_promotion_rea_kampanj_Sexdocka_Docklandet_017de93f-33f6-4cf7-b336-9f892602f23a.jpg"
+          }
+        },
+        "image_LAGP9q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Elsa_babe_tpe_september_promotion_rea_kampanj_Sexdocka_Docklandet_2b534283-bfeb-4a24-912d-3b1cb9d41a72.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_yjMxDz",
+        "image_LAGP9q"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "7a4426df-0ba1-467a-ab95-3787e5f579cb": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Gillar du?",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "7a4426df-0ba1-467a-ab95-3787e5f579cb"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 40,
+        "toggle": false
+      }
+    },
+    "1736557570c23bf040": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_widget_block_bD6b8y": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "19",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "instafeed_app_block_6WLYV4": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "37996",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_widget_block_bD6b8y",
+        "instafeed_app_block_6WLYV4"
+      ],
+      "settings": {}
+    },
+    "8842ad14-1110-44eb-a48b-cd39961a7b4a": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Elsa Babe Doll</h2><p>Elsa Babe är ett väl etablerat märke och en av världens främsta tillverkare av sexdockor. Elsa Babe har sedan sedan start fokuserat på fantasy och anime inspirerade dockor. Vi på Docklandet är stolta över att kunna samarbeta med Elsa Babe och deras unika dockor kompletterar verkligen vårat sortiment. Docklandet är auktoriserad distributör och återförsäljare för Elsa Babe i Sverige, Norden och EU. Hos oss hittar du de senaste, de finaste och de populäraste dockorna från Elsa Babe's stora sortiment. </p><p>Elsa Babe har unika högkvalitativa sexdockor med flera av de senaste uppgraderingarna. Deras dockor finns i både full-stora varianter och i miniatyr-format. För dig som gillar manga och anime eller till och med hentai så är en docka från Elsa Babe det perfekta valet! Elsa Babe's dockor har väldigt realistiska kroppar men huvudena har ofta en mer eller mindre surrealistisk touch. För dig som samlar på mindre dockor så har Elsa Babe ett gediget utbud av \"förminskade kvinnor\"!</p><h3>Vad är Elsa Babe-sexdockor?</h3><p>Elsa Babe är ett varumärke som specialiserar sig på att skapa realistiska och högkvalitativa sexdockor. Dessa dockor är designade för att ge användaren en så naturlig upplevelse som möjligt, både när det gäller utseende och känsla. Med fokus på detaljer och kundanpassning sticker Elsa Babe ut på marknaden.</p><h3>Realistisk design och kvalitet</h3><p>En av de mest framstående egenskaperna hos Elsa Babe-sexdockor är deras <strong>realism</strong>. Varje docka är skapad med precision och omsorg för detaljer. Från hudens textur till ansiktsuttryck är allt designat för att efterlikna verkligheten så nära som möjligt.</p><p>Materialen som används i Elsa Babe-dockor är av högsta kvalitet. <strong>Silikon</strong> och <strong>TPE (termoplastiskt elastomer)</strong> är vanliga materialval som ger en mjuk och verklighetstrogen känsla. Dessa material är också hudvänliga och säkra för användning.</p><h3>Anpassningsmöjligheter</h3><p>Vill du att din docka ska ha en viss hårfärg, kroppsform eller klädstil? Elsa Babe erbjuder ett brett utbud av anpassningsalternativ som gör det möjligt för kunder att skapa en docka som passar deras unika preferenser.</p><h3>Varför välja Elsa Babe?</h3><p>När det gäller kvalitet och innovation ligger Elsa Babe långt före konkurrenterna. Deras fokus på kundnöjdhet, hållbarhet och estetik gör dem till ett populärt val.</p><h3>Förbättring av relationer</h3><p>Tro det eller ej, men vissa par använder sexdockor för att förbättra sina relationer. De kan bidra till att utforska nya aspekter av intimitet tillsammans, vilket stärker banden mellan partnerna.</p><h3>Underhåll och hållbarhet</h3><p>Elsa Babe-sexdockor är lätta att underhålla och hållbara, vilket innebär att de kan användas under lång tid med rätt skötsel.</p><h3>Prisvärdhet</h3><p>Med tanke på den höga kvaliteten och de anpassningsmöjligheter som Elsa Babe erbjuder, är deras dockor mycket prisvärda i jämförelse med andra märken.</p><h3>Vanliga frågor</h3><h4>1. Vad är Elsa Babe-sexdockor gjorda av?</h4><p>De är tillverkade av hudvänliga material som silikon och TPE, vilket ger en realistisk känsla.</p><h4>2. Kan man anpassa sin Elsa Babe-docka?</h4><p>Ja, du kan välja allt från hårfärg och kroppsform till klädstil.</p><h4>3. Är det säkert att använda en sexdocka?</h4><p>Absolut, så länge du följer skötsel- och rengörings-instruktionerna.</p><h4>4. Hur lång tid håller en Elsa Babe-sexdocka?</h4><p>Med rätt underhåll kan de hålla i många år.</p><h4>5. Kan sexdockor användas av par?</h4><p>Ja, många par använder dem som en del av sina intima relationer.</p><p>Elsa Babe-sexdockor erbjuder en kombination av <strong>realism, kvalitet och anpassning</strong> som gör dem till ett utmärkt val för både singlar och par. Oavsett dina behov är dessa dockor designade för att ge en unik och tillfredsställande upplevelse.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_r3A3Tz": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Elsa_Babe_ANime_Doll_Z-Doll_height_comparison_chart.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_TMU77w": {
+      "type": "gallery",
+      "blocks": {
+        "image_JEpbfT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_130120.png"
+          }
+        },
+        "image_cbDaGa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_130247.png"
+          }
+        },
+        "image_wLEFVM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_130430.png"
+          }
+        },
+        "image_nrc4Gx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Doll_Specification-157CM-EN.jpg"
+          }
+        },
+        "image_97GkGG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_130512.png"
+          }
+        },
+        "image_xVbJMr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_130829.png"
+          }
+        },
+        "image_NgbAby": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_130848.png"
+          }
+        },
+        "image_az4nPB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_131110.png"
+          }
+        },
+        "image_FpVknA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Skarmbild_2024-02-07_131125.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_JEpbfT",
+        "image_cbDaGa",
+        "image_wLEFVM",
+        "image_nrc4Gx",
+        "image_97GkGG",
+        "image_xVbJMr",
+        "image_NgbAby",
+        "image_az4nPB",
+        "image_FpVknA"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "cc79b1f5-f581-412f-89cb-28df6082f7f5": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": false,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": false,
+        "iframe_video": "https://vimeo.com/780813265",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1d356146-931e-47aa-a5e7-873fbed2673b": {
+      "type": "gallery",
+      "blocks": {
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AHA001-Off-D04.jpg"
+          }
+        },
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-1": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-2": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-3": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-4": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-5": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-6": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-7": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-0",
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-1",
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-2",
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-3",
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-4",
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-5",
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-6",
+        "template--18855445692759__1d356146-931e-47aa-a5e7-873fbed2673b-168237059892bb7f7d-7"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "Gallery",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "17af985e-4e80-467a-af99-e056ea091b7f": {
+      "type": "featured-promotions",
+      "blocks": {
+        "template--18855445692759__17af985e-4e80-467a-af99-e056ea091b7f-1682365263d5688234-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AHA001-Off-D06.jpg",
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.</p>",
+            "button_label": ""
+          }
+        },
+        "template--18855445692759__17af985e-4e80-467a-af99-e056ea091b7f-1682365263d5688234-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AHA001-Off-D05.jpg",
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.</p>",
+            "button_label": ""
+          }
+        },
+        "template--18855445692759__17af985e-4e80-467a-af99-e056ea091b7f-1682365263d5688234-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AHA001-Off-D04.jpg",
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.</p>",
+            "button_label": ""
+          }
+        },
+        "4362a9b4-084d-4203-9985-39b9e33c1dd0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.</p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18855445692759__17af985e-4e80-467a-af99-e056ea091b7f-1682365263d5688234-2",
+        "template--18855445692759__17af985e-4e80-467a-af99-e056ea091b7f-1682365263d5688234-0",
+        "template--18855445692759__17af985e-4e80-467a-af99-e056ea091b7f-1682365263d5688234-1",
+        "4362a9b4-084d-4203-9985-39b9e33c1dd0"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": true,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "80288113-ec17-45dc-a6c3-b281e63ab63e": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "43371714-78ac-4ecc-adbe-e9a73d92ed57": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Söker du något unikt?",
+        "collection_description": false,
+        "collection": "fantasy-sexdockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e744cc5b-16a7-4ddc-a69a-7db7f8bc18f8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya dockor!",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3b78f4f8-8007-44cf-b818-5470cc3283c8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d2cbfcf8-b12b-4124-bc2c-b098d22acfb6": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "7379d980-2826-4c0b-80ae-c8d18c5b865e": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_KhjTEE",
+    "1657633353ab2cfdcf",
+    "gallery_yghMHz",
+    "main",
+    "1736557570c23bf040",
+    "8842ad14-1110-44eb-a48b-cd39961a7b4a",
+    "featured_text_r3A3Tz",
+    "gallery_TMU77w",
+    "cc79b1f5-f581-412f-89cb-28df6082f7f5",
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1",
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2",
+    "1d356146-931e-47aa-a5e7-873fbed2673b",
+    "17af985e-4e80-467a-af99-e056ea091b7f",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "80288113-ec17-45dc-a6c3-b281e63ab63e",
+    "43371714-78ac-4ecc-adbe-e9a73d92ed57",
+    "e744cc5b-16a7-4ddc-a69a-7db7f8bc18f8",
+    "3b78f4f8-8007-44cf-b818-5470cc3283c8",
+    "d2cbfcf8-b12b-4124-bc2c-b098d22acfb6",
+    "1652224218445a4dc3",
+    "7379d980-2826-4c0b-80ae-c8d18c5b865e"
+  ]
+}

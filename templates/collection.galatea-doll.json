@@ -1,0 +1,696 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_UXyggf": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Galatea_Doll_Sexdockor_Docklandet_Real_Doll_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Galatea Doll</h1><p><strong>Galatea är en relativt ny aktör i dock-världen. Med ett erfaret och talangfullt team designers och produktion förlagd i JinSans välkända fabriker så är Galatas realistiska exklusiva dockor verkligen något att räkna med! </strong></p><p>För dig som söker en exklusiv silikon-docka av hög kvalitet och dessutom till ett överkomligt pris, är Galatea Doll ett bra val. En docka från Galatea är en detaljerad replika av en riktig människa och passar utmärkt som både modell för fotografering eller som partner för sex. Galateas sexdockor är utrustade med de senaste funktionerna på marknaden och dockorna har rörlig käke med realistisk mun i sitt standardutförande.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_9JYiFX": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Galatea_silicone_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_4T7nEz": {
+      "type": "gallery",
+      "blocks": {
+        "image_nk6Hct": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Galatea_Vine_Talk_AI_Banner_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_fxpPaM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Galatea_silicone_promotion_july_rea_kampanj_sale_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_nk6Hct",
+        "image_fxpPaM"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_xCbiKk": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "slideshow_Ydep3E": {
+      "type": "slideshow",
+      "blocks": {
+        "image_bH6VXp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/004_Sexdocka_Docklandet.png",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_REaX8X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Galatea_Doll_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--primary",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_wXKciD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/003_Sexdocka_Docklandet.png",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--primary",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "image_bH6VXp",
+        "image_REaX8X",
+        "image_wXKciD"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1741699005c0036f35": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_widget_block_Xm9Hbw": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "6",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "instafeed_app_block_9dqVYL": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38112",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_widget_block_Xm9Hbw",
+        "instafeed_app_block_9dqVYL"
+      ],
+      "settings": {}
+    },
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Galatea Doll - Realistiska Sexdockor</h2><p>En docka från Galatea är en exklusiv högkvalitativ sexdocka. Galatea är ett relativt nytt märke men med stor erfarenhet i sin bakgrund. Galatea-dockor tillverkas i den välkända fabriken JinSan där många andra kända märken har sin produktion förlagd, till exempel WM-Doll och Dolls Castle. Vare sig du är en inbiten dock-entusiast eller helt ny i \"dock-världen\" så är Galatea helt klart ett märke att lägga på minnet och hålla koll på! Vi uppdaterar som vanligt vårat sortiment dagligen med det senaste från Galatea och alla våra andra partners! </p><p>En docka från Galatea är inte bara för individer som söker fysisk tillfredsställelse. De kan också användas som kompanjoner för personer som kämpar med ensamhet eller som ett verktyg för par som vill utforska nya aspekter av sin relation. Dessutom kan dessa dockor även vara ett konstnärligt uttryck för dem som uppskattar det estetiska och tekniska hantverket bakom varje skapelse. Perfekt som modell för fotografering eller som en unik inredningsdetalj i hemmet, på klubben eller på företaget.</p><p>Galateas dockor är inte bara vanliga sexleksaker. De är avancerade konstverk som är utformade för att efterlikna verkliga människor på alla sätt. Varje docka tillverkas med extrem noggrannhet och uppmärksamhet på detaljer, från hudens textur till ögonens djup. Med hjälp av de bästa materialen och innovativ teknik, levererar Galatea Doll en produkt som känns och ser ut som en verklig person.</p><p>Galateas exklusiva sexdockor representerar en ny era av realism och teknologi inom vuxen-industrin. Med deras avancerade design, innovativa funktioner och skräddarsydda alternativ erbjuder de en produkt som går långt utöver det traditionella. <br/><br/>Sexdockor från Galatea har alltid följande premium-egenskaper</p><p><strong>- Rörlig käke</strong> (valfritt, gäller utvalda huvuden)</p><p><strong>- Kroppsmålning</strong> (vener, rodnad, mm)</p><p><strong>- Implanterade</strong> ögonbryn och fransar</p><p><strong>- Extra rörligt skelett och axlar</strong> (EVO)</p><p><strong>- Gel-fyllda bröst</strong> (känns mer realistiska) </p><p><strong>- Realistiska händer</strong> (fingrar med leder)</p><p><strong>- Händer av extra hård silikon</strong> (realism och hållbarhet)</p><p><strong>- Stående fot</strong> (med hård fotsula)<br/></p><p>Det finns många möjligheter till anpassning av Galatea-dockor. Du kan välja olika kroppsformer, hårfärger, ögonfärger och olika ansikten. Detta ger en personlig upplevelse där varje docka kan skräddarsys för att matcha specifika önskemål och preferenser. Oavsett om du söker en realistisk partner eller något mer fantasifullt, kan Galatea Premium tillgodose dina behov. </p><h3>Realistiska dockor från Galatea</h3><p>Galatea och JinSan är ledande aktörer inom premium-segmentet för realistiska sexleksaker. Dessa dockor är framtagna för att efterlikna verkliga människor så noggrant som möjligt, både i utseende och känsla. Tillverkade av högkvalitativ silikon, har de en otroligt naturtrogen hudtextur och detaljer som ger en verklighetstrogen upplevelse. Galateas dockor är inte bara tekniskt avancerade, utan de kan också skräddarsys för att passa individuella preferenser, vilket gör varje docka unik. Oavsett om det gäller estetik eller funktionalitet, levererar Galatea toppkvalitet för dem som söker en realistisk och personlig upplevelse.</p><p></p><h4>Historien om Galatea Doll</h4><p>Galatea Doll hämtar sin inspiration från den tidlösa grekiska myten om Pygmalion och Galatea. Pygmalion, kungen av Cypern och en mästerskulptör, lovade att aldrig gifta sig på grund av sitt missnöje med kvinnorna omkring honom. Han ägnade sitt liv åt att skapa en vacker staty i elfenben som han namngav Galatea. Med all sin skicklighet, passion och kärlek behandlade Pygmalion Galatea som om hon vore hans levande fru. Rörd av sin hängivenhet gav gudinnan Afrodite statyn liv, förvandlade Galatea till en levande varelse och förenade paret i äktenskap.</p><p>Galatea Doll är ett relativt nytt märke. Skaparna bakom Galatea består av ett team erfarna designers och skulptörer och deras produktion är förlagd i den välkända fabriken JinSan. Etablerat 2010 och baserat i Kina, är Jinsan erkänd som den mest populära och topprankade sexdockatillverkaren. I JinSans fabriker skapas dockor från en mängd välkända fabrikat. Tillverkade av premium TPE (termoplastiska elastomerer) och silikon-material. Med över 200 kroppsmodeller och 500 huvuddesigner utnyttjar vi expertis från ett professionellt team på 120 medlemmar i en toppmodern anläggning för att leverera en mycket realistisk och tillfredsställande upplevelse genom våra dockor. Med många anpassningsmöjligheter ser vi till att varje docka uppfyller dina specifika preferenser. Jinsan har även ett stort lager i USA och EU, vilket gör det möjligt för oss att snabbt skicka dessa utsökta dockor till kunder över hela världen.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_gT4qRj": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_FHqhjQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gt01_js044_poster1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/ivanna-sexdocka-galatea-doll-168cm-c-kupa-js044-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_jNJpNk": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/gt01_js047_poster1_Sexdocka_Docklandet.png",
+            "link": "shopify://products/ella-sexdocka-galatea-doll-168cm-c-kupa-js047-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_w67Kap": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gt02_js050_poster1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/maple-sexdocka-galatea-doll-167cm-d-kupa-js043-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_hbe4pi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gt04_js051_poster2_Sexdocka_Docklandet_aef1065d-7032-4b3a-ad30-0476ff1b836f.jpg",
+            "link": "shopify://products/krystal-sexdocka-galatea-doll-162cm-c-kupa-js051-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FHqhjQ",
+        "image_jNJpNk",
+        "image_w67Kap",
+        "image_hbe4pi"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_Jk7Je9": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_CYQU4N": {
+      "type": "gallery",
+      "blocks": {
+        "image_krNNXY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GT04-162_Body_Data.jpg"
+          }
+        },
+        "image_WPeWxn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GT02-163_Body_Data_Pic.jpg"
+          }
+        },
+        "image_P3kyMa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/galatea_doll_164_b-cup_body_data.pic_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_an78pG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GT03-167_Body_Data.jpg"
+          }
+        },
+        "image_4tCzKB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GT01-168_Body_Data.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_krNNXY",
+        "image_WPeWxn",
+        "image_P3kyMa",
+        "image_an78pG",
+        "image_4tCzKB"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 5,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_wxKaEP": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_bJfjtE": {
+      "type": "gallery",
+      "blocks": {
+        "image_Y3wnnA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/specifications-GT-1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_WAJFBb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Audio_Operation_Guide2_Sexdocka_Docklandet_825646fd-d1ed-47fa-91c5-6b79e0a3c454.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y3wnnA",
+        "image_WAJFBb"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_3tHHd4": {
+      "type": "gallery",
+      "blocks": {
+        "image_AmGHU8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Eyes_Color.jpg"
+          }
+        },
+        "image_RfVkhK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body_Heating_Moaning_Auto-sucking_Function_breating_System.jpg"
+          }
+        },
+        "image_TTqhmQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Pubic_Hair_Style.jpg"
+          }
+        },
+        "image_ehHVGh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Implanted_Hair_Color_Option.jpg"
+          }
+        },
+        "image_THdRT9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Vagina_Type_Color.jpg"
+          }
+        },
+        "image_iAaJQD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lips_Finish_Facial_Freckles.jpg"
+          }
+        },
+        "image_hz3T33": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Areola_Color_Size_Option.jpg"
+          }
+        },
+        "image_pjHwiU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Foot_Style.jpg"
+          }
+        },
+        "image_ecrp6Y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Gift_pic.jpg"
+          }
+        },
+        "image_wKWELH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Nail_Color.jpg"
+          }
+        },
+        "image_ydPdjL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Foot_Nail_Option.jpg"
+          }
+        },
+        "image_ag9nCk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/galatea_docklandet_square_1_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_AmGHU8",
+        "image_RfVkhK",
+        "image_TTqhmQ",
+        "image_ehHVGh",
+        "image_THdRT9",
+        "image_iAaJQD",
+        "image_hz3T33",
+        "image_pjHwiU",
+        "image_ecrp6Y",
+        "image_wKWELH",
+        "image_ydPdjL",
+        "image_ag9nCk"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_axKMq6": {
+      "type": "gallery",
+      "blocks": {
+        "image_jxJWq7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_Skin_Tones_Option.jpg"
+          }
+        },
+        "image_V3b7Fg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gtdoll-All-Head.jpg"
+          }
+        },
+        "image_cdtptJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GTdoll_All_Hair-Style_Option.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_jxJWq7",
+        "image_V3b7Fg",
+        "image_cdtptJ"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_UrJaLg": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_CmY9Me": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_UXyggf",
+    "image_with_text_overlay_9JYiFX",
+    "gallery_4T7nEz",
+    "divider_xCbiKk",
+    "main",
+    "slideshow_Ydep3E",
+    "1741699005c0036f35",
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
+    "featured_promotions_gT4qRj",
+    "divider_Jk7Je9",
+    "gallery_CYQU4N",
+    "divider_wxKaEP",
+    "gallery_bJfjtE",
+    "gallery_3tHHd4",
+    "gallery_axKMq6",
+    "divider_UrJaLg",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "divider_CmY9Me",
+    "1650824619c8dde57c",
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

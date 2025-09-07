@@ -1,0 +1,174 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_kopia-1_1_Sexdocka_Docklandet_36dd7d23-3c28-4473-947d-0f082f220931.jpg",
+        "mobile_image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_kopia_2-1_1_Sexdocka_Docklandet.jpg",
+        "title": "Black Week Expressleverans",
+        "content": "<p>Nedan finner du några rejält nedsatta dockor. De flesta av våra Black Week sexdockor har expressleverans (2-4 arbetsdagar). </p><p><strong>OBS! Erbjudanden gäller till och med 28/11. Dockor med expressleverans finns i begränsat antal och några brukar alltid sälja slut under Black Week. Besök oss gärna i Borlänge för fler specialerbjudanden! </strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "disabled": true,
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": true,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "4e4cf45d-7764-4d5a-9394-0b36005e1ac7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "black-week-black-friday-sexdockor",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "bae058db-9c5e-4fee-8b9e-dfcc511a1939": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_kopia_2-1_1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "shopify://pages/black-friday-sexdockor-black-week",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_kopia-1_1_Sexdocka_Docklandet_36dd7d23-3c28-4473-947d-0f082f220931.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b4097463-0e6a-4ef8-8456-e9fb7b332307": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "mini-sexdocka-miniatyr-2",
+            "image": "shopify://shop_images/Miniatyr_Sexdockor_Mini_Sexdolls_d2ea9b5b-ee2c-466a-bc8f-9d47b67b95b3.jpg"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdockor-medium-size-2",
+            "image": "shopify://shop_images/medium_sexdockor_docklandet_1_f4454402-8283-4740-a033-b820a425c38e.jpg"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdockor-full-size-2",
+            "image": "shopify://shop_images/full-size_sexdolls_langa_sexdockor_docklandet_5_743973ac-8fc0-4da0-a404-490398d086af.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-1",
+        "1650824619071e18ff-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 3,
+        "rv_per": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "settings": {}
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "main",
+    "4e4cf45d-7764-4d5a-9394-0b36005e1ac7",
+    "bae058db-9c5e-4fee-8b9e-dfcc511a1939",
+    "b4097463-0e6a-4ef8-8456-e9fb7b332307",
+    "1650824619c8dde57c",
+    "16508260667ee95abe",
+    "16508256797a71ad8f",
+    "1652224218445a4dc3"
+  ]
+}

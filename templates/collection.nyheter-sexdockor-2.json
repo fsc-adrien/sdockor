@@ -1,0 +1,466 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "featured_text_YREzjW": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/nyheter_docklandet_sexdockor_real_doll_news-2_1_Sexdocka_Docklandet_e04de1fc-92b5-493a-b7ec-264f8f860bc0.jpg",
+        "title": "",
+        "content": "<h1>Sexdockor Nyheter Sommar 2025</h1><p>Vi uppdaterar kontinuerligt vårat sortiment med de senaste dockorna från Zelex, Irontech Doll, WM-Doll, Starpery, Piper Doll, SE-Doll, FunWest Doll, FanReal, Tayu, Irokebijin, Climax, Game Lady, Galatea, Dolls Castle, Jiusheng, Bezlya, Elsa Babe, Real Lady, AK-Doll, My Loli Waifu, m fl!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16622777925c4804a6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_RGgKAd": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "instafeed_F8wFDG": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 25,
+        "feed_width": 100,
+        "html_area": "<div id=\"feed-21022\" class=\"instafeed-shopify\"></div>"
+      }
+    },
+    "divider_MaPbez": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "instafeed_zFLgRw": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<div id=\"feed-14434\" class=\"instafeed-shopify\"></div>"
+      }
+    },
+    "divider_qrdVP8": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a8b4cdc1-cfae-46ee-b346-6d107e2493ca": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya dockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_enC7Lx": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Visa allt i lager",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "disabled": true,
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 36,
+        "toggle": false
+      }
+    },
+    "ba5209e0-779b-43e5-b793-d4bfede67091": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Zelex_new_docklandet_sexdockor_nyhet_1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Zelex_new_docklandet_sexdockor_nyhet_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1e73f26e-9db9-4cc2-8fb5-3b1aedadb069": {
+      "type": "gallery",
+      "blocks": {
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Zelex_new_docklandet_sexdockor_nyhet_1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-1": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-4": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-5": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-6": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-0",
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-1",
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-2",
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-3",
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-4",
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-5",
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-6",
+        "template--16721485922562__1e73f26e-9db9-4cc2-8fb5-3b1aedadb069-1681046334c87d53a2-7"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "Gallery",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "82d5edbd-553b-4f40-bf64-907c783a726d": {
+      "type": "gallery",
+      "blocks": {
+        "template--16424277278978__82d5edbd-553b-4f40-bf64-907c783a726d-16755976763023ceba-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sexdockor_Robot_skelett_Irontech_Doll_TPE_Docklandet.jpg"
+          }
+        },
+        "template--16424277278978__82d5edbd-553b-4f40-bf64-907c783a726d-16755976763023ceba-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Silicone-Robot-Sex-Doll_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16424277278978__82d5edbd-553b-4f40-bf64-907c783a726d-16755976763023ceba-0",
+        "template--16424277278978__82d5edbd-553b-4f40-bf64-907c783a726d-16755976763023ceba-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "masonry",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "db9dbd2f-287c-4b30-9421-2d310ef517d6": {
+      "type": "gallery",
+      "blocks": {
+        "template--16424277278978__db9dbd2f-287c-4b30-9421-2d310ef517d6-1669902244cc298d48-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WM_Real_oral_sex_ROS_-1_1_1.jpg"
+          }
+        },
+        "template--16424277278978__db9dbd2f-287c-4b30-9421-2d310ef517d6-1669902244cc298d48-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WM_Real_oral_sex_ROS_-2_1_1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16424277278978__db9dbd2f-287c-4b30-9421-2d310ef517d6-1669902244cc298d48-0",
+        "template--16424277278978__db9dbd2f-287c-4b30-9421-2d310ef517d6-1669902244cc298d48-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "masonry",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1662365090f871dca5": {
+      "type": "gallery",
+      "blocks": {
+        "1662365090f713167c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Breathing_doll_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "1662365090f713167c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/articulated_hand_wm-doll_uppgraderad_hand_fingrar-1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "1662365090f713167c-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "1662365090f713167c-3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "1662365090f713167c-1",
+        "1662365090f713167c-0",
+        "1662365090f713167c-2",
+        "1662365090f713167c-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "masonry",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "808f3407-dc52-49c6-87d3-3d8162ba867b": {
+      "type": "gallery",
+      "blocks": {
+        "a3fe111e-1a70-4da7-b4e4-0786db1efe2d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-6_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-2_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-3_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-4_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "a3fe111e-1a70-4da7-b4e4-0786db1efe2d",
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-1",
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-0",
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-2",
+        "template--16424277278978__808f3407-dc52-49c6-87d3-3d8162ba867b-166654646947a5404c-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "masonry",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "dd9e0f1f-4cc0-4c7b-93f0-a58db5bdb96b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära lågpris dockor",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "79912925-58a5-4391-b1ed-6f9399ccccd4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt Full-Size TPE",
+        "collection_description": false,
+        "collection": "populara-tpe-dockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "23814f2d-326f-4cc4-a342-f53e8abdc5e9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "16622778596d297707": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "featured_text_YREzjW",
+    "16622777925c4804a6",
+    "divider_RGgKAd",
+    "instafeed_F8wFDG",
+    "divider_MaPbez",
+    "instafeed_zFLgRw",
+    "divider_qrdVP8",
+    "a8b4cdc1-cfae-46ee-b346-6d107e2493ca",
+    "featured_text_enC7Lx",
+    "main",
+    "ba5209e0-779b-43e5-b793-d4bfede67091",
+    "1e73f26e-9db9-4cc2-8fb5-3b1aedadb069",
+    "82d5edbd-553b-4f40-bf64-907c783a726d",
+    "db9dbd2f-287c-4b30-9421-2d310ef517d6",
+    "1662365090f871dca5",
+    "808f3407-dc52-49c6-87d3-3d8162ba867b",
+    "dd9e0f1f-4cc0-4c7b-93f0-a58db5bdb96b",
+    "79912925-58a5-4391-b1ed-6f9399ccccd4",
+    "23814f2d-326f-4cc4-a342-f53e8abdc5e9",
+    "1652224218445a4dc3",
+    "16622778596d297707"
+  ]
+}

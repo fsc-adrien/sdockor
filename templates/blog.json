@@ -1,0 +1,105 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "subtitle": "",
+        "caption_content_background": "original",
+        "blog_posts_per_row": 4,
+        "blog_posts_per_page": 4,
+        "blog_tags": false,
+        "blog_author": false,
+        "read_time": false,
+        "blog_date": false,
+        "blog_comment_count": false,
+        "read_more_link": false,
+        "excerpt_display": "full_excerpt",
+        "toggle": false
+      }
+    },
+    "1651215372e098e1a4": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog_widget_select": "sexdockor-artiklar",
+        "home_page_articles": 4,
+        "blog_tags": false,
+        "blog_author": false,
+        "read_time": false,
+        "blog_date": true,
+        "blog_comment_count": false,
+        "read_more_link": false,
+        "excerpt_display": "full_excerpt",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "bbc1e1d9-0a50-4f77-a869-8b055114a6f3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya sexdockor",
+        "collection_description": true,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "0080838d-017c-47a4-86bf-68e994969a59": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Sexdockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4fc2e665-d39f-4134-8423-2882ed339f1e": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": false,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Docklandet's nyhetsbrev",
+        "newsletter_text": "<p>Prenumerera på Docklandet's nyhetsbrev för att se nyheter, de senaste kampanjerna och andra erbjudanden!</p>",
+        "newsletter_section_text_align": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a4e2ea04-5a26-4fdd-ae8f-9775375278ee": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1651215372e098e1a4",
+    "bbc1e1d9-0a50-4f77-a869-8b055114a6f3",
+    "0080838d-017c-47a4-86bf-68e994969a59",
+    "4fc2e665-d39f-4134-8423-2882ed339f1e",
+    "a4e2ea04-5a26-4fdd-ae8f-9775375278ee"
+  ]
+}

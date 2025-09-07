@@ -1,0 +1,281 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "settings": {}
+    },
+    "cd42d06c-8fb3-4530-aeb0-6bab60b0660b": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/wm-doll_sex_dolls_tpe_docklandet_sexdockor_real_doll_sweden-1_1_Sexdocka_Docklandet_d4512fcc-7ad3-4399-989a-db47a1480866.jpg",
+        "title": "",
+        "content": "<h3><strong>WM-Doll (TPE)</strong></h3><p>WM-Doll är kanske den mest etablerade tillverkaren av sexdockor i världen. Vi är officiell distributör för WM-Doll i Norden och kan erbjuda ett utvalt sortiment av de finaste WM-dockorna. Vi uppdaterar kontinuerligt vårt sortiment med det senaste från WM-Doll!</p>",
+        "button_label": "SE ALLA WM-Doll's",
+        "button_link": "shopify://collections/wm-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2b78caa4-c204-40d7-99f8-a0d50d923c0d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": true,
+        "collection": "sexdockor-topp-10-wm-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "41bb2ecf-d41b-4271-8283-0ad3bc62089d": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/se-doll_banner_tpe_doll_docklandet_3.jpg",
+        "title": "",
+        "content": "<h3><strong>SE-Doll (TPE)</strong></h3><p>SE-Doll är ett väletablerat märke med många års erfarenhet i branschen. Vi är officiell distributör för SE-Doll i Norden och kan erbjuda hela SE-Dolls stora sortiment av TPE och silikon-dockor. Nedan ser du några populära TPE-dockor från SE-Doll.</p>",
+        "button_label": "SE ALLA SE-DOLL'S",
+        "button_link": "shopify://collections/se-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e66de0aa-4653-46c3-903e-74dc337922d7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "populara-se-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1e5ff891-0fff-4a94-b586-5c301f3e5b73": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Zelex_Docklandet_Real_Doll_Sexdockor_2_Stor_765fd28a-eeb6-4c50-8459-89f23d473cc9.jpg",
+        "title": "",
+        "content": "<h3><strong>Zelex Doll (Hybrid)</strong></h3><p>Zelex är en av världens främsta tillverkare av realistiska dockor. Zelex hybrid-dockor har ett lägre pris än silikon-dockor. Kroppen är gjord av TPE och huvudet av silikon för maximal realism. De flesta Zelex-huvuden går att få med rörlig käke (ROS) utan extra kostnad.</p>",
+        "button_label": "SE ALLA ZELEX DOLL'S",
+        "button_link": "shopify://collections/zelex-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "625e1691-f9f7-4c2e-a2f1-c5c03bb4d5e7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "zelex-tpe",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b0f8111b-407e-48fc-9afe-c8c6f521a315": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Starpery_Sex_Doll_Docklandet_Real_Doll_Silcone_TPE_a6ec9efe-ca9c-4d06-99b1-f36762ef4801.jpg",
+        "title": "",
+        "content": "<h3><strong>Starpery Doll (Hybrid)</strong></h3><p>Hybrid-dockor från Starpery har alltid ett huvud gjort av silikon för att få ett så verkligt utseende som möjligt. Trots detta ligger Starperys dockor i samma prisklass som andra märkesdockor tillverkade helt i TPE. Starperys dockor är extremt fina, av högsta kvalitet och väldigt prisvärda!</p>",
+        "button_label": "SE ALLA STARPERY DOLL'S",
+        "button_link": "shopify://collections/starpery",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7404af3f-040e-46b2-b141-ad6147a9cb00": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-starpery-tpe-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_1_Stor_242f2ed4-ae26-4666-b582-db784d38b60c.jpg",
+        "title": "",
+        "content": "<h3><strong>Irontech Doll (Hybrid)</strong></h3><p>Irontech Doll är ett av världens mest kända dock-märken och ligger i framkant i utvecklingen av nya dockor och funktioner. Vi är officiell distributör för Irontech Doll i Norden. Här nedan ser du exempel på några populära hybrid-dockor från Irontech (TPE + Silikon)</p>",
+        "button_label": "SE ALLA IRONTECH DOLL'S",
+        "button_link": "shopify://collections/irontech-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "irontech-doll-hybrider-tpe-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_G4qaFc": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Piper_Doll_banner_Sexdocka_Docklandet_ec6a0c4c-dd48-4f33-93bc-b859727dece9.jpg",
+        "title": "",
+        "content": "<h3><strong>Piper Doll (TPE)</strong></h3><p>Sexdockor av högsta kvalitet från världskända Piper Doll. Dockorna har alltid huvud och kropp helt ihopsatta, går alltså inte att skruva av huvudet. Piper Doll är kända för att ha en unik surrealistisk stil på sina dockor. Nedan ser du populära TPE-dockor från Piper Doll (finns även silikon-versioner)</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_dDHzwp": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "piper-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8aafb447-ea89-496a-84f9-15e2dc83fab6": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/doll_forever_banner_docklandet-1.jpg",
+        "title": "",
+        "content": "<h3><strong>Doll Forever (TPE & Silikon)</strong></h3><p>Unika sexdockor av högsta kvalitet från kända Doll Forever. Doll Forever tillverkas i samma fabrik som Piper Doll och Irokebijin. Doll Forever fokuserar främst på TPE-dockor men har även senaste året lanserat några silikondockor.</p>",
+        "button_label": "SE ALLA Doll Forever",
+        "button_link": "shopify://collections/doll-forever",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "42b84d16-de00-4330-89e9-a35d2827508e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "doll-forever",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_bf3DVD": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/JK-Doll_Fantasy_Sex_Dolls_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>JK-Doll (TPE)</strong></h3><p>JK-Doll är ett relativt nytt märke som främst fokuserar på TPE-dockor med alternativa stilar. En JK-Doll har ofta utseende och stil inspirerat av fantasy och science-fiction. JK-Doll har ett nära samarbete med världskända WM-Doll och tillverkas i JinSan-fabrikerna.</p>",
+        "button_label": "SE ALLA JK-DOLL'S",
+        "button_link": "shopify://collections/jk-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_DVECPx": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "jk-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_bUctWh": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/YJL_Doll_banner_silicone_doll_docklandet_sex_dolls_copy-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>YJL Doll (hybrid & silikon)</strong></h3><p>YJL Doll är en erfaren tillverkare av realistiska sexdockor. Dockor från YJL håller relativt lågt pris trots sin höga kvalitet. YJL's sortiment erbjuder dockor i olika stilar och storlekar tillverkade av både TPE och silikon.  Nedan ser du exempel på populära hybrid och silikon-dockor från YJL Doll.</p>",
+        "button_label": "SE ALLA YJL DOLL'S",
+        "button_link": "shopify://collections/yjl-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_TeQnzd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "yjl-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cd42d06c-8fb3-4530-aeb0-6bab60b0660b",
+    "2b78caa4-c204-40d7-99f8-a0d50d923c0d",
+    "41bb2ecf-d41b-4271-8283-0ad3bc62089d",
+    "e66de0aa-4653-46c3-903e-74dc337922d7",
+    "1e5ff891-0fff-4a94-b586-5c301f3e5b73",
+    "625e1691-f9f7-4c2e-a2f1-c5c03bb4d5e7",
+    "b0f8111b-407e-48fc-9afe-c8c6f521a315",
+    "7404af3f-040e-46b2-b141-ad6147a9cb00",
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f",
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c",
+    "featured_text_G4qaFc",
+    "featured_collection_dDHzwp",
+    "8aafb447-ea89-496a-84f9-15e2dc83fab6",
+    "42b84d16-de00-4330-89e9-a35d2827508e",
+    "featured_text_bf3DVD",
+    "featured_collection_DVECPx",
+    "featured_text_bUctWh",
+    "featured_collection_TeQnzd"
+  ]
+}

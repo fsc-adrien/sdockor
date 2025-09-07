@@ -1,0 +1,162 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "settings": {
+        "toggle": false
+      }
+    },
+    "6dd5b0e3-4c8b-4b95-9d20-b9608a267586": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "<p></p><p>Docklandet.se är auktoriserad samarbetspartner och officiell distributör för Starpery i Sverige och kan erbjuda våra svenska och nordiska kunder förmånliga priser på deras sexdockor. Vi har flera dockor på lager för snabb leverans och ett flertal uppställda i vårt showroom.<br/>Dockor från Starpery har alltid ett huvud av silikon och du kan välja om du vill att dockan ska ha en kropp gjord av TPE eller silikon. <br/></p><p>Sexdockor från <a href=\"https://docklandet.se/collections/starpery-real-doll-sexdockor\" title=\"Starpery\"><strong>Starpery</strong></a> har alltid följande premiumegenskaper: <br/><br/>* <strong>Platinum-skelett</strong> (EVO + rörliga axlar, högre kvalitet, lättare, och större rörlighet)<br/>* <strong>Viktreducering</strong> (Innermaterial av skum, 5-10 kg lättare)<br/>* <strong>Ansiktsmålning</strong> (Extremt realistiskt ansikte)<br/>* <strong>Uppgraderade</strong> <strong>ögon</strong> (Med blodådror)<br/>* <strong>Gel-implantat</strong> (Ger mjukare bröst och rumpa, mer realistisk känsla *Gel-rumpa endast silikon-kropp)<br/>* <strong>Stående fot</strong> (Högre stabilitet, bra för positionering)</p><p>Läs mer om våra sexdockor <a href=\"https://docklandet.se/pages/info\"><strong>här</strong></a>. Vi rekommenderar även att inför köp läsa igenom våran <a href=\"https://docklandet.se/pages/faq\" title=\"F.A.Q\"><strong>F.A.Q</strong></a><strong> </strong>med vanliga frågor och svar. Priset som visas är inklusive frakt, skatt och tullavgifter.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "form": {
+          "type": "form",
+          "settings": {}
+        },
+        "293847f9-48f4-4a52-95c5-49bb3fa25bd6": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "disabled": true,
+          "settings": {
+            "data_key": "credit-promotion-badge",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        },
+        "af487565-3702-4186-b560-c51481823314": {
+          "type": "tabs",
+          "settings": {
+            "show_product_description": false,
+            "show_tabs_below_product_gallery": false,
+            "tab_heading_1": "Leverans",
+            "tab_text_1": "<p><a href=\"/policies/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\"><strong>Alltid fri frakt</strong></a> (tullavgift och skatt är inkluderat i priset)</p><p><strong>Expressleverans:</strong> 2-4 arbetsdagar (från vårat lager)<br/><strong>Ej i lager eller modifierad docka:</strong> 3-5 veckor (från fabrik)</p>",
+            "tab_heading_2": "",
+            "tab_text_2": "",
+            "tab_heading_3": "Mer info",
+            "tab_text_3": "<ul><li><a href=\"https://docklandet.se/pages/sexdockor-faq\" title=\"FAQ\"><strong>F.A.Q.</strong></a> - Vanliga frågor och svar</li><li><a href=\"https://docklandet.se/blogs/sexdockor/tpe-eller-silikon-vilket-material-ska-du-valja\" title=\"TPE vs silikon\"><strong>TPE vs Silikon</strong></a> - Jämför inför köp</li><li><a href=\"https://docklandet.se/pages/fabriksbilder-sexdockor\" title=\"Fabriksbilder\"><strong>Fabriksbilder</strong></a> - Oredigerade bilder på tidigare ordrar</li></ul><p><strong>Betalningsalternativ (välj i kassan):</strong> </p><ul><li><strong>Bankkort</strong> - VISA/Mastercard</li><li><strong>Klarna</strong> - Dela upp betalning i upp till 36 månader</li><li><strong>Paypal</strong> - Smidigt och säkert</li></ul><p><strong>Docklandet - Kontakt</strong> </p><p><strong>Mail:</strong> info@docklandet.se<br/><strong>Telefon:</strong> 0046735361983</p><p><strong>Dalarna Exclusive AB</strong> (559265-0468)</p>"
+          }
+        },
+        "f1743254-0465-4b3f-8185-6cd567700a3e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Läs mer om våra sexdockor <a href=\"https://docklandet.se/pages/info\"><strong>här</strong></a>. Vi rekommenderar även att inför köp läsa igenom våran <a href=\"https://docklandet.se/pages/faq\" title=\"F.A.Q\"><strong>F.A.Q</strong></a><strong> </strong>med vanliga frågor och svar. Priset som visas är inklusive frakt, skatt och tullavgifter.</p>"
+          }
+        },
+        "3cc2253c-aa02-4daf-ae56-1701f9512d4f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Docklandet.se är auktoriserad samarbetspartner och officiell distributör för WM-Doll i Sverige och kan erbjuda våra svenska och nordiska kunder förmånliga priser på deras sexdockor. Vi har flera dockor på lager för snabb leverans och ett flertal uppställda i vårt showroom.<br/></p><p>Sexdockor från <a href=\"https://docklandet.se/collections/sexdocka-lyx-wmdolls\" title=\"WM-doll's\"><strong>WM-Doll</strong></a> har alltid följande premiumegenskaper: </p><p>* <strong>Platinum TPE </strong>(För extra verklighetskänsla och mjukhet) <br/>* <strong>Platinum-skelett</strong> (EVO + rörliga axlar, högre kvalitet, lättare, och större rörlighet)<br/>* <strong>Gel-bröst-implantat</strong> (Ger mjukare bröst och mer realistisk känsla)<br/>* <strong>Uppgraderad mun</strong> (större invärtes och med tunga)<br/>* <strong>Uppgraderade händer</strong> (Realistiska fingrar med leder och verklighetstrogna naglar)<br/>* <strong>Stående fot</strong> (Högre stabilitet, bra för positionering) </p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description",
+        "form",
+        "293847f9-48f4-4a52-95c5-49bb3fa25bd6",
+        "af487565-3702-4186-b560-c51481823314",
+        "f1743254-0465-4b3f-8185-6cd567700a3e",
+        "3cc2253c-aa02-4daf-ae56-1701f9512d4f"
+      ],
+      "settings": {
+        "product_breadcrumb": false,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 800,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": false,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "16508241729f32ff4d": {
+      "type": "apps",
+      "settings": {}
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {}
+    },
+    "165222726991cb0997": {
+      "type": "apps",
+      "blocks": {
+        "751a0e91-7817-46c2-ab7e-1ed1724bd170": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-standard",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "751a0e91-7817-46c2-ab7e-1ed1724bd170"
+      ],
+      "settings": {}
+    },
+    "16522273695cf6b73a": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "6dd5b0e3-4c8b-4b95-9d20-b9608a267586",
+    "main",
+    "16508241729f32ff4d",
+    "recommendations",
+    "165222726991cb0997",
+    "16522273695cf6b73a"
+  ]
+}

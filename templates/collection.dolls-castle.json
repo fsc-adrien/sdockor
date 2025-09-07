@@ -1,0 +1,306 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_real_doll_dolls_castle_banner_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Dolls Castle</h1><p><strong>Dolls Castle har ett nära samarbete med Jinsan och WM-Doll. Dolls Castle har både verklighetstrogna dockor och surrealistiska dockor. Vi är stolta över att kunna erbjuda Doll Castle's dockor till våra kunder!</strong></p><p>Vi är officiell distributör för Dolls Castle i Norden och vi kan erbjuda våra kunder alla dockor från Dolls Castle's sortiment! Vi har även några dockor i lager för snabb leverans (2-4 dagar)</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_qjc3CM": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Dolls_castle_silicone_TPE_september_promotion_rea_sale_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 4
+          }
+        }
+      },
+      "block_order": [
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "1741553465e639204e": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_FFQCHw": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "39132",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_FFQCHw"
+      ],
+      "settings": {}
+    },
+    "featured_text_TEm3fy": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Sexdockor från Dolls Castle</h2><p>Sexdockor har blivit alltmer populära i Sverige, och Dolls Castle är en av de mest framstående tillverkarna på marknaden. I denna artikel kommer vi att utforska vad som gör Dolls Castle sexdockor så unika, deras olika typer, användningsområden och vad du bör tänka på när du köper en sexdocka.</p><p>Dolls Castle erbjuder flera olika typer av sexdockor, inklusive silikon- och TPE-dockor. Varje material har sina fördelar, som hållbarhet och känsla. Varje Dolls Castle-docka kommer med specifikationer som kan anpassas efter kundens önskemål. Detta inkluderar vikt, längd, hudton, ögonfärg och mycket mer. Användare kan välja mellan olika kroppstyper, hårfärger och andra fysiska attribut för att skapa en docka som perfekt matchar deras preferenser.</p><p>Dolls Castle erbjuder många fördelar jämfört med andra märken. Dessa inkluderar realistiska detaljer, hållbara material och prisvärdhet. Med avancerad teknik kan Dolls Castle erbjuda en otroligt realistisk upplevelse med detaljer som efterliknar mänsklig hud och ansiktsdrag. Trots deras höga kvalitet är Dolls Castle-dockor betydligt billigare än många konkurrenter, vilket gör dem till ett attraktivt val för budgetmedvetna konsumenter.</p><p>Sexdockor används inte bara för sexuellt nöje. De kan också användas för emotionellt stöd, konstprojekt och som kompanjoner för äldre eller personer med funktionsnedsättningar. Många användare rapporterar att sexdockor hjälper dem att hantera ensamhet och social ångest. Sexdockor används också inom konst och fotografi för att skapa realistiska modeller och scenarier.</p><p>Dolls Castle erbjuder en prisvärd och högkvalitativ lösning för dem som söker en realistisk och mångsidig sexdocka. Med rätt skötsel kan dessa dockor ge många års glädje och stöd.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_iyERDG": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Dolls_Castle_heads_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "36bbc7f0-01f9-4fd0-af07-46c9ee08014b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Fantasy sexdockor",
+        "collection_description": false,
+        "collection": "fantasy-sexdockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "0a46e254-3dfe-4b55-83eb-18d2099be446": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": false,
+        "collection": "expressleverans-best-sellers",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "image_with_text_overlay_qjc3CM",
+    "main",
+    "1741553465e639204e",
+    "featured_text_TEm3fy",
+    "image_with_text_overlay_iyERDG",
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1",
+    "1650824619c8dde57c",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "36bbc7f0-01f9-4fd0-af07-46c9ee08014b",
+    "0a46e254-3dfe-4b55-83eb-18d2099be446",
+    "1652224218445a4dc3",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

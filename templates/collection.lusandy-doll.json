@@ -1,0 +1,456 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "1652887834adb4ea94": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/wm-doll_sex_dolls_tpe_docklandet_sexdockor_real_doll_sweden-1_1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/wm-doll_sex_dolls_tpe_docklandet_sexdockor_real_doll_sweden_kopia-1_2_Sexdocka_Docklandet_46fc4aa0-8697-4330-a9b0-e1a4d347c145.jpg",
+        "title": "",
+        "content": "<h1>WM-Doll</h1><p><strong>Just nu ingår ett valfritt extra huvud när du köper en WM-Doll av oss på Docklandet (ord. pris 3595:-) Gäller ej dockor med expressleverans</strong></p><p>WM-Doll är kanske den mest etablerade tillverkaren av sexdockor i världen. Vi är officiell distributör för WM-Doll i Norden och kan erbjuda ett utvalt sortiment av de finaste WM-dockorna. Vi uppdaterar kontinuerligt vårt sortiment med det senaste från WM-Doll!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_RkpXLC": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Lusandy_Doll_Silicone_Dolls_Docklandet_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Lusandy Doll</h1><p>Lusandy Doll är ett relativt nytt dock-märke skapat av ett team av erfarna designers och skulptörer mer erfarenhet och relationer till flera marknadsledande fabrikat. Dockor från Lusandy är tillverkade helt i silikon, är utrustade med de senaste funktionerna på marknaden och av absolut högsta kvalitet. Docklandet är officiell distributör och återförsäljare av Lusandy Doll för EU och US. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_pCVWCt": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Lusandy_Doll_promotion_kampanj_silicone_september_summer_sale_rea_2025_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "0a93e67d-f401-44ee-bb42-66c0b6414687": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 2
+          }
+        }
+      },
+      "block_order": [
+        "0a93e67d-f401-44ee-bb42-66c0b6414687"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "image": "shopify://shop_images/wmdolls3.jpg",
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "0c607cb1-1d22-43b6-93c9-3be3be895084": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "WM-Doll's i lager (Expressleverans)",
+        "content": "<p>Vi kan erbjuda snabb leverans (2-4 dagar) på flera populära dockor från WM-Doll. </p>",
+        "button_label": "",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "33ae87fa-687e-4bfc-8cf2-3d3992c8a00d": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": true,
+        "collection": "wm-doll-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "924ea9aa-b1de-4ddd-8481-d963448be5c8": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "<p></p><p></p>",
+        "button_label": "Visa fler dockor i lager",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5dafc16d-8bb6-484b-a98c-fa314397a941": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "33deb37f-12cb-42d7-91a4-a7d05f2ab742": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": false,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": false,
+        "iframe_video": "https://youtu.be/tOReyFqXyeQ?feature=shared?&target=_blank",
+        "html5_video": "",
+        "image": "shopify://shop_images/WM-Doll_video_front_docklandet_Sexdocka_Docklandet.jpg",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "Spela video",
+        "button1_link": "https://www.youtube.com/watch?v=tOReyFqXyeQ?&target=_blank",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c0deb75d-c382-4806-9e2d-f20921f067d9": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/LusandyLogoFire_Sexdocka_Docklandet.png",
+        "title": "",
+        "content": "<h2>Lusandy Doll - Premium Sexdockor</h2><p>Lusandy Doll är ett innovativt märke som specialiserar sig på realistiska och högkvalitativa sexdockor. Deras fokus på att kombinera avancerad teknologi med estetisk perfektion har gjort dem till en ledare inom industrin. Lusandy Dolls mål är att tillhandahålla en produkt som inte bara uppfyller kundernas förväntningar utan också främjar en hälsosam syn på intimitet och självutforskning.</p><p>Sexdockor har blivit ett alltmer populärt alternativ för människor som söker intimitet och sällskap utan att behöva kompromissa med sina egna behov och gränser. Märket Lusandy Doll har positionerat sig som en ledande aktör inom denna bransch och erbjuder högkvalitativa, realistiska dockor för olika preferenser och livsstilar. I denna artikel kommer vi att fördjupa oss i vad som gör Lusandy Doll unika och varför de har blivit så populära.</p><p>Lusandy Doll är ett premiumvarumärke som specialiserar sig på att tillverka sexdockor med enastående realism och kvalitet. Företaget är känt för sina innovativa metoder och noggrannhet i design, vilket gör att de står ut från konkurrenterna.</p><p>Märket Lusandy Doll grundades för att möta efterfrågan på högkvalitativa sexdockor som både är funktionella och estetiskt tilltalande. De kombinerar modern teknologi med traditionellt hantverk för att skapa produkter som uppskattas av kunder världen över.</p><p>Lusandy Dolls använder medicinsk silikon av högsta kvalitet, vilket säkerställer att dockorna känns och ser ut som mänsklig hud. Dockorna är utrustade med flexibla skelett som gör att de kan posera i olika positioner, vilket förstärker den realistiska upplevelsen.</p><h3>Varför välja en sexdocka?</h3><p>Sexdockor erbjuder ett unikt sätt att utforska intimitet, förbättra självkänslan och minska ensamhet. De är också ett bra alternativ för personer med social ångest eller funktionshinder.</p><p>Varje docka från Lusandy Doll är designad för att efterlikna verkliga människor i både utseende och känsla. Kunder kan välja mellan olika hårfärger, ögonfärger, kroppstyper och tillbehör för att skapa en docka som passar deras preferenser.</p><p>Lusandy Dolls är kända för sin uppmärksamhet på detaljer. Från hudens textur till ansiktsuttryck och kroppens proportioner – allt är utformat för att ge en autentisk upplevelse.</p><h3>Fördelarna med sexdockor</h3><p>En sexdocka kan erbjuda emotionell och fysisk tillfredsställelse utan de krav som kan uppstå i mänskliga relationer.</p><p>För vissa kan en sexdocka fungera som ett sällskap i svåra tider och minska känslan av ensamhet.</p><p>Sexdockor används inte bara för intimitet utan också inom konstprojekt, filmproduktion och terapeutiska syften.<strong> </strong></p><p>Lusandy Doll har satt standarden för sexdockor genom sin innovation, kvalitet och kundfokus. De erbjuder ett unikt sätt att utforska intimitet och självuttryck, och deras produkter är ett testamente till modern teknik och design.</p><h4>Vanliga frågor om Lusandy Dolls sexdockor</h4><ol><li><strong>Vad är unikt med Lusandy Dolls sexdockor?</strong><br/>Lusandy Dolls produkter erbjuder exceptionellt realistisk design, högkvalitativa material och omfattande anpassningsmöjligheter.</li><li><strong>Är dockorna lämpliga för nybörjare?</strong><br/>Ja, Lusandy Dolls sexdockor är utformade för att vara användarvänliga och passar både nybörjare och erfarna användare.</li><li><strong>Hur rengör jag dockan?</strong><br/>Dockorna levereras med detaljerade instruktioner för enkel rengöring och underhåll, inklusive rekommenderade produkter för bästa resultat.</li><li><strong>Kan jag anpassa dockans utseende?</strong><br/>Absolut! Lusandy Doll erbjuder en rad alternativ för att anpassa kroppstyp, hårfärg, ögonfärg och mycket mer.</li><li><strong>Vad kostar en Lusandy Dolls sexdocka?</strong><br/>Priserna varierar beroende på modell och anpassning, men de ligger i ett konkurrenskraftigt prisspann för kvaliteten de erbjuder.</li><li><strong>Hur fungerar garantin?</strong><br/>Lusandy Doll erbjuder garanti och support för alla sina produkter, vilket säkerställer att kunden är nöjd med sitt köp.</li></ol><p></p><p>Sexdockor från Lusandy Doll representerar en ny standard för innovation, kvalitet och användarupplevelse. Med ett åtagande för säkerhet, hållbarhet och kundnöjdhet, fortsätter de att sätta ribban för branschen.</p><p>Det går bra att göra ändringar och tillval, vid beställning från fabrik är allt möjligt och vi kan justera priset i efterhand om nödvändigt. Kontakta oss innan eller efter order för att göra ändringar eller tillägg, vi nås som vanligt på <strong>info@docklandet.se</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_6bxJ9N": {
+      "type": "gallery",
+      "blocks": {
+        "image_dN4e73": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lusandy_3_body_1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_iLHRmh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lusandy_3_body_2_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_dN4e73",
+        "image_iLHRmh"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_DDFDYM": {
+      "type": "gallery",
+      "blocks": {
+        "image_4YxMec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lusandy_Doll_159cm_body_G-cup_selected_5f2e59b1-873f-4c42-a7f4-895d790e5b0c.jpg"
+          }
+        },
+        "image_rWgVm9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lusandy_Doll_165cm_D-cup_Docklandet.jpg"
+          }
+        },
+        "image_eXUUra": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lusandy_Doll_170cm_F-cup_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_4YxMec",
+        "image_rWgVm9",
+        "image_eXUUra"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5badeb65-a227-4df0-8d08-0dc915c9b3bb": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Skarmbild_2025-01-08_185341.png",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_iADR8r": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_hJHHTN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LUS_4472_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/belle-sexdocka-lusandy-doll-159cm-g-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_nczTCU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LUS_3220_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/heidi-sexdocka-lusandy-doll-159cm-g-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_LgidhB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LUS_3932.jpg",
+            "link": "shopify://products/joan-sexdocka-lusandy-doll-170cm-f-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_8JTj6B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LUS_2355_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/mizuki-sexdocka-lusandy-doll-159cm-g-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_GUhbgW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LUS_2976_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/heidi-sexdocka-lusandy-doll-170cm-f-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_9w3TCb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LUS_3650.jpg",
+            "link": "shopify://products/mizuki-sexdocka-lusandy-doll-170cm-f-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hJHHTN",
+        "image_nczTCU",
+        "image_LgidhB",
+        "image_8JTj6B",
+        "image_GUhbgW",
+        "image_9w3TCb"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "49e7361a-0f81-4549-a15c-d43af4db8a64": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": true,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8e2e0bf2-0432-4442-a35f-16691caed329": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_hnjHQX": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "blocks": {
+        "6759620a-f807-4871-bd02-6faaf0296055": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "6759620a-f807-4871-bd02-6faaf0296055"
+      ],
+      "settings": {}
+    },
+    "e6067d59-cbe7-451d-aae1-278c5d6d2c36": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "1652887834adb4ea94",
+    "featured_text_RkpXLC",
+    "image_with_text_overlay_pCVWCt",
+    "main",
+    "0c607cb1-1d22-43b6-93c9-3be3be895084",
+    "33ae87fa-687e-4bfc-8cf2-3d3992c8a00d",
+    "924ea9aa-b1de-4ddd-8481-d963448be5c8",
+    "5dafc16d-8bb6-484b-a98c-fa314397a941",
+    "33deb37f-12cb-42d7-91a4-a7d05f2ab742",
+    "c0deb75d-c382-4806-9e2d-f20921f067d9",
+    "gallery_6bxJ9N",
+    "gallery_DDFDYM",
+    "5badeb65-a227-4df0-8d08-0dc915c9b3bb",
+    "featured_promotions_iADR8r",
+    "49e7361a-0f81-4549-a15c-d43af4db8a64",
+    "8e2e0bf2-0432-4442-a35f-16691caed329",
+    "featured_collection_hnjHQX",
+    "16508256797a71ad8f",
+    "e6067d59-cbe7-451d-aae1-278c5d6d2c36"
+  ]
+}

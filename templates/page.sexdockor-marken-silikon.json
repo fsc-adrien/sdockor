@@ -1,0 +1,293 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "settings": {}
+    },
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_1_Stor_242f2ed4-ae26-4666-b582-db784d38b60c.jpg",
+        "title": "",
+        "content": "<h3><strong>Irontech Doll (Silikon)</strong></h3><p>Irontech Doll är kanske världens mest kända dock-märke och ligger i framkant i utvecklingen av nya dockor och funktioner. Vi har ett stort sortiment med Irontech-dockor. Nedan ser du exempel på populära silikon-dockor från Irontech (finns även TPE och hybrid-dockor).</p>",
+        "button_label": "SE ALLA IRONTECH DOLL'S",
+        "button_link": "shopify://collections/irontech-doll-silicone-real-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-irontech-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1e5ff891-0fff-4a94-b586-5c301f3e5b73": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/se-doll_banner_tpe_doll_docklandet_3.jpg",
+        "title": "",
+        "content": "<h3><strong>SE-Doll (Silikon)</strong></h3><p>SE-Doll är en av världens mest etablerade och kända tillverkare av realistiska dockor. SE-Doll's silikon-dockor är utrustade med de senaste funktionerna på marknaden och av absolut högsta kvalitet. SE-Doll har även ett stort sortiment av TPE-dockor (nedan ser du dockor av silikon).</p>",
+        "button_label": "SE ALLA SE-DOLL'S",
+        "button_link": "shopify://collections/se-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "625e1691-f9f7-4c2e-a2f1-c5c03bb4d5e7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "populara-se-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_neH3wi": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/funwest_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet_6635846a-45a6-4ee9-b72c-a962cebb8c48.jpg",
+        "title": "",
+        "content": "<h3><strong>FunWest Doll (Silikon)</strong></h3><p>FunWest Doll är en av världens mest kända tillverkare av realistiska dockor. Sexdockor från FunWest finns i många olika stilar och både TPE och silikon-versioner. Här nedan ser du exempel på populära silikon-dockor från FunWest Doll.</p>",
+        "button_label": "SE ALLA FUNWEST DOLL'S",
+        "button_link": "shopify://collections/funwest-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_GFEXYQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "funwest-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c85468ac-01e7-4d39-936f-871ff3599eb1": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_climax_doll_sexdockor_real_doll_docklandet_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Climax Doll (Silikon & Hybrid)</strong></h3><p>Climax Doll är ett etablerat och ambitiöst märke som varit aktiva i dock-världen i snart 10 år. Climax fokuserar på både miniatyr-dockor och dockor i full storlek. Nedan ser du exempel på populära silikon och hybrid-dockor från Climax.</p>",
+        "button_label": "Se alla Climax Doll's",
+        "button_link": "shopify://collections/climax-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "60c9ed09-33a2-4437-a4bc-48c4dc91fe52": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "climax-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8d6b47b1-1a62-4c3b-9dbd-7899e6641ee1": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/ak_doll_angel_kiss_doll_banner_docklandet_wide-1_3_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "",
+        "content": "<h3><strong>Angel Kiss Doll (Silikon)</strong></h3><p>Dockor från Angel Kiss Doll (AK-Doll) är gjorda av silikon och av högsta kvalitet. AK-Doll har ett tight samarbete med WM-Doll och du känner säkert igen flera ansikten därutav. För dig som drömt om en WM-Doll i silikon är AK-Doll det perfekta valet!</p>",
+        "button_label": "SE ALLA AK-Doll's",
+        "button_link": "shopify://collections/ak-doll-angel-kiss-doll-silicone",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f9a78517-5ed8-4509-a45e-77681ca17a92": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "ak-doll-angel-kiss-doll-silicone",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_w3JKLa": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Galatea_Doll_Sexdockor_Docklandet_Real_Doll_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Galatea Doll (Silikon)</strong></h3><p>För dig som söker en exklusiv silikon-docka av hög kvalitet och dessutom till ett överkomligt pris, är Galatea Doll ett bra val. En docka från Galatea är en detaljerad replika av en riktig människa och passar utmärkt som både modell för fotografering eller som partner för sex.</p>",
+        "button_label": "SE ALLA GALATEA DOLL'S",
+        "button_link": "shopify://collections/galatea-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_VqNA3h": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "galatea-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "cd42d06c-8fb3-4530-aeb0-6bab60b0660b": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Normon-doll_banner_tpe_silicone_doll_docklandet_copy_1efa3a6a-2654-4b05-93ad-6d2d6f264713.jpg",
+        "title": "",
+        "content": "<h3><strong>Normon Doll (Silikon & Hybrid)</strong></h3><p>Normon Doll är ett relativt nytt märke men redan etablerat. En Normon-docka går att få antingen med TPE-kropp eller helt i silikon. Normon Doll har exklusiva och prisvärda dockor. För dig som söker en naturtrogen docka av hög kvalitet är Normon Doll värt att spana in!</p>",
+        "button_label": "SE ALLA Normon Doll's",
+        "button_link": "shopify://collections/normon-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2b78caa4-c204-40d7-99f8-a0d50d923c0d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "normon-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9535adaa-507d-4374-8182-b9f66e3be7cf": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/elsababe_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<p>Elsa Babe utmärker sig med dockor med som har en lätt surrealistisk stil. Sexdockor från Elsa Babe är gjorda av silikon och är av absolut högsta kvalitet.<strong> </strong>Vi är officiell distributör för Elsa Babe i Norden och vi kan erbjuda våra kunder alla dockor ur Elsa Babe's sortiment!</p>",
+        "button_label": "SE ALLA ELSA BABE'S",
+        "button_link": "shopify://collections/elsa-babe-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "eb7a290c-7f47-4a44-96bc-303e5dae52dc": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "populara-elsa-babe-dockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "32ddaf4a-3a28-4adb-bb8c-23d1f1d1269b": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irokebijin_Anime_Sexdockor_Docklandet_Real_Doll_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Irokebijin Doll (Silikon)</strong></h3><p>Anime-dockor av högsta kvalitet från kända Irokebijin. Irokebijin's dockor har alltid utseende i klassisk anime-stil och finns i flera olika versioner och storlekar. Här nedan ser du exempel på dockor gjorda av materialet silikon. Irokebijin har även dockor med lägre pris tillverkade av TPE.</p>",
+        "button_label": "SE ALLA IROKEBIJIN DOLL'S",
+        "button_link": "shopify://collections/irokebijin-anime-sexdockor",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "0da0efb8-314c-4cd6-9676-c00544740ef0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "irokebijin-dockor-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_x43DJE": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f",
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c",
+    "1e5ff891-0fff-4a94-b586-5c301f3e5b73",
+    "625e1691-f9f7-4c2e-a2f1-c5c03bb4d5e7",
+    "featured_text_neH3wi",
+    "featured_collection_GFEXYQ",
+    "c85468ac-01e7-4d39-936f-871ff3599eb1",
+    "60c9ed09-33a2-4437-a4bc-48c4dc91fe52",
+    "8d6b47b1-1a62-4c3b-9dbd-7899e6641ee1",
+    "f9a78517-5ed8-4509-a45e-77681ca17a92",
+    "featured_text_w3JKLa",
+    "featured_collection_VqNA3h",
+    "cd42d06c-8fb3-4530-aeb0-6bab60b0660b",
+    "2b78caa4-c204-40d7-99f8-a0d50d923c0d",
+    "9535adaa-507d-4374-8182-b9f66e3be7cf",
+    "eb7a290c-7f47-4a44-96bc-303e5dae52dc",
+    "32ddaf4a-3a28-4adb-bb8c-23d1f1d1269b",
+    "0da0efb8-314c-4cd6-9676-c00544740ef0",
+    "divider_x43DJE"
+  ]
+}

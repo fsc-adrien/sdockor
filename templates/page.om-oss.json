@@ -1,0 +1,228 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "settings": {}
+    },
+    "165217872584090210": {
+      "type": "content-page",
+      "settings": {
+        "content_page": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "897fda52-1e6f-48cc-bece-dad711ad5c2a": {
+      "type": "gallery",
+      "blocks": {
+        "20788012-8731-41a1-ab28-6cadd91a06f4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/docklandet_show_room_sexdockor_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "7bc1710d-5b44-44f3-9576-2a1b2635912c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/docklandet_show_room_sexdockor_copy_1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162519_1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162540_1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162600_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "146c7d36-cbc6-4325-885e-32525e48c226": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162613_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162638_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "deda95ce-250c-4226-9af4-eb174e86d325": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Doll_Silicone_Heads_2_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "34ae2094-06e3-4360-82bf-8db5cb230c97": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Silicone_Heads2_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "3787227f-073c-45be-b272-94c28de4bada": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Doll_Silicone_Heads_1_Hedy_is_blind_on_1_eye_will_be_fixed_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Docklandet_Showroom_2023_9__4.jpg"
+          }
+        },
+        "e9f821dc-0fa3-44b6-ac0c-f1ee462549cb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Some_wigs_some_TPE_heads_and_a_161cm_silicone_Irontech_Doll_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "20788012-8731-41a1-ab28-6cadd91a06f4",
+        "7bc1710d-5b44-44f3-9576-2a1b2635912c",
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-5",
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-7",
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-6",
+        "146c7d36-cbc6-4325-885e-32525e48c226",
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-8",
+        "deda95ce-250c-4226-9af4-eb174e86d325",
+        "34ae2094-06e3-4360-82bf-8db5cb230c97",
+        "3787227f-073c-45be-b272-94c28de4bada",
+        "template--19786012328279__897fda52-1e6f-48cc-bece-dad711ad5c2a-image-2",
+        "e9f821dc-0fa3-44b6-ac0c-f1ee462549cb"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d65c86ab-0761-4446-a5fe-6bec0a67ee2c": {
+      "type": "gallery",
+      "blocks": {
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TPE_Heads_-_WM-Doll_and_a_few_Irontechs_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Silicone_Heads_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162653_Sexdocka_Docklandet_45fe9825-b158-4e45-b693-46f22e42c5a8.jpg"
+          }
+        },
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Shibari_doll_outside_entrance_to_the_second_show_room_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Some_wigs_some_TPE_heads_and_a_161cm_silicone_Irontech_Doll_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-1",
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-3",
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-4",
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-5",
+        "template--19786012328279__d65c86ab-0761-4446-a5fe-6bec0a67ee2c-image-2"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "46520137-a8d3-4bb6-9077-a08d0967c14d": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_showroom_sexdockor-sverige_Sexdocka_Docklandet_80122efa-755a-45b8-ab70-70e0d11d5c09.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "169633426413a48608": {
+      "type": "apps",
+      "blocks": {
+        "c2553c24-689f-4d79-b97f-453a3a57cb45": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "c2553c24-689f-4d79-b97f-453a3a57cb45"
+      ],
+      "settings": {}
+    },
+    "0d296885-1760-4743-a35d-20792d00057c": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165217872584090210",
+    "897fda52-1e6f-48cc-bece-dad711ad5c2a",
+    "d65c86ab-0761-4446-a5fe-6bec0a67ee2c",
+    "46520137-a8d3-4bb6-9077-a08d0967c14d",
+    "169633426413a48608",
+    "0d296885-1760-4743-a35d-20792d00057c"
+  ]
+}

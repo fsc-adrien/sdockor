@@ -1,0 +1,502 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_anReMe": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka-1_2_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka_mobile-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Game Lady Doll</h1><p><strong>Game Lady's extremt realistiska silikondockor är så kallade cosplay-dockor och av absolut högsta kvalitet. En cosplay-docka innebär att dockan har utseende och stil inspirerad av en känd karaktär från till exempel en film eller ett spel. Game Lady har en nära relation till Zelex Doll</strong></p><p>Vi är officiell distributör för Game Lady Doll i Norden och vi kan erbjuda våra kunder alla dockor ur Game Lady's sortiment! Vi tar kontinuerligt hem ett fåtal Game Lady till vårat egna lager och har även några uppställda i vår butik. Outfit (som på bilderna) följer med för dockor i lager!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_pnn6XJ": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Gamelady_silicone_promotion_september_bayonetta_eve_rea_kampanj_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "cc79b1f5-f581-412f-89cb-28df6082f7f5": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": false,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": false,
+        "iframe_video": "",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f79c2e7d-d3cf-428f-a87d-d24da4fbd355": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka_mobile-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h2>GAME LADY DOLL</h2><p>Game Lady är en ny tillverkare av ultra-realistiska silikondockor som specialiserat sig på att producera dockor inspirerade av karaktärer från dina favoritspel och filmer. De flesta tillverkare av sexdockor har någon enstaka docka inspirerad av populärkultur, men för Game Lady Doll gäller tvärt om, exakt alla dockor har utseende och stil direkt hämtad från filmer och spel. </p><p>Game Lady har en nära relation till Zelex Doll som är världens just nu kanske främsta fabrikat av realistiska dockor. En docka från GLD är utrustad med de senaste funktionerna på marknaden såsom; </p><p>- Viktreduktion (5-7 kg)<br/>- Artikulerade fingrar (med leder)<br/>- Hårda händer & fötter (mer realism+hållbarhet)<br/>- Extra mjuka bröst (mjukare, mer realism)<br/>- Extra rörlig skelett & axlar (EXP)<br/>- Premium ögon (helklot med vener)<br/>- Hud med matt yta (hållbarhet+realism)<br/>- Huvud med rörlig käke (gäller utvalda huvuden)<br/>- Implanterade fransar & ögonbryn (gäller ej ROS som standard)<br/>- Realistiskt kropp-smink (vener, rodnad, födelsemärken, mm)<br/>- Ansikts-smink som på bilderna. Cosplay-smink (gäller vissa huvuden)<br/>- Officiell outfit går att köpa till (inkluderad i priset för dockor i lager!)</p><p>Som du ser så är en hel mängd premium-funktioner inkluderade för Game Lady's dockor. Allt för att kunna återspegla karaktären som dockan inspirerats av på bästa möjliga vis och såklart för att tillfredsställa kunder och fans önskemål, förväntningar och behov. Utseende på GLD-dockor går att modifiera utan extra kostnad för dig som har egna idéer om stilar eller kombinationer av kroppar och huvuden. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1741699474528c9a5a": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_shorts_widget_block_EJtxKi": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-shorts-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "18",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "instafeed_app_block_9hjr66": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "41805",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_shorts_widget_block_EJtxKi",
+        "instafeed_app_block_9hjr66"
+      ],
+      "settings": {}
+    },
+    "bb9ca38d-ce04-4360-b689-2caa0c01f90f": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka_mobile_kopia-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<p>Silikondockor från Game Lady håller absolut högsta kvalitet och tillhör de främsta i världen, det går inte att hitta en mycket bättre docka än en Game Lady. Game Lady's dockor är utrustade med de senaste funktionerna och uppgraderingarna på marknaden. Utöver unik stil och hög kvalitet så utmärker sig Game Lady genom att erbjuda cosplay-outfit (kläder) till varje docka i deras sortiment. Detta är unikt bland tillverkare av sexdockor och innebär att du kan klä din docka exakt som den ser ut på bilderna. </p>",
+        "button_label": "Ellie - Inspired by The Last Of Us 2",
+        "button_link": "shopify://products/lady-no-02_1-168a-sexdocka-game-lady-168cm-e-kupa-silikon",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6d49cc26-e1b1-453e-b002-c3536bdf8400": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka_mobile_kopia-1_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<p>Game Lady's fantastiska sexdockor har stil inspirerad från till exempel The Last Of Us, Final Fantasy, Resident Evil, The Witcher, Cyberpunk, mm. Det finns många karismatiska kvinnliga fantasi-personligheter som är lätta att bli smyg-förälskade i. Med en Game Lady kan du leva ut dina vildaste fantasier! Game Lady fokuserar främst på fantasy och science fiction men har även några karaktärer från \"nutida äventyr\". </p>",
+        "button_label": "Tifa & Aerith - Inspired by Final Fantasy",
+        "button_link": "shopify://products/lady-no-03_1-167a-sexdocka-game-lady-168cm-d-kupa-silikon",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b8e72f48-fff7-48ac-9731-334faaed50df": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka_mobile_kopia-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<p>Dockor från Game Lady Doll är ypperliga för dig som samlare som vill ställa upp ett scenario i hemmet eller använda en docka som utställnings-objekt/inredning. Game Lady's dockor har leder likt en människa och går att ställa i alla tänkbara positioner. Ansikte och kropp är gjutet och målat extremt realistiskt. Vissa huvuden från GLD går att få med rörlig käke vilket är perfekt för både modell-fotografering och även sexuella övningar.</p><h3>Varför välja en docka från Game Lady?</h3><p>Game Lady designar och tillverkar exklusiva dockor av silikon. Med ett nära samarbete med Zelex levererar Game Lady silikon-dockor i världsklass och av hög kvalitet. Här kommer några exempel på vad som kännetecknar dockor från Game Lady.</p><h4>Unik Design Inspirerad av Popkultur</h4><p>Game Lady är känt för att skapa dockor som är inspirerade av populära karaktärer från spel och film. Om du är en fan av specifika spel eller karaktärer, kan Game Lady erbjuda en docka som är noggrant utformad för att efterlikna dessa figurer, vilket gör dem till ett unikt samlarobjekt.</p><h4>Detaljerad Realism</h4><p>Precis som andra högkvalitativa märken fokuserar Game Lady på realistiska detaljer. Deras dockor har en otroligt verklighetstrogen hudtextur, realistiska ansiktsuttryck och noggrant designade kroppar. Detta gör att dockorna ser väldigt levande och autentiska ut. Game Lady använder förstklassigt silikon-material som ger dockorna en verklighetstrogen känsla och utseende. Detta bidrar till dockans hållbarhet och gör dem både mjuka och realistiska vid beröring.</p><h4>Anpassningsbara Alternativ</h4><p>Kunder kan välja från olika anpassningsmöjligheter för att skräddarsy dockan efter sina önskemål. Detta inkluderar val av hårfärg, ögonfärg, kläder, huvud (rörlig käke mm) och kroppstyp, vilket ger en hög grad av individualisering. Du kan även utan extra kostnad modifiera ytterligare detaljer såsom hudfärg, färg på bröstvårtor och vagina, mm. Det finns även några få uppgraderingar (en Game Lady är redan näst intill full uppgraderad som standard) att välja mellan, till exempel implanterat hår eller specifika smink detaljer, till exempel fräknar eller \"tatueringar\".</p><h4>Innovativa Funktioner</h4><p>Game Lady-dockor kan ha avancerade funktioner som rörliga leder, vilket gör att dockorna kan placeras i olika poser och scener. Deras tekniska innovationer bidrar till att skapa en dynamisk och interaktiv upplevelse för användaren. Game Lady fokuserar på hantverk och detaljer, vilket gör varje docka till en noggrant tillverkad produkt. Oavsett om du är samlare eller söker en specifik typ av docka, erbjuder Game Lady dockor som är både estetiskt tilltalande och noggrant designade.</p><h4>Perfekt för Samlare och Fans</h4><p>Om du är en samlare av figurer och modeller baserade på dina favoritkaraktärer från spel eller film, kan Game Lady vara det perfekta valet. Deras dockor är mer än bara leksaker – de är konstverk som hyllar popkultur och spelkaraktärer på ett unikt sätt. För dig som samlar på spelrelaterade figurer eller statyer kan en full-size Game Lady docka vara både det mest lämpliga, estetiskt mest fulländade och framförallt det mest prisvärda alternativet till din samling eller utställning. En full-stor helgjuten staty kostar i de flesta fall många gånger fler än en silikon-docka. Med rätt outfit och dessutom mängder av möjligheter till positionering och utryck, är möjligheterna med en Game Lady docka näst intill oändliga!</p><p>Att välja en docka från Game Lady Doll innebär att få en produkt som kombinerar popkulturens estetik med högkvalitativt hantverk och teknologisk innovation. Besök oss gärna i Borlänge och spana in våra uppställda Game Lady dockor. Vi har Tifa och 2B i full outfit permanent på display. </p><p>Varmt välkommen!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_a7VGy3": {
+      "type": "gallery",
+      "blocks": {
+        "image_tPrmi8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/100-1_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg"
+          }
+        },
+        "image_CqNFTA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/100-2_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg"
+          }
+        },
+        "image_KCC9Gw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/167-1_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg"
+          }
+        },
+        "image_LViR7X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/167-2_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg"
+          }
+        },
+        "image_3YDxgU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/168-1_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.png"
+          }
+        },
+        "image_FU7t7t": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/168-2_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.png"
+          }
+        },
+        "image_MNJgz7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/171-1_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.png"
+          }
+        },
+        "image_iDtjqk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/171-2_Game_Lady_Sexdocka_Docklandet_RealDoll_Sexdockor.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_tPrmi8",
+        "image_CqNFTA",
+        "image_KCC9Gw",
+        "image_LViR7X",
+        "image_3YDxgU",
+        "image_FU7t7t",
+        "image_MNJgz7",
+        "image_iDtjqk"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a71215e6-0ec7-4c34-b476-ac3b2acac56b": {
+      "type": "featured-promotions",
+      "blocks": {
+        "template--18854528254295__a71215e6-0ec7-4c34-b476-ac3b2acac56b-1682365263d5688234-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GameLady_Real_Doll_Docklandet_Sexdockor_kopia-1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/lady-no-06_1-167a-sexdocka-game-lady-167cm-d-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "template--18854528254295__a71215e6-0ec7-4c34-b476-ac3b2acac56b-1682365263d5688234-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GameLady_Real_Doll_Docklandet_Sexdockor_kopia-1_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/lady-no-05_1-168a-sexdocka-game-lady-168cm-e-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "eb68b0f0-db8e-4e9e-95e5-8eff5dc0c570": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GameLady_Real_Doll_Docklandet_Sexdockor_kopia-1_4_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/lady-no-09_1-168a-sexdocka-game-lady-168cm-e-kupa-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "9038c8ff-3341-4ead-ae60-baf711bbb657": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GameLady_Real_Doll_Docklandet_Sexdockor_kopia_2-1.jpg",
+            "link": "shopify://products/lucyna-sexdocka-game-lady-156cm-d-kupa-animeno-05-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18854528254295__a71215e6-0ec7-4c34-b476-ac3b2acac56b-1682365263d5688234-1",
+        "template--18854528254295__a71215e6-0ec7-4c34-b476-ac3b2acac56b-1682365263d5688234-0",
+        "eb68b0f0-db8e-4e9e-95e5-8eff5dc0c570",
+        "9038c8ff-3341-4ead-ae60-baf711bbb657"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": false,
+        "featured_promos_per_row": 4,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "1650824619071e18ff-0",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_4UrtHL": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt Game Lady",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-game-lady-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "490658d2-9ca7-4d83-a5b5-624d271e1ed8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya silikondockor",
+        "collection_description": false,
+        "collection": "nyheter-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9f1f158b-9c4e-4104-a908-a174e48532e8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_anReMe",
+    "image_with_text_overlay_pnn6XJ",
+    "main",
+    "cc79b1f5-f581-412f-89cb-28df6082f7f5",
+    "f79c2e7d-d3cf-428f-a87d-d24da4fbd355",
+    "1741699474528c9a5a",
+    "bb9ca38d-ce04-4360-b689-2caa0c01f90f",
+    "6d49cc26-e1b1-453e-b002-c3536bdf8400",
+    "b8e72f48-fff7-48ac-9731-334faaed50df",
+    "gallery_a7VGy3",
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1",
+    "a71215e6-0ec7-4c34-b476-ac3b2acac56b",
+    "1650824619c8dde57c",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd",
+    "featured_collection_4UrtHL",
+    "490658d2-9ca7-4d83-a5b5-624d271e1ed8",
+    "9f1f158b-9c4e-4104-a908-a174e48532e8",
+    "1652224218445a4dc3",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

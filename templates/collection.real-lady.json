@@ -1,0 +1,697 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "featured_text_pdAxMi": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/real_lady_doll_banner_silicone_doll_docklandet_sex_dolls-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Real Lady Doll - Exklusiva Silikondockor</h1><p>Vi är officiell distributör för Real Lady och kan erbjuda våra kunder alla sexdockor ur Real Lady's sortiment. Dockor från Real Lady är tillverkade av silikon och har de senaste funktionerna på marknaden. För dig som söker en exklusiv realistisk docka är Real Lady rätt märke att spana in.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_8iLw6E": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Real_Lady_promotion_kampanj_silicone_august_summer_sale_rea_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "2d74e14a-31b4-465f-a49c-cf35f4059d78": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Gillar du?",
+            "sidebar_rv_per": 2
+          }
+        }
+      },
+      "block_order": [
+        "2d74e14a-31b4-465f-a49c-cf35f4059d78"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "1739875751a3ee6571": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_widget_block_9HKCGW": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "9",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "instafeed_app_block_bPXmpA": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38679",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_widget_block_9HKCGW",
+        "instafeed_app_block_bPXmpA"
+      ],
+      "settings": {}
+    },
+    "featured_text_TfYgVA": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Real Lady Doll</h2><p>Real Lady är ett exklusivt dockmärke känt för sitt engagemang för att skapa extremt verklighetstrogna och anpassningsbara silikon-dockor. Grundat på principen att blanda konstnärskap med innovation och funktion, har Real Lady omdefinierat dock-industrin. Real Lady har ett nära samarbete med världskända tillverkaren Irontech Doll. Den största skillnaden mellan deras dockor är förutom priset främst att en Real Lady är i princip helt fullt uppgraderad. Med Irontech i ryggen kan du som är intresserad av en Real Lady känna dig säker på att få en docka med hög standard finslipad till perfektion av erfarna designer, skulptörer och sminköser. <br/><br/>Varje Real Lady-docka är noggrant skulpterad och designad för att efterlikna den mänskliga anatomins nyanser, vilket resulterar i en oöverträffad nivå av realism. Från ansiktsuttryck till kroppsproportioner, varje detalj är sakkunnigt utformad för att framkalla en känsla av autenticitet och känslomässig anknytning.<br/><br/>Det som skiljer Real Lady åt är dess engagemang för anpassning. Med en mängd alternativ som sträcker sig från hårfärg och stil till ögonform och hudton, har kunderna friheten att skapa en docka som speglar deras unika preferenser och personlighet. Denna betoning på personalisering säkerställer att varje Real Lady-docka är lika distinkt som individen som äger den.<br/><br/>Dessutom har Real Lady åtagit sig att använda premium-material av högsta kvalitet, prioritera hållbarhet och livslängd utan att kompromissa med estetiken. Varumärkets kompromisslösa standarder sträcker sig till dess rigorösa kvalitetskontroll-processer, vilket garanterar att varje docka uppfyller de krävande standarder som ställts upp av Real Lady.<br/><br/>Oavsett om du tänkt använda dockan som modell, inredningsdetalj, samlarobjekt eller omfamnas som en följeslagare för fantasifull lek och fysisk aktivitet, inkapslar Real Lady-dockor essensen av skönhet, hantverk och individualitet. Med en orubblig hängivenhet till excellens fortsätter Real Lady att fängsla både entusiaster och samlare, och stärker sitt rykte som ledare inom dockhantverksvärlden.</p><p>Docklandet.se är auktoriserad samarbetspartner och officiell distributör för Real Lady i Sverige, Norden och resten av Europa. Vi kan erbjuda våra kunder förmånliga priser på alla deras sexdockor (vi ligger alltid på lägsta tillåtna pris satt av Real Lady). </p><p>Real Lady's silikon-dockor har alltid följande premiumegenskaper:</p><p><strong>*</strong> <strong>Viktreducering</strong> (5-10 kg)<br/><strong>* Extra realistiskt gjuten kropp</strong> (mer detaljer)<br/><strong>*</strong> <strong>Kroppsmålning</strong> (vener, rodnad, mm)<br/><strong>* Ultra-realistiskt smink</strong> (ansikte)<br/><strong>*</strong> <strong>Implanterade</strong> ögonbryn och fransar<br/><strong>* Premium ögon</strong> (hel-klot med vener)<br/><strong>*</strong> <strong>Extra rörligt skelett och axlar</strong> (EVO)<br/><strong>*</strong> <strong>Extra mjuka bröst</strong> (gel-fyllda)<br/><strong>* Extra mjuk rumpa</strong> (gel-fylld)<br/><strong>*</strong> <strong>Uppgraderad vagina</strong> (mjuk insida)<br/><strong>*</strong> <strong>Stående fot</strong> (med bultar)<br/><strong>* Artikulerade tår</strong> (med leder)<br/><strong>* Artikulerade fingrar</strong> (med leder)<br/><strong>* Händer i hårdare silikon</strong> (realism + hållbarhet)<br/><strong>* Matt hud</strong> (realism + hållbarhet)<br/><strong>* Extra realistisk vagina</strong> (mjuk insida)</p><p>Kort och gått kan man säga att en Real Lady är en fullt uppgraderad Irontech Doll. Irontech och Real Lady har ett nära samarbete och flera av de fantastiska utseenden som Real Lady erbjuder härstammar från populära Irontech-modeller. </p><p>Real Lady är ett premium-märke som tillverkar realistiska dockor med fokus på hög kvalitet och detaljer. Märket har blivit känt för sitt hantverk och innovativa teknik som efterliknar verkligheten på ett imponerande sätt. Dessa dockor är mer än bara leksaker – de representerar konst, emotionellt stöd och ett estetiskt samlarvärde.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_R9YGLp": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/real_lady_doll_banner_2_silicone_dolls_docklandet_sexdockor_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3>Varför investera i en docka från Real Lady?</h3><p>Dockor från Real Lady erbjuder en rad fördelar, inklusive emotionellt stöd och konstnärligt värde. De är inte bara föremål för underhållning utan kan också användas som ett sätt att uttrycka kreativitet eller finna tröst. Oavsett om du är samlare, konstnär eller letar efter ett unikt sällskap, är \"Real Lady\"-dockor ett innovativt val.</p><p>Varje docka från Real Lady tillverkas av ett team av skickliga hantverkare som noggrant väljer material och skapar varje detalj med stor omsorg. De använder sig av avancerade material som hudliknande silikon för att säkerställa en realistisk känsla och hållbarhet. Resultatet är en docka som är både estetiskt tilltalande och långvarig. Real Lady är känt för att använda högkvalitativa och hållbara råvaror för sina silikon-dockor. Dessa material imiterar hudens struktur och ger en verklig känsla vid beröring, vilket gör dockorna nästan identiska med en riktig människa.</p><p>En av de största fördelarna med Real Lady-dockor är anpassningsmöjligheterna. Kunder kan välja mellan olika hårfärger, ögonfärger, kläder och till och med specifika ansiktsuttryck. Detta gör att varje docka kan skräddarsys efter individens preferenser. Som vi nämnt tidigare så är även en Real Lady näst intill fullt uppgraderad med alla de senaste funktionerna på marknaden. </p><h3>Fokus på realism</h3><p>Realism är kärnan i Real Lady-dockor. Genom att använda avancerad teknologi och material strävar de efter att skapa dockor som är så verklighetstrogna som möjligt. Varje detalj, från ögonfransar till hud-textur, är noggrant utformad för att ge en autentisk upplevelse.</p><h3>Emotionellt stöd</h3><p>Många som köper en docka från Real Lady upplever en form av emotionellt stöd. Dockorna kan fungera som sällskap för personer som känner sig ensamma eller söker tröst i en konstnärligt skapad varelse. Då dessa dockor är extremt realistiska så skapas snabbt en atmosfär av närvaro i hemmet där dockan vistas. </p><h3>Estetiskt värde</h3><p>För samlare och utställare erbjuder Real Lady-dockor ett högt estetiskt värde. Deras detaljerade hantverk och möjlighet till anpassning gör dem till utmärkta konstverk som kan visas upp, beundras och användas för en mängd olika ändamål, både för privatpersoner och företagare. Tack vare de högkvalitativa materialen är dockorna mycket hållbara och kan behålla sin realism under lång tid om de sköts på rätt sätt.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_gRQiVD": {
+      "type": "gallery",
+      "blocks": {
+        "image_qGxPDE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/RL-150cm-ENG.jpg"
+          }
+        },
+        "image_EPywnR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/RD-159cm_3.jpg"
+          }
+        },
+        "image_CmcnQt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/EN-RL162cm_Sexdocka_Docklandet_a2b4388f-185a-42dc-a2f4-52bb03a7712c.jpg"
+          }
+        },
+        "image_JjgfzT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/RD-168cm_1.jpg"
+          }
+        },
+        "image_CmV3Nz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/EN-RL170cm.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_qGxPDE",
+        "image_EPywnR",
+        "image_CmcnQt",
+        "image_JjgfzT",
+        "image_CmV3Nz"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_Ty6Lze": {
+      "type": "gallery",
+      "blocks": {
+        "image_9QV66X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6261_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_jb6PKM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6283_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_PHMay3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6286_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_rNAAkT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6267_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_9QV66X",
+        "image_jb6PKM",
+        "image_PHMay3",
+        "image_rNAAkT"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_XKUanG": {
+      "type": "gallery",
+      "blocks": {
+        "image_LM8gRf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6269_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_bMepra": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6275_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_G78UtF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6270_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_Td4KaP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6343_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_K9VLAF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6293_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_6YHwVd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6292_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_rzhneg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6300_Sexdocka_Docklandet_38f4f4f3-8d67-4a3a-bc2d-c197aeaa1c1f.jpg"
+          }
+        },
+        "image_yKkiM7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6294_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_mnBqD6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6313_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_qYwrBC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6347_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_EpchXJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6348_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_4FmiqY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6269_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_qCE4aq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6331_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_eybk4i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6335_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_iJQqze": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6342_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_9NP3B8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6322_Sexdocka_Docklandet_052201ec-ce8a-408c-b95f-8a9514ec0141.jpg"
+          }
+        },
+        "image_ejVJhU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6356_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_kr9TVW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6352_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_TnkE4L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6304_Sexdocka_Docklandet_9352b8ab-84e6-4b33-a284-bc7efb04a276.jpg"
+          }
+        },
+        "image_RnUyze": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6295_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_LM8gRf",
+        "image_bMepra",
+        "image_G78UtF",
+        "image_Td4KaP",
+        "image_K9VLAF",
+        "image_6YHwVd",
+        "image_rzhneg",
+        "image_yKkiM7",
+        "image_mnBqD6",
+        "image_qYwrBC",
+        "image_EpchXJ",
+        "image_4FmiqY",
+        "image_qCE4aq",
+        "image_eybk4i",
+        "image_iJQqze",
+        "image_9NP3B8",
+        "image_ejVJhU",
+        "image_kr9TVW",
+        "image_TnkE4L",
+        "image_RnUyze"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_JNAUkY": {
+      "type": "gallery",
+      "blocks": {
+        "image_KW4iih": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6316_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_Vi8JYL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6272_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_ikaRgT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6323_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_adwMH3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6330_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_DAWXy6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1P8A6334_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_KW4iih",
+        "image_Vi8JYL",
+        "image_ikaRgT",
+        "image_adwMH3",
+        "image_DAWXy6"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 5,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_y7UYUc": {
+      "type": "gallery",
+      "blocks": {
+        "image_j8QR8x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/23_Sexdocka_Docklandet_a47b2569-730a-4314-806a-90e6c9c6b4c2.jpg"
+          }
+        },
+        "image_nhFEkd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/25_Sexdocka_Docklandet_1fe9e49d-6938-4386-86d8-74510838e428.jpg"
+          }
+        },
+        "image_7YwKJW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/26_Sexdocka_Docklandet_04aef506-a12f-420a-b9e0-6c4084c62e2b.jpg"
+          }
+        },
+        "image_97mAtC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/27_Sexdocka_Docklandet_10daa188-3d19-4de9-a084-5589671b0e82.jpg"
+          }
+        },
+        "image_4UnxJ7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/28_Sexdocka_Docklandet_05f75240-fe96-4926-b271-b7abcb1ba889.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_j8QR8x",
+        "image_nhFEkd",
+        "image_7YwKJW",
+        "image_97mAtC",
+        "image_4UnxJ7"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 5,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_BPUWDU": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_hbFWCg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/real_lady_doll_banner_2_silicone_dolls_docklandet_sexdockor_5_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/joline-sexdocka-real-lady-170cm-c-kupa-s41-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_WRQpk6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/real_lady_doll_banner_2_silicone_dolls_docklandet_sexdockor_6_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/alaina-sexdocka-real-lady-170cm-c-kupa-s30-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_wydNGF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/real_lady_doll_banner_2_silicone_dolls_docklandet_sexdockor_3_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/jennifer-flora-real-lady-170cm-c-kupa-s38-2-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_zCDfr4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/real_lady_doll_banner_2_silicone_dolls_docklandet_sexdockor_2_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/angels-sexdocka-real-lady-170cm-c-kupa-s42-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_tCqNyM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/real_lady_doll_banner_2_silicone_dolls_docklandet_sexdockor_Sexdocka_Docklandet_c337a5bd-a38d-4230-8b8e-afdd403a8b36.jpg",
+            "link": "shopify://products/catlin-sexdocka-real-lady-170cm-c-kupa-s23-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_KnR76F": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/real_lady_doll_banner_2_silicone_dolls_docklandet_sexdockor_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://products/penny-sexdocka-real-lady-170cm-c-kupa-s33-silikon",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hbFWCg",
+        "image_WRQpk6",
+        "image_wydNGF",
+        "image_zCDfr4",
+        "image_tCqNyM",
+        "image_KnR76F"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_y39WYR": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 3,
+        "rv_per": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "fd064c3d-7c22-40fc-8579-bcfa02d1739b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya silikondockor",
+        "collection_description": true,
+        "collection": "nyheter-silikon",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3d84478c-cd6d-448a-badc-85dbe13f15d1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_Uj8bax": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Silikondockor i lager",
+        "collection_description": true,
+        "collection": "silikon-dockor-i-lager-expressleverans",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "divider_qa7Nph": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "featured_text_pdAxMi",
+    "image_with_text_overlay_8iLw6E",
+    "main",
+    "1739875751a3ee6571",
+    "featured_text_TfYgVA",
+    "featured_text_R9YGLp",
+    "gallery_gRQiVD",
+    "gallery_Ty6Lze",
+    "gallery_XKUanG",
+    "gallery_JNAUkY",
+    "gallery_y7UYUc",
+    "featured_promotions_BPUWDU",
+    "divider_y39WYR",
+    "16508260667ee95abe",
+    "fd064c3d-7c22-40fc-8579-bcfa02d1739b",
+    "3d84478c-cd6d-448a-badc-85dbe13f15d1",
+    "featured_collection_Uj8bax",
+    "1652224218445a4dc3",
+    "divider_qa7Nph"
+  ]
+}

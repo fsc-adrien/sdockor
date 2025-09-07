@@ -1,0 +1,196 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "cart-template",
+      "settings": {
+        "display_special_instructions": true,
+        "display_savings": true,
+        "cart_message": "<p><strong>I kassan kan du betala med kort eller med Klarna (betala senare eller avbetala i upp till 36 månader)</strong></p>",
+        "continue_shopping_url": "shopify://collections/sexdockor"
+      }
+    },
+    "bc4c6a44-8e99-42c1-8a06-1e89f145fad6": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/sexdocka_docklandet_real_doll_sweden_sexdockor-1_16_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "shopify://pages/klarna-sexdockor",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/1366x768_white_copy_mobile3.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_QX7C74": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165222595344ea814f": {
+      "type": "apps",
+      "blocks": {
+        "c6436556-4eb7-40e4-bb7f-353fcb99b4cd": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "c6436556-4eb7-40e4-bb7f-353fcb99b4cd"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "16522261631dcfba56": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-uppgraderingar-tillbehor",
+        "collection_style": "slider",
+        "products_per": 5,
+        "products_limit": 30,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "You may also be interested in",
+        "collection_description": true,
+        "collection": "",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16522261044bf1548f": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "141572fa-f734-483d-80b8-accf867bcfc3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_WCaENz": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_hQe79x": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lågpris dockor",
+        "collection_description": true,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165222610262f02230": {
+      "type": "apps",
+      "blocks": {
+        "9e480d11-b532-4c5e-a584-33c212d9073f": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "9e480d11-b532-4c5e-a584-33c212d9073f"
+      ],
+      "settings": {}
+    },
+    "16522262585f0d60a9": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bc4c6a44-8e99-42c1-8a06-1e89f145fad6",
+    "165222595344ea814f",
+    "divider_QX7C74",
+    "16522261631dcfba56",
+    "featured-collection",
+    "16522261044bf1548f",
+    "141572fa-f734-483d-80b8-accf867bcfc3",
+    "featured_collection_WCaENz",
+    "featured_collection_hQe79x",
+    "165222610262f02230",
+    "16522262585f0d60a9"
+  ]
+}

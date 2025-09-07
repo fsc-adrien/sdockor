@@ -1,0 +1,50 @@
+{%- comment -%}
+# Caution! Please read https://help.shopify.com/en/manual/promoting-marketing/seo/editing-robots-txt before proceeding to make changes to this file.
+{% endcomment %}
+{% for group in robots.default_groups %}
+  {{- group.user_agent -}}
+    
+
+  {% for rule in group.rules %}
+    
+    {{- rule -}}
+  {% endfor %}
+  {%- if group.user_agent.value == "*" -%}
+Disallow: /*.atom$
+Disallow: /*?page=
+{{}}
+  {%- endif -%}
+  {%- if group.sitemap != blank -%}
+    {{ group.sitemap }}
+  {%- endif -%}
+{% endfor %}
+User-agent: URLmetrics
+Disallow: /
+
+Host: docklandet.se
+Sitemap: https://docklandet.se/sitemap.xml
+
+Host: docklandet.de
+Sitemap: https://docklandet.de/sitemap.xml
+
+Host: docklandet.com
+Sitemap: https://docklandet.com/sitemap.xml
+
+Host: docklandet.dk
+Sitemap: https://docklandet.dk/sitemap.xml
+
+Host: docklandet.fi
+Sitemap: https://docklandet.fi/sitemap.xml
+
+Host: sexdukke.com
+Sitemap: https://sexdukke.com/sitemap.xml
+
+Host: docklandet.es
+Sitemap: https://docklandet.es/sitemap.xml
+
+Host: docklandet.pl
+Sitemap: https://docklandet.pl/sitemap.xml
+
+Host: docklandet.fr
+Sitemap: https://docklandet.fr/sitemap.xml
+

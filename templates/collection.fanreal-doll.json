@@ -1,0 +1,641 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/fanreal_doll_banner_silicone_doll_docklandet_sex_dolls_copy-1_1_Sexdocka_Docklandet_c1df8335-001d-4df9-bcb9-b372bee13f22.jpg",
+        "title": "",
+        "content": "<h1>FanReal Doll</h1><p><strong>FanReal är ett väletablerat namn kända för sina exklusiva silikon-dockor. Om du söker de senaste funktionerna på marknaden samt design och kvalitet på högsta nivå så är en docka från FanReal ett bra val</strong></p><p>Vi är officiell distributör för FanReal Doll i Norden och vi kan erbjuda våra kunder alla dockor ur FanReal's sortiment!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_NLN9aE": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Fanreal_promotion_kampanj_rea_sale_september_Banner_Sexdocka_Docklandet_b9dac9c0-64ab-46e2-b5a2-193d489c092e.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 4
+          }
+        }
+      },
+      "block_order": [
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "2fa0902a-191a-42f5-98f0-a09f0eaccf7b": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "ZELEX I LAGER (EXPRESSLEVERANS)",
+        "content": "<p>Vi kan erbjuda snabb leverans (2-4 dagar) på flera populära dockor från Zelex Doll</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1af79b6f-ce5e-4514-ad29-31708570f889": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "zelex-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d649fd19-1ed1-468a-9545-3b367d1edd92": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Visa fler dockor i lager",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "17485951773c9bf8e7": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_wxjxQ3": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "40722",
+            "html_area": ""
+          }
+        },
+        "youtube_gallery_grid_widget_block_ArJA8N": {
+          "type": "shopify://apps/youtube-gallery/blocks/grid-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "7",
+            "themeId": "light",
+            "showMoreId": true
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_wxjxQ3",
+        "youtube_gallery_grid_widget_block_ArJA8N"
+      ],
+      "settings": {}
+    },
+    "slideshow_Ydep3E": {
+      "type": "slideshow",
+      "blocks": {
+        "image_REaX8X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fanrealdoll.webp",
+            "pretext": "<p><strong>Docklandet presenterar</strong></p>",
+            "title": "",
+            "subtitle": "<p>FanReal della</p><p><strong>En av de populäraste dockorna från FanReal! Finns i flera olika versioner</strong></p>",
+            "button1": "Della (vit)",
+            "button1_link": "shopify://products/della-fair-sexdocka-fanreal-doll-170cm-g-kupa-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "Della (solbrun)",
+            "button2_link": "shopify://products/della-sexdocka-fanreal-doll-170cm-g-kupa-tan-silikon",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_wXKciD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_7019.webp",
+            "pretext": "<p><strong>Docklandet presenterar</strong></p>",
+            "title": "",
+            "subtitle": "<p>FanReal Della</p><p><strong>En av de populäraste dockorna från FanReal! Finns i flera olika versioner</strong></p>",
+            "button1": "Della (vit)",
+            "button1_link": "shopify://products/della-fair-sexdocka-fanreal-doll-170cm-g-kupa-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "Della (solbrun)",
+            "button2_link": "shopify://products/della-sexdocka-fanreal-doll-170cm-g-kupa-tan-silikon",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_EqpBWK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_7072.jpg",
+            "pretext": "<p><strong>Docklandet presenterar</strong></p>",
+            "title": "",
+            "subtitle": "<p>FanReal Della</p><p><strong>En av de populäraste dockorna från FanReal! Finns i flera olika versioner</strong></p>",
+            "button1": "Della (vit)",
+            "button1_link": "shopify://products/della-fair-sexdocka-fanreal-doll-170cm-g-kupa-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "Della (solbrun)",
+            "button2_link": "shopify://products/della-sexdocka-fanreal-doll-170cm-g-kupa-tan-silikon",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "image_8K3tDE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_7036.jpg",
+            "pretext": "<p><strong>Docklandet presenterar</strong></p>",
+            "title": "",
+            "subtitle": "<p>FanReal Della</p><p><strong>En av de populäraste dockorna från FanReal! Finns i flera olika versioner</strong></p>",
+            "button1": "Della (vit)",
+            "button1_link": "shopify://products/della-fair-sexdocka-fanreal-doll-170cm-g-kupa-silikon",
+            "button1_style": "global-button--primary",
+            "button2": "Della (solbrun)",
+            "button2_link": "shopify://products/della-sexdocka-fanreal-doll-170cm-g-kupa-tan-silikon",
+            "button2_style": "global-button--primary",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "image_REaX8X",
+        "image_wXKciD",
+        "image_EqpBWK",
+        "image_8K3tDE"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>FanReal Doll</h2><p>FanReal Doll har snabbt blivit ett namn att räkna med inom världen av exklusiva silikon-dockor. Dessa unika och realistiska dockor erbjuder inte bara en visuell njutning utan också en känsla av lyx och exklusivitet som få andra produkter kan matcha. Men vad gör egentligen en silikon-docka så speciell, och varför är FanReal Doll ledande inom detta område?</p><p>FanReal Doll grundades med en vision om att skapa de mest realistiska och högkvalitativa silikon-dockorna på marknaden. Genom åren har företaget utvecklats och förfinat sin teknik för att säkerställa att varje docka är ett mästerverk i sig. Från dess blygsamma början till dagens avancerade tillverkningsmetoder har FanReal Doll alltid strävat efter perfektion.<br/><br/>Sexdockor från FanReal har alltid följande premium-egenskaper</p><p><strong>- Rörlig käke</strong> (valfritt, gäller utvalda huvuden)</p><p><strong>- Kroppsmålning</strong> (vener, rodnad, mm)</p><p><strong>- Implanterade</strong> ögonbryn och fransar</p><p><strong>- Extra rörligt skelett och axlar</strong> (EVO)</p><p><strong>- Gel-fyllda bröst</strong> (känns mer realistiska) </p><p><strong>- Uppgraderade händer</strong> (fingrar med leder)</p><p><strong>- Händer av extra hård silikon</strong> (realism och hållbarhet)</p><p><strong>- Stående fot</strong> (med hård fotsula)<br/></p><h3>FanReal - Exklusivitet och kvalitet</h3><p>Varje FanReal Doll är ett konstverk, handgjort med största noggrannhet och precision. Företaget erbjuder en rad anpassningsalternativ, vilket innebär att varje docka kan skräddarsys efter kundens specifika önskemål. Detta inkluderar val av hudton, ögonfärg, hårstil och mycket mer. Den höga kvaliteten på materialen och den detaljfokuserade tillverkningen gör varje docka till en exklusiv produkt som är värd sin investering.</p><p>FanReal Dolls används för olika ändamål. För vissa är de värdefulla samlarobjekt som kan ställas ut och beundras. Andra använder dem för kreativa och konstnärliga ändamål, såsom fotografering, filmproduktion eller som inspiration för konstverk. Oavsett syftet ger dessa dockor en unik upplevelse och tillfredsställelse för ägaren.</p><p>Tillverkningsprocessen för en FanReal Doll är både komplex och fascinerande. Den börjar med en noggrann designprocess där varje detalj planeras. Därefter följer skapandet av en form, där silikonet hälls och formas till den önskade dockans utseende. Efter att silikonet har härdats, följer flera steg av detaljarbete, inklusive målning, applicering av hår och insättning av ögon. Varje steg utförs med noggrannhet och skicklighet för att säkerställa att den färdiga produkten är perfekt.</p><p>En av de mest tilltalande aspekterna av FanReal Dolls är möjligheten till personalisering. Kunder kan välja mellan olika hudtoner, ögonfärger, hårstilar och till och med kroppsform för att skapa en docka som passar deras specifika önskemål. Detta gör varje docka unik och ger ägaren en känsla av att ha något som är helt skräddarsytt för dem.</p><h4>Vad är en silikon-docka?</h4><p>En silikon-docka är tillverkad av högkvalitativt silikon, vilket ger den en unik känsla och utseende som är svår att skilja från verkliga människor. Silikonets egenskaper gör det möjligt att skapa detaljerade och realistiska ansiktsdrag, hudtexturer och kroppsfunktioner. Till skillnad från andra material, som latex eller plast, är silikon mer hållbart och flexibelt, vilket bidrar till dockans livslängd och realism.</p><p>För att din FanReal Doll ska behålla sin skönhet och kvalitet är det viktigt att sköta om den på rätt sätt. Rengöring bör göras regelbundet med mild tvål och vatten, och dockan bör förvaras på en plats där den inte utsätts för direkt solljus eller extrema temperaturer. Genom att följa dessa enkla skötselråd kan du säkerställa att din docka håller sig i perfekt skick under lång tid.</p><p>Det finns många myter och missuppfattningar kring silikon-dockor. En vanlig missuppfattning är att de är sköra och lätt går sönder, men i verkligheten är silikon mycket hållbart och flexibelt. En annan myt är att silikon-dockor är svåra att underhålla, men med rätt skötsel är de faktiskt ganska enkla att hålla i gott skick. Det är viktigt att skilja fakta från fiktion när det gäller dessa fantastiska produkter.</p><h4>Att äga en FanReal Doll</h4><p>Att äga en FanReal Doll kommer med många fördelar. Förutom den estetiska tillfredsställelsen och känslan av exklusivitet är dessa dockor också en långvarig investering. De är tillverkade för att hålla och behålla sitt värde över tid. Dessutom erbjuder de en unik upplevelse och en känsla av ägande som få andra produkter kan matcha.</p><p>Många kunder har uttryckt sin tillfredsställelse med sina FanReal Dolls. De uppskattar den höga kvaliteten, realismen och möjligheten till personalisering. Många har också delat med sig av sina egna användningsfall, från konstprojekt till personlig njutning. Dessa recensioner och testimonials ger en inblick i hur dessa dockor kan berika ägarens liv på olika sätt.</p><p>Vad skiljer FanReal Doll från andra märken på marknaden? För det första är det den höga kvaliteten och detaljnivån i varje docka. För det andra är det möjligheten till omfattande personalisering. Medan andra märken kanske erbjuder standardiserade produkter, strävar FanReal Doll efter att varje kund ska känna sig speciell och få en produkt som är unik för dem.</p><p>FanReal Doll fortsätter att utvecklas och expandera. Med ständiga innovationer och nya produkter på horisonten, är framtiden ljus för detta företag. De strävar efter att förbli ledande inom branschen och fortsätta erbjuda sina kunder de mest realistiska och högkvalitativa silikon-dockorna på marknaden.</p><p>Att köpa en FanReal Doll är en enkel process. Om du vill ha din docka exakt som på bilderna, utan modifikationer av utseende eller extra uppgraderingar, så behöver du endast trycka på \"lägg i varukorg\", sedan gå vidare till kassan, för att genomföra ett köp. Du kan även välja att modifiera dockans utseende (utan extra kostnad) och även uppgradera dockan med vissa speciella funktioner (tillval). När du har gjort dina val, kan du placera din beställning och välja bland olika betalningsalternativ. Priserna varierar beroende på de valda anpassningarna, men varje docka är värd investeringen med tanke på dess kvalitet och unika egenskaper.</p><h4>Silikondockor i världsklass</h4><p>FanReal Doll erbjuder en unik och exklusiv produkt som kombinerar högkvalitativt hantverk med oändliga anpassningsmöjligheter. Dessa silikon-dockor är mer än bara leksaker; de är konstverk och samlarobjekt som kan ge glädje och tillfredsställelse under lång tid. Med en noggrann tillverkningsprocess och fokus på detaljer, fortsätter FanReal Doll att sätta standarden för vad en exklusiv silikon-docka kan vara.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_Jk7Je9": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_CYQU4N": {
+      "type": "gallery",
+      "blocks": {
+        "image_krNNXY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_153_cm_body_size_chart._Sex_doll_Docklandet_4dfb6ff8-574c-4451-aab6-3c94992b8bcc.jpg"
+          }
+        },
+        "image_WPeWxn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_155_cm_body_size_chart._Sex_doll_Docklandet_38b838ad-6101-417f-8200-712efeb3ee24.jpg"
+          }
+        },
+        "image_an78pG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_158_cm_body_size_chart._Sex_doll_Docklandet_b7ff0f52-4dba-4562-86e0-e894bba93de2.jpg"
+          }
+        },
+        "image_4tCzKB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_163_cm_body_size_chart._Sex_doll_Docklandet_b529a957-1eac-4b9a-aa13-d1a297e4e36b.jpg"
+          }
+        },
+        "image_AMyHW3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_165_cm_body_size_chart._Sex_doll_Docklandet_bbda7af6-5f2b-4c5c-84ed-9e93db3f1e4a.jpg"
+          }
+        },
+        "image_7yCmJm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_170_cm_body_size_chart._Sex_doll_Docklandet_b1987c1d-aadb-436b-970e-e2e43deb967c.jpg"
+          }
+        },
+        "image_QyQm8M": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_172_cm_body_size_chart._Sex_doll_Docklandet_f65deb3d-e5d0-4b88-93f8-166e4f9f66a0.jpg"
+          }
+        },
+        "image_VJmwpC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FanReal_Doll_173_cm_body_size_chart._Sex_doll_Docklandet_a2ea5fd0-00e8-4121-b0e1-8fabfda98f81.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_krNNXY",
+        "image_WPeWxn",
+        "image_an78pG",
+        "image_4tCzKB",
+        "image_AMyHW3",
+        "image_7yCmJm",
+        "image_QyQm8M",
+        "image_VJmwpC"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_wxKaEP": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_bJfjtE": {
+      "type": "gallery",
+      "blocks": {
+        "image_WAJFBb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_7152_Sexdocka_Docklandet_20a368e9-5458-4131-aad9-a12d7c3ce8a8.jpg"
+          }
+        },
+        "image_Y3wnnA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_9227.jpg"
+          }
+        },
+        "image_W39TH6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_7283_Sexdocka_Docklandet_d5b99fae-33eb-41ef-864c-1decf69b5003.jpg"
+          }
+        },
+        "image_K9nHxb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_6976.jpg"
+          }
+        },
+        "image_nLtGYp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_8470_Sexdocka_Docklandet_8c616b78-11a9-460b-8c90-c3f49217f535.jpg"
+          }
+        },
+        "image_4RXF9E": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_8988_Sexdocka_Docklandet_d7c3fca5-28d1-4d86-a2cd-2dd0a5412fbb.jpg"
+          }
+        },
+        "image_fMKxxN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_8457_Sexdocka_Docklandet_22186bc7-8b4b-442a-9f24-3e74816ae586.jpg"
+          }
+        },
+        "image_C46kh3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_3393_Sexdocka_Docklandet_d668ad4b-e034-4fea-97f2-46d207315505.jpg"
+          }
+        },
+        "image_d7wmwr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_8395_Sexdocka_Docklandet_685852cc-bf68-4059-a392-9a2ec0ad30c4.jpg"
+          }
+        },
+        "image_3MY9mg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MG_5566_Sexdocka_Docklandet_83cc3070-12ec-4466-888d-48f1db2befc2.jpg"
+          }
+        },
+        "image_hQmx8g": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/M7A4105_Sexdocka_Docklandet_cfc1aeed-6b10-4491-846e-dd0ba8a16027.jpg"
+          }
+        },
+        "image_MjRT4J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Yao_Sexdocka_FanReal_Doll_159cm_G-kupa_Silikon_Fanreal_Doll_Sex_dolls_real_doll_sexdocka_docklandet_14_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_MaJMp6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5069_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_hNkfe3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5068_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_JzF7aY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5077_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_WAJFBb",
+        "image_Y3wnnA",
+        "image_W39TH6",
+        "image_K9nHxb",
+        "image_nLtGYp",
+        "image_4RXF9E",
+        "image_fMKxxN",
+        "image_C46kh3",
+        "image_d7wmwr",
+        "image_3MY9mg",
+        "image_hQmx8g",
+        "image_MjRT4J",
+        "image_MaJMp6",
+        "image_hNkfe3",
+        "image_JzF7aY"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_UrJaLg": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_CmY9Me": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "image_with_text_overlay_NLN9aE",
+    "main",
+    "2fa0902a-191a-42f5-98f0-a09f0eaccf7b",
+    "1af79b6f-ce5e-4514-ad29-31708570f889",
+    "d649fd19-1ed1-468a-9545-3b367d1edd92",
+    "17485951773c9bf8e7",
+    "slideshow_Ydep3E",
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
+    "divider_Jk7Je9",
+    "gallery_CYQU4N",
+    "divider_wxKaEP",
+    "gallery_bJfjtE",
+    "divider_UrJaLg",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "divider_CmY9Me",
+    "1650824619c8dde57c",
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

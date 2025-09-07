@@ -1,0 +1,92 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "settings": {}
+    },
+    "4a17b00d-dacc-43f9-844c-c74f4ee2f93d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Prisvärda sexdockor",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "aabc7d5c-99e6-4ab3-b696-6b06d29363d0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära TPE-dockor",
+        "collection_description": true,
+        "collection": "populara-tpe-dockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "90eb1f48-6757-421e-a0b6-bbdf2e145354": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1696497722449820cc": {
+      "type": "apps",
+      "blocks": {
+        "9ec2b5ba-9f46-4f0f-9656-d2d94b2321ed": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "9ec2b5ba-9f46-4f0f-9656-d2d94b2321ed"
+      ],
+      "settings": {}
+    },
+    "54c19adc-301e-4290-97f7-25f871688654": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4a17b00d-dacc-43f9-844c-c74f4ee2f93d",
+    "aabc7d5c-99e6-4ab3-b696-6b06d29363d0",
+    "90eb1f48-6757-421e-a0b6-bbdf2e145354",
+    "1696497722449820cc",
+    "54c19adc-301e-4290-97f7-25f871688654"
+  ]
+}

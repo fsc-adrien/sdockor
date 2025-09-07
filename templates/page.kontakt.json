@@ -1,0 +1,179 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "59753cab-2e65-4b21-ad0d-42f2257acf31": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_real_doll_sexdockor_sverige_docklandet_start2023-1_2_Sexdocka_Docklandet_a28ef4c3-01e2-4aca-a27b-f6feb280b2f6.jpg",
+        "title": "",
+        "content": "<h1><strong>Kontakt</strong></h1><p>Om du undrar över något så tveka inte att höra av dig till oss, vi svarar vanligtvis inom några timmar. Vi vill gärna hjälpa dig med vad du än undrar över, allt från funderingar kring en sexdocka eller önskemål, till åsikter och kritik. </p><p>Vi (<a href=\"/pages/om-oss-docklandet-sexdockor\" title=\"Om oss | Docklandet™\"><strong>Docklandet</strong></a>) är experter på sexdockor och har flera års erfarenhet i branschen. Kolla gärna igenom våran <a href=\"https://docklandet.se/pages/faq\" title=\"F.A.Q\"><strong>F.A.Q</strong></a><strong> </strong>med vanliga frågor och svar! </p><p>Vi har öppet alla vardagar 10:00 - 18:00 och vi har även öppet sporadiskt helger eller vid inbokade besök. Vi håller till i Borlänge där vi har ett eget lager med väldigt många dockor. Vi har även två uppvisnings-rum där vi har över 60 dockor uppställda. </p><p>Vi håller till på <strong>Krokgatan 22</strong> och nås på <strong>010 - 641 06 66</strong> eller <a href=\"mailto:info@docklandet.se\" title=\"mailto:info@docklandet.se\"><strong>info@docklandet.se</strong></a></p><p>Du kan även skicka ett meddelande genom att fylla i formuläret här nedan;</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "contact-custom-template",
+      "blocks": {
+        "3ae7536e-f218-4682-913e-d099aac4a036": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "logo_display_width": 150,
+            "text": "<h4>Skicka ett meddelande till oss </h4>"
+          }
+        },
+        "block-1": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "label": "",
+            "placeholder": "Namn",
+            "required": false,
+            "field_type": "text"
+          }
+        },
+        "64e2a578-b8d7-45ee-8b28-7e2d4160c467": {
+          "type": "custom",
+          "settings": {
+            "label": "",
+            "placeholder": "Vad gäller din fråga?",
+            "required": true,
+            "options_1": "- Jag är intresserad av att köpa en docka",
+            "options_2": "- Jag undrar över lagerstatus på en docka",
+            "options_3": "- Fundering kring leverans eller betalning",
+            "options_4": "- Jag har frågor om en pågående order",
+            "options_5": "- Jag behöver råd/hjälp/info om min docka",
+            "options_6": "- Något annat...",
+            "field_type": "drop_down"
+          }
+        },
+        "block-2": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "E-post",
+            "required": true,
+            "field_type": "email"
+          }
+        },
+        "block-3": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Meddelande",
+            "required": true,
+            "field_type": "textarea"
+          }
+        }
+      },
+      "block_order": [
+        "3ae7536e-f218-4682-913e-d099aac4a036",
+        "block-1",
+        "64e2a578-b8d7-45ee-8b28-7e2d4160c467",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "contact_heading": "",
+        "subtitle": "",
+        "caption_content_background": "original",
+        "contact_subheading": "",
+        "contact_content": "",
+        "contact_text_position": "center",
+        "contact_text_alignment": "left",
+        "contact_social_buttons": false
+      }
+    },
+    "19b90099-800c-428c-9733-a8a31eabf714": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--16712064893186__19b90099-800c-428c-9733-a8a31eabf714-16787139447d299a2a-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/docklandet_lager_sexdockor_real_doll_sverige-1_1_Sexdocka_Docklandet.jpg",
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "<h2><strong>Eget lager med expressleverans</strong></h2><p>Besök oss i Borlänge eller beställ en docka i vår webbutik och ha den inom 2-4 dagar</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "58b54ea1-bcc2-4e3c-9086-253e48be4ae8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Docklandet_showroom_sexdockor-sverige_Sexdocka_Docklandet.jpg",
+            "title": "",
+            "heading_size": "regular_text",
+            "text": "<h2><strong>Docklandets egna showroom</strong></h2><p>Vi har även ett eget stort showroom med över 60 dockor uppställda</p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--16712064893186__19b90099-800c-428c-9733-a8a31eabf714-16787139447d299a2a-0",
+        "58b54ea1-bcc2-4e3c-9086-253e48be4ae8"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16783090475a381754": {
+      "type": "apps",
+      "blocks": {
+        "0cf04df4-06e6-4f2f-bc2b-de66d2aba936": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "credit-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "0cf04df4-06e6-4f2f-bc2b-de66d2aba936"
+      ],
+      "settings": {}
+    },
+    "1650389887aa26777c": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "59753cab-2e65-4b21-ad0d-42f2257acf31",
+    "main",
+    "19b90099-800c-428c-9733-a8a31eabf714",
+    "16783090475a381754",
+    "1650389887aa26777c"
+  ]
+}

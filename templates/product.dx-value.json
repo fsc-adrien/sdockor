@@ -1,0 +1,233 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "settings": {
+        "toggle": false
+      }
+    },
+    "6dd5b0e3-4c8b-4b95-9d20-b9608a267586": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "<p></p><p>Docklandet.se är auktoriserad samarbetspartner och officiell distributör för Starpery i Sverige och kan erbjuda våra svenska och nordiska kunder förmånliga priser på deras sexdockor. Vi har flera dockor på lager för snabb leverans och ett flertal uppställda i vårt showroom.<br/>Dockor från Starpery har alltid ett huvud av silikon och du kan välja om du vill att dockan ska ha en kropp gjord av TPE eller silikon. <br/></p><p>Sexdockor från <a href=\"https://docklandet.se/collections/starpery-real-doll-sexdockor\" title=\"Starpery\"><strong>Starpery</strong></a> har alltid följande premiumegenskaper: <br/><br/>* <strong>Platinum-skelett</strong> (EVO + rörliga axlar, högre kvalitet, lättare, och större rörlighet)<br/>* <strong>Viktreducering</strong> (Innermaterial av skum, 5-10 kg lättare)<br/>* <strong>Ansiktsmålning</strong> (Extremt realistiskt ansikte)<br/>* <strong>Uppgraderade</strong> <strong>ögon</strong> (Med blodådror)<br/>* <strong>Gel-implantat</strong> (Ger mjukare bröst och rumpa, mer realistisk känsla *Gel-rumpa endast silikon-kropp)<br/>* <strong>Stående fot</strong> (Högre stabilitet, bra för positionering)</p><p>Läs mer om våra sexdockor <a href=\"https://docklandet.se/pages/info\"><strong>här</strong></a>. Vi rekommenderar även att inför köp läsa igenom våran <a href=\"https://docklandet.se/pages/faq\" title=\"F.A.Q\"><strong>F.A.Q</strong></a><strong> </strong>med vanliga frågor och svar. Priset som visas är inklusive frakt, skatt och tullavgifter.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "form": {
+          "type": "form",
+          "settings": {}
+        },
+        "text_9iMtaw": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><strong>LEVERANS OCH BETALNING</strong></h6><ul><li><strong>Fri frakt:</strong> Frakt, tullavgift och skatt är inkluderat i dockans pris<br/>OBS För kunder i UK/NO/CH/LI tillkommer importmoms</li><li><strong>Expressleverans:</strong> 2 - 5 arbetsdagar (från våra lager, SE/EU/US)</li><li><strong>Ej i lager eller modifierad docka:</strong> 3 - 5 veckor (efter produktion)</li><li><strong>Betalningsalternativ:</strong> Kort (Debit/Kredit), PayPal, Google Pay</li><li>För mer info se vår leveranspolicy <a href=\"https://docklandet.se/policies/shipping-policy\" target=\"_blank\" title=\"https://docklandet.se/policies/shipping-policy\"><strong>här</strong></a></li></ul>"
+          }
+        },
+        "af487565-3702-4186-b560-c51481823314": {
+          "type": "tabs",
+          "settings": {
+            "show_product_description": false,
+            "show_tabs_below_product_gallery": true,
+            "tab_heading_1": "DX Value - Docklandet",
+            "tab_text_1": "<h6><strong>-</strong> <a href=\"https://docklandet.se/collections/sexdockor-dx-value\" title=\"Sexdockor från DX Value\"><strong>DX Value</strong></a><strong> -</strong></h6><p>Söker du en första docka eller har begränsad budget är en docka från DX Value ett bra val! DX Value erbjuder flera unika uppgraderingar av sina dockor som till exempel robot-skelett och vakuum-vagina!</p><p>Sexdockor från DX Value hos Docklandet är noga utvalda och håller alltid hög kvalitet. Våra sexdockor är tillverkad av materialet TPE som ger dockan ett realistiskt utseende och verklig känsla. Materialet är väldigt slitstarkt och hållbart vilket gör att din docka får en lång livslängd.</p><p>Dockans yttre känns och ser ut som mänsklig hud, brösten är mjuka (men ändå fasta) och vaginan är gjuten efter verkliga modeller. Kroppen är rejäl, tålig och flexibel och går att ställa i alla tänkbara positioner. </p><p>Alla dockor i DX Value-serien är framtagna i nära samarbete direkt med de bästa tillverkarna av sexdockor. Det innebär att vi kan erbjuda klassiska och populära modeller av dockor till marknadens lägsta priser. Vi uppdaterar regelbundet vårt utbud av dockor, detta innebär att vissa modeller kan förändras. Detta sker för att kunna ha bästa möjliga kvalitet utan att priset skall bli högt.</p><p></p>",
+            "tab_heading_2": "Ändra utseende - Uppgraderingar - Tillbehör",
+            "tab_text_2": "<h6><strong>Egenskaper sexdocka</strong></h6><ul><li>Våra sexdockor har flera premiumegenskaper</li><li>Du kan se i de små rutorna ovan vilka egenskaper dockor av detta fabrikat har</li><li>Även i beskrivningen av detta märke kan du hitta information</li><li>Vilka egenskaper och funktioner dockor har skiljer sig mellan olika märken</li><li>Storlek och om dockan är gjord av TPE eller silikon påverkar också</li></ul><h6><strong>Modifiera dockas utseende</strong></h6><ul><li>Dockans standardutförande är det som visas på produktbilderna. Har dockan flera stilar så är standardutförande den stil som används på de första bilderna</li><li>Du kan modifiera din docka. Att ändra dockans utseende kostar inget extra. Du kan byta hudfärg, ögonfärg, peruk, mm</li><li>För att ändra din dockas utseende så trycker du på knappen \"modifiera docka\" innan du lägger i varukorgen</li><li>Om du ändrar utseende så behöver dockan tillverkas efter dina önskemål. Produktionstid skiljer sig mellan märken, normalt tar det runt 1 vecka att tillverka en TPE-docka och ungefär 3 veckor för en av silikon</li><li>När dockan producerats så får vi fabriksbilder för inspektion. Om kund önskar så delar vi dessa</li><li>Efter att vi godkänt bilderna så paketeras dockan ordentligt och skickas</li></ul><h6><strong>Uppgradera docka</strong></h6><ul><li>De flesta dockor går att uppgradera, men många uppgraderingar kostar extra</li><li>En del uppgraderingar är inkluderade i standardutförande för dockor</li><li>Vilka uppgraderingar som är inkluderade eller går att välja på skiljer sig mellan olika märken</li><li>Uppgraderingar behöver nödvändigtvis inte göra en docka bättre men i många fall kan det förbättra utseende eller upplevelse av en docka</li><li>För att uppgradera en docka så väljer du \"modifiera docka\" innan du lägger i varukorgen</li><li>Dockans pris uppdateras automatiskt om du väljer att lägga till en uppgradering</li><li>De flesta uppgraderingar kräver att dockan tillverkas i fabrik</li></ul><h6><strong>Tillbehör</strong></h6><ul><li>Det ingår alltid flera tillbehör med våra dockor, men vilka tillbehör som ingår skiljer sig mellan olika märken</li><li>Du kan se i de små rutorna ovan vilka tillbehör ingår med dockan. Dessa medföljer utan extra kostnad</li><li>Vi har även en hel del andra tillbehör som du kan beställa tillsammans med en docka eller separat</li><li>För att se fler tillbehör så trycker du på rutan \"Tillbehör\" innan du lägger i varukorgen</li><li>Vanliga tillbehör att beställa till en docka är extra peruker, alternativa ögon, insats för tänder, shemale dildos, klädesplagg</li><li>Andra tillbehör som är vanliga är glidmedel och även produkter för lagning såsom talk, TPE-lim och TPE fläckborttagnings-salva</li><li>Det är även vanligt att beställa extra huvuden till dockor. Alla märken utom Piper Doll och Irokebijin har samma typ av anslutning för huvud i dockans hals</li></ul><h6><strong>Övrigt, bra att veta</strong></h6><ul><li>Standarddjup på öppningar är 18 cm för vagina, 16 cm för anal och 10 cm för mun. Detta kan dock kan variera mellan märken och storlekar. Öppningarna är ofta något flexibla på insidan</li><li>Silikon-huvuden är hårda som standard med sluten mun, men går ofta att få som mjuka med munöppning för oral funktion. <br/>TPE-huvuden är mjuka och har munöppning</li><li>Fotografer använder ofta egna peruker, kläder, accessoarer och styling för att lyfta dockans utseende för en fotosession, och vi kan inte garantera att man får exakt samma peruk som på bilderna. Klädesplaggen och eventuella accessoarer på bilderna ingår ej, men man får oftast med ett standard-plagg i sin beställning</li><li>Dockorna kan ibland ha uppgraderingar på bilderna, såsom silikon-kropp, hår-implantat och realistisk kroppsmålning. Dessa tillval är vanligtvis inte inkluderade utan kostar extra, och kan hittas under dockans uppgraderingar</li><li>Kroppsvikt och längd kan avvika något då varje docka är unik och i stort sett tillverkad för hand, och kan också skilja på grund av eventuella uppgraderingar samt tillval man gör</li></ul>",
+            "tab_heading_3": "Mer information",
+            "tab_text_3": "<h6><strong>Information - Sexdockor</strong></h6><ul><li><a href=\"https://docklandet.se/pages/sexdockor-faq\"><span style=\"text-decoration:underline\"><strong>F.A.Q.</strong></span></a> - Vanliga frågor och svar</li><li><a href=\"https://docklandet.se/blogs/sexdockor/tpe-eller-silikon-vilket-material-ska-du-valja\"><span style=\"text-decoration:underline\"><strong>TPE vs Silikon</strong></span></a> - Jämför material inför köp</li><li><a href=\"https://docklandet.se/pages/fabriksbilder-sexdockor\"><span style=\"text-decoration:underline\"><strong>Fabriksbilder</strong></span></a> - Oredigerade bilder från tidigare ordrar</li></ul><h6><strong>Docklandet - Kontakt</strong></h6><ul><li><strong>Mail:</strong> info@docklandet.se</li><li><strong>Telefon:</strong> +46 (0) 10 641 06 66</li><li><strong>Dalarna Exclusive AB</strong> (559265-0468)</li></ul><h6><strong>Leverans</strong></h6><ul><li><strong>Fri frakt:</strong> Frakt, tullavgift och skatt är inkluderat i dockans pris<br/>OBS För kunder i UK/NO/CH/LI tillkommer importmoms</li><li><strong>Expressleverans:</strong> 2 - 5 arbetsdagar (från våra lager, SE/EU/US)</li><li><strong>Ej i lager eller modifierad docka:</strong> 3 - 5 veckor (efter produktion)</li><li><strong>100% diskret:</strong> Ordentligt paketerat, tryggt och säkert</li></ul><h6><strong>Betalning (välj i kassan)</strong></h6><ul><li><strong>Kort </strong>- VISA/Mastercard/Mastro/AMEX</li><li><strong>Klarna</strong> - Betala efter leverans eller delbetala i upp till 36 månader</li><li><strong>PayPal</strong> - Smidigt och säkert</li><li><strong>100% diskret</strong> - Syns ej på faktura eller kontoutdrag vad som beställts.</li></ul><h6>Social Medier</h6><ul><li><a href=\"https://www.facebook.com/docklandet\" target=\"_blank\" title=\"https://www.facebook.com/docklandet\"><strong>Facebook</strong></a></li><li><a href=\"https://www.instagram.com/docklandet/\" target=\"_blank\" title=\"https://www.instagram.com/docklandet/\"><strong>Instagram</strong></a></li><li><a href=\"https://www.youtube.com/@Docklandet_Sweden\" target=\"_blank\" title=\"https://www.youtube.com/@Docklandet_Sweden\"><strong>Youtube</strong></a></li><li><a href=\"https://x.com/docklandet_eu\" target=\"_blank\" title=\"https://x.com/docklandet_eu\"><strong>X</strong></a></li><li><a href=\"https://dollforum.com/forum/viewforum.php?f=695&sid=fc3f9d466a91db0ead8866ede39b8c86\" target=\"_blank\" title=\"The Doll Forum\"><strong>TDF (The Doll Forum)</strong></a></li></ul><h6><strong>Övrigt</strong></h6><ul><li><a href=\"https://docklandet.se/policies/shipping-policy\"><strong>Leveransvillkor</strong></a> (fraktpolicy)</li><li><a href=\"https://docklandet.se/policies/refund-policy\"><strong>Retur & ångerrätt</strong></a> (återbetalningspolicy)</li></ul>"
+          }
+        },
+        "d8a6e823-ad83-4839-b638-6b904b06cccd": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "credit-promotion-badge",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description",
+        "form",
+        "text_9iMtaw",
+        "af487565-3702-4186-b560-c51481823314",
+        "d8a6e823-ad83-4839-b638-6b904b06cccd"
+      ],
+      "settings": {
+        "product_breadcrumb": false,
+        "media_position": "is-flex-row",
+        "set_product_height": true,
+        "product_height": 800,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": false,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "1679651802b71aae4c": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_Rap4dQ": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 4,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_Rap4dQ"
+      ],
+      "settings": {}
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "wide_display": false,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per_row": 3,
+        "recommended_products_limit": 4
+      }
+    },
+    "c79355c3-e374-4b37-babe-50c518082454": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_N7QMbj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära sexdockor",
+        "collection_description": false,
+        "collection": "billiga-sexdockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "439afc7c-88a5-46c9-834a-6651215feb14": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Expressleverans",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "30f6d9b2-5924-4b21-9abf-cdbd489c4740": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "nya-tpe-dockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "17170761953af9f602": {
+      "type": "apps",
+      "blocks": {
+        "klarna_on_site_messaging_app_block_JYFR3e": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "klarna_on_site_messaging_app_block_JYFR3e"
+      ],
+      "settings": {}
+    },
+    "divider_CXiBCx": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "6dd5b0e3-4c8b-4b95-9d20-b9608a267586",
+    "main",
+    "1679651802b71aae4c",
+    "recommendations",
+    "c79355c3-e374-4b37-babe-50c518082454",
+    "featured_collection_N7QMbj",
+    "439afc7c-88a5-46c9-834a-6651215feb14",
+    "30f6d9b2-5924-4b21-9abf-cdbd489c4740",
+    "17170761953af9f602",
+    "divider_CXiBCx"
+  ]
+}

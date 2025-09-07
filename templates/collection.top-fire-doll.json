@@ -1,0 +1,391 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_TQCYD6": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h1>Top Fire Doll</h1><p>Top Fire Doll fokuserar på exklusiva realistiska dockor av hög kvalitet till ett överkomligt pris. Alla dockor från Top Fire Doll är tillverkade helt i silikon. Dockornas huvud är alla utrustade med rörlig käke och realistisk mun (ROS). Docklandet är officiell distributör och återförsäljare av Top Fire Doll i EU/US. Vi har ett nära samarbete med Top Fire Doll då vi har god relation med en av deras agenter sedan långt tillbaka. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_YMwqF4": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Topfiredoll_silicone_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "image": "shopify://shop_images/wmdolls3.jpg",
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "174272405186d35808": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_shorts_widget_block_Vrtriy": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-shorts-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "21",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_shorts_widget_block_Vrtriy"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "pxu_video_Y3dN7p": {
+      "type": "pxu-video",
+      "blocks": {
+        "heading_7gXWCG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Fire Doll - Introduction",
+            "heading_size": 40,
+            "heading_size_mobile": 24
+          }
+        },
+        "text_CMajwW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A guided tour of the Top Fire Doll factory! Get an insight into the production of a doll</p>",
+            "text_size": 16,
+            "text_size_mobile": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_7gXWCG",
+        "text_CMajwW"
+      ],
+      "name": "t:pxu_sections.sections.video.name",
+      "settings": {
+        "content_width": "650px",
+        "shopify_hosted_video": "shopify://files/videos/Introducing Top Fire Doll.mp4",
+        "video_url": "",
+        "desktop_video_aspect_ratio": "16:9",
+        "mobile_video_aspect_ratio": "16:9",
+        "video_playback": "play_button",
+        "play_video_on_loop": true,
+        "mute_video": false,
+        "play_button_color": "#ffffff",
+        "text_color": "#ffffff",
+        "image_overlay": "#000000",
+        "image_overlay_opacity": 20,
+        "margin_top": 64,
+        "margin_bottom": 64
+      }
+    },
+    "c0deb75d-c382-4806-9e2d-f20921f067d9": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Top Fire Doll - Exklusiva Sexdockor av Silikon</h2><p>Top Fire Doll må vara ett relativt nytt varumärke, officiellt lanserat 2024, men vårt arv sträcker sig mycket djupare. Med över 20 års kombinerad tillverkningsexpertis från vår grundare, fabrikschef och kvalitetskontrollteam, erbjuder vi en nivå av excellens och precision som föregår många befintliga varumärken på marknaden.<br/><br/>Egenskaper hos dockor från Top Fire Doll<br/>- Rörlig käke och verklig mun (ROS)<br/>- viktreduktion (7-14 kg)<br/>- EVO/Axelrörelseskelett<br/>- Artikulerade fingrar<br/>- Mjuka inre delar av vaginan<br/>- Mjuka bröst (gel)<br/>- Mjuk rumpa (gel)<br/>- Stående fot<br/>- Snabb vagina eller utbytbar<br/><br/><strong>Historien om Top Fire Doll:</strong><br/><br/>Namnet \"Top Fire\" kommer från den kinesiska termen \"鼎火\" (Ding Huo). \"鼎\"<br/>symboliserar stabilitet, adel och vördnad – medan \"火\" representerar<br/>vitalitet och gnistan av förvandling. Tillsammans förkroppsligar de vårt uppdrag: att blanda kulturell rikedom med avancerad innovation och skapa en ny standard för hyperrealistiska silikonkompisar.<br/><br/>På Top Fire hänger vi inte bara med i branschen – vi leder den.<br/><br/>Vi är stolta pionjärer inom teknisk innovation, efter att ha uppfunnit ROS-huvudet – ett revolutionerande genombrott som fortfarande är patenterat exklusivt för oss. Som en betrodd OEM-partner till ledande varumärken har vi hjälpt till att forma branschstandarder samtidigt som vi behåller intellektuellt ledarskap inom viktiga områden inom robotdesign.<br/><br/><strong>Våra senaste framsteg inkluderar;</strong><br/><br/>- Automatisk slickande robotfunktion – resultatet av en investering på 100 000 dollar i forskning och utveckling.<br/><br/>- Mekanik för höftsvängning, sammandragning och sugning – utvecklad i samarbete med topprankade ingenjörer och forskningsinstitut.<br/><br/>- Interaktiva teknikfunktioner – inklusive automatisk avsugning, responsiva beröringssensorer och anpassningsbara temperaturkontroller.<br/><br/>- Dessa funktioner är konstruerade inte bara för funktionalitet utan för att förbättra verklighetstrogen realism – med stöd av oöverträffad anatomisk precision:<br/><br/>- Ansiktsrealism med justerbara uttryck och naturliga ögonrörelser.<br/><br/>- Hisnande kroppskonturer, inklusive viktoptimerade skelett och patentskyddade silikonblandningar.<br/><br/>- Skulptering i museiklass, i samarbete med konstnärer i världsklass, vilket säkerställer att varje docka är både ett tekniskt underverk och ett visuellt mästerverk.<br/><br/>Men innovation slutar inte vid design. Vi har utökat våra kreativa och marknadsföringsteam – och anställer topptalanger inom visuella medier, marknadsföringsinnehåll och inflytande i sociala medier – för att åtgärda den gemensamma klyftan där tillverkare ofta brister: global synlighet och leverantörsstöd. På Top Fire tror vi på kollektiv tillväxt. Även om vi innehar flera patent välkomnar vi samarbete och kunskapsdelning med internationella partners för att driva branschen framåt. Din framgång är vår framgång – och vi är helt engagerade i att stödja våra leverantörer i varje steg på vägen.<br/><br/>Vi inbjuder dig att följa med oss och forma framtiden för intim robotik och sällskapsrealism. Låt oss förnya oss, växa och lyckas tillsammans. När det gäller realistiska, exklusiva sexdockor har få varumärken lyckats fånga samlares och entusiasters hjärtan och fantasi som Top Fire Doll. Med ett engagemang för excellens inom design, banbrytande material och oklanderligt hantverk står Top Fire Doll i framkant inom vuxendockindustrin. Detta märke har satt nya riktmärken för hyperrealism, hållbarhet och anpassningsmöjligheter, vilket gör det till ett toppval för dem som söker de mest verklighetstrogna upplevelserna som finns.<br/><br/>I den här artikeln utforskar vi varför Top Fire Doll har blivit ledande på marknaden för vuxendockor, de funktioner som skiljer deras produkter från mängden och varför deras dockor anses vara en perfekt blandning av konstnärlighet och intimitet.<br/><br/><strong>Ett arv av excellens: Visionen bakom Top Fire Doll</strong><br/>Top Fire Doll dök upp med ett tydligt uppdrag: att skapa de mest realistiska och känslomässigt engagerande sexdockorna som finns tillgängliga idag. Till skillnad från massproducerade alternativ är varje docka i deras kollektion resultatet av noggrann design, toppmodern skulptering och obevekliga kvalitetskontroller. Märkets fokus ligger på verklighetstrogen estetik, anatomisk noggrannhet och användarkomfort. Genom att kombinera avancerade tillverkningstekniker med en djup förståelse för mänsklig ergonomi har Top Fire Doll skapat produkter som inte bara är visuellt fantastiska utan också otroligt funktionella och hållbara.<br/><br/><strong>Oöverträffad realism: Skulpterade till perfektion</strong><br/>När det gäller realistiska sexdockor har Top Fire Doll satt guldstandarden. Varje docka är tillverkad av medicinskt TPE (termoplastisk elastomer) eller platinasilikon, vilket säkerställer en mjuk, hudliknande textur som nära efterliknar känslan av riktig mänsklig hud.<br/><br/><strong>Uppmärksamhet på varje detalj</strong><br/>Från intrikat utformade ansiktsdrag till perfekt proportionerade kroppskurvor sparar Top Fire Doll ingen möda för att uppnå så naturtrogna resultat som möjligt. Hudtonsalternativen, realistiska ögondesigner, handmålade detaljer och anpassningsbara frisyrer gör att användarna kan skapa en docka som återspeglar deras personliga estetiska preferenser.<br/><br/><strong>Anpassning när den är som bäst</strong><br/>En av de avgörande aspekterna av Top Fire Doll är dess omfattande anpassningsmöjligheter. Oavsett om du önskar en docka med en specifik längd, byststorlek eller hudton, eller vill anpassa ansiktsdrag och hårfärg, erbjuder Top Fire Doll möjligheten att skapa en verkligt unik följeslagare.<br/><br/>Med en så hög nivå av anpassningsmöjligheter förvandlar Top Fire Doll köpupplevelsen till en intim och spännande resa av självuttryck.<br/><br/><strong>Hållbarhet och livslängd: Byggd för att hålla</strong><br/>En viktig aspekt som gör att Top Fire Doll sticker ut är dess överlägsna hållbarhet. Dessa dockor är tillverkade med förstärkta skelett av rostfritt stål eller uppgraderade EVO (Enhanced Vaginal Options) ramverk, vilket möjliggör ökad flexibilitet och ett bredare utbud av poser.<br/><br/>Top Fire Dolls är utformade för att tåla långvarig användning utan att kompromissa med deras strukturella integritet eller visuella attraktionskraft. När de underhålls korrekt kan de hålla i åratal, vilket ger kontinuerlig tillfredsställelse och valuta för pengarna.<br/><br/><strong>Säkra och kroppsvänliga material</strong><br/>Säkerhet och hygien står i framkant i Top Fire Dolls produktion. Alla dockor är tillverkade av giftfria, hypoallergena material för att garantera en säker och trevlig upplevelse.<br/><br/>TPE och silikon som används i tillverkningsprocessen är av medicinsk kvalitet, vilket säkerställer att de uppfyller strikta hälso- och säkerhetsstandarder. Dessutom är deras hudliknande texturer lätta att rengöra och underhålla, vilket ger sinnesro för långvarig användning.<br/><br/><strong>Perfekt för samlare och entusiaster</strong><br/>Medan Top Fire-dockor är designade för intimitet, är de också mycket eftertraktade av samlare och entusiaster som uppskattar konstnärskapet bakom varje skapelse. Dockorna fungerar som mästerverk av skulptural design och blandar estetisk skönhet med praktisk funktionalitet.<br/><br/>Många ägare ser sina dockor som mer än bara följeslagare – de är konstverk, noggrant utformade för dem som värdesätter uppmärksamhet på detaljer och premiumkvalitet.<br/><br/><strong>Ett varumärke synonymt med kvalitet</strong><br/>På en konkurrensutsatt marknad har Top Fire Doll lyckats sticka ut som ett premiumval för verklighetstrogna, anpassningsbara sexdockor. Genom att kombinera banbrytande teknik, utsökt hantverk och ett orubbligt engagemang för kundnöjdhet fortsätter varumärket att sätta nya branschstandarder. För alla som söker en docka som erbjuder oöverträffad realism, hållbarhet och personlig anpassning, är Top Fire Doll fortfarande ett av de bästa valen på marknaden idag.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_6CJWkF": {
+      "type": "featured-text",
+      "name": "Rich text and image",
+      "settings": {
+        "image": "shopify://shop_images/Body_chart_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_mHjnbE": {
+      "type": "gallery",
+      "blocks": {
+        "image_33iWzC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/155_Sexdocka_Docklandet_14515f80-1488-4247-b140-c03a64c15f3e.jpg"
+          }
+        },
+        "image_C9WRGT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/158_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_cNtaCL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/160_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_4ykza4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/162_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_TgrTDt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/163_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_ABDdAn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/164_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_Bz7xW3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/165_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_Cgaw46": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/169_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_PC4xFi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/170-1_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_UbY9A7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/170-2_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_WTN8xf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/176_Sexdocka_Docklandet_c4f6e7a6-480a-4b5f-8512-72ca0dafc72f.jpg"
+          }
+        },
+        "image_KRBDKG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body_color_comparison_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_33iWzC",
+        "image_C9WRGT",
+        "image_cNtaCL",
+        "image_4ykza4",
+        "image_TgrTDt",
+        "image_ABDdAn",
+        "image_Bz7xW3",
+        "image_Cgaw46",
+        "image_PC4xFi",
+        "image_UbY9A7",
+        "image_WTN8xf",
+        "image_KRBDKG"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_DDFDYM": {
+      "type": "gallery",
+      "blocks": {
+        "image_rWgVm9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Head_chart_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_7pCEYM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Wig_chart_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_AJXPJr": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "image_T6VB6V": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_rWgVm9",
+        "image_7pCEYM",
+        "image_AJXPJr",
+        "image_T6VB6V"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_iaYBTh": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "49e7361a-0f81-4549-a15c-d43af4db8a64": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": true,
+        "collection": "populara-silikondockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8e2e0bf2-0432-4442-a35f-16691caed329": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_hnjHQX": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "blocks": {
+        "6759620a-f807-4871-bd02-6faaf0296055": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "6759620a-f807-4871-bd02-6faaf0296055"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "e6067d59-cbe7-451d-aae1-278c5d6d2c36": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_TQCYD6",
+    "image_with_text_overlay_YMwqF4",
+    "main",
+    "174272405186d35808",
+    "pxu_video_Y3dN7p",
+    "c0deb75d-c382-4806-9e2d-f20921f067d9",
+    "featured_text_6CJWkF",
+    "gallery_mHjnbE",
+    "gallery_DDFDYM",
+    "divider_iaYBTh",
+    "49e7361a-0f81-4549-a15c-d43af4db8a64",
+    "8e2e0bf2-0432-4442-a35f-16691caed329",
+    "featured_collection_hnjHQX",
+    "16508256797a71ad8f",
+    "e6067d59-cbe7-451d-aae1-278c5d6d2c36"
+  ]
+}

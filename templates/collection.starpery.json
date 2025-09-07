@@ -1,0 +1,290 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Starpery_Sex_Doll_Docklandet_Real_Doll_Silcone_TPE_a6ec9efe-ca9c-4d06-99b1-f36762ef4801.jpg",
+        "mobile_image": "shopify://shop_images/Starpery_Sex_Doll_Silicone_TPE_Real_Doll_kopia.jpg",
+        "title": "",
+        "content": "<h1>Starpery</h1><p><strong>Dockor från Starpery har alltid ett huvud gjort av silikon för att få ett så verkligt utseende som möjligt. Trots detta ligger Starperys dockor i samma prisklass som andra märkesdockor tillverkade helt i TPE. Starperys dockor är extremt fina, av högsta kvalitet och väldigt prisvärda!</strong></p><p>Vi är officiell distributör för Starpery i Sverige. Vi kan erbjuda våra kunder alla sexdockor ur Starpery's sortiment!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_i6AwHE": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Starpery_promotion_kampanj_rea_sale_september_summer_Banner_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "recently_viewed_a3YeXj": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Gillar du?",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "recently_viewed_a3YeXj"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 28,
+        "toggle": false
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_shorts_widget_block_rXhh7F": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-shorts-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "13",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "instafeed_app_block_zVbj9p": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38396",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_shorts_widget_block_rXhh7F",
+        "instafeed_app_block_zVbj9p"
+      ],
+      "settings": {}
+    },
+    "96ef21df-cd3a-4b80-a421-55442f4c6214": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Starpery - Sexdockor av TPE och Silikon</h2><p>Docklandet är stolta att presentera att vi numer kan erbjuda samtliga sexdockor från kända sexdocktillverkaren Starpery. Starpery är ett relativt nytt märke av sexdockor och har snabbt gjort sig till ett känt namn. Starpery kännetecknas av att ha vackra väldigt realistiska dockor, ofta med ett lite jordnära utseende och självklart i högsta kvalitet.</p><p>Vi är auktoriserad samarbetspartner och officiell distributör i Sverige och kan erbjuda våra svenska och nordiska kunder förmånliga priser på sexdockor från Starpery Dolls. Vi erbjuder även gratis viktreducering på Starpery-dockor till våra kunder. Många butiker och andra dockmärken tar ut en extra kostnad för viktreducering. Förutom extremt hög kvalitet och verklighetstrogna dockor så har Starpery-dockor några andra funktioner som sticker ut. Vid order har du stora möjligheter till justeringar och uppgraderingar av din docka, allt ifrån ändring av hudfärg och peruk till uppgraderad silikon-kropp med riktigt människohår. Något som utmärker Starpery är just viktreducering av dockor, Starpery använder sig utav sin egna framställda process för att kunna hålla nere vikten på sina dockor. Detta innebär att dockans inre består av ett slags skummaterial som väger mindre än dockans övriga material. Dockorna har även ett metallskelett av extra hög kvalitet vilket ger låg vikt och extra hållbarhet. Starpery Dolls är experter på hantering av materialet TPE och använder alltid de finaste råvarorna vilket gör deras produkter allergivänliga, ej oxiderande, helt luktfria och såklart väldigt slitstarka med lång hållbarhet. </p><p><strong>OBS!</strong> Vi har olika leveranstid på dockor från Starpery Dolls. Några Starpery-modeller har vi hemma i Borlänge för display och i vissa fall har vi något eller några exemplar hemma för köp på plats eller för expressleverans. Vid de flesta ordrar så tillverkas den specifika dockan i samband med beställning och skickas sedan från Starpery’s fabrik i Kina. Leverans från Kina tar normalt 3-5 veckor. Självklart påverkas inte du som kund av fraktkostnader, skatt eller tullavgifter. Det går oftast bra att göra ändringar och tillval efter beställning, vid leverans från fabrik är allt möjligt och vi kan justera priset i efterhand om nödvändigt.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_hHCQwH": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Starpery_Sex_Doll_Silicone_TPE_Real_Doll_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_ncLqYC": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>FAQ om Starpery</h2><p><strong>1.</strong> Ytterlagret är tillverkat av hög standard elastisk TPE- (termoplastiska elastomerer) koppling med epoxihartser i fast kroppsstöd och fint utformat skelett. Allt material uppfyller nationella hälso- och säkerhetsstandarder som är ofarliga för människor och är miljövänliga.</p><p><strong>2.</strong> Skelettet och lederna gör att modellen kan posera i många positioner och stilar, vilket ger en väldigt realistisk upplevelse. För hållbarhet, placera inte dockan i utsträckta positioner under långa tidsperioder. Även om TPE -materialets elasticitet är fantastiskt slitstark och hållbar så kan överdriven töjning under lång tid resultera i deformation. Flytta modellen till sin ursprungliga position, med händerna vilade nedåt, efter användning.</p><p><strong>3.</strong> Det är ett standardförfarande under tillverkningen att montera och placera dess skelett på exakta punkter. Olika stöd fästes under injektionsprocessen, så det kommer att finnas några små fyllningar på dessa hål som inte klassificeras som tillverkningsfel.</p><p><strong>4.</strong> Undvik vassa föremål eller knådning med överdriven styrka.</p><p><strong>5.</strong> Var alltid försiktig vid användning av kläder på din sexdocka. Tvätta alltid plaggen minst 2-3 gånger innan användning för att säkerställa att de inte färgar av sig. </p><p><strong>6.</strong> Utsätt inte modellen för solljus under en längre tid. Detta kan snabba på åldrandet av TPE -material och förkorta livslängden för modellen.</p><p><strong>7.</strong> Om veck eller tryckmärke uppstår, så kan du applicera varm handduk på veckade området för att få bort märket. Tryckmärken försvinner ofta av sig själva med tiden. En värmepistol går att använda för att mjuka upp material och laga skador.</p><p><strong>8.</strong> Damm och smuts kan rengöras med vanlig tvål i dusch eller skumbad. Rengör försiktigt med handflatan och se upp med fingernaglar och grova material som kan påverka eller repa ytan. Efter torkning rekommenderas att applicera talk-pulver eller majsstärkelsepulver. Modellen blir lika bra som ny igen. Vi rekommenderar starkt periodiskt underhåll av din modell.</p><p><strong>9.</strong> Om modellens yta har fått repor, skär-märken eller hål, använd det medföljande TPE-limmet för att täta. Rengör det detekterade området med sminkborttagare innan du limmar. Se till att den defekta ytan inte är i spänning när du applicerar TPE -lim. Härdningstiden är ungefär en halvtimme.</p><p><strong>10.</strong> Hur många dockkroppar har Starpery?<br/><strong>Svar: </strong>För närvarande finns det 9 kroppstyper:151cm C-kupa 156cm G-kupa 159cm C-kupa 159cm D-kupa 169cm C-kupa 170cmE-kupa 171cm A-kupa 171cm C-kupa 171cm D-kupa.</p><p><strong>11.</strong> Hur många dockhuvuden har Starpery? <br/><strong>Svar:</strong> Nu har vi 69 olika huvuden, fler tillkommer hela tiden</p><p><strong>12.</strong> Kan jag slumpmässigt matcha dockhuvuden med dockkroppar?<br/><strong>Svar:</strong> Oftast kan du sätta ett huvud på olika kroppar. Förutom att kroppen på 151 cm är lite liten för att matcha kaukasiska huvuden, är andrakroppstyper perfekta för alla huvuden vi har.</p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Nyligen besökta",
+        "rv_max_display": 6,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_hKVk68": {
+      "type": "gallery",
+      "blocks": {
+        "image_kF6Vbj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/skin_tone_comparison_new.png"
+          }
+        },
+        "image_wQRd7k": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_3BEz8K": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_RTrTVb": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_bT9DiK": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_ppLADL": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_RjdQ4c": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_MLRyJK": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_kF6Vbj",
+        "image_wQRd7k",
+        "image_3BEz8K",
+        "image_RTrTVb",
+        "image_bT9DiK",
+        "image_ppLADL",
+        "image_RjdQ4c",
+        "image_MLRyJK"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "title": "Gallery",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_iUMyKa": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt Starpery",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-starpery-tpe-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "bae709fc-ebae-408a-9c56-df576374157f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_3Tzf9r": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_nJ7cNA": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "image_with_text_overlay_i6AwHE",
+    "main",
+    "16508256797a71ad8f",
+    "96ef21df-cd3a-4b80-a421-55442f4c6214",
+    "featured_text_hHCQwH",
+    "featured_text_ncLqYC",
+    "16508260667ee95abe",
+    "gallery_hKVk68",
+    "featured_collection_iUMyKa",
+    "bae709fc-ebae-408a-9c56-df576374157f",
+    "featured_collection_3Tzf9r",
+    "divider_nJ7cNA"
+  ]
+}

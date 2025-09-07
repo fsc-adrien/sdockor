@@ -1,0 +1,112 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "1652887834adb4ea94": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_1_Stor.jpg",
+        "mobile_image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_kopia_2.jpg",
+        "title": "",
+        "content": "<h1>Irontech Doll Silikon-sexdockor - Super Realistic Series</h1><p>Vi är officiell distributör för Irontech Doll i Sverige. Vi kan erbjuda våra nordiska kunder alla sexdockor ur Irontech Doll's sortiment. Irontech Doll's silikondockor är av absolut högsta kvalitet och bland de finaste dockorna i världen</p><p></p>",
+        "button_label": "",
+        "button_link": "#IronTech_Info",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16603973257d998081": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/irontech_doll_christmas_sale_silicone_real_doll_docklandet-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 3,
+        "rv_per": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    },
+    "bcdfd743-a11c-46f5-ab45-65c9b53d7159": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "1652887834adb4ea94",
+    "16603973257d998081",
+    "main",
+    "16508260667ee95abe",
+    "1652224218445a4dc3",
+    "bcdfd743-a11c-46f5-ab45-65c9b53d7159"
+  ]
+}

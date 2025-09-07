@@ -1,0 +1,84 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdockor_for_kvinnor_Docklandet_Real_Doll-1_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Sexdockor_for_kvinnor_Docklandet_Real_Doll_kopia-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Sexdockor för kvinnor</h1><p>Här kan du hitta en manlig sexdocka gjord av TPE eller silikon. Våra manliga sexdockor är noga utvalda och av högsta kvalitet.</p><p><strong>Vi har flera manliga sexdockor i lager i Borlänge! Välkommen!</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": true,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {}
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "main",
+    "16508260667ee95abe",
+    "16508256797a71ad8f",
+    "1652224218445a4dc3"
+  ]
+}

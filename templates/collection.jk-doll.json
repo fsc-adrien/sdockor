@@ -1,0 +1,174 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "1652887834adb4ea94": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/JK-Doll_Fantasy_Sex_Dolls_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>JK-Doll</h1><p><strong>JK-Doll är ett relativt nytt märke som främst fokuserar på TPE-dockor med alternativa stilar. En JK-Doll har ofta utseende och stil inspirerat av fantasy och science-fiction. JK-Doll har ett nära samarbete med världskända WM-Doll.</strong></p><p>Vi är officiell distributör för JK-Doll i Norden och kan erbjuda ett utvalt sortiment av de finaste JK-dockorna. Vi uppdaterar kontinuerligt vårt sortiment med det senaste dockorna från JK-Doll.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_RzXGpz": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/JKDoll_Promotion_kampanj_september_Sexdocka_Docklandet_Sexdocka_Docklandet_7afc6366-c8ca-4deb-9129-53b04ee15f9e.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "0a93e67d-f401-44ee-bb42-66c0b6414687": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 2
+          }
+        }
+      },
+      "block_order": [
+        "0a93e67d-f401-44ee-bb42-66c0b6414687"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "image": "shopify://shop_images/wmdolls3.jpg",
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 28,
+        "toggle": false
+      }
+    },
+    "c0deb75d-c382-4806-9e2d-f20921f067d9": {
+      "type": "featured-text",
+      "settings": {
+        "title": "- Sexdockor från JK-Doll - ",
+        "content": "<p>Sexdockorna i vår kollektion<strong> JK-Doll</strong> håller alla hög kvalitet. JK-Doll's designers och ingenjörer har sedan start utvecklat och finslipat sina sexdockor och driver hela tiden marknaden framåt till nya nivåer. Vi är officiell distributör i Sverige och de enda som säljer äkta JK-Doll's. Hos oss hittar du alltid de absolut bästa priserna på JK-Doll-artiklar. </p><p>Förutom hög kvalitet så har även JK-Doll's dockor några fler funktioner som sticker ut. Till exempel extra mjuka och verkliga bröst, metallskelett av extra hög kvalitet vilket ger lite mindre vikt och som är extra rörligt, uppgraderad mun (bättre för oralsex), uppgraderade händer (med leder), stående fot och verklighetstrogna naglar. JK-Doll är experter på hantering av materialet TPE och använder alltid de finaste råvarorna vilket gör deras produkter allergivänliga, ej oxiderande och såklart väldigt slitstarka med lång hållbarhet. </p><p>JK-Doll's skickas normalt från Jinsans farbrik i Kina (WM-Doll, YL-Doll, JK-Doll). Det går bra att göra ändringar och tillval, vid beställning från fabrik är allt möjligt och vi kan justera priset i efterhand om nödvändigt. Kontakta oss innan eller efter order för att göra ändringar eller tillägg, vi nås som vanligt på <strong>info@docklandet.se</strong></p><p><strong>När din JK-doll har producerats så kan du om du önskar få se bilder av dockan innan den skickas vidare till dig; detta medför dock viss tidsfördröjning av leveransen. Du får godkänna den färdiga dockan och även ändra eller lägga till något om du vill. </strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "66f5465e-bfe7-4630-b5bf-dfc0b225f6b4": {
+      "type": "featured-text",
+      "settings": {
+        "title": "- Instruktioner för hantering och vård av sexdockor -",
+        "content": "<p><strong>Hur man sköter sina JK-dockor, drift- och underhållsinstruktioner (översatt till svenska)</strong></p><p><strong>1.</strong> Ytterlagret på din JK-Doll är tillverkat av elastisk TPE (termoplastiska elastomerer) av hög standard koppling med epoxihartser i fast kroppsstöd och fint utformat skelett. Allt material uppfyller nationella hälso- och säkerhetsstandarder och är ofarliga för människor samt miljövänliga.</p><p><strong>2.</strong> Skelettet och lederna gör att modellen kan posera i många positioner och stilar, vilket ger en väldigt realistisk upplevelse. För längre hållbarhet, placera inte dockan i utsträckta positioner under långa tidsperioder. Även om TPE -materialets elasticitet är fantastiskt slitstark och hållbart så kan överdriven töjning under lång tid resultera i deformation. Flytta modellen till sin ursprungliga position, med händerna vilade nedåt, efter användning.</p><p><strong>3.</strong> Det är ett standardförfarande under tillverkningen att montera och placera dess skelett på exakta punkter. Olika stöd fästes under injektionsprocessen, så det kommer att finnas några små fyllningar på dessa hål som inte klassificeras som tillverkningsfel.</p><p><strong>4.</strong> Undvik vassa föremål eller knådning med överdriven styrka.</p><p><strong>5. </strong>Var alltid försiktig vid användning av kläder på din sexdocka. Tvätta alltid plaggen minst 2-3 gånger innan användning för att säkerställa att de inte färgar av sig. </p><p><strong>6.</strong> Utsätt inte modellen för solljus under en längre tid. Detta kan öka åldrandet av TPE-material ochförkorta livslängden på dockan.</p><p><strong>7.</strong> Om veck eller tryckmärken uppstår, så kan du applicera varm handduk på det veckade området för att få bort märket. Tryckmärken försvinner ofta av sig själva med tiden. En värmepistol går att använda för att mjuka upp material och laga skador.</p><p><strong>8.</strong> Damm och smuts kan tas bort med vanlig tvål i dusch eller skumbad. Rengör försiktigt med handflatan och se upp med fingernaglar och grova och vassa material som kan påverka eller repa ytan. Efter torkning rekommenderas att applicera talk-pulver eller majsstärkelsepulver. Modellen blir som ny igen. Vi rekommenderar starkt periodiskt underhåll av din modell.</p><p><strong>9.</strong> Om modellens yta har fått repor, skär-märken eller hål, använd då TPE-lim för att täta. Rengör det skadade området med sminkborttagare innan du limmar. Se till att den defekta ytan inte är i spänning när du applicerar TPE -lim. Härdningstiden är ungefär en halvtimme. Du kan även värma upp TPE och använda som lim. Det medföljer en stor bit TPE med varje WM-Doll.</p><p>Om du har andra funderingar när det gäller tekniska aspekter eller underhåll av modellen, tveka inte att kontakta leverantören för ytterligare hjälp. Alltså oss på Docklandet. Du har garanti och livslång support från oss på din WM-docka.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "49e7361a-0f81-4549-a15c-d43af4db8a64": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "tpe-dockor-i-lager-expressleverans-2",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_cDjn3R": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt i lager",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8e2e0bf2-0432-4442-a35f-16691caed329": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_GpJJ9E": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "1652887834adb4ea94",
+    "image_with_text_overlay_RzXGpz",
+    "main",
+    "c0deb75d-c382-4806-9e2d-f20921f067d9",
+    "66f5465e-bfe7-4630-b5bf-dfc0b225f6b4",
+    "49e7361a-0f81-4549-a15c-d43af4db8a64",
+    "featured_collection_cDjn3R",
+    "8e2e0bf2-0432-4442-a35f-16691caed329",
+    "divider_GpJJ9E"
+  ]
+}

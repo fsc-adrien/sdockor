@@ -1,0 +1,324 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "contact-custom-template",
+      "blocks": {
+        "3ae7536e-f218-4682-913e-d099aac4a036": {
+          "type": "image",
+          "settings": {
+            "logo_display_width": 150,
+            "text": "<h4>Skicka ett meddelande till oss </h4>"
+          }
+        },
+        "block-1": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Namn",
+            "required": false,
+            "field_type": "text"
+          }
+        },
+        "block-2": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "E-post",
+            "required": false,
+            "field_type": "email"
+          }
+        },
+        "block-3": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Meddelande",
+            "required": false,
+            "field_type": "textarea"
+          }
+        }
+      },
+      "block_order": [
+        "3ae7536e-f218-4682-913e-d099aac4a036",
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/docklandet_lager_sexdockor_real_doll_sverige-1_1_Sexdocka_Docklandet.jpg",
+        "mobile_image_crop": "none",
+        "contact_heading": "",
+        "subtitle": "",
+        "caption_content_background": "original",
+        "contact_subheading": "Hämta din sexdocka i Borlänge",
+        "contact_content": "<p>Det går bra att besöka oss i Borlänge för att själv hämta upp din sexdocka. Vi har två stora rum med över 60 dockor uppställda samt ett lager med över 150 dockor hemma i Borlänge. </p><p>Vi finns normalt sett tillgängliga vardagar 10-18 men kan ofta också ta emot besök helg och kvällar om så önskas. </p><p>Det går bra att göra ett köp i förväg och hämta dockan direkt hos oss, eller besöka oss och köpa en docka på plats. Vi har många dockor hemma, allt ifrån de allra billigaste till de dyraste full-size silikon. Vi har även många tillbehör hemma från WM-Doll, Piper Doll, mm. Vi har också olika klädesplagg för dockor, massvis med peruker och olika typer av ögon. </p><p>Kontakta oss för aktuell lagerstatus på dockor. Vi har många dockor från WM-Doll, Irokebijin, Piper Doll, Zelex, Starpery, Irontech Doll, Aibei, mfl hemma i lager för köp på plats. </p><p>För dig som vill jämföra kvalitet mellan olika prisklasser, storlekar och märken av sexdockor så rekommenderar vi verkligen ett besök om du inte bor alltför långt bort.</p><p>Vi kan erbjuda specialerbjudanden, rabatter på vissa dockor, paketpris och extra dock-tillbehör till dig som besöker oss. Det händer även att vi har demo-ex eller returer till extra nedsatta priser. </p><p>Vi håller till på Krokgatan 22 i Borlänge. Det går bra att kontakta oss genom formuläret här eller ringa oss på 010-641 06 66. </p><p>Varmt välkommen! </p>",
+        "contact_text_position": "left",
+        "contact_text_alignment": "left",
+        "contact_social_buttons": false
+      }
+    },
+    "16503895987411275b": {
+      "type": "slideshow",
+      "blocks": {
+        "1650389598a38f87d6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdockor_docklandet_sexdocka_6f73cd37-b901-4e9e-ac6c-53c5bc5d977c.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "1650389598a38f87d6-0"
+      ],
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650389619880c43f1": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16503897809494df0e": {
+      "type": "slideshow",
+      "blocks": {
+        "c7d27762-c205-4940-ad70-af0c586d2a9f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162519_1_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "Europas största showroom",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "b67be5fa-07bb-436b-9446-352bff7b1875": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162540_1_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "Över 70 dockor uppställda",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "f6d30479-1a70-4dbc-9379-a4c0dd6e7ad9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162613_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "Europas största showroom",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "1650389780cbc29200-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162600_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "Över 70 dockor uppställda",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        },
+        "6054e2c9-763f-421f-af74-4e877290a729": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20230527_162638_Sexdocka_Docklandet.jpg",
+            "pretext": "",
+            "title": "",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "c7d27762-c205-4940-ad70-af0c586d2a9f",
+        "b67be5fa-07bb-436b-9446-352bff7b1875",
+        "f6d30479-1a70-4dbc-9379-a4c0dd6e7ad9",
+        "1650389780cbc29200-0",
+        "6054e2c9-763f-421f-af74-4e877290a729"
+      ],
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 5,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650389887aa26777c": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e3a23d00-5f95-4c9f-a72b-1494ca564608": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": false,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Docklandet's Nyhetsbrev",
+        "newsletter_text": "<p>Registrera dig för att se de senaste nyheterna och ta del av kampanjer/erbjudanden</p>",
+        "newsletter_section_text_align": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "760c0ae7-bcb2-4cfb-bca7-fe6aa9307eb2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e565dd9b-82b7-4572-8e88-f86ad587a650": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16965356628da147bc": {
+      "type": "apps",
+      "blocks": {
+        "83bb02a2-3f8b-4825-b0e6-ce679e053c97": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "83bb02a2-3f8b-4825-b0e6-ce679e053c97"
+      ],
+      "settings": {}
+    },
+    "b7e6be03-0544-4ce2-be2b-6b70cd039c82": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16503895987411275b",
+    "1650389619880c43f1",
+    "16503897809494df0e",
+    "1650389887aa26777c",
+    "e3a23d00-5f95-4c9f-a72b-1494ca564608",
+    "760c0ae7-bcb2-4cfb-bca7-fe6aa9307eb2",
+    "e565dd9b-82b7-4572-8e88-f86ad587a650",
+    "16965356628da147bc",
+    "b7e6be03-0544-4ce2-be2b-6b70cd039c82"
+  ]
+}

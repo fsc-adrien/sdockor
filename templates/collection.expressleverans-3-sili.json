@@ -1,0 +1,372 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_7RqMBF": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Realdollworld_express_delivery_real_doll_america_2-1_Sexdocka_Docklandet_d123f161-0fa5-40d5-a8e4-b56690134b87.jpg",
+        "title": "",
+        "content": "<p>I denna kollektion finner du silikon-dockor och hybrid-dockor (TPE+Silikon) med snabb leverans (normal leveranstid 2-4 arbetsdagar). Vi skickar oftast samma dag som order är lagd om den är genomförd innan klockan 14:00. Det går inte att modifiera dockor med expressleverans. </p><p><strong>Besök oss gärna och köp en docka direkt från vårt lager. Vi har ofta hundratals dockor hemma i vårat Svenska lager och mer än 80 st dockoruppställda i vår butik. Vi säljer även lösa huvuden och har också mängder av olika tillbehör hemma i lager för snabb leverans. </strong></p>",
+        "button_label": "",
+        "button_link": "#Express",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_wFKEgj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "silikon-dockor-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_NeKCRk": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "title": "",
+        "collection_description": true,
+        "collection": "silikon-dockor-i-lager-2-expressleverans",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_wJAqfx": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "silikon-dockor-i-lager-3-expressleverans",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_9CxPXy": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "title": "",
+        "collection_description": true,
+        "collection": "silikon-dockor-i-lager-4-expressleverans",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bea6b22b-6bfa-4460-91f8-6911b944f832": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Gillar du?",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "bea6b22b-6bfa-4460-91f8-6911b944f832"
+      ],
+      "disabled": true,
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "divider_BzqdWd": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "slideshow_8hDdRT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_N3PE3e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Angie_musikvideo_230821_49_Sexdocka_Docklandet.jpg",
+            "pretext": "<p><strong>2-4 dagars leveranstid</strong></p>",
+            "title": "- Extra Huvud -",
+            "subtitle": "<p><strong>Vi har många huvuden i lager för snabb leverans. Från WM-Doll, Zelex, Irontech, Starpery, mfl. </strong></p>",
+            "button1": "Visa huvuden i lager",
+            "button1_link": "shopify://products/extra-huvud-original-express",
+            "button1_style": "global-button--primary",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "text_box",
+            "mobile_image": "shopify://shop_images/sexdocka_real_doll_sex_doll_docklandet_svart_box.jpg",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "image_N3PE3e"
+      ],
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_kQhCLY": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_bKit88": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2><strong>- EXPRESSLEVERANS -<br/></strong></h2><p><strong>Alla sexdockor i denna kollektion finns i lager med snabb leverans. Normal leveranstid för dessa dockor är 2-4 arbetsdagar. Vi skickar vanligtvis beställningar samma dag som de görs om order är lagd innan kl 14:00.</strong><br/><br/>Leveranser inom Sverige eller EU skickas oftast med DHL, i vissa fall Postnord, Schenker eller UPS beroende på adress.<br/><br/>Våra dockor är alltid säkert förpackade så att dockan kan transporteras utan att skadas. Det går inte att se på utsidan av förpackningen vad innehållet är och dockorna är alltid diskret förpackade.<br/><br/>De flesta dockor som vi har expressleverans på kan även hämtas hos oss i Borlänge om så önskas. Vi får alltid hem nya dockor och har alltid våra populäraste modeller på lager. Men eftersom vi har runt 5000 dockor i vår webbutik (och utökar kollektionen hela tiden) är det såklart svårt att ha flera exemplar av exakt varje docka hemma i lager då det är väldigt stora och tunga förpackningar som tar upp en mycket utrymme. I de flesta fall kan vi ta hem dockor till oss i Borlänge med en karenstid på några dagar. </p><p>Utöver vårat egna lager i Sverige så hyr vi även en lager-plats i Polen. Vi har även tillgång till flera partners lager i Polen och Tyskland! <br/><br/>Många av våra sexdockor har längre leveranstid, de ingår inte i denna kategori. Anledningen till att de har längre leveranstid är att det är unika produkter som inte går att masstillverka då efterfrågan inte är tillräckligt stor. I många fall tillverkas dockan du beställde i samband med leverans och skickas i efterhand, men det gäller inte dockorna i denna kategori.<br/><br/>Våra dockor med expressleverans är alltså alla väldigt populära dockor och är därför lättare för oss och våra leverantörer att lagerhålla. Vi har många andra dockor av olika märken uppställda hos oss i Borlänge, välkommen!</p><p></p><h3><strong>Ej i lager / skickas från fabrik</strong></h3><p>Om du är vill ha en docka som ej finns i lager så behöver den i tillverkas i samband med order. Du kan välja att ändra utseende på en docka, byta peruk, byta huvud, mm, utan extra kostnad.  Dockor som skickas direkt från fabrik har en längre leveranstid men i många fall ett lägre pris, jämfört med dockor i lager.<br/><br/><strong>Alla expressleverans-dockor finns även i en modifierbar alternativ version som skickas direkt från fabrik</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c1213953-5111-4883-98c1-c833d06e83f0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-expressleverans-out-of-stock",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 49,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_Pb7gG8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-expressleverans-tillfalligt-slut-2",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 49,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_GMXJq4": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_expressleverans_real_doll_sverige_sexdockor-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h2><strong>Tillfälligt slut i lager</strong></h2><p><strong>Dockor som är slut i lager går att beställa från fabrik med längre leveranstid. Till skillnad från dockor i lager så kan dockor som tillverkas i samband med order modifieras och är även inkluderade i diverse kampanjer för olika dock-märken </strong></p><p>Om du hittar en docka som du vill ha som är slutsåld, prova då att söka på dockans namn så kommer du att hitta en alternativ version av dockan. Denna version har som sagt längre leveranstid men går att modifiera. Vi kör även kampanjer kontinuerligt för vissa märken och dessa erbjudanden gäller endast dockor som tillverkas i samband med order, alltså dockor som inte skickas från våra lager.</p><p><strong>Tryck på knappen nedan om du önskar se samtliga dockor som vi tidigare haft i lager. Det går bra att lägga en förfrågan till oss om att åter ta hem en specifik docka i lager. OBS! Dockor som utgått helt ur produktion eller ur vårt sortiment är ej inkluderade här.</strong> </p>",
+        "button_label": "Vissa alla",
+        "button_link": "shopify://collections/sexdockor-expressleverans-tillfalligt-slut-alla-dockor",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_tD7MAB": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "548e916d-9a19-44c0-b3d1-880dbeccce90": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära TPE-dockor",
+        "collection_description": false,
+        "collection": "billiga-sexdockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_nT44pU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ea32fdfb-6c57-4cf2-bd85-03e514ac23d5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen lanserade sexdockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ae74c097-36c2-481e-b577-a7890c74c717": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c467cbcc-4ff6-49d6-99d0-a23c91ef54ec": {
+      "type": "search-section",
+      "disabled": true,
+      "settings": {
+        "search_title": "",
+        "search_text": "",
+        "search_section_text_align": "center",
+        "search_term": "Sök efter docka..."
+      }
+    },
+    "727e4b5d-26cc-4a07-8b89-3b6d112ae82a": {
+      "type": "contact-form",
+      "blocks": {
+        "template--19786011443543__727e4b5d-26cc-4a07-8b89-3b6d112ae82a-richtext-1": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "label": "",
+            "placeholder": "Name",
+            "required": true,
+            "field_type": "text"
+          }
+        },
+        "template--19786011443543__727e4b5d-26cc-4a07-8b89-3b6d112ae82a-richtext-2": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Email",
+            "required": true,
+            "field_type": "email"
+          }
+        },
+        "template--19786011443543__727e4b5d-26cc-4a07-8b89-3b6d112ae82a-richtext-3": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Message",
+            "required": true,
+            "field_type": "textarea"
+          }
+        }
+      },
+      "block_order": [
+        "template--19786011443543__727e4b5d-26cc-4a07-8b89-3b6d112ae82a-richtext-1",
+        "template--19786011443543__727e4b5d-26cc-4a07-8b89-3b6d112ae82a-richtext-2",
+        "template--19786011443543__727e4b5d-26cc-4a07-8b89-3b6d112ae82a-richtext-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "contact_heading": "",
+        "contact_subheading": "Lagerstatus / Förboka",
+        "contact_content": "<p>Om du önskar beställa en docka som är slut i lager så prova att söka efter dockan du vill ha i </p>",
+        "contact_text_position": "right",
+        "contact_text_alignment": "left",
+        "contact_social_buttons": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_7RqMBF",
+    "featured_collection_wFKEgj",
+    "featured_collection_NeKCRk",
+    "featured_collection_wJAqfx",
+    "featured_collection_9CxPXy",
+    "main",
+    "divider_BzqdWd",
+    "16508260667ee95abe",
+    "slideshow_8hDdRT",
+    "divider_kQhCLY",
+    "featured_text_bKit88",
+    "c1213953-5111-4883-98c1-c833d06e83f0",
+    "featured_collection_Pb7gG8",
+    "featured_text_GMXJq4",
+    "divider_tD7MAB",
+    "548e916d-9a19-44c0-b3d1-880dbeccce90",
+    "featured_collection_nT44pU",
+    "ea32fdfb-6c57-4cf2-bd85-03e514ac23d5",
+    "ae74c097-36c2-481e-b577-a7890c74c717",
+    "c467cbcc-4ff6-49d6-99d0-a23c91ef54ec",
+    "727e4b5d-26cc-4a07-8b89-3b6d112ae82a"
+  ]
+}

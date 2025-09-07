@@ -1,0 +1,2558 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "performance": "sport",
+    "image_loading_style": "appear",
+    "custom_scripts": "",
+    "logo_color": "#ffffff",
+    "regular_color": "#333333",
+    "headline_color": "#333333",
+    "headline_footer_text_color": "#7f8c8d",
+    "sub_footer_text_color": "#6b6b6b",
+    "sale_color": "#dd4982",
+    "was_price_color": "#8c8b8b",
+    "product_hover_text_color": "#ffffff",
+    "promo_text_color": "#333333",
+    "shop_home_page_content_text_color": "#363636",
+    "newsletter_popup_color": "#363636",
+    "newsletter_section_color": "#ffffff",
+    "collection_filter_color": "#333333",
+    "top_bar_color": "#f4f4f4",
+    "top_bar_color_hover": "#dd4982",
+    "nav_color": "#d9d9d9",
+    "nav_color_home": "#d9d9d9",
+    "nav_color_hover": "#dd4982",
+    "link_color": "#dd4982",
+    "link_hover_color": "#dd4982",
+    "sidebar_nav_color": "#363636",
+    "sidebar_nav_color_hover": "#dd4982",
+    "sub_footer_link_color": "#7f8c8d",
+    "sub_footer_link_color_hover": "#f4f4f4",
+    "btn_color": "#dd4982",
+    "btn_hover_color": "#333333",
+    "btn_text_color": "#ffffff",
+    "button_style": "square",
+    "read_more_style": "button",
+    "banner_button_color": "#ffffff",
+    "banner_color": "#ffffff",
+    "banner_background_color": "#1e1e1e",
+    "banner_placeholder_background_color": "#666666",
+    "swatch_style": "square",
+    "table_styles_enabled": true,
+    "slideshow_arrow_size": "regular",
+    "arrow_color": "#dd4982",
+    "slideshow_button_style": false,
+    "slideshow_nav_buttons": false,
+    "border_color": "#cccccc",
+    "headline_border_color": "#aaaaaa",
+    "headline_border": "1",
+    "divider_style": "solid",
+    "sub_footer_border_color": "#1b1f23",
+    "stock_banner_color": "#dd4982",
+    "sale_banner_color": "#dd4982",
+    "new_banner_color": "#03a196",
+    "sticker_style": "square",
+    "search_section_color": "#000000",
+    "search_section_bg_color": "#f8c5e3",
+    "testimonial_color": "#ffffff",
+    "testimonial_bg_color": "#666666",
+    "featured_promotions_color": "#fff",
+    "featured_promotions_color_hover": "#fff",
+    "featured_promotions_background": "#000",
+    "featured_promotions_mobile_background": true,
+    "modal_background_color": "#ffffff",
+    "modal_text_color": "#2b2e38",
+    "shop_bg_color": "#ffffff",
+    "custom_bg": "",
+    "repeat_bg": "repeat",
+    "bg_fixed": false,
+    "bg_stretched": false,
+    "top_bar_bg_color": "#1b1f23",
+    "top_bar_cart_bg_color": "#dd4982",
+    "minicart_bg_color": "#ffffff",
+    "header_bg_color": "#1b1f23",
+    "header_background": true,
+    "transparent_header": true,
+    "promo_bg_color": "#f2f2f2",
+    "shop_home_page_content_bg_color": "#f6f7f9",
+    "featured_links_background": "#ffffff",
+    "product_hover_bg_color": "#000000",
+    "sub_footer_color": "#1b1f23",
+    "footer_bg": "",
+    "footer_bg_stretched": false,
+    "newsletter_popup_background_color": "#ffffff",
+    "newsletter_section_background_color": "#f8c5e3",
+    "password_page_text_color": "#ffffff",
+    "password_page_background_color": "#000000",
+    "logo__font": "oswald_n4",
+    "logo_font_style": "uppercase",
+    "logo_font_size": 20,
+    "top_bar_font_size": 16,
+    "top_bar_letter_spacing": 1,
+    "nav__font": "righteous_n4",
+    "nav_font_style": "uppercase",
+    "nav_font_size": 18,
+    "nav_letter_spacing": 1,
+    "nav_shadow": false,
+    "button_weight": "normal",
+    "button_font_style": "uppercase",
+    "button_font_size": 14,
+    "mega_text_font_size": 14,
+    "mega_text_letter_spacing": 1,
+    "headline__font": "oswald_n4",
+    "headline_font_style": "uppercase",
+    "headline_font_size": 30,
+    "headline_letter_spacing": 2,
+    "slideshow_headline__font": "oswald_n3",
+    "slideshow_headline_font_style": "uppercase",
+    "slideshow_headline_size": 56,
+    "slideshow_headline_letter_spacing": 1,
+    "slideshow_headline_shadow": true,
+    "slideshow_subtitle__font": "roboto_n3",
+    "slideshow_subtitle_font_style": "uppercase",
+    "slideshow_subtitle_size": 20,
+    "slideshow_subtitle_letter_spacing": 1,
+    "slideshow_shadow": false,
+    "regular__font": "roboto_n4",
+    "regular_font_style": "none",
+    "regular_font_size": 15,
+    "footer_logo_font_size": 20,
+    "footer_heading_font_size": 18,
+    "footer_font_size": 13,
+    "mega_menu_1": false,
+    "mega_menu_2": false,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "search_option": "product",
+    "enable_autocomplete": true,
+    "search_to_display": 10,
+    "product_form_style": "swatches",
+    "show_dynamic_checkout_button": false,
+    "display_product_quantity": false,
+    "limit_quantity": false,
+    "display_inventory_left": true,
+    "inventory_threshold": 10,
+    "notify_me_form": true,
+    "notify_me_richtext": "<p>Notify me when this product is available:</p>",
+    "display_vendor": false,
+    "collection_swatches": false,
+    "show_star_ratings": false,
+    "sale_banner_enabled": true,
+    "thumbnail_hover_enabled": false,
+    "mobile_products_per_row": "2",
+    "display_price": false,
+    "sold_out_text": "Slutsåld",
+    "free_price_text": "Välj produkt",
+    "pagination_type": "basic_pagination",
+    "collection_secondary_image": true,
+    "align_height": false,
+    "collection_height": 400,
+    "quick_shop_enabled": false,
+    "quick_shop_style": "popup",
+    "cart_action": "ajax",
+    "show_lock_icon": false,
+    "display_tos_checkbox": false,
+    "tos_page": "",
+    "go_to_checkout": false,
+    "display_special_instructions": false,
+    "display_savings": false,
+    "cart_message": "",
+    "show_shipping_calculator": false,
+    "shipping_calculator_default_country": "Sweden",
+    "currency_format": "money_format",
+    "show_multiple_currencies": false,
+    "supported_currencies": "SEK",
+    "default_currency": "SEK",
+    "mailchimp_link": "",
+    "newsletter_popup": false,
+    "newsletter_popup_close": false,
+    "newsletter_popup_mobile": false,
+    "newsletter_popup_form": false,
+    "display_first_name": false,
+    "display_last_name": false,
+    "use_newsletter_border": false,
+    "newsletter_bg": "",
+    "image_crop": "none",
+    "newsletter_popup_image_align": "left",
+    "newsletter_popup_title": "",
+    "newsletter_popup_text": "<p></p>",
+    "newsletter_popup_text_align": "center",
+    "popup_button1": "",
+    "popup_button1_link": "",
+    "popup_button1_highlight": false,
+    "popup_button2": "",
+    "popup_button2_link": "",
+    "popup_button2_highlight": false,
+    "newsletter_popup_seconds": 0,
+    "newsletter_popup_days": "14",
+    "twitter_link": "",
+    "facebook_link": "https://www.facebook.com/docklandet/",
+    "youtube_link": "https://www.youtube.com/@Docklandet_Sweden",
+    "vimeo_link": "https://vimeo.com/docklandet",
+    "pinterest_link": "",
+    "tumblr_link": "",
+    "instagram_link": "https://instagram.com/docklandet",
+    "snapchat_link": "",
+    "houzz_link": "",
+    "linkedin_link": "",
+    "email_link": "info@docklandet.se",
+    "favicon": "shopify://shop_images/docklandet_logo_favicon_D_1.png",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "pt_show_refine": false,
+    "pt_show_collection_group": true,
+    "pt_show_inactive_filters": false,
+    "pt_force_dropdown": false,
+    "pt_refine_text": "Visa alla",
+    "pt_clear_text": "Rensa",
+    "pt_view_all_text": "Visa alla",
+    "pt_tags_text": "Taggar",
+    "pt_sort_by_text": "Sortera",
+    "pt_collection_text": "Kollektion",
+    "pt_search_placeholder_text": "sök...",
+    "pt_mobile_text": "Sortera & Filtrera",
+    "pt_show_tags_group": false,
+    "pt_show_tags_grouped": false,
+    "pt_show_sort_by_group": true,
+    "pt_sort_position": "top",
+    "pt_sort_by_dropdown": true,
+    "pt_show_sort_by_checkboxes": true,
+    "pt_sort_manual_text": "Utvalda",
+    "pt_sort_price_asc_text": "Pris: Lågt till Högt",
+    "pt_sort_price_desc_text": "Pris: Högt till Lågt",
+    "pt_sort_title_asc_text": "A-Z",
+    "pt_sort_created_asc_text": "Äldst",
+    "pt_sort_created_desc_text": "Nyast",
+    "pt_sort_best_selling_text": "Popularitet",
+    "color_pt_links_selected": "#dd4982",
+    "color_pt_links_hover": "#dd4982",
+    "pt_links_size": 14,
+    "pt_links_weight": "300",
+    "pt_show_checkboxes": false,
+    "pt_checkbox_style": "2",
+    "pt_checkbox_swatch_style": "2",
+    "pt_checkbox_primary_color": "#888",
+    "pt_checkbox_secondary_color": "#dd4982",
+    "pt_checkbox_size": 17,
+    "pt_bg_padding": 0,
+    "pt_bg_radius": 3,
+    "pt_view_more_enable": false,
+    "pt_view_more_text": "Visa mer...",
+    "pt_apply_button_text": "Tillämpa",
+    "pt_ajax_selector": "#shopify-section-collection-template",
+    "pt_clear_to_current_collection": true,
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify://shop_images/docklandet1_17ba96ae-8920-4a4d-b995-1e37365a3bdf.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#4950dd",
+    "checkout_button_color": "#4950dd",
+    "checkout_error_color": "#e32c2b",
+    "banner_style": "square",
+    "search_pagination_type": "basic_pagination",
+    "size_chart": "",
+    "enable_shopify_review_comments": true,
+    "enable_shopify_collection_badges": true,
+    "show_payment_button": true,
+    "quick_shop_display_vendor": false,
+    "quick_shop_display_savings": true,
+    "quick_shop_zoom": false,
+    "quick_shop_full_description": false,
+    "description_words": 25,
+    "quick_shop_product_description_position": "top",
+    "quick_shop_gallery_arrows": false,
+    "quick_shop_slideshow_animation": "slide",
+    "quick_shop_product_images_position": "left",
+    "quick_shop_product_thumbs": true,
+    "quick_shop_thumbnail_position": "bottom-thumbnails",
+    "secondary_newsletter_banner": false,
+    "og_image_fallback": "",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promo_text": "",
+          "social_icons_header": true,
+          "phone_number": "",
+          "top_bar_menu": "",
+          "show_cart": true,
+          "cart_icon": "cart",
+          "show_locale_selector": false,
+          "show_currency_selector": true,
+          "logo_display_width": 205,
+          "logo": "shopify://shop_images/DOCKLANDET_LOGO_TEXT-1.svg",
+          "main_linklist": "main-menu",
+          "main_linklist2": "",
+          "vertical_menu": false,
+          "dropdown_click": false,
+          "search_enabled": true,
+          "fixed_header": true,
+          "logo_position": "left",
+          "logo_alignment": "left",
+          "menu_position": "inline",
+          "menu_alignment": "center"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify://shop_images/DOCKLANDET_LOGO_TEXT-AND-ICON-6_300x_33dbfe2c-6390-4ad0-9a8f-9e361e34e599.png",
+              "text_align": "center",
+              "social_icons_footer": false
+            }
+          },
+          "1582561490215": {
+            "type": "text",
+            "settings": {
+              "title": "Docklandet.se",
+              "content": "<p><em>Vårt sortiment erbjuder över 4000 dockor (real doll's) i olika prisklasser, stilar och storlekar. Vi är auktoriserad partner till flera världsledande fabrikat och i vår butik finns över 70 dockor uppställda. Vi är experter på sexdockor och kommer alltid göra allt för att du som kund ska bli nöjd! </em></p>",
+              "social_icons_footer": false
+            }
+          },
+          "1582561037798": {
+            "type": "text",
+            "settings": {
+              "title": "Vi garanterar",
+              "content": "<p>- Marknadens bästa priser<br/>- Noga utvalda produkter<br/>- Ett brett sortiment<br/>- Högsta kvalitet<br/>- 100% diskretion<br/>- Snabb leverans<br/>- Ingen tullavgift<br/>- <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\"><strong>Alltid fri frakt!</strong></a></p>",
+              "social_icons_footer": false
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer",
+              "social_icons_footer": true
+            }
+          },
+          "footer-3": {
+            "type": "text",
+            "settings": {
+              "title": "Kontakt",
+              "content": "<p><a href=\"/pages/kontakt-docklandet-sexdockor\" title=\"Kontakt Docklandet\"><strong>Öppettider  (10:00 - 18:00)</strong></a><br/>Mail: <a href=\"mailto:info@docklandet.se\" target=\"_blank\" title=\"Skicka ett mail till oss!\">info@docklandet.se</a><br/>Telefon: 010-641 06 66</p><p><a href=\"https://www.allabolag.se/5592650468/dalarna-exclusive-ab\" target=\"_blank\" title=\"Allabolag.se - Dalarna Exclusive AB\"><strong>Dalarna Exclusive AB</strong></a><br/>Org-nr: 559265-0468<br/>Krokgatan 22 <br/>784 52 Borlänge</p>",
+              "social_icons_footer": false
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "1582561490215",
+          "1582561037798",
+          "footer-1",
+          "footer-3"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_payment_methods": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false
+        }
+      },
+      "1582460042839": {
+        "type": "slideshow",
+        "blocks": {
+          "1582484501894": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Sexdockor_Docklandet_DF_YL_Sexdoll.jpg",
+              "pretext": "",
+              "title": "<b>En <font color=\"#DD4982\">helt ny</font> värld</b>",
+              "subtitle": "<p><strong>Äntligen kan även män njuta av riktiga</strong><br/><strong>sexleksaker. Läs mer om sexdockor </strong><a href=\"/pages/info\" title=\"Info\"><strong>här</strong></a></p>",
+              "button1": "<b>Dora</b>",
+              "button1_link": "shopify://products/sexdocka-doll-forever-elf-dora",
+              "button2": "<b>Navi</b>",
+              "button2_link": "shopify://products/fantasidockor-sexdocka-yldoll-navi",
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          },
+          "1582484545111": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Sexdockor_Docklandet_DF_YL_Sexdoll_kopia.jpg",
+              "pretext": "",
+              "title": "<b><font color=\"#DD4982\">Snabb</font> leverans</b>",
+              "subtitle": "<p><strong>Inga långa väntetider, leverans <br/>sker oftast inom 2 - 4 arbetsdagar</strong></p>",
+              "button1": "<b>Hedy</b>",
+              "button1_link": "shopify://products/starpery-hedy-sexdocka-a-kupa-171cm",
+              "button2": "<b>Amanda</b>",
+              "button2_link": "shopify://products/sexdocka-wmdoll-amanda",
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          },
+          "1582484400809": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Sexdockor_Docklandet_WM-Doll3.jpg",
+              "pretext": "",
+              "title": "<b>För <font color=\"#DD4982\">alla</font> smaker</b>",
+              "subtitle": "<p></p><p><strong>Vårat sortiment erbjuder många </strong><br/><strong>olika typer av sexdockor</strong></p>",
+              "button1": "<b>Sofia</b>",
+              "button1_link": "shopify://products/sexdocka-wmdoll-164cm-d-kupa-sofia-express",
+              "button2": "<b>Nadia</b>",
+              "button2_link": "shopify://products/sexdocka-wmdoll-nadia",
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1582484501894",
+          "1582484545111",
+          "1582484400809"
+        ],
+        "settings": {
+          "wide_display": true,
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_animation": "slide",
+          "slideshow_speed": 4,
+          "activate_adaptiveHeight": true,
+          "mobile_text_below_image": true,
+          "mobile_text_color": ""
+        }
+      },
+      "1582462518998": {
+        "type": "featured-promotions",
+        "blocks": {
+          "1582462518998-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Miniatyr_Sexdockor_Mini_Sexdolls_a5722b5d-b20b-4279-ba1f-c3ab03528142.jpg",
+              "link": "shopify://collections/mini-sexdocka-miniatyr-2",
+              "title": "<b><b>-<font color=\"#DD4982\">MINI</font></b> SEXDOCKOR</b><b><font color=\"#DD4982\">-</font></b>",
+              "text": "<p>Köp en miniatyr-sexdocka</p><p>Priser från 3995:-</p>",
+              "button_label": "Se kollektion"
+            }
+          },
+          "1582462518998-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/medium_sexdockor_docklandet_1.jpg",
+              "link": "shopify://collections/sexdockor-medium-size-2",
+              "title": "<b><b>-<font color=\"#DD4982\">MEDIUM</font></b> sexdockor</b><b><font color=\"#DD4982\">-</font></b>",
+              "text": "<p>Köp en sexdocka i medium-size</p><p>Priser från 8495:-</p>",
+              "button_label": "Se kollektion"
+            }
+          },
+          "1582462518998-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/full-size_sexdolls_langa_sexdockor_docklandet_5.jpg",
+              "link": "shopify://collections/sexdockor-full-size-2",
+              "title": "<b><b>-<font color=\"#DD4982\">FULL-SIZE</font></b> SEXDOCKOR</b><b><font color=\"#DD4982\">-</font></b>",
+              "text": "<p>Köp en full-size sexdocka</p><p>Priser från 9995:-</p>",
+              "button_label": "Se kollektion"
+            }
+          }
+        },
+        "block_order": [
+          "1582462518998-0",
+          "1582462518998-1",
+          "1582462518998-2"
+        ],
+        "settings": {
+          "promo_text_on_image_enabled": true,
+          "featured_promos_per_row": 3,
+          "featured_links_animation": "",
+          "feature_style": "square"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "image": "shopify://shop_images/start_docklandet_sexdocka_sverige_real_doll_4.jpg",
+          "subtitle": "",
+          "blog_posts_per_row": 3,
+          "blog_posts_per_page": 12,
+          "blog_tags": false,
+          "blog_author": false,
+          "read_time": false,
+          "blog_date": false,
+          "blog_comment_count": false,
+          "read_more_link": false,
+          "toggle": false
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "",
+          "newsletter_text": "",
+          "newsletter_section_text_align": "center",
+          "image": ""
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_breadcrumb": false,
+          "product_thumbs": true,
+          "gallery_arrows": true,
+          "enable_product_lightbox": false,
+          "activate_zoom": false,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "bottom-slider"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {}
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "blocks": {
+          "1601035423217": {
+            "type": "page",
+            "settings": {
+              "content_page": "u-u-u-u"
+            }
+          }
+        },
+        "block_order": [
+          "1601035423217"
+        ],
+        "settings": {
+          "featured_collection_image": true,
+          "display_collection_title": false,
+          "collection_breadcrumb": false,
+          "collection_tags": false,
+          "collection_sort": false,
+          "products_per_row": 3,
+          "pagination_limit": 50,
+          "toggle": false
+        }
+      },
+      "1582486702254": {
+        "type": "slideshow",
+        "blocks": {
+          "1582547593875": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/sexdockor_sverige_docklandet_real_doll_57d4ab01-914e-4acb-ba2f-dfad4981ee74.jpg",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          },
+          "1582486702254-0": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/Ulva11111333333_d65241e5-836c-469e-95f3-ca4cae99c518.jpg",
+              "pretext": "",
+              "title": "<b>- <font color=\"#DD4982\">R E A</font> -</b>",
+              "subtitle": "<p><strong>Just nu har vi REA på hela sortimentet </strong><br/><strong>Från 40-55 % på alla våra sexdockor</strong></p>",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "left",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          },
+          "1582545497858": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/3111_5972b8af-1a0d-4485-8362-cee0a5cd1311.jpg",
+              "pretext": "",
+              "title": "<b>-<font color=\"#DD4982\"> FRI</font> FRAKT -</b>",
+              "subtitle": "<p><strong>Ingen frakt eller tullavgift när </strong><br/><strong>du handlar hos oss på Docklandet</strong></p>",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "left",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          },
+          "1582546524278": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/rsz_dsc_4275_-_kopia2.jpg",
+              "pretext": "",
+              "title": "<b>-<font color=\"#DD4982\"> HÖGSTA </font> KVALITÉ -</b>",
+              "subtitle": "<p><strong>Våra sexdockor är av högsta kvalitet </strong><br/><strong>och ser mycket verklighetstrogna ut</strong></p>",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "left",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1582547593875",
+          "1582486702254-0",
+          "1582545497858",
+          "1582546524278"
+        ],
+        "settings": {
+          "wide_display": true,
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_animation": "slide",
+          "slideshow_speed": 6,
+          "activate_adaptiveHeight": false,
+          "mobile_text_below_image": true,
+          "mobile_text_color": ""
+        }
+      },
+      "1582636388780": {
+        "type": "slideshow",
+        "blocks": {
+          "1582636388780-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/start_docklandet_sexdocka_sverige_kopia_2.jpg",
+              "pretext": "",
+              "title": "",
+              "subtitle": "<p><em><strong>\"Väldigt nöjd med båda mina<br/>dockor. Proportioner som dessa<br/>hittar jag inte på verkliga tjejer.<br/>Fantastiskt hett\" </strong></em><strong>- Anonym kund</strong></p>",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "left",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          },
+          "1582636388780-1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/1553751056218171334_7871bc0c-e301-4fd0-aa9f-80edef06a4e8.jpg",
+              "pretext": "",
+              "title": "",
+              "subtitle": "<p><em>\"Sex har alltid varit ett stort intresse <br/>hos mig och min fru. Vår nyinköpta <br/>docka är verkligen kronjuvelen <br/>bland leksakerna i sovrummet\"</em></p><p><strong>- Anonym kund</strong></p>",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "left",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          },
+          "1582636643628": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/1553751056218171334_7871bc0c-e301-4fd0-aa9f-80edef06a4e8.jpg",
+              "pretext": "",
+              "title": "",
+              "subtitle": "<p><em>\"Supernöjd! Trodde inte det gick att <br/>hitta en sexdocka av denna kvalitet till <br/>så överkomligt pris. Min order kom fram <br/>efter 2 dagar!! Helt perfekt\"</em></p><p><strong>- Anonym kund</strong></p>",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "left",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1582636388780-0",
+          "1582636388780-1",
+          "1582636643628"
+        ],
+        "settings": {
+          "wide_display": false,
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_animation": "slide",
+          "slideshow_speed": 10,
+          "activate_adaptiveHeight": false,
+          "mobile_text_below_image": false,
+          "mobile_text_color": "#ffffff"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "display_special_instructions": false,
+          "display_savings": true,
+          "cart_message": ""
+        }
+      },
+      "1582820796308": {
+        "type": "contact-form",
+        "settings": {
+          "contact_image": "shopify://shop_images/rsz_girls_banner2.jpg",
+          "contact_heading": "",
+          "contact_subheading": "Har du en fråga?",
+          "contact_content": "<p>Om du undrar över något så tveka inte att höra av dig till oss. Vi svarar oftast inom någon timme. Vi vill gärna hjälpa dig med vad du än undrar över, allt från funderingar kring en sexdocka eller önskemål, till åsikter och kritik. </p><p>Vi är experter på sexdockor och har flera års erfarenhet i branschen. Kolla gärna igenom våran <a href=\"https://docklandet.se/pages/faq\" title=\"F.A.Q\"><strong>F.A.Q</strong></a><strong> </strong>med vanliga frågor och svar!</p>",
+          "contact_text_position": "left",
+          "contact_text_alignment": "left",
+          "contact_social_buttons": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "image": "",
+          "collection_breadcrumb": true,
+          "display_collection_title": false,
+          "align_height": false,
+          "collection_height": 200,
+          "collections_per_row": 3,
+          "pagination_limit": 18,
+          "toggle": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "featured_image": "none",
+          "blog_breadcrumb": false,
+          "blog_pagination": false,
+          "blog_tags": false,
+          "blog_byline": false,
+          "read_time": false,
+          "blog_date": false,
+          "blog_author": false,
+          "display_social_buttons": true,
+          "blog_comment_count": false,
+          "blog_additional_posts": false,
+          "read_more_link": false,
+          "toggle": false
+        }
+      },
+      "page-banner-template": {
+        "type": "page-banner-template",
+        "settings": {
+          "image": "",
+          "pretext": "",
+          "title": "Page Banner Template",
+          "subtitle": "<p>Create an amazing page with a full-width banner</p>",
+          "text_position": "center",
+          "text_align": "center",
+          "button1": "",
+          "button1_link": "",
+          "button2": "",
+          "button2_link": ""
+        }
+      },
+      "page-gallery-template": {
+        "type": "page-gallery-template",
+        "blocks": {
+          "24d2ef70-039a-4b33-8ff3-f4a4c76c2e4e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_20_100b9de7-05dd-4bf6-b854-b5d9f38e842e.png",
+              "image_link": ""
+            }
+          },
+          "6bde067b-153f-4251-891a-0a4895e05670": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_13.png",
+              "image_link": ""
+            }
+          },
+          "5038272c-5f4d-4776-83d9-10757f3150fe": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_2.png",
+              "image_link": ""
+            }
+          },
+          "a34ed0e9-78a5-4444-ad05-17c5c34b9f22": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Cornelia_WM-Doll_Sexdocka_Docklandet.png",
+              "image_link": ""
+            }
+          },
+          "b14ee384-f582-47f3-b744-f98afdd9605f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_18.png",
+              "image_link": ""
+            }
+          },
+          "dd4078d5-d00d-4d46-b461-b9a6c22066a6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_19_c8355f7c-a892-4df5-9ef6-da12950c3761.png",
+              "image_link": ""
+            }
+          },
+          "b625e24f-ff1f-4cb0-bef2-0409d3e65f21": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_2_1_d835d7dd-1c2d-4786-bc66-3cb74533991c.png",
+              "image_link": ""
+            }
+          },
+          "dba8122b-8e5e-4051-b097-641a8f80d1b7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_3.png",
+              "image_link": ""
+            }
+          },
+          "page-gallery-template-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Sexdockor_Docklandet_Sexdocka_Real_Doll_Factory.png",
+              "image_link": ""
+            }
+          },
+          "b4e8e357-805f-46f2-9806-5d61e37ca0e9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_2_c9d6f4c0-f3c4-415a-af19-aceaff22d350.png",
+              "image_link": ""
+            }
+          },
+          "abb7246b-0ef0-4c39-a08c-3e11298ea1a0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_24.png",
+              "image_link": ""
+            }
+          },
+          "page-gallery-template-7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_sexdocka_WM-Doll_Louise.png",
+              "image_link": ""
+            }
+          },
+          "1a663b81-e3fc-4429-8698-0bc7ddb0323d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_14.png",
+              "image_link": ""
+            }
+          },
+          "6bb3528a-7b6d-48a1-a6fc-ec198859ca4f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_25.png",
+              "image_link": ""
+            }
+          },
+          "ee7faff0-8df9-424a-86d5-aeddbbc761f1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_sexdocka_WM-Doll_Amanda.png",
+              "image_link": ""
+            }
+          },
+          "578b34aa-8abd-4e1a-9015-240fdda75a2b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_2.png",
+              "image_link": ""
+            }
+          },
+          "935e5906-0832-402d-8ba3-22f0845c54a4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_26.png",
+              "image_link": ""
+            }
+          },
+          "01bfb347-c1b0-4a8a-9604-a2246ed50d44": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_2_1.png",
+              "image_link": ""
+            }
+          },
+          "7614a4f8-d026-4d7c-825a-9c37d8725123": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_28.png",
+              "image_link": ""
+            }
+          },
+          "d736fb13-4805-480a-8706-c3ff7eb6c779": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_15_e9e15f45-a7a4-4f19-a70d-6d3b4f782ba3.png",
+              "image_link": ""
+            }
+          },
+          "6ebe23cf-63c9-4de8-a224-ef6e7f9c2752": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_14_35576286-33fa-4a35-858d-00252ceef95a.png",
+              "image_link": ""
+            }
+          },
+          "0640fb01-d241-47c1-8f9f-528c8b600f0b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_29.png",
+              "image_link": ""
+            }
+          },
+          "112ec327-3c41-402e-b41a-a17ead75930f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_4.png",
+              "image_link": ""
+            }
+          },
+          "64a7181e-9565-4c8e-ac29-71c2f9a86baa": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_8557e718-2047-4840-8a9e-54917224ebb5.png",
+              "image_link": ""
+            }
+          },
+          "b37d4788-2716-4e72-9e6e-ffc69b6b9eb4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_17_54936e94-93ed-47a6-820e-f3299e5ad2d7.png",
+              "image_link": ""
+            }
+          },
+          "c786f585-5550-4e61-a9f9-87e99674a53c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_2_621ea640-28ac-4697-9ed5-0063e5ca3409.png",
+              "image_link": ""
+            }
+          },
+          "588ec0da-06de-4805-b6b6-4541d3798307": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Starpery_Factoryphotos_Sex_Doll_Docklandet_2.png",
+              "image_link": ""
+            }
+          },
+          "15ab47ec-873e-4e0f-ba58-850b0f822b53": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Starpery_Factoryphotos_Sex_Doll_Docklandet_1.png",
+              "image_link": ""
+            }
+          },
+          "e693c6f6-e8de-49b5-b5d9-5496d16a3914": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_kopia_2.png",
+              "image_link": ""
+            }
+          },
+          "60c6c5be-168f-4d1e-adea-0ac44b50ad8e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_kopia.png",
+              "image_link": ""
+            }
+          },
+          "45ce7bb3-9f46-4fd2-819b-b6c4706afeac": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_kopia_1.png",
+              "image_link": ""
+            }
+          },
+          "88c96dfd-5ed6-437c-a96c-93e7721b22c5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Julia_Irontech_Doll_Factoryphotos_Sex_Doll_Docklandet_png.png",
+              "image_link": ""
+            }
+          },
+          "67fd9c6b-5b9d-404c-8451-cdfae520eb4d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_1_14df259b-fe7e-453b-8f92-b4e0d1a9fccb.png",
+              "image_link": ""
+            }
+          },
+          "b67f9e71-ac37-4d2b-a2d7-b02e0bd3fd63": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_41.png",
+              "image_link": ""
+            }
+          },
+          "72624046-ccce-4eb8-8459-6affe4874654": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_57a42de7-c8ae-42b6-9677-68c489b37b5c.png",
+              "image_link": ""
+            }
+          },
+          "7a13a13e-3625-42b3-804e-5373396fbf87": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_2.png",
+              "image_link": ""
+            }
+          },
+          "50c7fa9a-f68d-410a-99bd-fd6bb0e96d5a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory.png",
+              "image_link": ""
+            }
+          },
+          "f381a017-6d36-4046-bb03-4ec5fb35b1d1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_72ab41a6-e45f-42b2-b86b-5c19af9d561b.png",
+              "image_link": ""
+            }
+          },
+          "540cdf8c-e30d-45e5-8e58-f94c081fb7ca": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_42.png",
+              "image_link": ""
+            }
+          },
+          "e7a7049b-015c-4141-bb9e-bdcbca1a2f64": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_53cb4366-82b4-446d-9514-47d174811e41.png",
+              "image_link": ""
+            }
+          },
+          "89363038-8869-464a-950d-9df28e252701": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_2.png",
+              "image_link": ""
+            }
+          },
+          "a213f589-bd25-4645-9e1f-a61cf5cddcdf": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_65498527-0fca-4645-9518-fcbb001a33a7.png",
+              "image_link": ""
+            }
+          },
+          "1345eb01-500d-486a-a2b2-486c3d7e6e69": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_1_d63bc279-daa0-415c-96b8-85b9bd347a10.png",
+              "image_link": ""
+            }
+          },
+          "2e323844-12c4-4b13-af32-9a83a05f92bc": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_1.png",
+              "image_link": ""
+            }
+          },
+          "95b2b0d9-2485-4db0-8f4d-a363c4b5a8fe": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_1_38038449-5a43-4f7d-9978-e07102ec18ec.png",
+              "image_link": ""
+            }
+          },
+          "8c6344af-91c7-44a4-b9fc-c94a1ab40e69": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy.png",
+              "image_link": ""
+            }
+          },
+          "eb2682e2-bf0f-4124-a344-f180021464e7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_dd21f663-7255-4c83-aae0-f295c77c024b.png",
+              "image_link": ""
+            }
+          },
+          "d0e02d6a-d487-4f35-a133-f34b5bacad92": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_1.png",
+              "image_link": ""
+            }
+          },
+          "5a555f13-9547-4b1b-ad96-a14f79c120da": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_1_f9e81124-32c1-4bb5-a938-78b544b29636.png",
+              "image_link": ""
+            }
+          },
+          "57d181c2-77d8-4e76-a285-3e05aa241e44": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_1.png",
+              "image_link": ""
+            }
+          },
+          "244b1c12-22f2-41e9-b759-d31468c39aea": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia.png",
+              "image_link": ""
+            }
+          },
+          "609fbd23-8ee0-40a3-adb5-b9176e997943": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Rico_Silicone_Factoryphotos_Sex_Doll_Docklandet_png.png",
+              "image_link": ""
+            }
+          },
+          "a5b66337-ce9c-4bef-bdfb-28e14eea60fa": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Piperdoll_Sexdockor_Factory_Copy_kopia_2_12db89c4-eb25-497d-8495-2e541d900799.png",
+              "image_link": ""
+            }
+          },
+          "651b884e-eb27-4080-a1dc-2a19d3539053": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_12.png",
+              "image_link": ""
+            }
+          },
+          "c5cc97f1-3d57-4b4a-b7fe-d3b23c099bbc": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/WM-Doll_Sexdockor_Docklandet_Factory.png",
+              "image_link": ""
+            }
+          },
+          "63dfde0c-0df8-4292-b418-dc7144a508d1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_10_329d7aab-f0b7-4746-ae6e-08462400d01a.png",
+              "image_link": ""
+            }
+          },
+          "1aee436a-75cd-45d3-ab6b-fd98e9171953": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_2.png",
+              "image_link": ""
+            }
+          },
+          "d4360402-5c45-467f-bf6f-dfa2df14ecd2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_16_1d697c98-735f-4c97-9c9b-602e12f15f32.png",
+              "image_link": ""
+            }
+          },
+          "page-gallery-template-3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_9.png",
+              "image_link": ""
+            }
+          },
+          "16f83fd6-0218-4b73-be85-15981a22ff3b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_12.png",
+              "image_link": ""
+            }
+          },
+          "0cbe9106-e400-476c-99d0-029d58c7b69d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_21.png",
+              "image_link": ""
+            }
+          },
+          "c5e564f3-3332-45ec-bd03-d2ffabd16b63": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_16.png",
+              "image_link": ""
+            }
+          },
+          "6c2fca93-c481-4e99-b098-2b3bc043032c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_7.png",
+              "image_link": ""
+            }
+          },
+          "833b933d-61d0-41aa-bfb9-664acf3397b4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_8.png",
+              "image_link": ""
+            }
+          },
+          "bf1363d2-1eb6-4ac3-9d7f-bdddcafb4586": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_19.png",
+              "image_link": ""
+            }
+          },
+          "0e5758d7-67e0-4113-aa00-0d09e8841c69": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_14.png",
+              "image_link": ""
+            }
+          },
+          "113d9c61-38ae-425c-bebf-d756c5e73cf2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_5.png",
+              "image_link": ""
+            }
+          },
+          "686194ea-34a5-44ae-b790-eab0f16a93f5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor_6.png",
+              "image_link": ""
+            }
+          },
+          "page-gallery-template-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_7.png",
+              "image_link": ""
+            }
+          },
+          "dcdb4186-c3a6-40d6-901d-ddcae66e5692": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Fabriksbilder_Docklandet_Sexdockor.png",
+              "image_link": ""
+            }
+          },
+          "5dcff942-fc9e-465f-90f3-6b1d1028b941": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_15.png",
+              "image_link": ""
+            }
+          },
+          "c66fab8d-009f-4e08-8647-8939554e4fd3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_20.png",
+              "image_link": ""
+            }
+          },
+          "2c0f8c91-30fe-4c84-82c4-219d512a2ada": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Sexdockor_Docklandet_Sexdocka_Real_Doll_copy.png",
+              "image_link": ""
+            }
+          },
+          "c93870e7-5b24-4483-9def-d606c82e85ad": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_30.png",
+              "image_link": ""
+            }
+          },
+          "b3956701-1582-4e6b-a54f-143976894524": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/My_Post_18.png",
+              "image_link": ""
+            }
+          },
+          "e11d0b64-d667-40a8-ba94-90b64a231cd5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_fabriksbilder_3_0f8a7fcd-7f5a-4c5f-a699-e37a02754f42.png",
+              "image_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "24d2ef70-039a-4b33-8ff3-f4a4c76c2e4e",
+          "6bde067b-153f-4251-891a-0a4895e05670",
+          "5038272c-5f4d-4776-83d9-10757f3150fe",
+          "a34ed0e9-78a5-4444-ad05-17c5c34b9f22",
+          "b14ee384-f582-47f3-b744-f98afdd9605f",
+          "dd4078d5-d00d-4d46-b461-b9a6c22066a6",
+          "b625e24f-ff1f-4cb0-bef2-0409d3e65f21",
+          "dba8122b-8e5e-4051-b097-641a8f80d1b7",
+          "page-gallery-template-2",
+          "b4e8e357-805f-46f2-9806-5d61e37ca0e9",
+          "abb7246b-0ef0-4c39-a08c-3e11298ea1a0",
+          "page-gallery-template-7",
+          "1a663b81-e3fc-4429-8698-0bc7ddb0323d",
+          "6bb3528a-7b6d-48a1-a6fc-ec198859ca4f",
+          "ee7faff0-8df9-424a-86d5-aeddbbc761f1",
+          "578b34aa-8abd-4e1a-9015-240fdda75a2b",
+          "935e5906-0832-402d-8ba3-22f0845c54a4",
+          "01bfb347-c1b0-4a8a-9604-a2246ed50d44",
+          "7614a4f8-d026-4d7c-825a-9c37d8725123",
+          "d736fb13-4805-480a-8706-c3ff7eb6c779",
+          "6ebe23cf-63c9-4de8-a224-ef6e7f9c2752",
+          "0640fb01-d241-47c1-8f9f-528c8b600f0b",
+          "112ec327-3c41-402e-b41a-a17ead75930f",
+          "64a7181e-9565-4c8e-ac29-71c2f9a86baa",
+          "b37d4788-2716-4e72-9e6e-ffc69b6b9eb4",
+          "c786f585-5550-4e61-a9f9-87e99674a53c",
+          "588ec0da-06de-4805-b6b6-4541d3798307",
+          "15ab47ec-873e-4e0f-ba58-850b0f822b53",
+          "e693c6f6-e8de-49b5-b5d9-5496d16a3914",
+          "60c6c5be-168f-4d1e-adea-0ac44b50ad8e",
+          "45ce7bb3-9f46-4fd2-819b-b6c4706afeac",
+          "88c96dfd-5ed6-437c-a96c-93e7721b22c5",
+          "67fd9c6b-5b9d-404c-8451-cdfae520eb4d",
+          "b67f9e71-ac37-4d2b-a2d7-b02e0bd3fd63",
+          "72624046-ccce-4eb8-8459-6affe4874654",
+          "7a13a13e-3625-42b3-804e-5373396fbf87",
+          "50c7fa9a-f68d-410a-99bd-fd6bb0e96d5a",
+          "f381a017-6d36-4046-bb03-4ec5fb35b1d1",
+          "540cdf8c-e30d-45e5-8e58-f94c081fb7ca",
+          "e7a7049b-015c-4141-bb9e-bdcbca1a2f64",
+          "89363038-8869-464a-950d-9df28e252701",
+          "a213f589-bd25-4645-9e1f-a61cf5cddcdf",
+          "1345eb01-500d-486a-a2b2-486c3d7e6e69",
+          "2e323844-12c4-4b13-af32-9a83a05f92bc",
+          "95b2b0d9-2485-4db0-8f4d-a363c4b5a8fe",
+          "8c6344af-91c7-44a4-b9fc-c94a1ab40e69",
+          "eb2682e2-bf0f-4124-a344-f180021464e7",
+          "d0e02d6a-d487-4f35-a133-f34b5bacad92",
+          "5a555f13-9547-4b1b-ad96-a14f79c120da",
+          "57d181c2-77d8-4e76-a285-3e05aa241e44",
+          "244b1c12-22f2-41e9-b759-d31468c39aea",
+          "609fbd23-8ee0-40a3-adb5-b9176e997943",
+          "a5b66337-ce9c-4bef-bdfb-28e14eea60fa",
+          "651b884e-eb27-4080-a1dc-2a19d3539053",
+          "c5cc97f1-3d57-4b4a-b7fe-d3b23c099bbc",
+          "63dfde0c-0df8-4292-b418-dc7144a508d1",
+          "1aee436a-75cd-45d3-ab6b-fd98e9171953",
+          "d4360402-5c45-467f-bf6f-dfa2df14ecd2",
+          "page-gallery-template-3",
+          "16f83fd6-0218-4b73-be85-15981a22ff3b",
+          "0cbe9106-e400-476c-99d0-029d58c7b69d",
+          "c5e564f3-3332-45ec-bd03-d2ffabd16b63",
+          "6c2fca93-c481-4e99-b098-2b3bc043032c",
+          "833b933d-61d0-41aa-bfb9-664acf3397b4",
+          "bf1363d2-1eb6-4ac3-9d7f-bdddcafb4586",
+          "0e5758d7-67e0-4113-aa00-0d09e8841c69",
+          "113d9c61-38ae-425c-bebf-d756c5e73cf2",
+          "686194ea-34a5-44ae-b790-eab0f16a93f5",
+          "page-gallery-template-1",
+          "dcdb4186-c3a6-40d6-901d-ddcae66e5692",
+          "5dcff942-fc9e-465f-90f3-6b1d1028b941",
+          "c66fab8d-009f-4e08-8647-8939554e4fd3",
+          "2c0f8c91-30fe-4c84-82c4-219d512a2ada",
+          "c93870e7-5b24-4483-9def-d606c82e85ad",
+          "b3956701-1582-4e6b-a54f-143976894524",
+          "e11d0b64-d667-40a8-ba94-90b64a231cd5"
+        ],
+        "settings": {
+          "show_divider": false,
+          "gallery_type": "classic",
+          "grid-size": 2,
+          "enable_lightbox": false
+        }
+      },
+      "1590196413787": {
+        "type": "slideshow",
+        "blocks": {
+          "1590196413787-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/bottom_banner112_e18eb402-005a-416d-b06c-f0b46497500f.png",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "button1": "",
+              "button1_link": "",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1590196413787-1"
+        ],
+        "settings": {
+          "wide_display": false,
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_animation": "slide",
+          "slideshow_speed": 6,
+          "activate_adaptiveHeight": false,
+          "mobile_text_below_image": true,
+          "mobile_text_color": ""
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "page-faq-template-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Leverans och betalning"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "Content",
+            "settings": {
+              "title": "Hur levereras sexdockorna? ",
+              "subtitle": "<p>Våra sexdockor levereras med DHL, PostNord, UPS eller Schenker, beroende på postort. Normal leveranstid är 2 - 4 dagar. När paketet anländer till din stad så kontaktas du av fraktagent för att boka tid för utkörning eller om du själv i vill hämta paketet. Oftast skickar vi hela dockan i ett stort paket, men ibland skickar vi huvud och kropp i varsitt paket. </p>"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "Content",
+            "settings": {
+              "title": "Hur betalar jag?",
+              "subtitle": "<p>Det går bra att betala med VISA, Mastercard och American Express via Stripe's betalväxel som Docklandet.se använder för kortbetalningar. Pengarna reserveras på ditt bankkonto när du genomfört din order och dras sedan från kontot när produkten blir levererad. Det går även bra att betala med Klarna's betalningslösningar \"Betala senare\" eller \"Dela upp\". Vi erbjuder även PayPal som betalningslösning för dig som föredrar det. Stripe, Klarna och PayPal har höga krav på säkerhet och sekretess, detta gäller både för deras egna tjänster och för deras samarbetspartners. Du kan alltid känna dig helt trygg med att dina pengar och uppgifter hanteras ansvarsfullt och säkert. </p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "Content",
+            "settings": {
+              "title": "Jag är orolig för oväntade kostnader som frakt, skatt eller tullavgift, säkert att jag slipper det? Jag har läst om personer som handlat från andra butiker och kostnader som dykt upp i efterhand.",
+              "subtitle": "<p>100% säkert. Våra produkter skickas från Sverige och närliggande länder. Du riskerar aldrig oväntade kostnader som tullavgift och vi har alltid fri frakt. Det tillkommer aldrig extra kostnader utöver priset på varan. Det finns heller ingen risk att någon av våra dockor fastnar i tullen. Det ordinarie priset du ser på våra dockor är vad dockorna kan kosta från andra butiker inklusive frakt och tullavgift. Du betalar alltid vårat aktuella nedsatta pris och aldrig något mer än det. </p><p>Vi på Docklandet ansvarar för din vara under hela leveransen, skulle något oväntat ske med försändelsen så löser vi det. </p>"
+            }
+          },
+          "page-faq-template-5": {
+            "type": "Content",
+            "settings": {
+              "title": "Om jag beställer en sexdocka hur kan jag vara säker på att jag förblir anonym? ",
+              "subtitle": "<p>Varken Dalarna Exclusive AB eller Docklandet's namn eller logo syns på paketet. Finns heller ingenting annat som kan avslöja paketets innehåll. När köp genomförs så står det \"svensk handel\" eller \"SHANDEL\" på kontoutdraget. Alla transaktioner är krypterade och alla uppgifter skyddade. Vi på Dalarna Exclusive AB kommer aldrig lämna ut dina uppgifter. Om du vill så finns även möjlighet att betala med krypterad valuta som tex. Bitcoin.</p>"
+            }
+          },
+          "e73cc538-47ec-46d9-9678-9618233cbd12": {
+            "type": "Content",
+            "settings": {
+              "title": "Problem med betalning",
+              "subtitle": "<p>Tyvärr är inte vårat system helt optimalt för alla. </p><p>Om du har problem i kassan med betalning så skriv gärna till oss på <strong>info@docklandet.se</strong> så svarar vi så snart som möjligt. </p><p><strong>Klarna </strong>fungerar oftast ej för kunder som bor <strong>utanför Sverige</strong> tyvärr. En spärr som Klarna har i plattformen vi använder. Detta tycker vi är jättetråkigt. Ett sätt att använda Klarna från t.ex. Norge eller Finland är att göra en kortbetalning med ett Klarna-kort. Men det förutsätter att man har ett sådant kort såklart. </p><p>Ibland kan problem uppstå med Klarna om du har en för olika adress angiven för leverans gentemot den du har registrerad i Klarna.</p>"
+            }
+          },
+          "page-faq-template-4": {
+            "type": "heading",
+            "settings": {
+              "heading": "Frågor om sexdockor"
+            }
+          },
+          "37aa2fd1-fe94-4818-b789-c17ed5e43aab": {
+            "type": "Content",
+            "settings": {
+              "title": "Är dockorna verkligen så snygga och verklighetstrogna som de ser ut på bilderna?",
+              "subtitle": "<p>Ja! Våra sexdockor är fantastiskt fina, både i ansikte och kropp. Värt att tänka på är att bilderna på dockorna är tagna med bra studioljus och ibland med viss styling så som hårspray, läppglans och kläder. Vi lovar att dockan du köpt och sett bilder på är den du får levererad hem till dig. Det går alltid att själv styla dockan så den ser ut exakt som på våra bilder. Många har egna idéer runt stil och styling. </p><p>För att få en bättre uppfattning av våra sexdockor så spana in våra <a href=\"/pages/realdoll-sexdoll-sexdocka-fabriksbilder\" title=\"<u></u><u></u><u></u>\"><strong>fabriksbilder</strong></a> och även gärna våra <a href=\"/pages/realdoll-sexdocka-sexdockor-videoklipp\" title=\"<u></u><u></u><u></u><u></u>\"><strong>videoklipp</strong></a>. Där syns det mycket bra hur dockorna ser ut! Utan studioljus, styling eller redigering. </p>"
+            }
+          },
+          "b3cc874a-56c2-4591-b6cc-8f1619877c68": {
+            "type": "Content",
+            "settings": {
+              "title": "Kan jag få se fler bilder på dockan? Vill gärna se \"fabriksbilder\" dvs. inte studiobilder.",
+              "subtitle": "<p>Det går bra! Skriv till oss så skickar vi över några fler bilder. Vi har i de flesta fall bilder på dockor från fabrik tillgängligt, och vi kan även om så önskas fota kropp + huvud direkt från förpackning (vi öppnar dock inga emballage). </p><p></p><p>Nyhet! Vi har nu en sektion med <a href=\"/pages/realdoll-sexdoll-sexdocka-fabriksbilder\" title=\"<u></u><u></u><u></u>\"><strong>fabriksbilder</strong></a>. </p>"
+            }
+          },
+          "page-faq-template-7": {
+            "type": "Content",
+            "settings": {
+              "title": "Kan dockorna stå av sig själva?",
+              "subtitle": "<p>Vissa modeller har \"stående fot\", sexdockan har då 3 metalltassar under vardera fot att balansera på. Dockan kan stå upp väldigt långa perioder utan att riskera att skadas av sin egen tyngd. Även de med vanlig fot kan stå upprätt en stund med något att stödja sig mot.</p>"
+            }
+          },
+          "ed12a874-5a3c-4552-a05b-ea142752cbc2": {
+            "type": "Content",
+            "settings": {
+              "title": "Går det att värma upp dockan på något vis?",
+              "subtitle": "<p>Dockorna värms snabbt upp av ens egen kroppsvärme. Det går även att för-värma dockan på olika vis. Smidigast är med hjälp av en värmestav och/eller elektronisk värmefilt. Var försiktig med att använda för hög värme då materialen är känsliga för höga temperaturer. </p><p>Det finns även inbyggd elektronisk värme som tillval till sexdockor. </p>"
+            }
+          },
+          "8ad8f057-a427-4f26-8159-4e2e421dbe8a": {
+            "type": "Content",
+            "disabled": true,
+            "settings": {
+              "title": "Ingår det en värmestav till alla era sexdockor?",
+              "subtitle": "<p>Tidigare medföljde värmestav till de flesta av våra dockor. Vi har dock stött på problem med import då hela paketet med sexdocka + tillbehör blir att betecknas som elektronik tillsammans. Detta har inneburit högre kostnader för oss vilket kan påverka priset på dockorna, och vi vill såklart bibehålla våra låga kostnader. Värmestavarna har dessutom tyvärr varit av relativt låg kvalitet jämfört med den övriga produkten. Men vissa av våra dockor har fortfarande värmestav inkluderade.</p>"
+            }
+          },
+          "256e0b36-9590-47fb-a87a-b206b97242f8": {
+            "type": "Content",
+            "disabled": true,
+            "settings": {
+              "title": "Varför har alla dockor så stora tuttar? Det finns nästan ingen docka med små bröst. Detta tycker jag är diskriminerande då inte alla vuxna kvinnor är utrustade med stora bröst, min fru t.ex. har A-kupa och finns inget likvärdigt i erat sortiment. ",
+              "subtitle": "<p>Vi ska försöka se till att ordna fler sådana dockor i framtiden. Vi vill kunna ha ett brett sortiment som tilltalar alla smaker. Anledningen att sådana dockor inte är lika vanliga som storbystade är helt enkelt att efterfrågan inte är lika stor. Det finns ett annat dilemma som berör både oss som säljer och kunder och det är att folk gärna har åsikter när det kommer till mindre byst och menar att det där handlar om en ej helt fullt utvecklad byst, med andra ord någon som kan uppfattas som minderårig. Vi kan självklart förstå att det i vissa fall kan uppfattas som så. Men kvinnor ser olika ut och precis som du säger så har ju inte alls alla vuxna kvinnor stora bröst utan många har en mindre byst. Och män har ju olika smak där också, vissa gillar stora och andra gillar mindre. </p>"
+            }
+          },
+          "a3d5818e-a6b0-4992-90f2-834628d20f4b": {
+            "type": "Content",
+            "settings": {
+              "title": "Vilka märken på dockor har ni? Kan ni fixa dockor som inte finns i webbutiken?",
+              "subtitle": "<p>Vi säljer dockor av märkena WM-Doll, YL-Doll, Piperdoll och vårat egna märke Dalarna Exclusive. </p><p>Vi samarbetar även med leverantörer som inte har egna märken utan levererar åt andra kända tillverkare. Många av våra dockor i de lägre prisklasserna är utan märke, men ändå av hög kvalitet såklart. </p><p>Vi kan ordna exakt alla dockor som finns i WM-Doll, YL-Doll och Piperdolls sortiment, alltså även de som vi inte har upplagda i vår egna butik. Vi kan även ta in originaldockor från andra märken genom våra kontakter. Såklart till konkurrenskraftiga priser!</p>"
+            }
+          },
+          "062321c3-3f5d-4f9a-8629-f5f0f913bd1a": {
+            "type": "heading",
+            "settings": {
+              "heading": "Frågor om Docklandet"
+            }
+          },
+          "a5ab5488-3ee9-48ae-bf8a-26d7b008dd0d": {
+            "type": "Content",
+            "settings": {
+              "title": "Har ni alltid rea? ",
+              "subtitle": "<p>Kort och gott, ja! Alla dockor i sortimentet ligger en bit under det normala marknadspriser. Det kommer vi hålla i! Vi kör även tillfälliga korta kampanjer ibland på vissa dockor, oftast när vi har högt lagersaldo på dessa produkter, eller i vissa fall när vi vill sälja slut på en produkt. Vi kör även kampanjer vid Black Friday och andra liknande tillfällen.  </p>"
+            }
+          },
+          "c13e0656-7020-40a1-8605-0dbd1dc702a4": {
+            "type": "Content",
+            "settings": {
+              "title": "Kan jag komma till er och titta på sexdockorna? ",
+              "subtitle": "<p>Det går bra! Hör av dig till oss så hittar vi en tid som passar. Läs mer <a href=\"https://docklandet.se/pages/sexdocka-upphamtning\"><strong>här</strong></a>.<br/>Vi håller till i Borlänge och har väldigt många dockor hemma i lager för upphämtning. Om du vill titta på en docka vi inte har hemma, så kan vi i de flesta fall beställa hem den till oss med några dagars leveranstid. </p>"
+            }
+          },
+          "e2b7915e-8055-4ece-97c0-7f2fe9eb24fa": {
+            "type": "Content",
+            "settings": {
+              "title": "Säljer ni skadade exemplar eller begagnade sexdockor?",
+              "subtitle": "<p>Vi har några dockor som skadats under leverans eller varit defekta som vi säljer till lägre pris. Men vi säljer inte begagnade sexdockor. Behöver du t.ex. en eller flera dockor till ett event eller en filminspelning, så kan du få köpa de för ett rimligt pris.</p>"
+            }
+          },
+          "703157ce-be8d-4311-ac9d-7dfbbae583ac": {
+            "type": "heading",
+            "settings": {
+              "heading": "Efter leverans - Problem, returer och garanti"
+            }
+          },
+          "83f29c4a-bbcd-4691-bc70-8ed8a8a3fac0": {
+            "type": "Content",
+            "settings": {
+              "title": "Hur gör jag om jag fått fel docka, om någon detalj inte stämmer eller om dockan är trasig?",
+              "subtitle": "<p>Det är väldigt ovanligt att fel docka skickas ut. Undersök dockan försiktigt innan användning. Om något inte stämmer så fotograferar du det och hör av dig till oss. Skulle det handla om att paketet är skadat under leverans så kontaktar du först fraktagenten som levererade paketet. Det är ovanligt med fel, men skulle detta ske så har du rätt till retur eller kompensation. Läs mer om vår fraktpolicy och återbetalningspolicy i kassan. </p>"
+            }
+          },
+          "6e2c04fe-b361-4aa7-942b-6865721e9d85": {
+            "type": "Content",
+            "settings": {
+              "title": "Det verkar som att min dockas mun är försluten? ",
+              "subtitle": "<p>Vissa av våra dockor har mun och ibland även vagina försluten från fabrik. Denna \"hinna\" som sitter en bit in går lätt att trycka hål på med ett finger eller liknande. Det blir inga märken efter detta.</p>"
+            }
+          },
+          "2273900e-de10-47a0-b591-7a6cf28218a9": {
+            "type": "Content",
+            "settings": {
+              "title": "Min docka \"nickar\" hela tiden, huvudet sitter inte fast bra alls?",
+              "subtitle": "<p>Med vissa dockor medföljer en extra skruv för halsen. Denna är till för att snabbt kunna få på och av huvudet på dockan och används oftast för uppvisning av dockor och olika huvuden, den är inte tänkt att inte användas vid fysisk aktivitet. Med andra ord, huvudet sitter knappt fast med denna skruv. Den skruv som används som standard till sexdockor är gängad hela vägen och den ser alltid inte ut som den andra skruven som är gängad halvvägs ungefär. </p>"
+            }
+          },
+          "6c3d2cde-e6ce-437d-bb6d-25ea88f796ea": {
+            "type": "Content",
+            "settings": {
+              "title": "Har jag någon garanti?",
+              "subtitle": "<p>Om din sexdocka gått sönder eller är obrukbar på grund av ett dolt <span style=\"text-decoration:underline\">fabriksfel</span> (som du kan bevisa) så har du rätt till kompensation eller att få ett nytt exemplar skickat till dig. Detta gäller även om sexdockan är använd och du behöver inte returnera den. </p><p>Under leverans så ansvarar Docklandet för försändelsen och om något problem skulle uppstå så tar vi hand om det. T.ex. om ditt paket skulle försvinna så kommer vi att skicka att nytt. Det är dock ovanligt att problem uppstår under leverans. <br/></p>"
+            }
+          },
+          "c61364bb-9285-4d02-871a-7f34de629739": {
+            "type": "Content",
+            "settings": {
+              "title": "Har jag ångerrätt och hur är det med returer?",
+              "subtitle": "<p>Självklart har du rätt att ångra ditt köp och returnera varan, Läs mer om köpvillkor och returer <a href=\"/policies/refund-policy\" title=\"Refund Policy\">här</a>.</p>"
+            }
+          },
+          "d0b784a3-f336-43a7-8c93-ec94dc5718ef": {
+            "type": "heading",
+            "settings": {
+              "heading": "Tillbehör, uppgraderingar och specialbeställningar"
+            }
+          },
+          "65eb85d1-d853-4e50-8469-53fad12c7611": {
+            "type": "Content",
+            "settings": {
+              "title": "Om jag vill beställa en modifierad sexdocka efter mina önskemål, vad finns att erbjuda?",
+              "subtitle": "<p>Du kan modifiera eller kombinera i princip vilken docka/kropp/huvud du vill i vårat sortiment. Du kan såklart också fråga oss om vi kan få fram andra ansikten eller kroppar. Special-modifierade dockor innebär oftast att vi lär beställa direkt från fabrik, leveranstiden landar då på mellan 3 och 6 veckor ungefär. För prisuppgifter, skriv och fråga! <br/><br/>Vi kan ändra;<br/><br/>-längd<br/>-bröststorlek<br/>-hudfärg<br/>-ögonfärg<br/>-peruk</p>"
+            }
+          },
+          "ee82ea29-911b-4e1a-ad24-dce91b16962f": {
+            "type": "Content",
+            "settings": {
+              "title": "Finns det några uppgraderingar eller tillval?",
+              "subtitle": "<p>Vi kan göra en specialbeställning från fabrik och kan då uppgradera dockan med följande; <br/><br/>-Extra mjuka gel-bröst<br/>-Elektronisk uppvärmning (med usb)<br/>-Rörelsesensorer med ljud<br/>-Extra rörliga axlar<br/>-Överrörligt metall-skelett (extra \"vig\")<br/>-Löstagbar eller fast penis<br/>-Löstagbar vagina<br/>-Stående fot<br/>-Tunga</p>"
+            }
+          },
+          "9f841723-3950-4ce5-a484-631238856ea6": {
+            "type": "Content",
+            "settings": {
+              "title": "Går det att beställa en docka skapad efter någon annans utseende? ",
+              "subtitle": "<p>Det går att ordna. Vi kan skapa en modell i 3D och sedan gjuta ett ansikte efter det. Detta kostar 5000 kr och leverans är ungefär 2 månader. Det som behövs inför detta är foton på huvud från så många vinklar som möjligt, med uppsatt hår. Om du vill ha ett huvud inspirerat av en känd persons utseende som du inte själv kan fota, så får du själv leta på så många bra bilder som möjligt och skicka över till oss. Vi ger dig ett exempel på hur huvudet skulle se ut (digitalt i 3D), om du är nöjd så får du göra ett köp så startar vi tillverkningen och levererar till dig. Angående kropp så har vi ett stort urval av olika typer av kroppar, inför ett köp så ger vi dig bilder på samtliga kroppar så du kan välja ut en lämplig. Tillverkningen sker genom en av våra samarbetspartners som är mycket skickliga och erfarna. </p>"
+            }
+          },
+          "baf3b185-5edd-4469-a5ad-a03497914549": {
+            "type": "heading",
+            "settings": {
+              "heading": "Övrigt"
+            }
+          },
+          "54d67b2a-cd80-44bd-bb77-6147ab6b7c4b": {
+            "type": "Content",
+            "settings": {
+              "title": "Jag har väntat på svar på mitt mail väldigt länge nu...",
+              "subtitle": "<p>Tveka inte att skriva igen! Det händer att vi missar ett mail ibland, eller att vi väntar på svar från en leverantör som drar ut på tiden. Du behöver aldrig känna dig tjatig utan bättre att höra av sig för mycket än för lite. Vi nås även i direktchatten på våran Instagram. </p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-faq-template-0",
+          "page-faq-template-1",
+          "page-faq-template-3",
+          "page-faq-template-2",
+          "page-faq-template-5",
+          "e73cc538-47ec-46d9-9678-9618233cbd12",
+          "page-faq-template-4",
+          "37aa2fd1-fe94-4818-b789-c17ed5e43aab",
+          "b3cc874a-56c2-4591-b6cc-8f1619877c68",
+          "page-faq-template-7",
+          "ed12a874-5a3c-4552-a05b-ea142752cbc2",
+          "8ad8f057-a427-4f26-8159-4e2e421dbe8a",
+          "256e0b36-9590-47fb-a87a-b206b97242f8",
+          "a3d5818e-a6b0-4992-90f2-834628d20f4b",
+          "062321c3-3f5d-4f9a-8629-f5f0f913bd1a",
+          "a5ab5488-3ee9-48ae-bf8a-26d7b008dd0d",
+          "c13e0656-7020-40a1-8605-0dbd1dc702a4",
+          "e2b7915e-8055-4ece-97c0-7f2fe9eb24fa",
+          "703157ce-be8d-4311-ac9d-7dfbbae583ac",
+          "83f29c4a-bbcd-4691-bc70-8ed8a8a3fac0",
+          "6e2c04fe-b361-4aa7-942b-6865721e9d85",
+          "2273900e-de10-47a0-b591-7a6cf28218a9",
+          "6c3d2cde-e6ce-437d-bb6d-25ea88f796ea",
+          "c61364bb-9285-4d02-871a-7f34de629739",
+          "d0b784a3-f336-43a7-8c93-ec94dc5718ef",
+          "65eb85d1-d853-4e50-8469-53fad12c7611",
+          "ee82ea29-911b-4e1a-ad24-dce91b16962f",
+          "9f841723-3950-4ce5-a484-631238856ea6",
+          "baf3b185-5edd-4469-a5ad-a03497914549",
+          "54d67b2a-cd80-44bd-bb77-6147ab6b7c4b"
+        ],
+        "settings": {
+          "show_banner": true,
+          "image": "shopify://shop_images/animebanner2.jpg",
+          "pretext": "",
+          "title": "<b>- <font color=\"#DD4982\">F A Q</font> -</b>",
+          "subtitle": "<p><strong>Vanliga frågor och svar</strong></p>",
+          "text_position": "center",
+          "text_align": "center",
+          "button1": "",
+          "button1_link": "",
+          "button2": "",
+          "button2_link": ""
+        }
+      },
+      "page-sidebar-template": {
+        "type": "page-sidebar-template",
+        "blocks": {
+          "1600878588115": {
+            "type": "page",
+            "settings": {
+              "content_page": "kopia-av-b-b"
+            }
+          }
+        },
+        "block_order": [
+          "1600878588115"
+        ],
+        "settings": {
+          "toggle": false
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "wide_display": true,
+          "contact_text": "<p>Det går bra att besöka oss i Borlänge för att själv hämta upp din sexdocka. Vi har två stora rum med över 30 dockor uppställda samt ett lager med över 100 dockor hemma i Borlänge. </p><p>Vi finns tillgängliga vardagar 9-18 normalt sett men kan ofta även ta emot besök helg och kvällar om så önskas. </p><p>Det går bra att göra ett köp i förväg och hämta dockan direkt hos oss, eller besöka oss och köpa en docka på plats. Vi har många dockor hemma, allt ifrån de allra billigaste till de dyraste full-size silikon. Vi har även många tillbehör hemma från WM-Doll, Piper Doll, mm. Vi har även olika klädesplagg för dockor, massvis med peruker och olika typer av ögon. </p><p>För dig som vill jämföra kvalitet mellan olika prisklasser, storlekar och märken av sexdockor så rekommenderar vi verkligen ett besök om du inte bor alltför långt bort.</p><p>Vi kan erbjuda specialerbjudanden, rabatter på vissa dockor, paketpris och extra dock-tillbehör till dig som besöker oss. Det händer även att vi har demo-ex eller returer till extra nedsatta priser. </p><p>Vi håller till på Krokgatan 22 i Borlänge. Det går bra att kontakta oss genom formuläret här nedan eller ringa oss på 0735361983. </p><p>Varmt välkommen! </p>",
+          "show_map": false,
+          "map_address": "",
+          "map_height": 400,
+          "zoom_level": 16,
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "default"
+        }
+      },
+      "contact-custom-template": {
+        "type": "contact-custom-template",
+        "settings": {
+          "subtitle": "",
+          "contact_image": "shopify://shop_images/My_project.jpg",
+          "contact_subheading": "Hämta din sexdocka i Borlänge",
+          "contact_content": "<p>Det går bra att besöka oss i Borlänge för att själv hämta upp din sexdocka. Vi har två stora rum med över 30 dockor uppställda samt ett lager med över 100 dockor hemma i Borlänge. </p><p>Vi finns tillgängliga vardagar 9-18 normalt sett men kan ofta även ta emot besök helg och kvällar om så önskas. </p><p>Det går bra att göra ett köp i förväg och hämta dockan direkt hos oss, eller besöka oss och köpa en docka på plats. Vi har många dockor hemma, allt ifrån de allra billigaste till de dyraste full-size silikon. Vi har även många tillbehör hemma från WM-Doll, Piper Doll, mm. Vi har även olika klädesplagg för dockor, massvis med peruker och olika typer av ögon. </p><p>Kontakta oss för aktuell lagerstatus på dockor. Vi har många dockor från WM-Doll, Irokebijin, Piper Doll, Entity Real Doll, mfl hemma i lager för köp på plats. </p><p>För dig som vill jämföra kvalitet mellan olika prisklasser, storlekar och märken av sexdockor så rekommenderar vi verkligen ett besök om du inte bor alltför långt bort.</p><p>Vi kan erbjuda specialerbjudanden, rabatter på vissa dockor, paketpris och extra dock-tillbehör till dig som besöker oss. Det händer även att vi har demo-ex eller returer till extra nedsatta priser. </p><p>Vi håller till på Krokgatan 22 i Borlänge. Det går bra att kontakta oss genom formuläret här nedan eller ringa oss på 0735361983. </p><p>Varmt välkommen! <br/><br/></p>",
+          "contact_text_position": "center",
+          "contact_text_alignment": "center",
+          "contact_social_buttons": false
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "map_image": "shopify://shop_images/123837955_2729622383977040_4695938746631678652_n.jpg",
+          "map_address": "",
+          "map_height": 300,
+          "zoom_level": 1,
+          "api_key": "",
+          "show_pin": false,
+          "map_style": "default"
+        }
+      },
+      "1606055689b8b9b5ab": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 5,
+          "divider_border": false
+        }
+      },
+      "1606071080acb2072b": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 5,
+          "divider_border": false
+        }
+      },
+      "160650005213eeb986": {
+        "type": "featured-promotions",
+        "blocks": {
+          "3a340552-a0f4-4401-831f-5c583fba1e82": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/nyhet_sexdockor_wm-doll_sexdocka_docklandet_kopia_1_Medel.jpg",
+              "link": "shopify://products/blond-sexdocka-silikon-irontech-doll-celine",
+              "title": "<b><font color=\"#DD4982\">-</font>CELINE<font color=\"#DD4982\">-</font></b>",
+              "text": "<p><strong>NYHET!</strong><br/>152 cm A-kupa<br/><strong>23 495:- </strong><a href=\"/products/blond-sexdocka-silikon-irontech-doll-celine\" title=\"Celine Sex Doll (Irontech Doll 152cm Silikon)\"><strong>(34 995:-)</strong></a></p>",
+              "button_label": ""
+            }
+          },
+          "a510d47e-40e1-43c7-9d91-b39f286189b7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/piper_doll_nyhet_sexdocka_Docklandet_Medel.jpg",
+              "link": "shopify://products/ariel-tpe-100cm-piper-doll",
+              "title": "<b><font color=\"#DD4982\">-</font>ARIEL<font color=\"#DD4982\">-</font></b>",
+              "text": "<p><strong>NYHET!</strong><br/>100 cm F-kupa<br/><strong>9 595:- </strong><a href=\"/products/ariel-tpe-100cm-piper-doll\" title=\"Ariel (Piper Doll 100cm TPE)\"><strong>(18 995:-)</strong></a></p>",
+              "button_label": "SE MER"
+            }
+          },
+          "160650005275a32fac-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/nyhet_sexdockor_irontech_doll_sexdocka_docklandet_Medel.jpg",
+              "link": "shopify://products/torso-sexdocka-irontech-doll-miki",
+              "title": "<b><font color=\"#DD4982\">-</font>MIKI<font color=\"#DD4982\">-</font></b>",
+              "text": "<p><strong>NYHET!</strong><br/>90 cm E-kupa<br/><strong>11 995:- </strong><a href=\"/products/torso-sexdocka-irontech-doll-miki\" title=\"Miki Torso Sex Doll (Irontech Doll 90cm TPE)\"><strong>(22 495:-)</strong></a></p>",
+              "button_label": "SE MER"
+            }
+          },
+          "3ed01e21-89ae-41d4-a239-ac081721811c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/nyhet_sexdockor_wm-doll_sexdocka_docklandet_kopia_Medel.jpg",
+              "link": "shopify://products/b-kupa-sexdocka-victoria-irontech-doll",
+              "title": "<b><font color=\"#DD4982\">-</font>VICTORIA<font color=\"#DD4982\">-</font></b>",
+              "text": "<p><strong>NYHET!</strong><br/>150 cm B-kupa<br/><strong>13 995:- </strong><a href=\"/products/b-kupa-sexdocka-victoria-irontech-doll\" title=\"Victoria Sex Doll (Irontech Doll 150cm TPE)\"><strong>(24 995:-)</strong></a></p>",
+              "button_label": ""
+            }
+          },
+          "160650005275a32fac-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/nyhet_sexdockor_wm-doll_sexdocka_docklandet_1.jpg",
+              "link": "shopify://products/wm-doll-sexdocka-alv-alysia",
+              "title": "<b><font color=\"#DD4982\">-</font>ALYSIA<font color=\"#DD4982\">-</font></b>",
+              "text": "<p><strong>NYHET!</strong><br/>160 cm B-kupa<br/><strong>17 495:- </strong><a href=\"/products/wm-doll-sexdocka-alv-alysia\" title=\"Alysia (WM-Doll 160cm #432)\"><strong>(30 495:-)</strong></a></p>",
+              "button_label": "SE MER"
+            }
+          },
+          "b715319a-b1f7-424f-ab15-2f3ffaa7cc4e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/nyhet_intagram_irokebijin_kopia.jpg",
+              "link": "shopify://products/full-size-sexdocka-natalya",
+              "title": "<b><font color=\"#DD4982\">-</font>NATALYA<font color=\"#DD4982\">-</font></b>",
+              "text": "<p><strong>NYHET!</strong><br/>160 cm F-kupa<br/><strong>11 295:- </strong><a href=\"/products/full-size-sexdocka-natalya\" title=\"Natalya Sexdocka (Entity Real Doll 160cm)\"><strong>(22 995:-)</strong></a></p>",
+              "button_label": "SE MER"
+            }
+          }
+        },
+        "block_order": [
+          "3a340552-a0f4-4401-831f-5c583fba1e82",
+          "a510d47e-40e1-43c7-9d91-b39f286189b7",
+          "160650005275a32fac-1",
+          "3ed01e21-89ae-41d4-a239-ac081721811c",
+          "160650005275a32fac-0",
+          "b715319a-b1f7-424f-ab15-2f3ffaa7cc4e"
+        ],
+        "settings": {
+          "promo_text_on_image_enabled": true,
+          "featured_promos_per_row": 3,
+          "featured_links_animation": "fadeInDown",
+          "feature_style": "square"
+        }
+      },
+      "16090646946719c013": {
+        "type": "featured-collection",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "collection_description": false,
+          "collection": "rea-sexdockor",
+          "collection_style": "slider",
+          "products_per": 5,
+          "products_limit": 50
+        }
+      },
+      "1627374564c265a482": {
+        "type": "Clerk-slider",
+        "settings": {
+          "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\" span=\"\"></span>"
+        }
+      },
+      "162737576003ae84a6": {
+        "type": "Clerk-slider",
+        "settings": {
+          "embedcode": "<span class=\"clerk\" data-template=\"@home-page-visitor-complementary\" span=\"\"></span>"
+        }
+      },
+      "162737578370014a72": {
+        "type": "Clerk-slider",
+        "settings": {
+          "embedcode": "<span class=\"clerk\" data-template=\"@home-page-trending\"></span>"
+        }
+      },
+      "1628545048985d626d": {
+        "type": "instafeed",
+        "settings": {
+          "heading_size": 30,
+          "feed_width": 85,
+          "html_area": ""
+        }
+      },
+      "1628545093a58db398": {
+        "type": "slideshow",
+        "blocks": {
+          "1628545093a58db398-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Banner-Instagram-1.png",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "button1": "",
+              "button1_link": "https://www.instagram.com/docklandet/",
+              "button2": "",
+              "button2_link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1628545093a58db398-1"
+        ],
+        "settings": {
+          "wide_display": false,
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_animation": "slide",
+          "slideshow_speed": 6,
+          "activate_adaptiveHeight": false,
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "1631346835f76360af": {
+        "type": "image-with-text-overlay",
+        "disabled": true,
+        "settings": {
+          "wide_display": true,
+          "image": "shopify://shop_images/Mitt_Post-projekt_Copy_2.png",
+          "pretext": "",
+          "title": "",
+          "subtitle": "",
+          "button1": "",
+          "button1_link": "shopify://collections/wm-doll",
+          "button2": "",
+          "button2_link": "",
+          "text_position": "center",
+          "text_align": "center",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "16317186931dd381b6": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 5,
+          "divider_border": false
+        }
+      },
+      "1632684034782cc772": {
+        "type": "featured-promotions",
+        "blocks": {
+          "1632684034782cc772-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/nyhet_wide_jul_Copy_1.jpg",
+              "link": "shopify://products/sexdocka-wmdoll-elsa",
+              "title": "<b><font color=\"#DD4982\">-</font>Elsa<font color=\"#DD4982\">-</font></b>",
+              "text": "<p>NYHET HOS DOCKLANDET</p><p><strong>17 495:- </strong><a href=\"/products/sexdocka-wmdoll-elsa\" title=\"Elsa (WM-Doll 172cm #273)\"><strong>(31 995:-)</strong></a></p><p></p><p></p>",
+              "button_label": ""
+            }
+          },
+          "1632684034782cc772-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/nyhet_wide_jul_Copy.jpg",
+              "link": "shopify://products/sexdocka-wmdoll-bella",
+              "title": "<b><font color=\"#DD4982\">-</font>Bella<font color=\"#DD4982\">-</font></b>",
+              "text": "<p>NYHET HOS DOCKLANDET</p><p><strong>16 495:- </strong><a href=\"/products/sexdocka-yl-doll-yakiro\" title=\"Yakiro (YL-Doll 140cm #76)\"><strong>(29 995:-)</strong></a></p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "1632684034782cc772-0",
+          "1632684034782cc772-1"
+        ],
+        "disabled": true,
+        "settings": {
+          "promo_text_on_image_enabled": true,
+          "featured_promos_per_row": 2,
+          "featured_links_animation": "fadeInDown",
+          "feature_style": "square"
+        }
+      },
+      "163750124653ef8465": {
+        "type": "image-with-text-overlay",
+        "disabled": true,
+        "settings": {
+          "wide_display": true,
+          "image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor_Copy_kopia_2_0702f8cf-f679-47c3-8c37-91cbb219cfc8.jpg",
+          "pretext": "",
+          "title": "",
+          "subtitle": "",
+          "button1": "",
+          "button1_link": "shopify://collections/rea-sexdockor",
+          "button2": "",
+          "button2_link": "",
+          "text_position": "center",
+          "text_align": "center",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "1637689907c8c03839": {
+        "type": "featured-promotions",
+        "blocks": {
+          "1637689907c8c03839-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Black_Friday_Week_Sexdockor_Panorama_Copy_1.png",
+              "link": "shopify://collections/sexdockor-black-friday-week",
+              "title": "",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "1637689907c8c03839-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/WM_HEAD_SQUARE_WM_1.jpg",
+              "link": "shopify://collections/sexdockor-black-friday-week",
+              "title": "",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "1637689907c8c03839-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor_Copy_2.jpg",
+              "link": "shopify://collections/sexdockor-black-friday-week",
+              "title": "",
+              "text": "",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "1637689907c8c03839-0",
+          "1637689907c8c03839-1",
+          "1637689907c8c03839-2"
+        ],
+        "disabled": true,
+        "settings": {
+          "promo_text_on_image_enabled": true,
+          "featured_promos_per_row": 3,
+          "featured_links_animation": "fadeInDown",
+          "feature_style": "square"
+        }
+      },
+      "product-description-bottom-template": {
+        "type": "product-description-bottom-template",
+        "settings": {
+          "product_breadcrumb": false,
+          "display_vendor": false,
+          "display_sku": false,
+          "display_savings": true,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "gallery_arrows": true,
+          "activate_zoom": false,
+          "enable_product_lightbox": true,
+          "activate_autoplay": false,
+          "slideshow_animation": "slide",
+          "product_images_position": "left",
+          "product_thumbs": true,
+          "thumbnail_position": "bottom-slider",
+          "enable_shopify_product_badges": false,
+          "review_position": "next_to_gallery",
+          "show_payment_button": true,
+          "display_recently_viewed": false,
+          "rv_title": "Recently Viewed Items",
+          "rv_products_style": "grid",
+          "rv_max_display": 4,
+          "rv_per": 4,
+          "toggle": false
+        }
+      },
+      "1646147963619e29bd": {
+        "type": "featured-blog",
+        "settings": {
+          "title": "",
+          "blog_widget_select": "sexdockor",
+          "home_page_articles": 3,
+          "blog_tags": false,
+          "blog_author": false,
+          "read_time": false,
+          "blog_date": false,
+          "blog_comment_count": true,
+          "read_more_link": false
+        }
+      },
+      "164876200876391514": {
+        "type": "image-with-text-overlay",
+        "disabled": true,
+        "settings": {
+          "wide_display": false,
+          "image": "shopify://shop_images/Banner-Instagram-1_578e84c0-c7eb-4ee1-9b28-7a37d77e53db.png",
+          "pretext": "",
+          "title": "",
+          "subtitle": "",
+          "button1": "",
+          "button1_link": "",
+          "button2": "",
+          "button2_link": "",
+          "text_position": "center",
+          "text_align": "center",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "16501092551f90ad47": {
+        "type": "video",
+        "settings": {
+          "wide_display": false,
+          "aspect_ratio": "16:9",
+          "autoplay": false,
+          "autoloop": true,
+          "video_dark_overlay": false,
+          "display_text_over_video": false,
+          "button1_label": "",
+          "button1_link": "",
+          "button2_label": "",
+          "button2_link": "",
+          "text_position": "center",
+          "text_align": "center",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "16501095323a6f3ef5": {
+        "type": "video",
+        "settings": {
+          "wide_display": false,
+          "aspect_ratio": "16:9",
+          "autoplay": false,
+          "autoloop": true,
+          "video_dark_overlay": false,
+          "display_text_over_video": false,
+          "button1_label": "",
+          "button1_link": "",
+          "button2_label": "",
+          "button2_link": "",
+          "text_position": "center",
+          "text_align": "center",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "blocks": {
+          "mega-menu-1-2": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-1-3": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "<p>Link to your collections, sales and even external links</p>",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-1-4": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "<p>Add up to five columns</p>",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          }
+        },
+        "block_order": [
+          "mega-menu-1-2",
+          "mega-menu-1-3",
+          "mega-menu-1-4"
+        ],
+        "settings": {
+          "parent": ""
+        }
+      },
+      "product-full-width-images-template": {
+        "type": "product-full-width-images-template",
+        "settings": {
+          "gallery_arrows": false,
+          "activate_zoom": false,
+          "enable_product_lightbox": true,
+          "activate_autoplay": false,
+          "slideshow_animation": "slide",
+          "product_images_position": "left",
+          "product_thumbs": false,
+          "thumbnail_position": "bottom-slider",
+          "product_breadcrumb": false,
+          "display_vendor": false,
+          "display_sku": false,
+          "display_savings": true,
+          "show_payment_button": true,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "product_description_position": "top",
+          "enable_shopify_product_badges": false,
+          "review_position": "next_to_gallery",
+          "display_recently_viewed": false,
+          "rv_title": "Recently Viewed",
+          "rv_products_style": "grid",
+          "rv_max_display": 6,
+          "rv_per": 3,
+          "toggle": false
+        }
+      },
+      "product-details-template": {
+        "type": "product-details-template",
+        "blocks": {
+          "product-details-template-0": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "This is an example headline",
+              "content": "<p>Vestibulum fringilla pede sit amet augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer tincidunt. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Suspendisse potenti.</p>",
+              "text_size": "featured_text",
+              "text_alignment": "center",
+              "button_label": "Button",
+              "button_link": ""
+            }
+          },
+          "product-details-template-1": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "product-details-template-2": {
+            "type": "image_gallery",
+            "settings": {}
+          },
+          "product-details-template-3": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "product-details-template-4": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "pretext": "<p>This is</p>",
+              "title": "Your Headline",
+              "subtitle": "<p>Customize this section</p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "Button",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "product-details-template-5": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "left",
+              "image_crop": "none",
+              "title": "Headline",
+              "text": "<p>Vestibulum fringilla pede sit amet augue. Pellentesque habitant morbi tristique senecrutrum eu, nisl.</p>",
+              "link": "",
+              "button_label": "Button"
+            }
+          },
+          "product-details-template-6": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "left",
+              "image_crop": "none",
+              "title": "Headline",
+              "text": "<p>Vestibulum fringilla pede sit amet augue. Pellentesque habitant morbi tristique senecrutrum eu, nisl.</p>",
+              "link": "",
+              "button_label": "Button"
+            }
+          },
+          "product-details-template-7": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "pretext": "<p>This is</p>",
+              "title": "Your Headline",
+              "subtitle": "<p>Customize this section</p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "right",
+              "text_align": "left",
+              "button1": "Button",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "product-details-template-8": {
+            "type": "contact_form",
+            "settings": {
+              "contact_heading": "Get in touch",
+              "contact_subheading": "Leave a message",
+              "contact_content": "<p>Use this text to include important information that you'd like your customers to be aware of when contacting you. You could include shop hours, email response times, other ways to contact you, or just some friendly text to encourage your customers to reach out.</p>",
+              "contact_text_position": "left",
+              "contact_text_alignment": "left"
+            }
+          }
+        },
+        "block_order": [
+          "product-details-template-0",
+          "product-details-template-1",
+          "product-details-template-2",
+          "product-details-template-3",
+          "product-details-template-4",
+          "product-details-template-5",
+          "product-details-template-6",
+          "product-details-template-7",
+          "product-details-template-8"
+        ],
+        "settings": {
+          "product_breadcrumb": false,
+          "display_vendor": false,
+          "display_sku": false,
+          "display_savings": true,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "product_description_position": "top",
+          "gallery_arrows": true,
+          "activate_zoom": false,
+          "enable_product_lightbox": true,
+          "activate_autoplay": false,
+          "slideshow_animation": "slide",
+          "product_images_position": "left",
+          "product_thumbs": true,
+          "thumbnail_position": "bottom-slider",
+          "enable_shopify_product_badges": false,
+          "enable_reviews_in_description": false,
+          "show_payment_button": true
+        }
+      },
+      "mega-menu-2": {
+        "type": "mega-menu-2",
+        "blocks": {
+          "mega-menu-2-0": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "<p>Add description, images, menus and links to your mega menu</p>",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-2-1": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "<p>A column with no settings can be used as a spacer</p>",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-2-2": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-2-3": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "<p>Link to your collections, sales and even external links</p>",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-2-4": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "<p>Add up to five columns</p>",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          }
+        },
+        "block_order": [
+          "mega-menu-2-0",
+          "mega-menu-2-1",
+          "mega-menu-2-2",
+          "mega-menu-2-3",
+          "mega-menu-2-4"
+        ],
+        "settings": {
+          "parent": ""
+        }
+      },
+      "filter-menu-settings": {
+        "type": "filter-menu-settings",
+        "settings": {}
+      }
+    },
+    "content_for_index": [
+      "1582486702254",
+      "1606055689b8b9b5ab",
+      "163750124653ef8465",
+      "16090646946719c013",
+      "1637689907c8c03839",
+      "1632684034782cc772",
+      "1627374564c265a482",
+      "1631346835f76360af",
+      "16317186931dd381b6",
+      "160650005213eeb986",
+      "162737576003ae84a6",
+      "1606071080acb2072b",
+      "1582462518998",
+      "1582460042839",
+      "162737578370014a72",
+      "164876200876391514",
+      "16501092551f90ad47",
+      "16501095323a6f3ef5",
+      "1628545093a58db398",
+      "1628545048985d626d",
+      "1646147963619e29bd",
+      "1582636388780",
+      "1582820796308",
+      "1590196413787"
+    ],
+    "blocks": {
+      "18146506648094396618": {
+        "type": "shopify://apps/langshop/blocks/sdk/84899e01-2b29-42af-99d6-46d16daa2111",
+        "disabled": false,
+        "settings": {}
+      },
+      "6143736321357441667": {
+        "type": "shopify://apps/tidio-live-chat-chatbots/blocks/app-embed/1002274d-fb18-4939-98f6-5f05a8deeadc",
+        "disabled": false,
+        "settings": {}
+      },
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": true,
+        "settings": {
+          "button_color": "#dd4982",
+          "button_icon": "chat_bubble",
+          "button_text": "no_text",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": "👋 Hej! Skicka ett meddelande till oss om du har frågor. Vi hjälper gärna till!"
+        }
+      },
+      "11532412952436166569": {
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "disabled": false,
+        "settings": {}
+      },
+      "18423266570658624584": {
+        "type": "shopify://apps/best-currency-converter/blocks/doubly/267afa86-a419-4d5b-a61b-556038e7294d",
+        "disabled": true,
+        "settings": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,746 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_7UeQrm": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Shedoll_banner.png",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_cFVByi": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h1>SHEDOLL</h1><p><strong>SHEDOLL är ett etablerat dock-märke som tillverkar högkvalitativa sexdockor av TPE och silikon. SHEDOLL är kända för extrem detaljrikedom för både huvud och kroppar. Deras dockor är designade efter verkliga modeller vars utseende modifieras ytterligare till total perfektion</strong></p><p>Vi är officiell distributör för SHEDOLL i Sverige/EU och vi kan erbjuda våra kunder alla dockor SHEDOLL's sortiment!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_QRdbfR": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Promo_mall_och_banners.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_QEcxVH": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/SHEDOLL_silicone_TPE_promotion_august_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_Hmj3hN": {
+      "type": "divider",
+      "disabled": true,
+      "name": "Divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_maH7bG": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Banner_2_SHEDOLL.jpg",
+        "pretext": "",
+        "title": "‎",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "173946631083edfd62": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_shorts_widget_block_dYYga3": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-shorts-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "20",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_shorts_widget_block_dYYga3"
+      ],
+      "settings": {}
+    },
+    "1731775946ec1dbf45": {
+      "type": "apps",
+      "settings": {}
+    },
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>- SEXDOCKOR FRÅN SHEDOLL - </h2><p>Vad är SHEDOLL? SHEDOLL är ett premiummärke som specialiserat sig på högkvalitativa, realistiska dockor designade för samlare, hobbyister och alla som uppskattar fint hantverk. Med fokus på detaljer, hållbarhet och estetik har SHEDOLL skapat sig en nisch inom dockbranschen.<br/><br/>Varför välja SHEDOLL framför andra märken? När det kommer till att välja en docka vill du ha något som sticker ut. SHEDOLL erbjuder flera fördelar jämfört med konkurrenter, såsom överlägsna material, intrikata detaljer och anpassningsbara alternativ som låter dig skapa den perfekta dockan för att matcha dina preferenser.<br/><br/>Högkvalitativa material: Vad gör SHEDOLL speciell? En av de viktigaste anledningarna till att SHEDOLL är så populärt är användningen av premiummaterial som silikon av medicinsk kvalitet och högkvalitativ TPE (termoplastisk elastomer). Dessa material säkerställer hållbarhet, mjukhet och en realistisk känsla, vilket gör SHEDOLL-dockor till en sann fröjd att äga.<br/><br/>Verklighetstrogna mönster: ett riktigt konstverk. SHEDOLL tar docktillverkning till nästa nivå med ultrarealistisk design. Varje docka har noggrant utformade ansiktsuttryck, naturligt hår och intrikata kroppsdetaljer. Denna nivå av konstnärskap gör att SHEDOLL-dockor ser ut och känns så nära verkliga som möjligt.<br/><br/>Anpassningsalternativ: Gör det riktigt till ditt. Varför nöja sig med en vanlig docka när du kan anpassa en? SHEDOLL erbjuder en rad anpassningsalternativ, inklusive:<br/><br/>- Olika hårfärger och stilar<br/><br/>- Olika ögonfärger<br/><br/>- Flera hudtoner<br/><br/>- Anpassade kläder och accessoarer<br/><br/>Hållbarhet och livslängd: En värdig investering. Till skillnad från massproducerade dockor som slits ut snabbt, är SHEDOLL dockor byggda för att hålla. Tack vare högkvalitativa material och experthantverk behåller de sin skönhet och integritet i åratal, vilket gör dem till en värd investering.<br/><br/>Perfekt för samlare och entusiaster. Är du en seriös docksamlare? SHEDOLL erbjuder dockor i begränsad upplaga och exklusiv design som ger värdefulla samlarföremål. Oavsett om de visas på en hylla eller försiktigt förvaras i en samling, är dessa dockor skatter värda att behålla.<br/><br/>Ett genomtänkt och unikt presentalternativ. Att hitta en present som är både meningsfull och unik kan vara utmanande. SHEDOLL-dockor är en perfekt present till födelsedagar, årsdagar eller speciella tillfällen. Deras elegans och charm gör att de lämnar ett bestående intryck.<br/><br/>Prisvärd lyx: valuta för pengarna. Även om SHEDOLL-dockor utstrålar lyx, är de också rimligt prissatta jämfört med andra exklusiva märken. Du får överlägset hantverk, förstklassiga material och långvarig hållbarhet utan att bryta banken.</p><p></p><p>SHEDOLL grundades 2022. Vi har åtagit oss att skapa: mer känsliga, hälsosamma fysiska dockor; och en bekvämare, tryggare dock-upplevelser! Från kunder till handlare, från agenter till att skapa och producera våra önskade dockor, SHEDOLL har tagit sju år att uppnå detta, förlitat sig på krav och förfining långt utöver bransch-standarder. När SHEDOLL släpptes var SHEDOLL är djupt älskad av ett stort antal kunder. Att komma närmare kunderna och leverera sexdockor med högre kostnadseffektivitet till marknaden är SHEDOLLs obevekliga strävan! </p><p>Vi samarbetar kontinuerligt med högkvalitativa bransch-resurser och tekniska talanger, och strävar efter att göra fler optimeringar på befintliga sexdockaprodukter inom industrin: distinkta original-huvud-skulpturer, mer utsökt ansikts-smink, mer realistiska kropps-strukturer och högre tillverknings-standarder. SHEDOLL har släppt över 20 original-huvud-skulpturer och 6 originalkroppstyper, med omfattande optimering av huvudskulpteringsstruktur, smink-applicering och kropps-struktur. Vi kommer att fortsätta att investera mycket i forskning och utveckling för att göra \"henne\" mer unikt enastående.</p><h4>Historian om SHEDOLL </h4><p>SHEDOLL är född av älskare av sexdockor och strävar efter att kontinuerligt ge tillbaka till spelare genom varaktiga ansträngningar, skapa utsökta verklighetstrogna sexdockor och ge en hälsosam kamratskaps-upplevelse. Att leverera till spelare på en hög standard för att skapa en vackrare \"hon\" kommer att vara varumärkets pågående strävan! Hela SHEDOLL-teamet är dedikerade till att tjäna dig helhjärtat. Förr var dockor leksaker för barn. Förr när mobiltelefoner inte fanns och internetvärlden hade drygt ett decennium av historia, figurerna av dockor följde de flesta familjers barn när de växte upp. Snabbt framåt till idag är utvecklingen av dessa figurer lika fascinerande som världen omkring dem, och erbjuder oändliga möjligheter för roll- leker.April 2022Dockan är ett hjärtlöst barn.Efter sju år av branschackumulering lanserades varumärket SHEDOLL officiellt, dedikerat till att möta skapandet av den idealiska följeslagaren – Roy-serien släpptes officiellt.Oktober 2022Kraften i att framhärda i att fostra drömmar. Stötte på marknadssvårigheter mitt i pandemin. SHEDOLL höll ut under det dubbla trycket av beställningar och kvalitetskontroll och tog sig tappert an utmaningen. SHEDOLL avslutade varumärkets OEM-tillverkningsrelationer och SHEDOLL Factory - \"Seven Studio\" började officiellt produktionen.2023mars 2023Sex Doll blev själens kärl. Efter att ha uthärdat marknadstester och finslipat sina styrkor mognade varumärket ytterligare. Huvuddesignern NEVON slog sig samman och den branschkände spraymålaren Wuge gav fullt stöd och hjälpte SHEDOLL att förverkliga drömmen om \"hon\" – Cheryl-serien lanserades officiellt!Augusti 2023En hjärtats resa började. För att uppnå ett dubbelt genombrott i produktionen kapacitet och kvalitet och för att ge en bekvämare arbetsmiljö för vårt team, flyttade SHEDOLL Team till en större fabrik. Samtidigt började SHEDOLLs andra varumärkesfabrik - \"XiaoHeYang\" förberedelserna för driftsättning.SHEDOLL-funktionerNästan perfekt realistiska silikonhuvudskulpteringSHEDOLLs nästan perfekta sexdockor i silikon är noggrant framställda av professionella och skickliga hantverkare, med varje könsskulpterad docka och skulpterad docka. en nivå av utsökta detaljer nära perfektion. Tillsammans med de exakta sminkteknikerna hos makeupartister på hög nivå, presenteras vackra och sensuella perfekta gudinnor framför dina ögon! Realistic BodyTexture Painting​En annan egenskap hos SHEDOLLs realistiska sexdockor i silikon är den nästan realistiska kroppstexturmålningstekniken, som subtilt avslöjar målningen av vener och kapillärer, vilket gör sexdockorna mer verklighetstrogna. För att uppnå en realistisk blodfärg genomgår varje sexdocka som produceras av SHEDOLL flerskiktad spraymålning, där vener och kapillärer begravs under hudytan för att uppnå en verklighetstrogen, realistisk känsla. Unik Youthful StyleSHEDOLL utmärker sig i att kombinera ett ungdomligt, sött och flickaktigt huvud. skulpterar, som presenterar en unik varumärkesegenskap. Till skillnad från de flesta märken som fokuserar på sexdockor med skönhetstema, uppvisar många av SHEDOLLs huvudskulpturer unika varumärkesegenskaper. Stora ögon, utklädda kinder, oskyldiga miner, rosiga näsor, till och med det sammandragna läpparnas uttryck, allt bidrar till att SHEDOLLs sexdockor i silikon utstrålar en ungdomlig och söt tjej-next-door-vibe!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_L6Q4Tb": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_7R7ny7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SH083-158-Charlene-_51_3214595a-4b75-4bee-b57a-3d71eab7cf60.jpg",
+            "link": "shopify://products/charlene-sexdocka-shedoll-158cm-c-kupa-sh083-2-0-silikon",
+            "title": "<b>Charlene</b>",
+            "text": "<p><strong>158CM C-KUPA SH083 SILIKON</strong></p>",
+            "button_label": "Visa"
+          }
+        },
+        "image_aMWdRR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SH131-163-Kosame-_1_0b095e39-2ef0-40d1-91a0-c5267789bd5d.jpg",
+            "link": "shopify://products/kosame-sexdocka-shedoll-163cm-h-kupa-sh131-silikon",
+            "title": "<b>Kosame</b>",
+            "text": "<p><strong>163CM H-KUPA SH131 SILIK</strong>ON</p>",
+            "button_label": "Visa"
+          }
+        },
+        "image_FfEPUX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SH016-158-Seren-02-_18_f9f7e491-c26f-4f7d-bd7a-a116d1055ed4.jpg",
+            "link": "shopify://products/seren-sexdocka-shedoll-158cm-c-kupa-sh016-tpe-silikon",
+            "title": "<b>Seren</b>",
+            "text": "<p><strong>158CM C-KUPA SH016 HYBRID</strong></p>",
+            "button_label": "Visa"
+          }
+        }
+      },
+      "block_order": [
+        "image_7R7ny7",
+        "image_aMWdRR",
+        "image_FfEPUX"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_CBhXQn": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 15,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_product_pP9kCL": {
+      "type": "featured-product",
+      "blocks": {
+        "title_zd9NTN": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_bxMDXg": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description_bCmwqV": {
+          "type": "description",
+          "settings": {}
+        },
+        "form_nfHPC4": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_zd9NTN",
+        "price_bxMDXg",
+        "description_bCmwqV",
+        "form_nfHPC4"
+      ],
+      "settings": {
+        "product": "extra-huvud-shedoll-original",
+        "wide_display": false,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 350,
+        "video_looping": false,
+        "product_thumbs": false,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_product_hWCdiG": {
+      "type": "featured-product",
+      "blocks": {
+        "title_4rjwRN": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_EkkNk3": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description_dBbnx8": {
+          "type": "description",
+          "settings": {}
+        },
+        "form_3YbwCF": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_4rjwRN",
+        "price_EkkNk3",
+        "description_dBbnx8",
+        "form_3YbwCF"
+      ],
+      "settings": {
+        "product": "peruk-shedoll-original",
+        "wide_display": false,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 350,
+        "video_looping": false,
+        "product_thumbs": false,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_product_XTNhzk": {
+      "type": "featured-product",
+      "blocks": {
+        "title_bmNUeX": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_CwAKaw": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description_rJYXq7": {
+          "type": "description",
+          "settings": {}
+        },
+        "form_KnYpkN": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_bmNUeX",
+        "price_CwAKaw",
+        "description_rJYXq7",
+        "form_KnYpkN"
+      ],
+      "settings": {
+        "product": "ogon-shedoll-original",
+        "wide_display": false,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 350,
+        "video_looping": false,
+        "product_thumbs": false,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_product_Mdqw8U": {
+      "type": "featured-product",
+      "blocks": {
+        "title_8JcjjL": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_HyqTMg": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description_XFTDVf": {
+          "type": "description",
+          "settings": {}
+        },
+        "form_eL8rYt": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_8JcjjL",
+        "price_HyqTMg",
+        "description_XFTDVf",
+        "form_eL8rYt"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "product": "huvud-stall-silikon",
+        "wide_display": true,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": false,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_product_E3HebJ": {
+      "type": "featured-product",
+      "blocks": {
+        "title_RCAYHL": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_gLrDHU": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description_qVhwqX": {
+          "type": "description",
+          "settings": {}
+        },
+        "form_Dnyb8B": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_RCAYHL",
+        "price_gLrDHU",
+        "description_qVhwqX",
+        "form_Dnyb8B"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "product": "realistisk-masturbator-shedoll-sh160-silikon",
+        "wide_display": true,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": false,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "pxu_video_47GnCL": {
+      "type": "pxu-video",
+      "blocks": {
+        "heading_niTzxc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video",
+            "heading_size": 40,
+            "heading_size_mobile": 24
+          }
+        },
+        "text_PDrnQn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this video section to promote your brand, a specific product, or promotions.</p>",
+            "text_size": 16,
+            "text_size_mobile": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_niTzxc",
+        "text_PDrnQn"
+      ],
+      "name": "t:pxu_sections.sections.video.name",
+      "settings": {
+        "content_width": "650px",
+        "shopify_hosted_video": "shopify://files/videos/SHEDOLL 3 differient silicone softness.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "desktop_video_aspect_ratio": "16:9",
+        "mobile_video_aspect_ratio": "16:9",
+        "video_playback": "play_button",
+        "play_video_on_loop": true,
+        "mute_video": false,
+        "play_button_color": "#ffffff",
+        "text_color": "#ffffff",
+        "image_overlay": "#000000",
+        "image_overlay_opacity": 20,
+        "margin_top": 64,
+        "margin_bottom": 64
+      }
+    },
+    "gallery_KC4NAE": {
+      "type": "gallery",
+      "blocks": {
+        "image_bh7TFe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-140A_6a14b5e0-10be-4186-b9ab-ef1d23d19428.jpg"
+          }
+        },
+        "image_9NRa7J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-145G_d1c5e59b-355e-431e-9baf-68b5db1127be.jpg"
+          }
+        },
+        "image_eMjGbi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-148E_3ed647b9-4e78-4e87-a9f6-f252f5d83bef.jpg"
+          }
+        },
+        "image_UgfcFU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-150B_e831cbc5-c952-4ea2-95c2-aa22a9b0ae0e.jpg"
+          }
+        },
+        "image_aUGVih": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-152A.jpg"
+          }
+        },
+        "image_DLV84g": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-156E_f1d0f55b-8c61-41ef-82e0-bc81dca47a5b.jpg"
+          }
+        },
+        "image_eDxAF9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-158C_ab7943e6-67c1-47b4-9c11-c82332afda8b.jpg"
+          }
+        },
+        "image_wEHqej": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-160D-Dates.jpg"
+          }
+        },
+        "image_7J6gig": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-163H_fa847ca0-8bf1-496c-9c82-cc5b9016a570.jpg"
+          }
+        },
+        "image_NwK8Un": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-165E_7ba1338d-4c1f-404a-9585-961bef3f307c.jpg"
+          }
+        },
+        "image_7g8xkd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-168D_9f942090-3c06-4e4a-a0fd-b555b1743253.jpg"
+          }
+        },
+        "image_dTi4qM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Body-170E_9cbeaf8d-d4cf-4387-ad23-cb2f7c7c3708.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_bh7TFe",
+        "image_9NRa7J",
+        "image_eMjGbi",
+        "image_UgfcFU",
+        "image_aUGVih",
+        "image_DLV84g",
+        "image_eDxAF9",
+        "image_wEHqej",
+        "image_7J6gig",
+        "image_NwK8Un",
+        "image_7g8xkd",
+        "image_dTi4qM"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_text_WR3mcx": {
+      "type": "image-text",
+      "blocks": {
+        "image_mNfEbX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/03_c0fbf16d-4547-4b5a-a225-374b6b0fb7b7.jpg",
+            "image_crop": "none",
+            "title": "silikon",
+            "text": "<p>Tillbehör inkluderas i alla silikon dockor</p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "image_heLAMb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-1_73e06adb-b5a5-4cd0-95ac-a596f90a9184.jpg",
+            "image_crop": "none",
+            "title": "TPE",
+            "text": "<p>Tillbehör Inkluderas i alla TPE dockor</p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mNfEbX",
+        "image_heLAMb"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_7UeQrm",
+    "featured_text_cFVByi",
+    "image_with_text_overlay_QRdbfR",
+    "image_with_text_overlay_QEcxVH",
+    "divider_Hmj3hN",
+    "image_with_text_overlay_maH7bG",
+    "main",
+    "173946631083edfd62",
+    "1731775946ec1dbf45",
+    "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
+    "featured_promotions_L6Q4Tb",
+    "divider_CBhXQn",
+    "featured_product_pP9kCL",
+    "featured_product_hWCdiG",
+    "featured_product_XTNhzk",
+    "featured_product_Mdqw8U",
+    "featured_product_E3HebJ",
+    "pxu_video_47GnCL",
+    "gallery_KC4NAE",
+    "image_text_WR3mcx",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "1652224218445a4dc3",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

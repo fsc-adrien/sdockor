@@ -1,0 +1,622 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_DmYDC3": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Zelex_Docklandet_Real_Doll_Sexdockor_2_Stor_765fd28a-eeb6-4c50-8459-89f23d473cc9.jpg",
+        "mobile_image": "shopify://shop_images/Zelex_Docklandet_Real_Doll_Sexdockor_kopia_1_Stor.jpg",
+        "title": "",
+        "content": "<h1>Zelex Doll</h1><p><strong>Zelex är en av världens främsta tillverkare av realistiska dockor. Sexdockor från Zelex är gjorda av silikon och av absolut högsta kvalitet</strong></p><p>Vi är officiell distributör och återförsäljare av Zelex och vi kan erbjuda våra kunder alla dockor ur Zelex sortiment. Vi tar kontinuerligt in nya Zelex-dockor till våra lager för snabb leverans. Vi är även en av få Europeiska butiker som får sälja Zelex SLE series för att vi sköter vår egna distribution</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_TUKDLM": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Zelex_Silicone_promotion_february_valentines_day_kampanj_sale_2024_Sexdocka_Docklandet_d4dbbaaf-bb72-4cc6-b65c-c3a1405b32bc.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_whbNWt": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Zelex_Inspiration_Series_2.0_Silicone_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_YTxiXj": {
+      "type": "gallery",
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 4
+          }
+        }
+      },
+      "block_order": [
+        "bc5724a8-d6a8-45c2-919a-e5615e7daa95"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "1731775946ec1dbf45": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_shorts_widget_block_x9Kppz": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-shorts-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "3",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "instafeed_app_block_dNEeJE": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "37929",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_shorts_widget_block_x9Kppz",
+        "instafeed_app_block_dNEeJE"
+      ],
+      "settings": {}
+    },
+    "2fa0902a-191a-42f5-98f0-a09f0eaccf7b": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "<h2>ZELEX I LAGER (EXPRESSLEVERANS)</h2><p>Vi kan erbjuda snabb leverans (2-4 dagar) på flera populära dockor från Zelex Doll</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1af79b6f-ce5e-4514-ad29-31708570f889": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "zelex-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d649fd19-1ed1-468a-9545-3b367d1edd92": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Visa fler dockor i lager",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_jpHFNV": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/zelex3.jpg",
+        "mobile_image": "shopify://shop_images/zelex2.1.jpg",
+        "title": "",
+        "content": "<h2>- SEXDOCKOR FRÅN ZELEX DOLL - </h2><p>Zelex är en etablerad tillverkare av sexdockor och utmärker sig genom att erbjuda silikon- och TPE-dockor med helt unika utseenden och med de senaste uppgraderingarna på marknaden. Vi är officiell partner och distributör för Zelex. Vi importerar kontinuerligt Zelex dockor och har flera uppställda i våra showrooms. </p><h2>Zelex SLE Series</h2><p>Vi är en av få butiker som säljer Zelex populära SLE-series. SLE är en hållbar och extra mjuk typ av silikon. Zelex SLE dockor har alltid huvud med rörlig käke. Endast butiker med egen distribution och lager får sälja Zelex SLE.</p><h3>Vilka fler funktioner har våra Zelex dockor? </h3><p><strong>-Huvud med rörlig käke</strong> (för oral sex, modell-foto)</p><p>-<strong>Viktreducering</strong> (5-10 kg)</p><p>-<strong>Matt hud, ej glansig</strong> (unik nyhet!)</p><p>-<strong>Kroppsmålning</strong> (vener, rodnad, mm)</p><p>-<strong>Implanterade</strong> ögonbryn och fransar</p><p>-<strong>Gel-fyllda bröst</strong> (känns mer realistiska) </p><p>-<strong>Extra rörligt skelett och axlar</strong> (EXP)</p><p>-<strong>Uppgraderade händer</strong> (fingrar med leder)</p><p>-<strong>Händer av extra hård silikon</strong> (realism och hållbarhet)</p><p>Allt detta ingår utan extra kostnad när du köper en Zelex-docka av oss på Docklandet! Sammanlagt värde över 10 000 kr. OBS! Vi har ett unikt samarbete med Zelex och flera av dessa funktioner kostar extra i andra butiker. </p><p>Vi är officiell distributör för Zelex dockor i Norden och kan erbjuda våra kunder samtliga dockor ur Zelex sortiment. </p><p>Zelex är en etablerad tillverkare av högkvalitativa realistiska dockor skapade utifrån verkliga mänskliga modeller. Sedan 2013 har Zelex jobbat med den absolut senaste tekniken inom 3D scanning och lerskulpturer för att kunna återge de verkliga modellernas utseende så exakt som möjligt. Med extra hög detaljnivå och unika utseenden får man uppleva dockor med personlighet och utstrålning som gör att de känns extra levande. Genom att använda material av högsta kvalitet och helt säkra tillverkningsmetoder återskapas en mjuk samt levande textur vid kontakt.</p><p>Varje Zelex Doll är ett handgjort konstverk, skapat med största noggrannhet och precision. När du beställer en Zelex-docka hos Docklandet så finns flera anpassnings-alternativ, vilket innebär att varje docka kan skräddarsys efter kundens specifika önskemål. Detta inkluderar val av hudton, ögonfärg, hår-stil och mycket mer. Den höga kvaliteten på materialen och den detaljfokuserade tillverkningen gör varje docka till en exklusiv produkt som är värd sin investering.</p><p>Förutom som sexdocka så kan en Zelex-docka användas för en rad olika ändamål. För vissa är de värdefulla samlarobjekt som kan ställas ut och beundras. Andra använder dem för kreativa och konstnärliga ändamål, såsom fotografering, filmproduktion eller som inspiration för konstverk. Oavsett syftet ger dessa dockor en unik upplevelse och tillfredsställelse för ägaren.</p><p>Zelex har snabbt etablerat sig som en ledande tillverkare av exklusiva silikon-dockor. Dessa dockor är inte bara vackra och realistiska, utan erbjuder även en känsla av lyx och exklusivitet som är svår att matcha. Zelex grundades med en passion för att skapa de mest realistiska och högkvalitativa silikon-dockorna på marknaden. Företaget har utvecklats genom åren och förfinat sina tekniker för att säkerställa att varje docka är ett mästerverk. Från dess ursprung till dagens avancerade tillverkningsprocesser, har Zelex Doll alltid strävat efter att leverera perfektion. Zelex erbjuder en unik och exklusiv produkt som kombinerar högkvalitativt hantverk med oändliga anpassningsmöjligheter. Dessa silikon-dockor är mer än bara leksaker; de är konstverk och samlarobjekt som kan ge glädje och tillfredsställelse under lång tid. Med en noggrann tillverkningsprocess och fokus på detaljer, fortsätter Zelex Doll att sätta standarden för vad en exklusiv silikon-docka kan vara.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_jqGFU4": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_8a67VQ": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/1._Main_Poster_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_Jk7Je9": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "de8d049f-cebd-4aba-9dc4-8ef56f6a3426": {
+      "type": "gallery",
+      "blocks": {
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-1_Sexdocka_Docklandet_e244603b-40d3-46ef-8650-75a7c58c02f8.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-3_Sexdocka_Docklandet_bf7bea04-a8d9-419c-a9bf-5b736b0f8c33.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-4_Sexdocka_Docklandet_3bf91dee-7490-4e49-b4ae-25f7a775908f.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-5_Sexdocka_Docklandet_ea608ee1-5daf-4b19-8dff-fa43219b66dc.jpg"
+          }
+        },
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ZELEX-Inspriation_Series_Banner-6_Sexdocka_Docklandet_96d8a1ef-3919-41f5-b31d-b25500cffe7a.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-0",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-2",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-3",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-4",
+        "template--16721486348546__de8d049f-cebd-4aba-9dc4-8ef56f6a3426-16897808151364fb35-5"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "Zelex Inspiration Series 2.0",
+        "gallery_type": "masonry",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_3NtPtB": {
+      "type": "gallery",
+      "blocks": {
+        "image_BxMkic": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/11_Sexdocka_Docklandet_c74451e3-9cac-48ca-a942-2ee91bcc0c88.jpg"
+          }
+        },
+        "image_dtfNDr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/12_Sexdocka_Docklandet_fc6fba55-2375-4bd5-9ffa-e33ab0fc52c1.jpg"
+          }
+        },
+        "image_rHPdEi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/10_Sexdocka_Docklandet_18690696-2853-4883-ae34-aeae41a25ea0.jpg"
+          }
+        },
+        "image_cdyB3U": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/9_Sexdocka_Docklandet_8fc409a0-5ab7-48c2-9376-e77198c309f2.jpg"
+          }
+        },
+        "image_4x9eTm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7_Sexdocka_Docklandet_eed2520f-9a04-4090-9449-d41b8c28d140.jpg"
+          }
+        },
+        "image_HcRgHN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5_Sexdocka_Docklandet_91346941-0d6b-4b41-bc40-61d8900bf74e.jpg"
+          }
+        },
+        "image_BT7TgV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_Sexdocka_Docklandet_136a6222-b55a-46ef-b8ab-6148406b5103.jpg"
+          }
+        },
+        "image_fDLRfT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/8_Sexdocka_Docklandet_8f44e151-4b34-4399-b246-18ef27295e7d.jpg"
+          }
+        },
+        "image_hPRC9P": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3_Sexdocka_Docklandet_2ff03c68-8e63-4f07-be3b-996d752d0a8b.jpg"
+          }
+        },
+        "image_4YRxDK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_Sexdocka_Docklandet_7053d555-60ff-4f1e-8bd5-fadbb2ccd3d7.jpg"
+          }
+        },
+        "image_aB3E8Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_Sexdocka_Docklandet_cb982469-1c30-4e04-ae4f-43f9b81eac02.jpg"
+          }
+        },
+        "image_DTb3mx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6_Sexdocka_Docklandet_a15279c5-441e-4cc2-92f6-6b4dc717bb28.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_BxMkic",
+        "image_dtfNDr",
+        "image_rHPdEi",
+        "image_cdyB3U",
+        "image_4x9eTm",
+        "image_HcRgHN",
+        "image_BT7TgV",
+        "image_fDLRfT",
+        "image_hPRC9P",
+        "image_4YRxDK",
+        "image_aB3E8Q",
+        "image_DTb3mx"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "cc79b1f5-f581-412f-89cb-28df6082f7f5": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": false,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": false,
+        "iframe_video": "https://vimeo.com/780813265",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_CBhXQn": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Zelex dockor",
+        "collection_description": false,
+        "collection": "zelex-populara-dockor",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "72bf522a-a352-4f16-b041-f1dbb93644c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_DmYDC3",
+    "image_with_text_overlay_TUKDLM",
+    "image_with_text_overlay_whbNWt",
+    "gallery_YTxiXj",
+    "main",
+    "1731775946ec1dbf45",
+    "2fa0902a-191a-42f5-98f0-a09f0eaccf7b",
+    "1af79b6f-ce5e-4514-ad29-31708570f889",
+    "d649fd19-1ed1-468a-9545-3b367d1edd92",
+    "featured_text_jpHFNV",
+    "divider_jqGFU4",
+    "image_with_text_overlay_8a67VQ",
+    "divider_Jk7Je9",
+    "de8d049f-cebd-4aba-9dc4-8ef56f6a3426",
+    "gallery_3NtPtB",
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1",
+    "cc79b1f5-f581-412f-89cb-28df6082f7f5",
+    "divider_CBhXQn",
+    "1650824619c8dde57c",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "865681cf-0456-4ffe-bfb0-e9ff7ed551b9",
+    "72bf522a-a352-4f16-b041-f1dbb93644c4",
+    "b47bc588-fb3e-49c6-a7cc-3da79648e005",
+    "1652224218445a4dc3",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

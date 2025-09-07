@@ -1,0 +1,117 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "settings": {}
+    },
+    "48a96b41-0117-4add-ba1e-9d62b1fa988a": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "9255df03-7fe9-4b51-80fa-0eefc21d1c81": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-1",
+        "9255df03-7fe9-4b51-80fa-0eefc21d1c81",
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-3",
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c92130dd-66ac-4a1d-96dc-5794a81b45ef": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 6,
+        "products_limit": 24,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_tfMmCd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Prisvärt i lager",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 6,
+        "products_limit": 24,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_VwFg7g": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "slider",
+        "products_per": 6,
+        "products_limit": 24,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_VbFFE3": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "48a96b41-0117-4add-ba1e-9d62b1fa988a",
+    "c92130dd-66ac-4a1d-96dc-5794a81b45ef",
+    "featured_collection_tfMmCd",
+    "featured_collection_VwFg7g",
+    "divider_VbFFE3"
+  ]
+}

@@ -1,0 +1,181 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165363869084a67f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Tayu_Doll_Sexdockor_Docklandet_Real_Doll_banner_3_Sexdocka_Docklandet_4c001173-f3d2-4eca-9f79-ec42a4cb0c9b.jpg",
+        "title": "",
+        "content": "<h1><strong>Tayu Doll – Exklusiva fullsilikon sexdockor med premiumkvalitet</strong></h1><p>Tayu Doll är ett av de mest eftertraktade namnen i dockvärlden och har snabbt fått ett starkt rykte bland samlare och entusiaster. Varje docka är handgjord i 100% silikon, vilket ger en överlägsen känsla, hållbarhet och en otrolig detaljrikedom i både kropp och ansikte.</p><p>Det som gör Tayu unikt är deras nära samarbete med dock-communityn – vilket resulterat i innovativa modeller som kombinerar realism, funktionalitet och exklusiv design. Som officiell distributör i Norden erbjuder vi hela Tayu Dolls sortiment direkt till våra kunder.</p>",
+        "button_label": "Läs mer om Tayu",
+        "button_link": "https://docklandet.se/collections/gynoid-doll#Gynoid_Info",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "823b768d-821c-45b2-a500-d16079058f01": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Logo-TAYU-1024x577.png",
+        "title": "",
+        "content": "<h2>Tayu Silikon Sexdocka – Lättvikt och premiumkvalitet</h2><p>Tayu Doll har snabbt blivit ett av de mest populära märkena i världen när det gäller realistiska sexdockor i silikon. Alla modeller är handgjorda av förstklassigt platina-silikon och ett avancerat legeringsskelett, vilket gör dockorna både hållbara och flexibla. Tack vare konstruktionen med full-range leder kan Tayu-dockor röra sig naturligt, från fingertoppar till fötter – perfekt för realistiska positioner och fotografering.</p><h3>Varför välja en Tayu Doll?</h3><ul><li><br/>Tillverkade i <strong>100% silikon</strong> med naturtrogen känsla.<br/></li><li><br/>Upp till <strong>30% lättare</strong> än andra silikonmärken.<br/></li><li><br/>Handmålad kropp och realistiska huddetaljer.<br/></li><li><br/>Premium-sminkning och mänsklig “touch” i varje docka.<br/></li><li><br/>Flexibelt EVO-skelett som möjliggör naturliga rörelser.<br/></li></ul><h3>Realism i varje detalj</h3><p>Tayu dockor är kända för sina verklighetstrogna proportioner och exklusiva design. Ansikten, hudtoner och kroppsmålning görs med noggrann precision för att skapa en docka som ser ut – och känns – som en riktig människa.</p><h3>Officiell distributör i Norden</h3><p>Vi är officiell återförsäljare av Tayu Doll i Norden och erbjuder hela sortimentet av deras exklusiva silikonsexdockor. Oavsett om du söker en lättviktig modell, ett samlarobjekt eller en avancerad premiummodell så hittar du din favorit här.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "11dcbf22-ed85-4566-8357-8b62ca854706": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-2",
+        "1650824619071e18ff-1",
+        "11dcbf22-ed85-4566-8357-8b62ca854706"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c21f6105-a7d2-46ca-b594-25009339b9f9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Full-size_Sexdockor_Docklandet_kopia_2-1_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    },
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165363869084a67f01",
+    "main",
+    "823b768d-821c-45b2-a500-d16079058f01",
+    "428cba1c-49ce-49e6-b9a8-fa564434bda1",
+    "1650824619c8dde57c",
+    "c21f6105-a7d2-46ca-b594-25009339b9f9",
+    "f4b85af6-ece1-40a6-9701-8729c5a84cbd",
+    "1652224218445a4dc3",
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+  ]
+}

@@ -1,0 +1,261 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_En4GaV": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_real_doll_sexdockor_sex_doll_docklandet_start_banner_2024-1_1.jpg",
+        "mobile_image": "shopify://shop_images/sexdocka_start_real_doll_sexdockor_2024_04_mobile_en_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "#IronTech_Info",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "e663b9cf-ce9c-40db-98e3-a35c4211ba6d": {
+          "type": "recently_viewed",
+          "disabled": true,
+          "settings": {
+            "sidebar_rv_title": "Du besökte nyligen",
+            "sidebar_rv_per": 2
+          }
+        }
+      },
+      "block_order": [
+        "e663b9cf-ce9c-40db-98e3-a35c4211ba6d"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "17568274613bf1ee93": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_VFFGek": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "42153",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_VFFGek"
+      ],
+      "settings": {}
+    },
+    "ccc1e347-cea9-4a00-b23e-d42884c6a2da": {
+      "type": "collection-list",
+      "blocks": {
+        "cc83d4a1-e496-4c82-a066-73998f0a06ba": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "d8da1564-1adb-4263-9830-b0cfc712a038": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "900192c0-25d0-42f4-82af-a5e256b41dc7": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "blond-sexdocka"
+          }
+        },
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdocka-brunett-brown-hair"
+          }
+        }
+      },
+      "block_order": [
+        "cc83d4a1-e496-4c82-a066-73998f0a06ba",
+        "d8da1564-1adb-4263-9830-b0cfc712a038",
+        "900192c0-25d0-42f4-82af-a5e256b41dc7",
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-2",
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-0",
+        "template--16413739614466__ccc1e347-cea9-4a00-b23e-d42884c6a2da-16779391998a9bc687-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Något mer specifikt?",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "013bd3c8-ecb1-4201-8362-b16dc4d30fdb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dockor i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_g3PnqX": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2a823d6d-c982-4b30-821e-8223e7077076": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya sexdockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_w7TyUa": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära TPE-dockor",
+        "collection_description": false,
+        "collection": "populara-tpe-dockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_kQrjbW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": false,
+        "collection": "populara-silikondockor",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "204bc8a9-8d86-49cf-991f-1dc727f2062f": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_En4GaV",
+    "main",
+    "17568274613bf1ee93",
+    "ccc1e347-cea9-4a00-b23e-d42884c6a2da",
+    "013bd3c8-ecb1-4201-8362-b16dc4d30fdb",
+    "featured_collection_g3PnqX",
+    "2a823d6d-c982-4b30-821e-8223e7077076",
+    "16508260667ee95abe",
+    "featured_collection_w7TyUa",
+    "featured_collection_kQrjbW",
+    "1652224218445a4dc3",
+    "204bc8a9-8d86-49cf-991f-1dc727f2062f"
+  ]
+}

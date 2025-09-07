@@ -1,0 +1,257 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1652887834adb4ea94": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_real_doll_sexdockor_sverige_docklandet_start2023-1_2_Sexdocka_Docklandet_12c11b5c-b5a5-4f69-a074-bf4ae204bb9b.jpg",
+        "title": "",
+        "content": "<p></p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": true,
+        "products_per_row": 4,
+        "pagination_limit": 36,
+        "toggle": false
+      }
+    },
+    "d8acc7bb-7561-46c5-a61e-90e8f3df8c0a": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/1366x768_white_copy_mobile3.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1ec66e92-db1a-4fa2-a17d-cea9fa64546d": {
+      "type": "featured-promotions",
+      "blocks": {
+        "template--16720570646786__1ec66e92-db1a-4fa2-a17d-cea9fa64546d-16793315012f017afb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nyheter_docklandet_sexdockor_real_doll_news-1_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/sexdockor-nyheter",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "template--16720570646786__1ec66e92-db1a-4fa2-a17d-cea9fa64546d-16793315012f017afb-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/rea_sexdocka_docklandet_real_doll_sale-1_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/sexdockor-rea",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16720570646786__1ec66e92-db1a-4fa2-a17d-cea9fa64546d-16793315012f017afb-0",
+        "template--16720570646786__1ec66e92-db1a-4fa2-a17d-cea9fa64546d-16793315012f017afb-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": false,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "26f8d069-a213-4c47-bd43-6cc5684425a0": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16720570646786__26f8d069-a213-4c47-bd43-6cc5684425a0-1679331618379e2cb7-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "wm-doll"
+          }
+        },
+        "b948e3e0-6163-4955-8630-bdacfdef7c67": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "zelex-doll"
+          }
+        },
+        "template--16720570646786__26f8d069-a213-4c47-bd43-6cc5684425a0-1679331618379e2cb7-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "starpery"
+          }
+        },
+        "template--16720570646786__26f8d069-a213-4c47-bd43-6cc5684425a0-1679331618379e2cb7-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "irontech-doll"
+          }
+        },
+        "950230de-befa-4681-b250-86b0d21b40f4": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "piper-doll-sexdockor"
+          }
+        },
+        "c94b8e78-43cd-4c2f-973c-378c8566808f": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "irokebijin-anime-sexdockor"
+          }
+        }
+      },
+      "block_order": [
+        "template--16720570646786__26f8d069-a213-4c47-bd43-6cc5684425a0-1679331618379e2cb7-0",
+        "b948e3e0-6163-4955-8630-bdacfdef7c67",
+        "template--16720570646786__26f8d069-a213-4c47-bd43-6cc5684425a0-1679331618379e2cb7-2",
+        "template--16720570646786__26f8d069-a213-4c47-bd43-6cc5684425a0-1679331618379e2cb7-1",
+        "950230de-befa-4681-b250-86b0d21b40f4",
+        "c94b8e78-43cd-4c2f-973c-378c8566808f"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2835e391-d118-4605-b425-e1ed78b5e96d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "224f98d2-5fad-4ca4-8b64-ca1dffc70311": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "f6e554ba-c5c7-4c85-9c56-6966eb917068": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "3c10820e-48fd-4018-ac25-ea033329d90a": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "blond-sexdocka"
+          }
+        },
+        "0ff90bff-a193-43be-8655-4f22bde27a21": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdocka-brunett-brown-hair"
+          }
+        }
+      },
+      "block_order": [
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-1",
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-0",
+        "224f98d2-5fad-4ca4-8b64-ca1dffc70311",
+        "f6e554ba-c5c7-4c85-9c56-6966eb917068",
+        "3c10820e-48fd-4018-ac25-ea033329d90a",
+        "0ff90bff-a193-43be-8655-4f22bde27a21"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    },
+    "58ceb45e-731d-4682-b2f9-9296266a7502": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1652887834adb4ea94",
+    "main",
+    "d8acc7bb-7561-46c5-a61e-90e8f3df8c0a",
+    "1ec66e92-db1a-4fa2-a17d-cea9fa64546d",
+    "26f8d069-a213-4c47-bd43-6cc5684425a0",
+    "2835e391-d118-4605-b425-e1ed78b5e96d",
+    "16508260667ee95abe",
+    "1652224218445a4dc3",
+    "58ceb45e-731d-4682-b2f9-9296266a7502"
+  ]
+}

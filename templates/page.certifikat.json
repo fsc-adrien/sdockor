@@ -1,0 +1,807 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {}
+    },
+    "featured_text_9fN6rJ": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h1>Certifikat - Märken & Partners</h1><p>Docklandet är officiell distributör, återförsäljare och partner med världens främsta tillverkare av realistiska dockor. </p><p>Vi uppdaterar konstant vårat sortiment med de senaste dockorna som våra partners lanserar. Vi lägger även till alla de senaste funktionerna och uppgraderingarna som släpps på marknaden. Självklart uppdaterar vi även varje månad alla tillgängliga märkes-kampanjer och förmåner.</p><h4>Docklandet Partners (i alfabetisk ordning) <br/></h4><p>¤ <strong>Angel Kiss Doll (AK-Doll)</strong> ¤ <strong>Aibei Doll</strong> ¤ <strong>AXB Doll</strong> ¤ <strong>BC-Doll</strong> ¤ <strong>Bezlya Doll</strong> ¤ <strong>Climax Doll</strong> ¤ <strong>Doll Forever</strong> ¤ <strong>Dollhouse 168</strong> ¤ <strong>Dolls Castle</strong> ¤ <strong>DX-Value</strong> ¤ <strong>EL-Doll</strong> ¤ <strong>Elsa Babe</strong> ¤ <strong>EX Doll</strong> ¤ <strong>FanReal</strong> ¤ <strong>FunWest Doll</strong> ¤ <strong>Game Lady</strong> ¤ <strong>Gynoid</strong> ¤ <strong>Houyu Doll</strong> ¤ <strong>HR-Doll</strong> ¤ <strong>Idodoll</strong> ¤ <strong>Irokebijin</strong> ¤ <strong>Irontech Doll</strong> ¤ <strong>Jarliet Doll</strong> ¤ <strong>JinSan Doll</strong> ¤ <strong>Jiusheng Doll</strong> ¤ <strong>JK-Doll</strong> ¤ <strong>Lusandy Doll</strong> ¤ <strong>My Loli Waifu (MLW)</strong> ¤ <strong>Normon Doll</strong> ¤ <strong>Piper Doll</strong> ¤ <strong>Real Lady Doll</strong> ¤ <strong>Ridmii Doll</strong> ¤ <strong>Rosretty</strong> ¤ <strong>SE-Doll</strong> ¤ <strong>Sigafun</strong> ¤ <strong>Tayu Doll</strong> ¤ <strong>TOP-CYDOLL</strong> ¤ <strong>Top Fire Doll</strong> ¤ <strong>WM-Doll</strong> ¤ <strong>Zelex</strong> ¤ <strong>YJL-Doll</strong> ¤</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_D8hCgp": {
+      "type": "gallery",
+      "blocks": {
+        "image_iePU8b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zelex_certificate_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_3rxTft": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Real_Lady_Docklandet_Certificate_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_TJMXj9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/funwest_doll_certificate_vendor_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_Fbe79x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/se-doll_certificate_exclusive_vendor_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_LmmnBU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/se-doll_certificate_vendor_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_BgeWPg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bezlya_Docklandet_Certificate.png"
+          }
+        },
+        "image_RLnCmA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/galatea_certificate_exclusive_vendor_docklandet_Sexdocka_Docklandet.png"
+          }
+        },
+        "image_b3peNq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sigafun_certifikat_Image_20241010102534_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_YW8YKR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fanreal_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_MB8LYb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/axb_doll_certificate_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_JnMCAK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_certificate_Docklandet_Sexdocka_Docklandet_76abb969-fb9e-4b97-af10-d792c5ba6815.png"
+          }
+        },
+        "image_rP4gP8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Certificate_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_mKDCYM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/angel_kiss_doll_ak-doll_certificate_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_w9m6QV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wm-doll_business_certificate_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_YGNTkt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/jinsan_doll_certificate_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_FPYtxJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/jk_doll_certificate_docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_NbFREA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Jarliet_Doll_Reseller_Certificate_Docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_eQWXfi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/jiusheng_doll_docklandet.png"
+          }
+        },
+        "image_X77K6F": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/my_loli_waifu_docklandet.png"
+          }
+        },
+        "image_nR6fta": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Normon_Doll_Docklandet_Certificate_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_6HcUQm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Climax_Docklandet_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "image_RPJHd7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Dolls_Castle_Certificate_Docklandet_Sexdocka_Docklandet.png"
+          }
+        },
+        "image_hUMGXK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Elsa_Babe_Docklandet_2024_Sexdocka_Docklandet.png"
+          }
+        },
+        "image_bqDw7Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TopFire_Authorization-Docklandet_Sexdocka_Docklandet.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_iePU8b",
+        "image_3rxTft",
+        "image_TJMXj9",
+        "image_Fbe79x",
+        "image_LmmnBU",
+        "image_BgeWPg",
+        "image_RLnCmA",
+        "image_b3peNq",
+        "image_YW8YKR",
+        "image_MB8LYb",
+        "image_JnMCAK",
+        "image_rP4gP8",
+        "image_mKDCYM",
+        "image_w9m6QV",
+        "image_YGNTkt",
+        "image_FPYtxJ",
+        "image_NbFREA",
+        "image_eQWXfi",
+        "image_X77K6F",
+        "image_nR6fta",
+        "image_6HcUQm",
+        "image_RPJHd7",
+        "image_hUMGXK",
+        "image_bqDw7Q"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "masonry",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_Q6tm6Q": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "17406577984f33cc0b": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_DcMRJY": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38416",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_DcMRJY"
+      ],
+      "settings": {}
+    },
+    "divider_TixCPa": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_x9L83g": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_QQiirT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ak_doll_angel_kiss_doll_banner_docklandet_wide-1_3_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+            "link": "shopify://collections/ak-doll-angel-kiss-doll-silicone",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_GpfhFm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/aibei_doll_docklandet_sexdocka-1_1_Sexdocka_Docklandet_3a663958-7900-41cc-8560-2d28e84c9419.jpg",
+            "link": "shopify://collections/aibei-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_NWJxf9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AXB_Doll_Sexdockor_Docklandet_Real_Doll_banner_6_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/axb-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_b99nYb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bezlya_Doll_Sexdockor_Docklandet_Real_Doll_banner_Sexdocka_Docklandet_4836f71a-2701-4834-9b0c-87531d1488a0.jpg",
+            "link": "shopify://collections/bezlya-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_P3mmih": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_climax_doll_sexdockor_real_doll_docklandet_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/climax-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_JVFgNy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/doll_forever_banner_docklandet-1.jpg",
+            "link": "shopify://collections/doll-forever",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_e77p3B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sexdocka_real_doll_dolls_castle_banner_1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/dolls-castle",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_phLjEa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/elsababe_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/elsa-babe-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_dyH3LR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fanreal_doll_banner_silicone_doll_docklandet_sex_dolls_copy-1_1_Sexdocka_Docklandet_c1df8335-001d-4df9-bcb9-b372bee13f22.jpg",
+            "link": "shopify://collections/fanreal-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_tgiHbN": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/funwest_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet_6635846a-45a6-4ee9-b72c-a962cebb8c48.jpg",
+            "link": "shopify://collections/funwest-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_RGwezH": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.</p>",
+            "button_label": ""
+          }
+        },
+        "image_ddcBxF": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.</p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_QQiirT",
+        "image_GpfhFm",
+        "image_NWJxf9",
+        "image_b99nYb",
+        "image_P3mmih",
+        "image_JVFgNy",
+        "image_e77p3B",
+        "image_phLjEa",
+        "image_dyH3LR",
+        "image_tgiHbN",
+        "image_RGwezH",
+        "image_ddcBxF"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_crB8gN": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_Hb8WWw": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/fanreal_doll_banner_silicone_doll_docklandet_sex_dolls_copy-1_1_Sexdocka_Docklandet_c1df8335-001d-4df9-bcb9-b372bee13f22.jpg",
+            "link": "shopify://collections/fanreal-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_ayVdhC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/funwest_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet_6635846a-45a6-4ee9-b72c-a962cebb8c48.jpg",
+            "link": "shopify://collections/funwest-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_qaYXm3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gamelady_doll_docklandet_sexdocka_kopia-1.jpg",
+            "link": "shopify://collections/game-lady-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_mpkphJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gynoid_docklandet_sexdocka-1_Sexdocka_Docklandet_f2d36288-ad39-43a7-823d-3732c84c80d3.jpg",
+            "link": "shopify://collections/gynoid-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_ncwqAE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irokebijin_Anime_Sexdockor_Docklandet_Real_Doll_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/irokebijin-anime-sexdockor",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_Ln674t": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_1_Stor_e9a1e819-bfc7-4b6c-bc2b-a2ad62edf224.jpg",
+            "link": "shopify://collections/irontech-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_meCAXy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/jarliet_banner_doll_docklandet.jpg",
+            "link": "shopify://collections/jarliet-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_aQNtEi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Jiusheng_Doll_Sexdockor_Docklandet_Real_Doll_banner_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/jiusheng-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_jexVDJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/JK-Doll_Fantasy_Sex_Dolls_Docklandet.jpg",
+            "link": "shopify://collections/jk-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_EYA3We": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Normon-doll_banner_tpe_silicone_doll_docklandet_copy_1efa3a6a-2654-4b05-93ad-6d2d6f264713.jpg",
+            "link": "shopify://collections/normon-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_Gfpa3P": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/jarliet_banner_tpe_doll_docklandet-5.jpg",
+            "link": "shopify://collections/my-loli-waifu",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Hb8WWw",
+        "image_ayVdhC",
+        "image_qaYXm3",
+        "image_mpkphJ",
+        "image_ncwqAE",
+        "image_Ln674t",
+        "image_meCAXy",
+        "image_aQNtEi",
+        "image_jexVDJ",
+        "image_EYA3We",
+        "image_Gfpa3P"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_promotions_myBgBc": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_dmD784": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/jarliet_banner_doll_docklandet.jpg",
+            "link": "shopify://collections/jarliet-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_CYfqHF": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/jarliet_banner_tpe_doll_docklandet-5.jpg",
+            "link": "shopify://collections/my-loli-waifu",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_HRJ3jE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Normon-doll_banner_tpe_silicone_doll_docklandet_copy_1efa3a6a-2654-4b05-93ad-6d2d6f264713.jpg",
+            "link": "shopify://collections/normon-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_8X3ypH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Docklandet_Piper_Doll_banner_Sexdocka_Docklandet_ec6a0c4c-dd48-4f33-93bc-b859727dece9.jpg",
+            "link": "shopify://collections/piper-doll-sexdockor",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_yAb63n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/real_lady_doll_banner_silicone_doll_docklandet_sex_dolls-1_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/real-lady",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_97c8K4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/se-doll_banner_tpe_doll_docklandet_3.jpg",
+            "link": "shopify://collections/se-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_gKQ7rw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Shedoll_banner.png",
+            "link": "shopify://collections/shedoll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_zafk8g": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Tayu_Doll_Sexdockor_Docklandet_Real_Doll_banner_3_Sexdocka_Docklandet_4c001173-f3d2-4eca-9f79-ec42a4cb0c9b.jpg",
+            "link": "shopify://collections/tayu-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_Xa76Dj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Zelex_Docklandet_Real_Doll_Sexdockor_2_Stor_57511f74-93db-4a05-a8df-a0c189995f1f.jpg",
+            "link": "shopify://collections/zelex-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_EFbYzT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wm-doll_sex_dolls_tpe_docklandet_sexdockor_real_doll_sweden-1_1_Sexdocka_Docklandet_d4512fcc-7ad3-4399-989a-db47a1480866.jpg",
+            "link": "shopify://collections/wm-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_xWCJfG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lusandy_Doll_Silicone_Dolls_Docklandet_Sexdocka_Docklandet.jpg",
+            "link": "shopify://collections/lusandy-doll",
+            "title": "",
+            "text": "",
+            "button_label": ""
+          }
+        },
+        "image_n7VpT3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.</p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_dmD784",
+        "image_CYfqHF",
+        "image_HRJ3jE",
+        "image_8X3ypH",
+        "image_yAb63n",
+        "image_97c8K4",
+        "image_gKQ7rw",
+        "image_zafk8g",
+        "image_Xa76Dj",
+        "image_EFbYzT",
+        "image_xWCJfG",
+        "image_n7VpT3"
+      ],
+      "settings": {
+        "wide_display": false,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "48a96b41-0117-4add-ba1e-9d62b1fa988a": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "9255df03-7fe9-4b51-80fa-0eefc21d1c81": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-1",
+        "9255df03-7fe9-4b51-80fa-0eefc21d1c81",
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-3",
+        "template--19433056567639__48a96b41-0117-4add-ba1e-9d62b1fa988a-collection-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c92130dd-66ac-4a1d-96dc-5794a81b45ef": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_tfMmCd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Prisvärt i lager",
+        "collection_description": false,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_VwFg7g": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": false,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_VbFFE3": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured_text_9fN6rJ",
+    "gallery_D8hCgp",
+    "divider_Q6tm6Q",
+    "17406577984f33cc0b",
+    "divider_TixCPa",
+    "featured_promotions_x9L83g",
+    "featured_promotions_crB8gN",
+    "featured_promotions_myBgBc",
+    "48a96b41-0117-4add-ba1e-9d62b1fa988a",
+    "c92130dd-66ac-4a1d-96dc-5794a81b45ef",
+    "featured_collection_tfMmCd",
+    "featured_collection_VwFg7g",
+    "divider_VbFFE3"
+  ]
+}

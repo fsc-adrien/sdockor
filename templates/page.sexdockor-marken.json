@@ -1,0 +1,262 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "settings": {}
+    },
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_1_Stor_242f2ed4-ae26-4666-b582-db784d38b60c.jpg",
+        "title": "",
+        "content": "<h3><strong>Irontech Doll (TPE)</strong></h3><p>Irontech Doll är kanske världens mest kända dock-märke och ligger i framkant i utvecklingen av nya dockor och funktioner. Vi är officiell distributör för Irontech Doll i Norden. Irontech Doll har dockor gjorda av både TPE och silikon. </p>",
+        "button_label": "SE ALLA IRONTECH DOLL'S",
+        "button_link": "shopify://collections/irontech-doll-tpe-real-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "populara-tpe-dockor-full-size",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8d6b47b1-1a62-4c3b-9dbd-7899e6641ee1": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/funwest_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet_ef93f15c-436d-4997-8137-d07809706f9c.jpg",
+        "title": "",
+        "content": "<h3><strong>FunWest Doll (TPE)</strong></h3><p>FunWest Doll är en av världens mest kända tillverkare av dockor. Sexdockor från FunWest finns i både TPE och silikon-versioner och har ofta en stil inspirerad av populärkultur. Här nedan ser du exempel på populära TPE-dockor från FunWest Doll.</p>",
+        "button_label": "SE ALLA FUNWEST DOLL'S",
+        "button_link": "shopify://collections/funwest-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f9a78517-5ed8-4509-a45e-77681ca17a92": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "popular-tpe-funwest-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "32ddaf4a-3a28-4adb-bb8c-23d1f1d1269b": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irokebijin_Anime_Sexdockor_Docklandet_Real_Doll-1_Sexdocka_Docklandet_dcd7414f-6097-4988-b137-168e3d3d7f80.jpg",
+        "title": "",
+        "content": "<h3><strong>Irokebijin Doll (TPE)</strong></h3><p>Anime-dockor av högsta kvalitet från kända Irokebijin. Irokebijin's dockor har alltid utseende i klassisk anime-stil och finns i flera olika versioner och storlekar. Här nedan ser du exempel på dockor gjorda av materialet TPE. Irokebijin har även dockor gjorda helt i silikon.</p>",
+        "button_label": "SE ALLA IROKEBIJIN DOLL'S",
+        "button_link": "shopify://collections/irokebijin-anime-sexdockor",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "0da0efb8-314c-4cd6-9676-c00544740ef0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "populara-irokebiji-dockor-tpe-mini-size",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "97713fb8-3619-48e2-87fe-48e019fd5dea": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_climax_doll_sexdockor_real_doll_docklandet_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Climax Doll (TPE)</strong></h3><p>Climax Doll är ett etablerat märke som varit aktiva i dock-världen i snart 10 år. Från Climax finns både miniatyr-dockor och dockor i full-size. Nedan ser du exempel på populära TPE-dockor från Climax Doll.</p>",
+        "button_label": "SE ALLA CLIMAX DOLL'S",
+        "button_link": "shopify://collections/climax-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "b1329d54-cc75-499b-bc87-ddeac9c2f92c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "climax-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_YCHJhK": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_real_doll_dolls_castle_banner_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>Dolls Castle (TPE & Hybrid)</strong></h3><p>Dolls Castle har ett nära samarbete med Jinsan och WM-Doll. Dolls Castle har både verklighetstrogna dockor och surrealistiska dockor i många olika storlekar tillverkade av både TPE och silikon-material. </p>",
+        "button_label": "SE ALLA DOLLS CASTLE",
+        "button_link": "shopify://collections/dolls-castle",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_a4BNPL": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "dolls-castle",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9535adaa-507d-4374-8182-b9f66e3be7cf": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/DX_Value_sexdocka_real_Doll_sexdockor_docklandet-1_1_Sexdocka_Docklandet_9eed8495-7503-444a-b03e-6c23ed02f624.jpg",
+        "title": "",
+        "content": "<h3><strong>DX Value (TPE)</strong></h3><p>Sexdockor från DX Value är alla av hög kvalitet utan att ligga på alltför höga priser relativt sett. Dockorna är noga utvalda och ser självklart ut exakt som på bilderna. DX Value kallas även för EL-Doll.</p>",
+        "button_label": "SE ALLA DX Value",
+        "button_link": "shopify://collections/sexdockor-dx-value",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "eb7a290c-7f47-4a44-96bc-303e5dae52dc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-dx-value",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d7028397-9aba-4f4b-a015-9bc47ab8c93c": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/aibei_doll_docklandet_sexdocka-1_1_Sexdocka_Docklandet_3a663958-7900-41cc-8560-2d28e84c9419.jpg",
+        "title": "",
+        "content": "<h3><strong>Aibei Doll (TPE)</strong></h3><p>Sexdockor från Aibei Doll är alla av hög kvalitet utan att ligga på alltför höga priser relativt sett. Dockorna är noga utvalda och ser självklart ut exakt som på bilderna! Aibei Dolls dockor har mjuka gel-bröst som standard.</p>",
+        "button_label": "SE ALLA AIBEI DOLL'S",
+        "button_link": "shopify://collections/aibei-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8edac57b-bacd-4df1-99c1-f6c666b84022": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "aibei-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_qa3WRC": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/YJL_Doll_banner_silicone_doll_docklandet_sex_dolls_copy-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h3><strong>YJL Doll (TPE)</strong></h3><p>YJL Doll är en erfaren tillverkare av realistiska sexdockor. Dockor från YJL håller relativt lågt pris trots sin höga kvalitet. YJL's sortiment erbjuder dockor i olika stilar och storlekar tillverkade av både TPE och silikon. Nedan ser du exempel på populära TPE-dockor från YJL Doll.</p>",
+        "button_label": "SE ALLA YJL DOLL'S",
+        "button_link": "shopify://collections/yjl-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_BVXVPm": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "yjl-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_QP8HtK": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7c7f0e63-be2d-478d-b872-f39a14c8771f",
+    "43e49ca1-1ae2-4f4d-8f56-ff850e4b686c",
+    "8d6b47b1-1a62-4c3b-9dbd-7899e6641ee1",
+    "f9a78517-5ed8-4509-a45e-77681ca17a92",
+    "32ddaf4a-3a28-4adb-bb8c-23d1f1d1269b",
+    "0da0efb8-314c-4cd6-9676-c00544740ef0",
+    "97713fb8-3619-48e2-87fe-48e019fd5dea",
+    "b1329d54-cc75-499b-bc87-ddeac9c2f92c",
+    "featured_text_YCHJhK",
+    "featured_collection_a4BNPL",
+    "9535adaa-507d-4374-8182-b9f66e3be7cf",
+    "eb7a290c-7f47-4a44-96bc-303e5dae52dc",
+    "d7028397-9aba-4f4b-a015-9bc47ab8c93c",
+    "8edac57b-bacd-4df1-99c1-f6c666b84022",
+    "featured_text_qa3WRC",
+    "featured_collection_BVXVPm",
+    "divider_QP8HtK"
+  ]
+}

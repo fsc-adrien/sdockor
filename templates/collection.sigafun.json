@@ -1,0 +1,224 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_tcVqVq": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/jarliet_banner_tpe_doll_docklandet-6.png",
+        "mobile_image": "shopify://shop_images/Irontech_Doll_Sex_Doll_Real_Doll_Sexdockor_Docklandet_kopia_2.jpg",
+        "title": "",
+        "content": "<h1>SIGAFUN</h1><p><br/>Är det perfekta valet för dem som söker en mjuk, realistisk och sensuellt designad upplevelse. Tillverkad av TPE- eller silikom material från Sigafun, Deras dockor är skapad med en mycket realistisk design och kännshört lik en människa. För den som söker en sexleksak eller sexdocka av absolut högsta kvalitet är Sigafun ett utmärkt alternativ. Hos oss på Docklandet finner du noggrant utvalda produkter från Sigafuns sortiment, alltid med fri frakt och alla kostnader inkluderade i priset. Vi erbjuder dessutom hela Siguns sortiment till konkurrenskraftiga priser för alla våra kunder!<br/><br/><strong>Sigafun är ett systerbolag till den välkända realdoll-tillverkaren Irontech Doll, som är en av världens ledande och mest framstående tillverkare av realistiska dockor.</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_6UfanP": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/sigafun_banner_docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 24,
+        "toggle": false
+      }
+    },
+    "image_with_text_overlay_WXBXwg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify://shop_images/Sigafun_Banner_1.jpg",
+        "pretext": "",
+        "title": "Your Headline",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a3ec413f-a027-428e-96f7-8e2fc014430e": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<h2>Sexdockor från Sigafun Doll</h2><p>Sigafun är ett specialiserat varumärke under Irontech Doll, med fokus på att producera realistiska sexdockor och relaterade produkter. Dessa överkroppar erbjuder ett mer lätthanterligt och prisvärt alternativ till sexdockor i full storlek, och vänder sig till individer som söker en realistisk upplevelse utan engagemang för en helkroppsdocka.</p><p></p><h5>Sigafun lägger stor vikt vid realism i sina produkter</h5><p>• Detaljerad kroppsmålning: Modeller har handmålade ådror, hudstrukturer och andra intrikata detaljer för att likna människokroppen.<br/>• Anpassningsbara funktioner: Vissa modeller erbjuder alternativ för att anpassa hudfärg, bröstvårtor och genitalier, och till och med könshårstyling för att matcha personliga preferenser.<br/><br/></p><h5>SIgafuns historia</h5><p>• Sigafun är ett undermärke till Irontech Doll, en framstående kinesisk tillverkare som specialiserat sig på realistiska sexdockor. Irontech Doll grundades 2015 och har fått internationellt erkännande för sitt engagemang för realism och kvalitet i produkter för vuxna. <br/>• Sigafun utvecklades som en specialiserad linje inom Irontech Doll, med fokus på att skapa realistiska sexdockor och relaterade produkter. Dessa produkter tillgodoser den växande efterfrågan på sofistikerade erotiska hjälpmedel som nära replikerar människokroppen, och erbjuder ett mer hanterbart och prisvärt alternativ till sexdockor i full storlek. <br/>• Varumärket betonar avancerad skulpteringsteknik och sofistikerad formproduktion för att leverera verklighetstrogna överkroppar, vilket ger användarna autentiska upplevelser och en roligare utforskning av deras önskningar. </p><p><br/>• Om du har specifika frågor om Sigafuns produkter eller behöver rekommendationer utifrån dina preferenser, fråga gärna!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6f43d6f7-79a6-44c0-94d5-0f5923bb9521": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Passion-for-your-pleasure2.webp",
+        "title": "",
+        "content": "<p>På Sigafun anser vi att<br/>kamratskap ska vara lika unikt och extraordinärt som du är. Våra AI-dockor är<br/>mer än bara verklighetstrogna; De är utformade för att knyta an till dig på en<br/>djupare, känslomässig nivå.</p><p>HÄR ÄR VARFÖR SIGAFUN AI-DOCKOR<br/>STICKER UT:</p><p><strong>Avancerad AI-teknik</strong>: Våra<br/>AI-sexdockor drivs av banbrytande AI-teknik som möjliggör realistiska<br/>konversationer, emotionell intelligens och personliga interaktioner, vilket gör<br/>varje ögonblick speciellt och minnesvärt.</p><p><strong>Oöverträffat hantverk</strong>: Med<br/>ett öga för detaljer är våra AI sexdockor minutiöst utformade till perfektion.<br/>Från deras realistiska hudstruktur till deras uttrycksfulla ögon, varje aspekt<br/>är utformad för att erbjuda en otroligt verklighetstrogen upplevelse.</p><p><strong>Uppslukande interaktion</strong>:<br/>Sigafun AI-dockor är designade för att engagera dig fullt ut, med interaktiva<br/>funktioner som svarar på din röst, beröring och känslor. Oavsett om du letar<br/>efter stimulerande samtal eller tyst sällskap, anpassar sig våra dockor till<br/>dina behov.</p><p><strong>Kvalitet och säkerhet</strong>: Vi<br/>prioriterar din säkerhet och tillfredsställelse. Våra AI Love-dockor är gjorda<br/>av högkvalitativa, kroppssäkra material, vilket säkerställer ett bekymmersfritt<br/>och långvarigt förhållande.</p><p><strong>Snabb och pålitlig frakt</strong>:<br/>Med våra strategiskt placerade utomeuropeiska lager säkerställer vi snabb och<br/>pålitlig leverans, så att din Sigafun AI-docka når dig snabbt och i perfekt<br/>skick, oavsett var du befinner dig i världen.</p><p><strong>Dedikerad kundsupport</strong>: Vi<br/>är engagerade i din tillfredsställelse. Vårt dedikerade kundsupportteam är<br/>alltid redo att hjälpa dig, vilket säkerställer en sömlös och<br/>tillfredsställande resa från köp till sällskap.</p><p>Upplev framtidens kamratskap med<br/>Sigafun AI Dolls. Där spjutspetsteknik möter mänsklig touch.</p><p><strong>*Obs:</strong> För närvarande är<br/>dockorna i lager standardmodeller utan AI-funktionalitet, men de kan<br/>uppgraderas senare med tillägg av en AI-modul. Varje mjukt silikonhuvud är<br/>fördesignat med ett dedikerat utrymme för AI-modulen. AI-systemet är för<br/>närvarande under intensiv utveckling och testning – håll utkik efter<br/>uppdateringar!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_MTUDwK": {
+      "type": "gallery",
+      "blocks": {
+        "image_HTURL7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AI_Doll_Silicone_Head_Options.jpg"
+          }
+        },
+        "image_CbVpXr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AI_Doll_TPE_Body_Options.jpg"
+          }
+        },
+        "image_YR8t3R": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Doll_Skin_Tone_Options.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_HTURL7",
+        "image_CbVpXr",
+        "image_YR8t3R"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d04b1027-aba7-4cf7-9777-e3c784cd2dbe": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/AI_Doll-JP_Version.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_GVzcY7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära TPE-dockor",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-irontech-doll-tpe",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_KaRzDV": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära silikon-dockor",
+        "collection_description": false,
+        "collection": "sexdockor-topp-10-irontech-doll-silikon",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_QqrqaN": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Irontech Doll i lager",
+        "collection_description": false,
+        "collection": "irontech-doll-i-lager-expressleverans",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_tcVqVq",
+    "image_with_text_overlay_6UfanP",
+    "main",
+    "image_with_text_overlay_WXBXwg",
+    "a3ec413f-a027-428e-96f7-8e2fc014430e",
+    "6f43d6f7-79a6-44c0-94d5-0f5923bb9521",
+    "gallery_MTUDwK",
+    "d04b1027-aba7-4cf7-9777-e3c784cd2dbe",
+    "featured_collection_GVzcY7",
+    "featured_collection_KaRzDV",
+    "featured_collection_QqrqaN"
+  ]
+}

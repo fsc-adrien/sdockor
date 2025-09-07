@@ -1,0 +1,151 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "1652887834adb4ea94": {
+      "type": "featured-text",
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/Fantasy_Sexdockor_Docklandet-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Fantasy Sexdockor</h1><p><strong>Här hittar du fantasy-sexdockor. Vi har bland annat fantasy-sexdockor med alv-öron, blå hud, cosplay stil och andra alternativa stilar</strong></p><p>Många av fantasy sexdockorna i denna kollektion har ett utseende och stil inspirerad av diverse populärkultur. Så kallade \"cosplay-dockor\". </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1663603443b1e74f36": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "mobile_image": "shopify://shop_images/wm-doll_extra_huvud_Instagram_docklandet_sexdockor_real_doll-1.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16603973257d998081": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_TPE_Sexdockor_Docklandet_Real_Doll_copy-1.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 3,
+        "rv_per": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_dxhaNY": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Prisvärda sexdockor",
+        "collection_description": true,
+        "collection": "populara-sexdockor-popular-dolls-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_HQbH6e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nya sexdockor!",
+        "collection_description": true,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_VKEpkT": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nytt i lager",
+        "collection_description": true,
+        "collection": "sexdockor-snabb-leverans-express-fri-frakt",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_qBReT7": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "1652887834adb4ea94",
+    "1663603443b1e74f36",
+    "16603973257d998081",
+    "main",
+    "16508260667ee95abe",
+    "featured_collection_dxhaNY",
+    "featured_collection_HQbH6e",
+    "featured_collection_VKEpkT",
+    "divider_qBReT7"
+  ]
+}

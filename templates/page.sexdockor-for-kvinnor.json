@@ -1,0 +1,289 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-no-title-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "cac9eb89-cee2-4083-8173-c7abfe86f80c": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdockor_for_kvinnor_Docklandet_Real_Doll-1_Sexdocka_Docklandet_bdd0f51b-37ac-4ccd-ae55-b5d78cfef647.jpg",
+        "mobile_image": "shopify://shop_images/Sexdockor_for_kvinnor_Docklandet_Real_Doll_kopia-1_Sexdocka_Docklandet.jpg",
+        "title": "Sexdockor för kvinnor",
+        "content": "<p>En sexdocka är outröttlig och ställer alltid upp. Här hittar du info om sexdockor för kvinnor </p><p><strong>Vi har över 60 dockor uppställda i Borlänge, bland annat George (silikon) och flera andra manliga i lager</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165217872584090210": {
+      "type": "content-page",
+      "settings": {
+        "content_page": "sexdockor-for-kvinnor",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4a0f2591-1887-4080-bd3e-7cece1400952": {
+      "type": "gallery",
+      "blocks": {
+        "0e7dc4f7-3011-41a7-b12b-f2ca662be2d8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_10.jpg"
+          }
+        },
+        "d601df0b-b63a-461c-9a0c-f1110a3b5966": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_8_Sexdocka_Docklandet_06bbae27-a336-4d03-9708-f040e654da12.jpg"
+          }
+        },
+        "81d71e1c-d113-4418-af86-6bc20e770181": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_12.jpg"
+          }
+        },
+        "6cfb59bb-bc19-4229-b7f8-3b389d9c0fbb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Real_Doll_Docklandet_Sexdockor-1_3.jpg"
+          }
+        },
+        "f62a14fa-7191-4245-9aeb-09e0d42c88b2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Real_Doll_Docklandet_Sexdockor-1_5.jpg"
+          }
+        },
+        "9e7f62b9-9d65-493d-bad0-97820ffcf7b4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Real_Doll_Docklandet_Sexdockor-1_2.jpg"
+          }
+        },
+        "cd7e5a1e-d055-4d23-8ce5-9949df44d842": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/STARPE_4_122098da-34fd-414e-baaf-c8ff0f52a10e.jpg"
+          }
+        },
+        "f88c9ad6-ab56-45ab-a7a9-f1cbb123c008": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Real_Doll_Docklandet_Sexdockor-1_a3dc43c8-20ab-40d2-a165-0b71608eb534.jpg"
+          }
+        },
+        "0160b561-c770-41de-bab6-6f7222389c2d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Real_Doll_Docklandet_Sexdockor-1_1.jpg"
+          }
+        },
+        "f3b4b072-183a-4330-a782-1abe6c95e65c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_15.jpg"
+          }
+        },
+        "05d68d56-a5a8-4a32-8989-15c90c96b1a0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_8.jpg"
+          }
+        },
+        "78a67cb3-8ce4-4999-be58-b76962293167": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_17.jpg"
+          }
+        },
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_6_Sexdocka_Docklandet_bb956a13-bd91-4289-87ec-f188f3e9fbd4.jpg"
+          }
+        },
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_2_Sexdocka_Docklandet_cc7663cd-a35b-486c-adbe-495fb4fe6e62.jpg"
+          }
+        },
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_4_Sexdocka_Docklandet_4e2d2efe-0ca0-46a8-909f-c913510a8243.jpg"
+          }
+        },
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_5_Sexdocka_Docklandet.jpg"
+          }
+        },
+        "0d8d29db-7b8d-4ac3-a4a1-41f26cd7c7ca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Irontech_Doll_Sexdocka_Docklandet-1_14.jpg"
+          }
+        },
+        "f975f796-b514-4600-993b-ceae551e32d8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Starpery_Real_Doll_Docklandet_Sexdockor-1_6.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "0e7dc4f7-3011-41a7-b12b-f2ca662be2d8",
+        "d601df0b-b63a-461c-9a0c-f1110a3b5966",
+        "81d71e1c-d113-4418-af86-6bc20e770181",
+        "6cfb59bb-bc19-4229-b7f8-3b389d9c0fbb",
+        "f62a14fa-7191-4245-9aeb-09e0d42c88b2",
+        "9e7f62b9-9d65-493d-bad0-97820ffcf7b4",
+        "cd7e5a1e-d055-4d23-8ce5-9949df44d842",
+        "f88c9ad6-ab56-45ab-a7a9-f1cbb123c008",
+        "0160b561-c770-41de-bab6-6f7222389c2d",
+        "f3b4b072-183a-4330-a782-1abe6c95e65c",
+        "05d68d56-a5a8-4a32-8989-15c90c96b1a0",
+        "78a67cb3-8ce4-4999-be58-b76962293167",
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-2",
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-5",
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-1",
+        "template--16607778930946__4a0f2591-1887-4080-bd3e-7cece1400952-1666879873feefff33-0",
+        "0d8d29db-7b8d-4ac3-a4a1-41f26cd7c7ca",
+        "f975f796-b514-4600-993b-ceae551e32d8"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e064f0e7-d3f1-4022-8ce5-6677687f1542": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Manlig_sexdocka_docklandet_real_doll_man-1_1_Sexdocka_Docklandet_63d22e77-ca23-43dd-8d7a-29b9f8a5604a.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "shopify://collections/manlig-sexdocka",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d916fb04-2911-4910-996a-1d04a2b76be8": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Manlig_sexdocka_docklandet_real_doll_man-1_Sexdocka_Docklandet_4fcdeb5d-ad19-4efe-beb1-6327c03da4ed.jpg",
+        "mobile_image": "shopify://shop_images/Manlig_sexdocka_docklandet_real_doll_man_mobile-1_1_Sexdocka_Docklandet_30b6c112-f81c-405d-8b03-b3f76bc631ae.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "shopify://collections/manlig-sexdocka",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f978590d-28b5-49e8-ae48-132542c6572c": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "95eab685-dc31-483b-823f-31335463a55c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "manlig-sexdocka",
+        "collection_style": "grid",
+        "products_per": 4,
+        "products_limit": 16,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d23bfb39-1527-42ef-9a15-c29019d24e36": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdockor_for_kvinnor_Docklandet_Real_Doll-1_1_Sexdocka_Docklandet_83836ee7-8a8d-4af4-99a7-cf5ebbdf02ca.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1666884937fd6dcd3f": {
+      "type": "apps",
+      "blocks": {
+        "52e3b07a-8aca-42c1-aac1-2b929cb4c5cb": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "52e3b07a-8aca-42c1-aac1-2b929cb4c5cb"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "cac9eb89-cee2-4083-8173-c7abfe86f80c",
+    "165217872584090210",
+    "4a0f2591-1887-4080-bd3e-7cece1400952",
+    "e064f0e7-d3f1-4022-8ce5-6677687f1542",
+    "d916fb04-2911-4910-996a-1d04a2b76be8",
+    "f978590d-28b5-49e8-ae48-132542c6572c",
+    "95eab685-dc31-483b-823f-31335463a55c",
+    "d23bfb39-1527-42ef-9a15-c29019d24e36",
+    "1666884937fd6dcd3f"
+  ]
+}

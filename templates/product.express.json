@@ -1,0 +1,136 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "settings": {
+        "toggle": false
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "form": {
+          "type": "form",
+          "settings": {}
+        },
+        "text_8FwMJU": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><strong>LEVERANS OCH BETALNING</strong></h6><ul><li><strong>Fri frakt:</strong> Frakt, tullavgift och skatt är inkluderat i dockans pris<br/>OBS För kunder i UK/NO/CH/LI tillkommer importmoms</li><li><strong>Expressleverans:</strong> 2 - 5 arbetsdagar (från våra lager, SE/EU/US)</li><li><strong>Ej i lager eller modifierad docka:</strong> 3 - 5 veckor (efter produktion)</li><li><strong>Betalningsalternativ:</strong> Kort (Debit/Kredit), PayPal, Google Pay</li><li>För mer info se vår leveranspolicy <a href=\"https://docklandet.se/policies/shipping-policy\" target=\"_blank\" title=\"https://docklandet.se/policies/shipping-policy\"><strong>här</strong></a></li></ul>"
+          }
+        },
+        "c7d758ae-6c3f-4a34-91a7-ea345fc3d317": {
+          "type": "tabs",
+          "settings": {
+            "show_product_description": false,
+            "show_tabs_below_product_gallery": true,
+            "tab_heading_1": "Expressleverans - Docklandet",
+            "tab_text_1": "<h6><strong>- EXPRESSLEVERANS -</strong></h6><p>Här hittar du dockor vi har hemma i lager och kan erbjuda snabb leverans på. Normal leveranstid för dockorna i denna kollektion är 2-4 arbetsdagar. </p><p>För leverans inom Sverige eller EU så skickas oftast paket med DHL. I vissa fall även med Postnord, Schenker eller UPS beroende på postort. </p><p>Dockorna är alltid diskret paketerade och det går inte att se på utsidan av paketet vad innehållet är. Dock-märke, vår logga eller butiksnamn syns heller inte på paketet. </p><p>De flesta av dockorna som vi har expressleverans på går även att hämta själv hos oss i Borlänge om så önskas. Vi får hela tiden hem nya dockor och har alltid våra populäraste modeller i lager. Men då vi har cirka 600 dockor i vår webbutik (och hela tiden utökar sortimentet) så är det såklart svårt att ha flera ex av alla hemma i lager då detta är väldigt stora och tunga paket som tar mycket plats. </p><p>Dockorna vi har hemma i lager går ej att modifiera bortsett från peruk och ögon som vi i vissa fall själva kan ändra. Vi kan inte ändra hudfärg eller uppgradera dockor som är färdigproducerade och paketerade. Om du önskar modifiera en docka så behöver dockan tillverkas efter dina önskemål i samband med order. Produktionstid och leveranstid är då avsevärt längre jämfört med de dockor vi har expressleverans på. </p><p>Våra sexdockor med expressleverans är populära dockor och är därför lättare för oss och våra leverantörer att lagerhålla. </p><p>Pris och vilka funktioner en docka har kan skilja sig mellan de dockor vi har i lager och de som skickas direkt från fabrik i Kina. </p>",
+            "tab_heading_2": "Ändra utseende - Uppgraderingar - Tillbehör",
+            "tab_text_2": "<h6><strong>Egenskaper sexdocka</strong></h6><ul><li>Våra sexdockor har flera premiumegenskaper</li><li>Du kan se i de små rutorna ovan vilka egenskaper dockor av detta fabrikat har</li><li>Även i beskrivningen av detta märke kan du hitta information</li><li>Vilka egenskaper och funktioner dockor har skiljer sig mellan olika märken</li><li>Storlek och om dockan är gjord av TPE eller silikon påverkar också</li></ul><h6><strong>Modifiera dockas utseende</strong></h6><ul><li>Dockans standardutförande är det som visas på produktbilderna. Har dockan flera stilar så är standardutförande den stil som används på de första bilderna</li><li>Du kan modifiera din docka. Att ändra dockans utseende kostar inget extra. Du kan byta hudfärg, ögonfärg, peruk, mm</li><li>För att ändra din dockas utseende så trycker du på knappen \"modifiera docka\" innan du lägger i varukorgen</li><li>Om du ändrar utseende så behöver dockan tillverkas efter dina önskemål. Produktionstid skiljer sig mellan märken, normalt tar det runt 1 vecka att tillverka en TPE-docka och ungefär 3 veckor för en av silikon</li><li>När dockan producerats så får vi fabriksbilder för inspektion. Om kund önskar så delar vi dessa</li><li>Efter att vi godkänt bilderna så paketeras dockan ordentligt och skickas</li></ul><h6><strong>Uppgradera docka</strong></h6><ul><li>De flesta dockor går att uppgradera, men många uppgraderingar kostar extra</li><li>En del uppgraderingar är inkluderade i standardutförande för dockor</li><li>Vilka uppgraderingar som är inkluderade eller går att välja på skiljer sig mellan olika märken</li><li>Uppgraderingar behöver nödvändigtvis inte göra en docka bättre men i många fall kan det förbättra utseende eller upplevelse av en docka</li><li>För att uppgradera en docka så väljer du \"modifiera docka\" innan du lägger i varukorgen</li><li>Dockans pris uppdateras automatiskt om du väljer att lägga till en uppgradering</li><li>De flesta uppgraderingar kräver att dockan tillverkas i fabrik</li></ul><h6><strong>Tillbehör</strong></h6><ul><li>Det ingår alltid flera tillbehör med våra dockor, men vilka tillbehör som ingår skiljer sig mellan olika märken</li><li>Du kan se i de små rutorna ovan vilka tillbehör ingår med dockan. Dessa medföljer utan extra kostnad</li><li>Vi har även en hel del andra tillbehör som du kan beställa tillsammans med en docka eller separat</li><li>För att se fler tillbehör så trycker du på rutan \"Tillbehör\" innan du lägger i varukorgen</li><li>Vanliga tillbehör att beställa till en docka är extra peruker, alternativa ögon, insats för tänder, shemale dildos, klädesplagg</li><li>Andra tillbehör som är vanliga är glidmedel och även produkter för lagning såsom talk, TPE-lim och TPE fläckborttagnings-salva</li><li>Det är även vanligt att beställa extra huvuden till dockor. Alla märken utom Piper Doll och Irokebijin har samma typ av anslutning för huvud i dockans hals</li></ul>",
+            "tab_heading_3": "Mer information",
+            "tab_text_3": "<h6><strong>Information - Sexdockor</strong></h6><ul><li><a href=\"https://docklandet.se/pages/sexdockor-faq\"><span style=\"text-decoration:underline\"><strong>F.A.Q.</strong></span></a> - Vanliga frågor och svar</li><li><a href=\"https://docklandet.se/blogs/sexdockor/tpe-eller-silikon-vilket-material-ska-du-valja\"><span style=\"text-decoration:underline\"><strong>TPE vs Silikon</strong></span></a> - Jämför material inför köp</li><li><a href=\"https://docklandet.se/pages/fabriksbilder-sexdockor\"><span style=\"text-decoration:underline\"><strong>Fabriksbilder</strong></span></a> - Oredigerade bilder från tidigare ordrar</li></ul><h6><strong>Docklandet - Kontakt</strong></h6><ul><li><strong>Mail:</strong> info@docklandet.se</li><li><strong>Telefon:</strong> 0046735361983</li><li><strong>Docklandet</strong> - Läs <strong>om oss</strong></li><li><strong>Dalarna Exclusive AB</strong> (559265-0468)</li></ul><h6><strong>Leverans</strong></h6><ul><li><strong>Fri frakt:</strong> Frakt, tullavgift och skatt är inkluderat i dockans pris</li><li><strong>Expressleverans:</strong> 2 - 4 arbetsdagar (från vårat lager)</li><li><strong>Ej i lager eller modifierad docka:</strong> 3 - 5 veckor (från fabrik)</li><li><strong>100% diskret:</strong> Ordentligt paketerat, tryggt och säkert</li></ul><h6><strong>Betalning (välj i kassan)</strong></h6><ul><li><strong>Bankkort</strong> - VISA/Mastercard</li><li><strong>Klarna</strong> - Betala efter leverans eller delbetala i upp till 36 månader</li><li><strong>PayPal</strong> - Smidigt och säkert</li><li><strong>100% diskret</strong> - Syns ej på faktura vad som beställts. Gäller samtliga</li></ul><h6><strong>Övrigt</strong></h6><ul><li><a href=\"https://docklandet.se/policies/shipping-policy\"><strong>Leveransvillkor</strong></a> (fraktpolicy)</li><li><a href=\"https://docklandet.se/policies/refund-policy\"><strong>Retur & ångerrätt</strong></a> (återbetalningspolicy)</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description",
+        "form",
+        "text_8FwMJU",
+        "c7d758ae-6c3f-4a34-91a7-ea345fc3d317"
+      ],
+      "settings": {
+        "product_breadcrumb": false,
+        "media_position": "is-flex-row",
+        "set_product_height": true,
+        "product_height": 800,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": false,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "16508241729f32ff4d": {
+      "type": "apps",
+      "settings": {}
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "wide_display": false,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per_row": 3,
+        "recommended_products_limit": 4
+      }
+    },
+    "165222726991cb0997": {
+      "type": "apps",
+      "blocks": {
+        "751a0e91-7817-46c2-ab7e-1ed1724bd170": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-standard",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "751a0e91-7817-46c2-ab7e-1ed1724bd170"
+      ],
+      "settings": {}
+    },
+    "16522273695cf6b73a": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "16508241729f32ff4d",
+    "recommendations",
+    "165222726991cb0997",
+    "16522273695cf6b73a"
+  ]
+}

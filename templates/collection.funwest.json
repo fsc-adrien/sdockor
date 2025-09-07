@@ -1,0 +1,460 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "featured_text_RHkYLB": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/funwest_doll_banner_docklandet_wide_kopia_2_2_Sexdocka_Docklandet_6635846a-45a6-4ee9-b72c-a962cebb8c48.jpg",
+        "title": "",
+        "content": "<h1>FUNWEST DOLL</h1><p><strong>FunWest Doll är en av världens främsta tillverkare av realistiska sexdockor. FunWest Doll fokuserar främst på prisvärda TPE-dockor men har även ett sortiment av exklusiva silikon-dockor och är av absolut högsta kvalitet.</strong></p><p>Vi är officiell distributör för FunWest Doll i Norden och kan erbjuda våra kunder alla sexdockor / real doll's ur FunWest's sortiment!</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_yWRti3": {
+      "type": "gallery",
+      "blocks": {
+        "image_CFfzd9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/funwest_silicone_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet..jpg"
+          }
+        },
+        "image_nmfG3d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/funwest_tpe_promotion_september_rea_kampanj_sale_Sexdocka_Docklandet_b5a74387-d8e7-4421-bf27-347395a55f65.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_CFfzd9",
+        "image_nmfG3d"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 2,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_NQtUxG": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_overlay_rDTAph": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "wide_display": false,
+        "image": "shopify://shop_images/Funwest_Doll_Vine_Talk_AI_Banner_Sexdocka_Docklandet.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16603973257d998081": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Irontech_Doll_TPE_Sexdockor_Docklandet_Real_Doll_copy-1.jpg",
+        "title": "",
+        "content": "<p></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 36,
+        "toggle": false
+      }
+    },
+    "1faf8ea7-38eb-421b-b54e-b91514d6b6c7": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/FunWest_Banner_Sex_doll_Docklandet.jpg",
+        "title": "",
+        "content": "<h2>Sexdockor från FunWest Doll</h2><p>Sexdockor har länge varit ett ämne av både fascination och kontrovers. Funwest Doll erbjuder en rad prisvärda sexdockor som lovar kvalitet och realism utan att bryta banken. I denna artikel utforskar vi vad som gör Funwest Dolls så unika, deras olika typer, användningsområden, och vad du bör tänka på när du köper en sexdocka. Sexdockans historia sträcker sig tillbaka till antikens Grekland, men moderna sexdockor började utvecklas under 20-talet. Teknologiska framsteg har gjort dagens dockor mer realistiska och tillgängliga än någonsin.</p><p>Funwest Dolls erbjuder flera olika typer av sexdockor, inklusive silikon- och TPE-dockor. Varje material har sina fördelar, som hållbarhet och känsla. Silikon-dockor från FunWest, silikon är känt för sin hållbarhet och realistiska känsla. Dessa dockor är lättare att rengöra och kan användas i olika temperaturer. TPE-dockor från FunWest. TPE, eller termoplastisk elastomer, är ett mjukare och mer flexibelt material som erbjuder en mer realistisk känsla men kräver mer omsorg vid rengöring.</p><p>Varje Funwest Doll kommer med specifikationer som kan anpassas efter kundens önskemål. Detta inkluderar vikt, längd, hudton, ögonfärg och mycket mer. Du kan välja mellan olika kroppstyper, hårfärger och andra fysiska attribut för att skapa en docka som perfekt matchar deras preferenser.</p><p>Funwest Dolls erbjuder många fördelar jämfört med andra märken. Dessa inkluderar realistiska detaljer, hållbara material och prisvärdhet. Med avancerad teknik kan Funwest Dolls erbjuda en otroligt realistisk upplevelse med detaljer som efterliknar mänsklig hud och ansiktsdrag.</p><h4>Användningsområden för Funwest Dolls</h4><p>Sexdockor används inte bara för sexuellt nöje. De kan också användas för emotionellt stöd, konstprojekt, och som kompanjoner för äldre eller personer med funktionsnedsättningar. Många användare rapporterar att sexdockor hjälper dem att hantera ensamhet och social ångest. Sexdockor används också inom konst och fotografi för att skapa realistiska modeller och scenarier.</p><h4>Prisvärda sexdockor</h4><p>Trots deras höga kvalitet är Funwest Dolls betydligt billigare än många konkurrenter, vilket gör dem till ett attraktivt val för budgetmedvetna konsumenter. Funwest Dolls erbjuder en prisvärd och högkvalitativ lösning för dem som söker en realistisk och mångsidig sexdocka. Med rätt skötsel kan dessa dockor ge många års glädje och stöd.</p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "babce000-a760-49a0-9120-430c7e97e326": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/LEXIE_FUNWEST_DOLL_155_CM_F-KUPA_026_TPE_46.jpg",
+        "title": "",
+        "content": "<p>På FunWestDoll är det primära syftet att skapa evig kärlek och nöje. FunWest föreställer sig en värld där människor kan släppa och spela ut sina djupaste önskningar och leva med ultimat tillfredsställelse. De bestämde sig för att ägna all sin passion och energi åt utveckling och tillverkning av naturtrogna och fantasifulla kärleksdockor.</p><p>FunWest Doll, som kommer från  Dongguan, Kina, grundades 2021. FunWest Doll-teamet fokuserar på att skapa och utveckla sexdockor som tillgodoser dina fantasier och önskemål med säkra, pålitliga produkter tillverkade av material av högsta kvalitet. Genom forskning och utveckling kommer de att fortsätta att förnya sin produktlinje med framtida trender och kundkrav i åtanke.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ef2db3a0-f453-40e5-9746-0ce7b4b78874": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/ASSOS_FUNWEST_DOLL_159_CM_A-KUPA_030_TPE_29.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_bjaNDN": {
+      "type": "gallery",
+      "blocks": {
+        "image_QqybLE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_140cmA.jpg"
+          }
+        },
+        "image_UV6VVG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_140cmG.jpg"
+          }
+        },
+        "image_JAqyrr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_150cmF.jpg"
+          }
+        },
+        "image_HNhtEf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_155cmF.jpg"
+          }
+        },
+        "image_6LKJD3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_155cmK.jpg"
+          }
+        },
+        "image_MBM87y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_157cmC.jpg"
+          }
+        },
+        "image_AzVgFA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_158cmC.jpg"
+          }
+        },
+        "image_EfE6h3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_158cmH.jpg"
+          }
+        },
+        "image_DAadQE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_158cmK.jpg"
+          }
+        },
+        "image_cadL7Y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_159cmA.jpg"
+          }
+        },
+        "image_YyLMwT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_159cmK.jpg"
+          }
+        },
+        "image_PWTq9m": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_160cmH.jpg"
+          }
+        },
+        "image_hm6TqX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_161cmE.jpg"
+          }
+        },
+        "image_4XHiqP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_162cmF.jpg"
+          }
+        },
+        "image_gVbiQW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_164cmB.jpg"
+          }
+        },
+        "image_jWJBRp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_165cmC.jpg"
+          }
+        },
+        "image_pzDyYE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_165cmJ.jpg"
+          }
+        },
+        "image_pD83Bd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_165cmK.jpg"
+          }
+        },
+        "image_AQ7Lr8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_165cmKK.jpg"
+          }
+        },
+        "image_KprGVK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FunWestDoll_170cmC.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_QqybLE",
+        "image_UV6VVG",
+        "image_JAqyrr",
+        "image_HNhtEf",
+        "image_6LKJD3",
+        "image_MBM87y",
+        "image_AzVgFA",
+        "image_EfE6h3",
+        "image_DAadQE",
+        "image_cadL7Y",
+        "image_YyLMwT",
+        "image_PWTq9m",
+        "image_hm6TqX",
+        "image_4XHiqP",
+        "image_gVbiQW",
+        "image_jWJBRp",
+        "image_pzDyYE",
+        "image_pD83Bd",
+        "image_AQ7Lr8",
+        "image_KprGVK"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1739478212e7070b8e": {
+      "type": "apps",
+      "blocks": {
+        "youtube_gallery_carousel_widget_block_BKbmkN": {
+          "type": "shopify://apps/youtube-gallery/blocks/carousel-widget-block/20730f6a-6b3e-4beb-9cbf-452a9ade13e3",
+          "settings": {
+            "contentIndex": "4",
+            "themeId": "light",
+            "autoscroll": true
+          }
+        },
+        "instafeed_app_block_6K8UN8": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38596",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "youtube_gallery_carousel_widget_block_BKbmkN",
+        "instafeed_app_block_6K8UN8"
+      ],
+      "settings": {}
+    },
+    "divider_Wq4jXp": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508256797a71ad8f": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {}
+    },
+    "featured_collection_iNrhPB": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära TPE-dockor",
+        "collection_description": false,
+        "collection": "popular-tpe-funwest-doll",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_aJpgfF": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära Silikondockor",
+        "collection_description": false,
+        "collection": "funwest-doll-silikon",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_qb6fWN": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "FunWest i lager",
+        "collection_description": false,
+        "collection": "funwest-doll-expressleverans",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 28,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_EcVTzU": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "featured_text_RHkYLB",
+    "gallery_yWRti3",
+    "divider_NQtUxG",
+    "image_with_text_overlay_rDTAph",
+    "16603973257d998081",
+    "main",
+    "1faf8ea7-38eb-421b-b54e-b91514d6b6c7",
+    "babce000-a760-49a0-9120-430c7e97e326",
+    "ef2db3a0-f453-40e5-9746-0ce7b4b78874",
+    "gallery_bjaNDN",
+    "1739478212e7070b8e",
+    "divider_Wq4jXp",
+    "16508260667ee95abe",
+    "16508256797a71ad8f",
+    "featured_collection_iNrhPB",
+    "featured_collection_aJpgfF",
+    "featured_collection_qb6fWN",
+    "divider_EcVTzU"
+  ]
+}

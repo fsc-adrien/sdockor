@@ -1,0 +1,378 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_8QFBRN": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/EN_billiga_sexdockor_docklandet_sexdocka_sverige_real_doll_kopia_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/billiga_sexdockor_docklandet_sexdocka_sverige_real_doll_2-1_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "",
+        "content": "<h1>Billiga sexdockor</h1><p><strong>Här hittar du billiga sexdockor av premium-kvalitet. Detta är noga utvalda dockor av hög kvalitet till ett överkomligt pris</strong></p><p>Vi erbjuder snabb leverans (2-4 arbetsdagar) på många av dockorna i denna kollektion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5308397b-62ad-486d-a8ed-817d5af797bf": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 32,
+        "toggle": false
+      }
+    },
+    "7c6c7b50-7c14-450e-a389-52bf053767e5": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "sexdockor-dx-value",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 48,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "df84fbd5-94f2-499c-b2f9-4905caad1535": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "aibei-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 48,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2c20f2c5-51f4-43fb-bb31-d480960e932e": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection_description": false,
+        "collection": "el-doll",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 48,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "508e4ef1-0aa2-4633-a3bd-1c0f89f557fd": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/billiga_sexdockor_docklandet_sexdocka_sverige_real_doll_kopia-1_Sexdocka_Docklandet_d2ef9831-2247-462e-8c7f-22cac8e54731.jpg",
+        "mobile_image": "shopify://shop_images/billiga_sexdockor_docklandet_sexdocka_sverige_real_doll-1_1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h2>Billiga sexdockor</h2><p>En sexdocka (även kallad \"real doll\") är en exklusiv produkt tillverkad på andra sidan jorden, delvis helt för hand. Att tillverka en realistisk docka kräver kunskap, erfarenhet och många olika aktörer är involverade i processen. Att en sexdocka har ett högt pris är inte helt konstigt, speciellt med tanke på att fraktkostnad alltid är inräknat i priset. </p><p>Vi erbjuder i denna kollektion ett urval av billiga sexdockor. Dockor som trots sitt låga pris håller hög kvalitet. En billig sexdocka är bra för dig som vill prova en sexdocka utan att behöva lägga en alltför stor summa på den. </p><p>Våra billiga sexdockor är alla noga utvalda av oss och ser exakt ut som på bilderna. Några av dessa dockor säljs i andra butiker med felaktiga bilder och till högre pris. Ofta används då bilder från det WM-Doll vilket såklart inte är helt ok. </p><p>Några av våra billiga sexdockor har helt klart tagit inspiration av dyrare populära sexdockor. Men detta är inga dåliga kopior eller fake's. Precis som i alla branscher så sneglar ibland mindre aktörer på de stora märkena. Våra billiga sexdockor från DX Value och Aibei Doll har i vissa fall en del av utseende och stil inspirerad av andra, men det är ändå helt egna dockor och inga kopior. </p><p>Vi har flera dockor från DX Value och Aibei Doll uppställda hos oss i Borlänge. Kom gärna förbi på ett besök så kan du själv jämföra kvalitet på dockor. Vi har alltifrån billiga sexdockor och miniatyrer till dyrare full-size silikondockor från till exempel Irontech Doll och Zelex. <br/><br/><strong>MÅNGA AV VÅRA BILLIGA SEXDOCKOR ERBJUDER VI EXPRESSLEVERANS PÅ. NORMAL LEVERANSTID 2-4 DAGAR</strong></p><p><strong>(dockor i lager går ej att modifiera)</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5bff5789-0f99-42a6-840b-3e3ce76586ec": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/DX_Value_sexdocka_real_Doll_sexdockor_docklandet-1_1_Sexdocka_Docklandet_0c50e48f-7d45-4962-8ab7-d5f770248996.jpg",
+        "title": "",
+        "content": "<p>Sexdockor från DX Value hos Docklandet är noga utvalda och håller alltid hög kvalitet. Våra sexdockor är tillverkad av materialet TPE som ger dockan ett realistiskt utseende och verklig känsla. Materialet är väldigt slitstarkt och hållbart vilket gör att din docka får en lång livslängd.</p><p>Dockans yttre känns och ser ut som mänsklig hud, brösten är mjuka (men ändå fasta) och vaginan är gjuten efter verkliga modeller. Kroppen är rejäl, tålig och flexibel och går att ställa i alla tänkbara positioner. Läs gärna mer om sexdockor här: <a href=\"https://docklandet.se/pages/info\" target=\"_blank\" title=\"här\"><strong>info om sexdockor</strong></a>.</p><p>Alla dockor i DX Value-serien är framtagna i nära samarbete direkt med de bästa tillverkarna av sexdockor. Det innebär att vi kan erbjuda klassiska och populära modeller av dockor till marknadens lägsta priser. Vi uppdaterar regelbundet vårt utbud av billiga dockor av hög kvalitet. </p><p>Söker du en första docka eller har begränsad budget är en billig sexdocka från DX Value ett bra val! Hög kvalitet till ett lågt pris (relativt sett). </p><p>DX Value erbjuder flera uppgraderingar av sina dockor som till exempel robot-skelett och vacuum-vagina! Unika funktioner för DX Value.</p>",
+        "button_label": "DX Value - Se mer",
+        "button_link": "shopify://collections/sexdockor-dx-value",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "dbda1bb2-801b-4fc2-aa01-553ef9431b41": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/aibei_doll_docklandet_sexdocka-1_1_Sexdocka_Docklandet_3a663958-7900-41cc-8560-2d28e84c9419.jpg",
+        "title": "",
+        "content": "<p>Sexdockor från Aibei Doll (tidigare Entity Real Doll) är alla av hög kvalitet utan att ha alltför höga priser. Aibei Doll har varit verksamma i branschen länge och tillverkar också dockor åt andra mer kända märken. De kännetecknas främst av att deras sexdockors kroppar är extremt verkliga, vissa tycker till och med att Aibei Doll's kroppar håller högre standard än mer kända och mycket dyrare märken. Sexdockor från Aibei Doll har alltid gel-bröst som standard. Gel-bröst innebär att bröstens inre består av en gele-massa istället för TPE som gör de extra mjuka och verkliga i känslan. Något annat som utmärker dockor från Aibei Doll är den fina solbruna huden och att bröstvårtor och vagina är mycket fina och välgjorda sett till form och färg.</p><p>Aibei Doll har perfekta sexdockor för dig som vill ha en verklig och unik sexdocka utan att behöva lägga allt för stora summor på dockan. Vi har flera dockor från Aibei Doll i lager hemma i Borlänge och vi har även expressleverans (2-4 arbetsdagar) på de flesta av deras dockor. Stabila, vackra, prisvärda sexdockor av hög kvalitet! Det går även bra att anpassa sexdockor från Aibei Doll, men i de flesta fall lär dockan då tillverkas i fabrik. Vi har även peruker och ögon hemma i Borlänge för dig som vill köpa dockan här på plats. </p><p>Sexdockor från Aibei Doll är gjorda av materialet <a href=\"https://en.wikipedia.org/wiki/Thermoplastic_elastomer\" target=\"_blank\" title=\"TPE - Info om materialet\"><strong>TPE</strong></a> och har ett inre skelett av metall. Aibei Doll har stora krav på kvalitet och varje docka är noga kontrollerad och kvalitetstestad innan förpackning. Det medföljer en liten lapp som är underskriven med datum och signatur från kontrollant.</p>",
+        "button_label": "Aibei Doll - Se mer",
+        "button_link": "shopify://collections/aibei-doll",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "56b2d747-e1ea-44a6-adc3-da2c1e565379": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Prisvärda dockor i lager",
+        "collection_description": false,
+        "collection": "tpe-dockor-i-lager-expressleverans",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4722b2c6-6f61-403d-b87d-55eb91a8bd80": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor_1_Sexdocka_Docklandet_27945ecf-7456-4a6a-a9e3-8bdeaa9ded6d.png",
+        "mobile_image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor__mobile_2_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<p>Vi erbjuder expressleverans på många av våra prisvärda sexdockor. Normal leveranstid är 2-4 arbetsdagar. Generellt sett har vi alltid några av de populäraste dockorna hemma i lager. Men det händer att vissa modeller tar slut och då behöver de skickas från Kina. Alternativt så får du som kund vänta tills vi har dockan åter i lager, eller välja en annan modell. Vi försöker ha några dockor i varje storlek hemma så ofta vi kan. </p><p>Vi har även mängder av andra dockor från dyrare märken hemma i lager. Vi har ett stort uppvisnings-rum med flera stora dockor uppställda från WM-Doll, Irontech Doll, Starpery, Zelex, mm. Vi har även ett till rum fyllt med miniatyrer, främst från Piper Doll och Irokebijin. </p><p>Dessa dockor behöver normalt sett tillverkas i Kina och sedan fraktas till Sverige vilket i vissa fall kan ta flera månader. Genom att köpa en av våra dockor som vi har expressleverans på så slipper du den långa väntetiden och kan ha en exklusiv premium-docka innan veckans slut. Det kan såklart även vara värt en lång väntetid för att få exakt den docka man vill ha med rätt inställningar. Helt upp till en själv!</p><p>Några populära dockor har vi flera exemplar hemma av, detta gäller främst miniatyrer som inte tar lika mycket plats. Men även några större modeller har vi flera exemplar i lager av. Silikondockor (som är dyrare) har vi generellt oftast endast ett exemplar i lager av. Vi har även mängder av olika huvuden från alla de märken vi säljer i vår butik. Samt ett stort sortiment av peruker och diverse tillbehör. </p>",
+        "button_label": "Se alla dockor i lager",
+        "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_Uz94NX": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2835e391-d118-4605-b425-e1ed78b5e96d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "224f98d2-5fad-4ca4-8b64-ca1dffc70311": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "f6e554ba-c5c7-4c85-9c56-6966eb917068": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "3c10820e-48fd-4018-ac25-ea033329d90a": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "blond-sexdocka"
+          }
+        },
+        "0ff90bff-a193-43be-8655-4f22bde27a21": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdocka-brunett-brown-hair"
+          }
+        }
+      },
+      "block_order": [
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-1",
+        "template--16685358842114__2835e391-d118-4605-b425-e1ed78b5e96d-16752750530864a32c-0",
+        "224f98d2-5fad-4ca4-8b64-ca1dffc70311",
+        "f6e554ba-c5c7-4c85-9c56-6966eb917068",
+        "3c10820e-48fd-4018-ac25-ea033329d90a",
+        "0ff90bff-a193-43be-8655-4f22bde27a21"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Ute efter något mer specifikt?",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "45623cba-f8b5-40f1-aef1-3565e9e96151": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Nyligen tilladga dockor",
+        "collection_description": false,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_CHnrpV": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "DX Value (lågpris)",
+        "collection_description": true,
+        "collection": "sexdockor-dx-value",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_8696K7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YJL Doll (lågpris)",
+        "collection_description": true,
+        "collection": "yjl-doll-tpe",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_8rhPNJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Climax Doll (lågpris)",
+        "collection_description": true,
+        "collection": "climax-low-price",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_nmcQzE": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Aibei Doll (lågpris)",
+        "collection_description": true,
+        "collection": "aibei-doll",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 22,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_collection_ECfTJh": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Bezlya Doll (lågpris)",
+        "collection_description": true,
+        "collection": "bezlya-doll-silikon-tpe",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 21,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "settings": {}
+    },
+    "98fbf1aa-a474-4ebc-90fb-c20757046b2e": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_8QFBRN",
+    "5308397b-62ad-486d-a8ed-817d5af797bf",
+    "main",
+    "7c6c7b50-7c14-450e-a389-52bf053767e5",
+    "df84fbd5-94f2-499c-b2f9-4905caad1535",
+    "2c20f2c5-51f4-43fb-bb31-d480960e932e",
+    "508e4ef1-0aa2-4633-a3bd-1c0f89f557fd",
+    "5bff5789-0f99-42a6-840b-3e3ce76586ec",
+    "dbda1bb2-801b-4fc2-aa01-553ef9431b41",
+    "56b2d747-e1ea-44a6-adc3-da2c1e565379",
+    "4722b2c6-6f61-403d-b87d-55eb91a8bd80",
+    "divider_Uz94NX",
+    "2835e391-d118-4605-b425-e1ed78b5e96d",
+    "16508260667ee95abe",
+    "45623cba-f8b5-40f1-aef1-3565e9e96151",
+    "featured_collection_CHnrpV",
+    "featured_collection_8696K7",
+    "featured_collection_8rhPNJ",
+    "featured_collection_nmcQzE",
+    "featured_collection_ECfTJh",
+    "1652224218445a4dc3",
+    "98fbf1aa-a474-4ebc-90fb-c20757046b2e"
+  ]
+}

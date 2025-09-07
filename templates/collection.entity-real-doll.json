@@ -1,0 +1,280 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_text_kNkwmE": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/aibei_doll_docklandet_sexdocka-1_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "mobile_image": "shopify://shop_images/aibei_doll_docklandet_sexdockor_mobile-1.jpg",
+        "title": "",
+        "content": "<h1>Aibei Doll</h1><p>Sexdockor från Aibei Doll är alla av hög kvalitet utan att ligga på alltför höga priser relativt sett. Dockorna är noga utvalda och ser självklart ut exakt som på bilderna! Aibei Dolls dockor har mjuka gel-bröst som standard.</p><p><strong>Vi kan erbjuda express leverans (2-4 dagar) på många dockor från Aibei Doll! Vi har även flera dockor uppställda i Borlänge, välkommen!</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 3,
+        "rv_per": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "featured_text_JqhXHN": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/aibei_doll_docklandet_sexdockor_mobile-1.jpg",
+        "title": "",
+        "content": "<h2>- SEXDOCKOR FRÅN AIBEI DOLL -</h2><p>Sexdockor från Aibei Doll är alla av hög kvalitet utan att ha alltför höga priser.  Aibei Doll har varit verksamma i branschen länge och tillverkar också dockor åt andra mer kända märken. Vi har bytt namn på denna kollektion från Entity Real Doll till Aibei Doll då detta är det mer etablerade varumärket för denna tillverkare. De kännetecknas främst av att deras sexdockors kroppar är extremt verkliga, vissa tycker till och med att Aibei Doll's kroppar håller högre standard än mer kända och mycket dyrare märken. Sexdockor från Aibei Doll har alltid gel-bröst som standard. Gel-bröst innebär att bröstens inre består av en gele-massa istället för TPE som gör de extra mjuka och verkliga i känslan. Något annat som utmärker dockor från Aibei Doll är den fina solbruna huden och att bröstvårtor och vagina är mycket fina och välgjorda sett till form och färg.</p><p>Aibei Doll har perfekta sexdockor för dig som vill ha en verklig och unik sexdocka utan att behöva lägga allt för stora summor på dockan. Vi har flera dockor från Aibei Doll i lager hemma i Borlänge och vi har även expressleverans (2-4 arbetsdagar) på de flesta av deras dockor. Stabila, vackra, prisvärda sexdockor av hög kvalitet! Det går även bra att anpassa sexdockor från Aibei Doll, men i de flesta fall lär dockan då tillverkas i fabrik. Vi har även peruker och ögon hemma i Borlänge för dig som vill köpa dockan här på plats. </p><p>Sexdockor från Aibei Doll är gjorda av materialet <a href=\"https://en.wikipedia.org/wiki/Thermoplastic_elastomer\" title=\"TPE - Info om materialet\"><strong>TPE</strong></a> och har ett inre skelett av metall. Aibei Doll har stora krav på kvalitet och varje docka är noga kontrollerad och kvalitetstestad innan förpackning. Det medföljer en liten lapp som är underskriven med datum och signatur från kontrollant.</p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_UCTVy6": {
+      "type": "featured-text",
+      "settings": {
+        "title": "POPULÄRA DOCKOR FRÅN AIBEI DOLL",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_Ljnaj6": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdocka_Docklandet_Entity_Real_Doll_wide_Aibei_Girls-1_1_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "Yumi - 153 cm J-kupa (Aibei Doll)",
+        "content": "<p>Yumi är en unik sexdocka och en av de absolut populäraste i vårt sortiment. Denna sexdocka från Aibei Doll har en mogen kropp med extra stora bröst och en härligt spännande utstrålning. En real doll med lekfull spännande blick, härliga asiatiska drag, smal midja och gigantiska bröst. Yumi är en högkvalitativ och unik sexdocka som inte liknar någon annan. Denna prisvärda real doll är en stor favorit bland våra kunder.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_9AHJUj": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdocka_Docklandet_Entity_Real_Doll_wide_Aibei_Girls-1_Sexdocka_Docklandet_RealDoll_Sexdockor_2601adee-9a2d-4439-ab14-9d1d8e6494da.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_WHg4ER": {
+      "type": "featured-text",
+      "settings": {
+        "title": "Johanna - 160 cm C-kupa (Aibei Doll)",
+        "content": "<p>En ståtlig real doll på hela 160 cm med en skarp blick för dig som vet precis vad du vill ha. Johanna är en sexdocka med härligt charmigt utseende och en tight kropp med bröststorlek C-kupa. För dig som söker en realistisk full size-docka av hög kvalitet så är Johanna från Aibei Doll ett bra val. Besök oss gärna i Borlänge för att spana in Johanna, detta är en populär sexdocka/real doll som vi ofta har hemma i lager för snabb leverans. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_eK4zGN": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdocka_Docklandet_Entity_Real_Doll_wide_Aibei_Girls-1_2_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "Nicole - 170 cm G-kupa (Aibei Doll)",
+        "content": "<p>Nicole är en perfekt sexdocka med ett vackert och populärt utseende, härliga kurvor och rejäla tunga bröst. En klassisk sexdocka och en av de längsta i vårt sortiment på hela 170 cm. Nicole utstrålar självförtroende och även lite attityd, med sin lugna djupa blick och öppna mun. Denna real doll's utseende påminner om det klassiska amerikanska och svenska blonda idealet som var som störst på 90-talet. Med en mogen atletisk kropp, rejält stora välformade bröst, fylliga putande läppar och långt ljusblont hår är Nicole verkligen en real doll som lever upp till ens förväntningar om man är ute efter ett klassiskt \"blont bombnedslag\". </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_MJyGNg": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Sexdocka_Docklandet_Entity_Real_Doll_wide_Aibei_Girls-1_3_Sexdocka_Docklandet_RealDoll_Sexdockor.jpg",
+        "title": "Sonya - 140 cm H-kupa (Aibei Doll)",
+        "content": "<p>På jakt efter att köpa en kurvig real doll men inte intresserad av en full-size? Då kan Sonya vara ett bra val för dig. En verklighetstrogen blond sexdocka på 140 cm med en atletisk bulkad kropp och en rejäl stjärt, stora bröst samt en härlig markerad mage. Sonya är en mellanstor, realistisk sexdocka med mjuka fina kurvor och ett vackert nordiskt utseende, eller varför inte östeuropeiskt kanske? Influenserna av en blond stark ung kvinna finns där. Letar du efter sexdocka med en kropp likt Sonyas kommer du bli mycket nöjd om du väljer denna real doll. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "mini-sexdocka-miniatyr-2",
+            "image": "shopify://shop_images/Miniatyr_Sexdockor_Mini_Sexdolls_d2ea9b5b-ee2c-466a-bc8f-9d47b67b95b3.jpg"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdockor-medium-size-2",
+            "image": "shopify://shop_images/medium_sexdockor_docklandet_1_f4454402-8283-4740-a033-b820a425c38e.jpg"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdockor-full-size-2",
+            "image": "shopify://shop_images/full-size_sexdolls_langa_sexdockor_docklandet_5_743973ac-8fc0-4da0-a404-490398d086af.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-1",
+        "1650824619071e18ff-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9683018d-663a-4a50-b8cd-32a200a69865": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16721485431042__9683018d-663a-4a50-b8cd-32a200a69865-collection-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--16721485431042__9683018d-663a-4a50-b8cd-32a200a69865-collection-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "template--16721485431042__9683018d-663a-4a50-b8cd-32a200a69865-collection-3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "1f80dacf-0b6d-45b5-afa8-eebd6603e259": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721485431042__9683018d-663a-4a50-b8cd-32a200a69865-collection-1",
+        "template--16721485431042__9683018d-663a-4a50-b8cd-32a200a69865-collection-2",
+        "template--16721485431042__9683018d-663a-4a50-b8cd-32a200a69865-collection-3",
+        "1f80dacf-0b6d-45b5-afa8-eebd6603e259"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "divider_g9h7gb": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "featured_text_kNkwmE",
+    "main",
+    "16508260667ee95abe",
+    "1652224218445a4dc3",
+    "featured_text_JqhXHN",
+    "featured_text_UCTVy6",
+    "featured_text_Ljnaj6",
+    "featured_text_9AHJUj",
+    "featured_text_WHg4ER",
+    "featured_text_eK4zGN",
+    "featured_text_MJyGNg",
+    "1650824619c8dde57c",
+    "9683018d-663a-4a50-b8cd-32a200a69865",
+    "divider_g9h7gb"
+  ]
+}

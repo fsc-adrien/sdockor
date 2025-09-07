@@ -1,0 +1,313 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165220583076f27bdb": {
+      "type": "Clerk-slider",
+      "disabled": true,
+      "settings": {
+        "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
+      }
+    },
+    "featured_text_fyFnyW": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Irokebijin_Anime_Sexdockor_Docklandet_Real_Doll_Sexdocka_Docklandet.jpg",
+        "mobile_image": "shopify://shop_images/Anime_Sexdockor_Docklandet_Real_Doll_Mobile_kopia-1_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "<h1>Irokebijin</h1><p><strong>Sexdockor av högsta kvalitet från det kända dock-märket Irokebijin. Irokebijin's dockor har alltid ansikte i anime stil med realistisk kropp till. Prisvärda anime-dockor tillverkade av materialen TPE och silikon. </strong></p><p>Vi är officiell distributör i Norden och kan erbjuda våra kunder alla sexdockor ur Irokebijin's sortiment. Vi importerar även kontinuerligt Irokebijin-dockor till vårat egna lager.</p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16603973257d998081": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/irokebijin_silicone_hss_promotion_november_black_friday_rea_kampanj_sale_Sexdocka_Docklandet.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": false,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 4,
+        "pagination_limit": 36,
+        "toggle": false
+      }
+    },
+    "1650824619c8dde57c": {
+      "type": "collection-list",
+      "blocks": {
+        "1650824619071e18ff-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "mini-sexdocka-miniatyr-2",
+            "image": "shopify://shop_images/Miniatyr_Sexdockor_Mini_Sexdolls_d2ea9b5b-ee2c-466a-bc8f-9d47b67b95b3.jpg"
+          }
+        },
+        "1650824619071e18ff-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdockor-medium-size-2",
+            "image": "shopify://shop_images/medium_sexdockor_docklandet_1_f4454402-8283-4740-a033-b820a425c38e.jpg"
+          }
+        },
+        "1650824619071e18ff-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdockor-full-size-2",
+            "image": "shopify://shop_images/full-size_sexdolls_langa_sexdockor_docklandet_5_743973ac-8fc0-4da0-a404-490398d086af.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1650824619071e18ff-0",
+        "1650824619071e18ff-1",
+        "1650824619071e18ff-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "670101b6-81bd-4478-880e-b5aa2a410b07": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/Anime_Sexdockor_Docklandet_Real_Doll_Mobile_kopia-1_Sexdocka_Docklandet_ebf44b14-1914-4b2c-ac75-d8c4742b149b.jpg",
+        "title": "",
+        "content": "<h2>- SEXDOCKOR FRÅN IROKEBIJIN -</h2><p>Irokebijin är ett välkänt fabrikat i dock-världen som fokuserar på sexdockor i anime-stil. Tecknade tv-serier från Japan kallas anime och är populära världen över. Vårt sortiment av Irokebijin-dockor är unikt för Sverige och Europa och vi vill erbjuda våra kunder de absolut finaste och mest exklusiva anime-dockorna som går att hitta!</p><p>Många av Irokebijin's dockor är miniatyrer och storbystade med bra höfter. Det är såklart svårt att hitta lämpliga kläder till dockor som dessa, därför har Irokebijin skapat ett eget klädesmärke vid namn Kosplay som har en bred kollektion av klädesplagg och outfits för dockor i storlekarna 80-100 cm. </p><p>Docklandet strävar alltid efter att kunna erbjuda de mest unika dockorna på marknaden och vi uppdaterar hela tiden vårt sortiment med nya spännande sexdockor. När vi fick erbjudande om att börja sälja dockor för Irokebijin så nappade vi direkt! Irokebijin's sortiment av unika dockor passar bra som komplement till våra övriga superrealistiska sexdockor.</p><p>Irokebijin har ett nära samarbete med <a href=\"https://docklandet.se/collections/piper-doll-sexdockor\" title=\"Piper Doll\"><strong>Piper Doll</strong></a> och deras dockor tillverkas  i samma fabrik. Precis som Piper Doll så är Irokebijin kända för att kunna ha en surrealistisk touch på sina dockor, fast de tar det några steg längre. Irokebijin har många dockor direkt hämtade ur tecknade serier, alltså inte längre bara söta ansikten som skulle kunna påminna om tecknade figurer, utan här har vi tecknade ansikten rakt av. </p><p>För dig som gillar japanska manga och animekulturen så känner du säkert igen flera av Irokebijin's dockor. Vi själva har inte helt koll, men \"Lazuli / Android 18\" (karaktär som hängt med sedan tidigt 90-tal) är vi bekanta med och vi tycker denna är riktigt häftig! Abby, Akane, mfl är också hämtade direkt ur anime. Vi har flera av dockorna från Irokebijin uppställda hos oss i <strong>Borlänge</strong>. Vi har även flera dockor i lager för snabb leverans! </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "17395339608c25ebb5": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_zjKAAY": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "38605",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_zjKAAY"
+      ],
+      "settings": {}
+    },
+    "divider_xayneA": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "cd477de7-5823-4fcd-a01c-c65f463cd578": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Irokebijin_Outfit_Sex_Doll_Docklandet_Sexdockor_Klader-1_8_Sexdocka_Docklandet_86977c70-4780-4182-88a4-a0724b6b9109.jpg",
+        "title": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16508260667ee95abe": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "",
+        "rv_max_display": 3,
+        "rv_per": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7edef0d2-a81d-47d2-a4da-9b811f4c6b16": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populärt Irokebijin",
+        "collection_description": false,
+        "collection": "populara-irokebiji-dockor-tpe-mini-size",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2d37410d-5671-41b5-be69-5f99a26113d3": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16721485627650__2d37410d-5671-41b5-be69-5f99a26113d3-collection-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        },
+        "template--16721485627650__2d37410d-5671-41b5-be69-5f99a26113d3-collection-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "template--16721485627650__2d37410d-5671-41b5-be69-5f99a26113d3-collection-3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "4cb4993c-b3ad-4ac7-a6ef-f57e61cba981": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721485627650__2d37410d-5671-41b5-be69-5f99a26113d3-collection-1",
+        "template--16721485627650__2d37410d-5671-41b5-be69-5f99a26113d3-collection-2",
+        "template--16721485627650__2d37410d-5671-41b5-be69-5f99a26113d3-collection-3",
+        "4cb4993c-b3ad-4ac7-a6ef-f57e61cba981"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "35ec000f-bf24-4b7b-b59f-1fbf39793a70": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populära dockor i lager",
+        "collection_description": false,
+        "collection": "expressleverans-best-sellers",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "97887fe2-b648-4c8a-b34a-64a4c959af9b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nyligen tillagda dockor",
+        "collection_description": true,
+        "collection": "sexdockor-nyheter",
+        "collection_style": "grid",
+        "products_per": 6,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652224218445a4dc3": {
+      "type": "apps",
+      "blocks": {
+        "f02803a8-12b1-424e-ad80-5b507fd00115": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-auto-size",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "f02803a8-12b1-424e-ad80-5b507fd00115"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "081e9b33-3f7a-408b-ab04-68d9a6a4e738": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165220583076f27bdb",
+    "featured_text_fyFnyW",
+    "16603973257d998081",
+    "main",
+    "1650824619c8dde57c",
+    "670101b6-81bd-4478-880e-b5aa2a410b07",
+    "17395339608c25ebb5",
+    "divider_xayneA",
+    "cd477de7-5823-4fcd-a01c-c65f463cd578",
+    "16508260667ee95abe",
+    "7edef0d2-a81d-47d2-a4da-9b811f4c6b16",
+    "2d37410d-5671-41b5-be69-5f99a26113d3",
+    "35ec000f-bf24-4b7b-b59f-1fbf39793a70",
+    "97887fe2-b648-4c8a-b34a-64a4c959af9b",
+    "1652224218445a4dc3",
+    "081e9b33-3f7a-408b-ab04-68d9a6a4e738"
+  ]
+}

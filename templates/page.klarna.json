@@ -1,0 +1,179 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165217872584090210": {
+      "type": "content-page",
+      "disabled": true,
+      "settings": {
+        "content_page": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5ac67588-47f6-4432-a990-f8796fabe411": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/sexdocka_real_doll_sexdockor_sverige_docklandet_start2023-1_2_Sexdocka_Docklandet_46270e5a-ae80-4952-b077-af0af48c628c.jpg",
+        "title": "",
+        "content": "<h1><strong>Betala med Klarna hos Docklandet</strong></h1><p>Det är väldigt smidigt att betala med Klarna. I kassan väljer du <strong>Klarna - Betala nu eller senare</strong> som betalningsmetod. Efter det så slussas du vidare till Klarnas portal där du får logga in med ditt bank-id. Därefter så får du välja om du vill betala efter att dockan är mottagen eller om du vill dela upp ditt köp. Du kan avbetala din docka i upp till 36 månader. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "11f7cee8-9d4e-4b73-afcc-4961d5fa6d62": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify://shop_images/1366x768_white_copy_mobile2.jpg",
+        "mobile_image": "shopify://shop_images/1366x768_white_copy_mobile3.jpg",
+        "title": "",
+        "content": "<p>* = Representativt exempel: Köp en docka för 10 000 kr med 6 månaders avbetalning. Uppläggningsavgift 0 kronor, administrativ avgift 0 kr/månad, fast årsränta 18,9% Månadsbetalning blir då 1760 kr, effektiv ränta 18,9% Total summa att betala: 10 559 kr. </p><p>Kreditgivare och betalningsmottagare: Klarna Bank AB (publ) Sveavägen 46, 111 34 Stockholm. Beloppen som visas är en indikation. Extra kostnad varierar beroende på vilken dag i månaden köpet är gjort. För fullständiga villkor, läs mer på <a href=\"https://klarna.com/sv/villkor\" title=\"Klarna - Villkor \"><strong>klarna.com/sv/villkor</strong></a></p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1675103951c502b4ff": {
+      "type": "apps",
+      "blocks": {
+        "6003dd58-a012-43f1-8405-7cb48fef6606": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "info-page",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "21"
+          }
+        }
+      },
+      "block_order": [
+        "6003dd58-a012-43f1-8405-7cb48fef6606"
+      ],
+      "settings": {}
+    },
+    "04aa1e71-7880-4ea3-8839-dea0dd5d63b9": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "blond-sexdocka"
+          }
+        },
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sexdocka-brunett-brown-hair"
+          }
+        },
+        "5a96df83-38e8-457d-9836-fef03366cc74": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "kurvig-sexdocka"
+          }
+        },
+        "41533755-a1ea-4c76-9d93-0caeff9a915b": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "fantasy-sexdockor"
+          }
+        },
+        "ba953ffc-e312-4ae5-bdc3-d8f8db0fe7eb": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "manlig-sexdocka"
+          }
+        },
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "anime-sexdocka-manga"
+          }
+        }
+      },
+      "block_order": [
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-1",
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-2",
+        "5a96df83-38e8-457d-9836-fef03366cc74",
+        "41533755-a1ea-4c76-9d93-0caeff9a915b",
+        "ba953ffc-e312-4ae5-bdc3-d8f8db0fe7eb",
+        "template--16679977615618__04aa1e71-7880-4ea3-8839-dea0dd5d63b9-1676307334cde34417-0"
+      ],
+      "settings": {
+        "title": "Ute efter något mer specifikt?",
+        "align_height": false,
+        "collection_height": 200,
+        "frontpage_collections_per_row": 2,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "page-no-title-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "b5fb4109-8f92-425f-86cb-8f2d45ed37cb": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "Du besökte nyligen",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "167924004874a58312": {
+      "type": "apps",
+      "blocks": {
+        "49af5f82-9f8d-4676-8fbd-d59c5856417b": {
+          "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "theme": "dark",
+            "topPadding": "0",
+            "bottomPadding": "0"
+          }
+        }
+      },
+      "block_order": [
+        "49af5f82-9f8d-4676-8fbd-d59c5856417b"
+      ],
+      "settings": {}
+    },
+    "ddb5d071-16ab-4c3e-b7f6-738aba6443c1": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "165217872584090210",
+    "5ac67588-47f6-4432-a990-f8796fabe411",
+    "11f7cee8-9d4e-4b73-afcc-4961d5fa6d62",
+    "1675103951c502b4ff",
+    "04aa1e71-7880-4ea3-8839-dea0dd5d63b9",
+    "main",
+    "b5fb4109-8f92-425f-86cb-8f2d45ed37cb",
+    "167924004874a58312",
+    "ddb5d071-16ab-4c3e-b7f6-738aba6443c1"
+  ]
+}

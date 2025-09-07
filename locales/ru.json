@@ -1,0 +1,326 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "general": {
+    "meta": {
+      "tagged_html": "Tagged »{{ tags }}\"",
+      "page": "Страница {{ page_number }}"
+    },
+    "404": {
+      "title": "Не удалось найти страницу",
+      "subtext": "Страница, которую вы ищете, не может быть найдена",
+      "continue_shopping_html": "Попробуйте искать или <a href=\"/collections/all\">Продолжить покупки →</a>"
+    },
+    "password_page": {
+      "opening_soon": "Скоро открывается",
+      "spread_the_word": "Распространить слово",
+      "or": "или",
+      "powered_by_shopify_html": "Этот магазин будет оснащен <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.См. ™ </a>\n"
+    },
+    "forms": {
+      "post_error": "Все поля не завершены",
+      "post_field_error_html": "<strong>{{ field }}</strong> {{ error }}"
+    },
+    "newsletter_form": {
+      "title": "Новости и обновления",
+      "description": "Авторизоваться ",
+      "name": "Имя",
+      "email": "Электронная почта",
+      "subscriber_first_name": "Имя",
+      "subscriber_last_name": "Фамилия",
+      "success_text": "Спасибо!",
+      "placeholder": "Введите свою электронную почту ...",
+      "submit": "Подписаться"
+    },
+    "breadcrumbs": {
+      "home": "Дом",
+      "page": "Страница {{ current_page }} из {{ pages }}"
+    },
+    "search": {
+      "title": "Поиск",
+      "description": "Поиск в магазине",
+      "no_results_html": "Ваш поиск »{{ terms }}\"К сожалению, ничего не совпадал. Вместо этого попробуй заглянуть в наши меню",
+      "advanced_search_html": "Расширенный поиск →",
+      "no_results": "К сожалению, никаких результатов",
+      "load_more": "Показать больше",
+      "all_results": "Покажи все",
+      "results_count": {
+        "zero": "{{ count }} результаты",
+        "one": "{{ count }} результаты",
+        "other": "{{ count }} результаты"
+      },
+      "placeholder": "Поиск ...",
+      "placeholder_with_shop_name": "Поиск {{ shop_name }}...",
+      "submit": "Поиск"
+    },
+    "accessibility": {
+      "total_reviews": "Количество обзоров",
+      "star_reviews_info": "{{ rating_value }} из {{ rating_max }} Звезда"
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%Y %B, %d"
+  },
+  "blogs": {
+    "general": {
+      "continue_reading_html": "Читать далее",
+      "tagged": "Tagged",
+      "view_all": "Все категории"
+    },
+    "sidebar": {
+      "recent_articles": "Новые посты",
+      "categories": "Категории",
+      "follow_us": "Подписывайтесь на нас",
+      "follow_shop": "Следовать {{ shop_name }} В Твиттере"
+    },
+    "article": {
+      "read_time": "время чтения",
+      "posted_in_html": "{{ tags }}",
+      "additional_articles": "Также читайте {{ title }}",
+      "author_on_date_html": "Сообщения созданы {{ date }} из {{ author }}",
+      "by_author": "из {{ author }}",
+      "previous_article_html": "<span class=\"icon-left-arrow\"></span> Предыдущий",
+      "next_article_html": "Следующий <span class=\"icon-right-arrow\"></span>",
+      "tags": "Теги",
+      "author": "Автор",
+      "comment_meta_html": "<strong>{{ author }}</strong> на <strong><time datetime=\"{{ date }}\">{{ date }}</time></strong>"
+    },
+    "counts": {
+      "comments_with_count": {
+        "one": "{{ count }} Комментарий",
+        "other": "{{ count }} Комментарии"
+      }
+    },
+    "comments": {
+      "response_count": {
+        "zero": "Ответ",
+        "one": "{{ count }} Ответ",
+        "other": "{{ count }} Ответ"
+      },
+      "title": "Напишите комментарий",
+      "name": "Имя",
+      "email": "Электронная почта",
+      "comment": "Комментарий",
+      "post": "Почта",
+      "moderated": "Комментарий видим только после того, как он будет утвержден ",
+      "success_moderated": "Ваш комментарий опубликован! Спасибо!",
+      "success": "Ваш комментарий опубликован! Спасибо!"
+    }
+  },
+  "collections": {
+    "general": {
+      "title": "Коллекции продуктов",
+      "no_matches": "В этой коллекции не найдено продуктов",
+      "link_title": "Показывать {{ title }}",
+      "all_collection_title": "Все {{ title }}",
+      "quick_shop": "Быстрый вид",
+      "load_more": "Показать больше",
+      "new": "Новый",
+      "coming_soon": "Вскоре",
+      "pre_order": "Предварительный заказ",
+      "sale": "РАСПРОДАЖА",
+      "view_all": "Покажите всем",
+      "view_product_details_html": "Просмотреть подробную информацию"
+    },
+    "sidebar": {
+      "collections": "Коллекции",
+      "product_types": "Тип",
+      "vendors": "Продавец",
+      "tags": "Теги",
+      "clear": "Прозрачный",
+      "apply_filter": "Применять",
+      "clear_all": "Все очистите",
+      "from": "От",
+      "to": "К"
+    },
+    "sorting": {
+      "title": "Сортировать по",
+      "sort_collection": "Сортировка {{ title }}",
+      "filter": "Фильтр",
+      "filter_collection": "Фильтр {{ title }}",
+      "featured": "Прямо сейчас",
+      "best_selling": "Лучшая продажа"
+    }
+  },
+  "products": {
+    "general": {
+      "previous_product_html": "Предыдущий",
+      "next_product_html": "Следующий",
+      "from": "от"
+    },
+    "product": {
+      "sold_out": "Out -out",
+      "unavailable": "Нет в наличии",
+      "quantity": "Число",
+      "add_to_cart": "Добавить в корзину",
+      "add_to_cart_success": "Добавлен!",
+      "vendor": "Продано:",
+      "related_items": "Подобные продукты:",
+      "collections": "Коллекции",
+      "product_types": "Тип",
+      "tags": "Категория",
+      "size_chart": "Руководство по размеру",
+      "savings": "Вы экономите",
+      "products_tagged": "Продукт помечен как {{ tag }}",
+      "items_left_count": {
+        "one": "кукла осталась",
+        "other": "ST Образцы в наличии"
+      },
+      "view_in_your_space": "Показать в частном порядке"
+    },
+    "notify_form": {
+      "email": "Введите свой адрес электронной почты ",
+      "send": "Отправлять"
+    },
+    "onboarding": {
+      "tab_title": "Описание",
+      "tab_content": "Добавьте описание продукта, чтобы поделиться информацией о вашем продукте"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Имя",
+      "email": "Электронная почта",
+      "phone": "Номер телефона",
+      "message": "Сообщение",
+      "send": "Отправлять",
+      "post_success": "Спасибо, что связались с нами! Мы слышим от нас как можно скорее!"
+    }
+  },
+  "customer": {
+    "orders": {
+      "title": "История заказа",
+      "order_number": "Заказ",
+      "date": "Дата",
+      "payment_status": "Статус оплаты",
+      "fulfillment_status": "Статус",
+      "total": "Общий",
+      "none": "Вы еще не разместили никакого заказа"
+    },
+    "account": {
+      "title": "Ваш профиль",
+      "details": "Информация о профиле",
+      "view_addresses": "Адреса ",
+      "return": "Вернемся к профилю"
+    },
+    "activate_account": {
+      "title": "Активировать учетную запись"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Тележка",
+      "products": "Продукция",
+      "remove": "Удалять",
+      "price": "Цена",
+      "quantity": "Число",
+      "maximum_quantity": "Максимальное число",
+      "total": "Общий",
+      "item": "Продукт",
+      "uploaded_file": "Загруженный файл",
+      "continue_browsing_html": "В вашей корзине нет ничего.",
+      "continue_shopping_link_html": "Продолжайте делать покупки",
+      "excluding_tax_shipping": "Бесплатная доставка",
+      "orders_processed_in_currency_html": "Ваш заказ обрабатывается в {{ currency }}.",
+      "note": "Сообщение",
+      "agree_to_terms_html": "Я согласен с «условиями и условиями»",
+      "view_terms": "Условия и условия",
+      "or": "или",
+      "subtotal": "Количество",
+      "discount": "Вы зарабатываете",
+      "update": "Обновите сумму",
+      "checkout": "К оформлению",
+      "continue_shopping": "Продолжайте делать покупки",
+      "tax_and_shipping": "Налог, таможня и доставка включены в цену Dockan",
+      "taxes_and_shipping_policy_at_checkout_html": "Налог, таможня и<a href=\"{{ link }}\">Перевозки</a> включен в цену куклы"
+    },
+    "shipping_calculator": {
+      "estimated_shipping": "Ожидаемая доставка",
+      "country": "Страна",
+      "province": "Провинция / штат",
+      "zip_code": "Почтовый индекс",
+      "heading": "Рассчитайте доставку",
+      "submit_button_label": "Рассчитайте доставку",
+      "submit_button_label_disabled": "Вычисляет ...",
+      "no_shipping_destination": "Мы не можем доставить в это место",
+      "at": "в",
+      "additional_rates_part_1": "Это",
+      "available_rates": "Нет информации о доставке",
+      "additional_rates_part_2": "Информация о доставке",
+      "additional_rates_part_3": "Начинается с"
+    }
+  },
+  "layout": {
+    "general": {
+      "menu": "Меню",
+      "cart": "Тележка",
+      "edit_cart": "Изменить корзину для покупок",
+      "go_to_cart": "Ходить в корзину",
+      "checkout": "К оформлению",
+      "continue_shopping": "Продолжайте делать покупки",
+      "empty_cart": "Ваша тележка пуста",
+      "cart_note": "Сообщение",
+      "subtotal": "Количество",
+      "savings": "Вы экономите",
+      "pick_a_currency": "Выберите валюту",
+      "social": "Следовать",
+      "close_window": "Закрывать",
+      "designer_credits_html": "<a href=\"http://www.docklandet.se\"> <b><font color=\"#DD4982\"> Docklandet.См. ™ </font></b></a>"
+    },
+    "social_sharing": {
+      "title": "Делиться",
+      "twitter_share": "Проверить {{ title }} от {{ name }}: {{ current_url }}",
+      "twitter_title": "Поделиться в Твиттере",
+      "facebook_title": "Разделять Facebook",
+      "pinterest_title": "Разделите на Pinterest",
+      "pinterest_share": "{{ title }} от {{ name }}",
+      "email_title": "Электронная почта другу",
+      "email_subject": "Может что -то для тебя {{ title }}",
+      "email_message": "Хорошо. Я разыскал {{ name }} И найдено {{ title }}. Думал, что это может подать в суд на вас по вкусу;)"
+    },
+    "counts": {
+      "items": {
+        "one": "док",
+        "other": "куклы"
+      },
+      "items_with_count": {
+        "one": "док",
+        "other": "куклы"
+      }
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "remember_me": {
+        "label": "Сохраните мою информацию до следующего раза",
+        "description_html": "Запомнить меня"
+      }
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "blog_title": "Новости"
+    }
+  },
+  "home_page": {
+    "recent_articles": "Новые посты"
+  },
+  "product": {
+    "badge": {
+      "sale_percentage_range_html": "Сохранить до {{ price_percent }}%",
+      "sale_percentage_single_html": "Сохранять {{ price_percent }}%",
+      "sale_money_range_html": "Сохранить до {{ price }}",
+      "sale_money_single_html": "Сохранять {{ price }}",
+      "sold_out": "Out -out",
+      "sale": "РАСПРОДАЖА",
+      "in_stock": "Доступно в наличии"
+    }
+  }
+}
