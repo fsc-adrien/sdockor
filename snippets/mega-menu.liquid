@@ -49,6 +49,7 @@
                       render 'image-element',
                       image: block.settings.image_top,
                       alt: block.settings.image_top.alt,
+                      focal_point: block.settings.image_top.presentation.focal_point,
                     %}
                   {% endif %}
                   {% if block.settings.image_caption_top != blank %}
@@ -147,6 +148,7 @@
                       render 'image-element',
                       image: block.settings.image_bottom,
                       alt: block.settings.image_bottom.alt,
+                      focal_point: block.settings.image_bottom.presentation.focal_point,
                     %}
                   {% endif %}
                   {% if block.settings.image_caption_bottom != blank %}
@@ -189,6 +191,7 @@
                     render 'image-element',
                     image: block.settings.image_top,
                     alt: block.settings.image_top.alt,
+                    focal_point: block.settings.image_top.presentation.focal_point,
                   %}
                 {% endif %}
                 {% if block.settings.image_caption_top != blank %}
@@ -289,7 +292,8 @@
                   {%
                     render 'image-element',
                     image: block.settings.image_bottom,
-                    alt: block.settings.image_bottom.alt
+                    alt: block.settings.image_bottom.alt,
+                    focal_point: block.settings.image_bottom.presentation.focal_point,
                   %}
                 {% endif %}
                 {% if block.settings.image_caption_bottom != blank %}

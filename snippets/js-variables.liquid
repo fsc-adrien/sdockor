@@ -54,7 +54,6 @@ window.PXUTheme.theme_settings.product_form_style = {{ settings.product_form_sty
 window.PXUTheme.theme_settings.sale_banner_enabled = {{ settings.sale_banner_enabled | json }};
 window.PXUTheme.theme_settings.display_savings = {{ settings.display_savings | json }};
 window.PXUTheme.theme_settings.display_sold_out_price = {{ settings.display_price | json }};
-window.PXUTheme.theme_settings.sold_out_text = {{ settings.sold_out_text | json }};
 window.PXUTheme.theme_settings.free_text = {{ settings.free_price_text | json }};
 window.PXUTheme.theme_settings.video_looping = {{ settings.video_looping | json}};
 window.PXUTheme.theme_settings.quick_shop_style = {{ settings.quick_shop_style | json }};
@@ -62,16 +61,17 @@ window.PXUTheme.theme_settings.hover_enabled = {{ settings.thumbnail_hover_enabl
 
 {% comment %} Routes {% endcomment %}
 window.PXUTheme.routes.cart_url = "{{ routes.cart_url }}";
+window.PXUTheme.routes.cart_update_url = "{{ routes.cart_update_url }}";
 window.PXUTheme.routes.root_url = "{{ routes.root_url }}";
 window.PXUTheme.routes.search_url = "{{ routes.search_url }}";
 window.PXUTheme.routes.all_products_collection_url = "{{ routes.all_products_collection_url }}";
+window.PXUTheme.routes.product_recommendations_url = "{{ routes.product_recommendations_url }}";
+window.PXUTheme.routes.predictive_search_url = "{{ routes.predictive_search_url }}";
 
 {% comment %} Images {% endcomment %}
 window.PXUTheme.theme_settings.image_loading_style = {{ settings.image_loading_style | json }};
 
 {% comment %} Search {% endcomment %}
-window.PXUTheme.theme_settings.search_option = {{ settings.search_option | json }};
-window.PXUTheme.theme_settings.search_items_to_display = {{ settings.search_to_display | json }};
 window.PXUTheme.theme_settings.enable_autocomplete = {{ settings.enable_autocomplete | json }};
 
 {% comment %} Slideshow {% endcomment %}
@@ -80,6 +80,9 @@ window.PXUTheme.theme_settings.slideshow_arrow_size = {{ settings.slideshow_arro
 
 {% comment %} Quickshop {% endcomment %}
 window.PXUTheme.theme_settings.quick_shop_enabled = {{ settings.quick_shop_enabled | json }};
+
+{% comment %} Back to top button {% endcomment %}
+window.PXUTheme.theme_settings.enable_back_to_top_button = {{ settings.enable_back_to_top_button | json }};
 
 {% comment %} /* # Translation
 ================================================== */ {% endcomment %}
@@ -112,6 +115,7 @@ window.PXUTheme.translation.coming_soon_text = "{{ 'collections.general.coming_s
 window.PXUTheme.translation.sold_out_text = "{{ 'products.product.sold_out' | t }}";
 window.PXUTheme.translation.sale_text = "{{ 'collections.general.sale' | t }}";
 window.PXUTheme.translation.savings_text = "{{ 'products.product.savings' | t }}";
+window.PXUTheme.translation.percent_off_text = "{{ 'products.product.percent_off' | t }}";
 window.PXUTheme.translation.from_text = "{{ 'products.general.from' | t }}";
 window.PXUTheme.translation.new_text = "{{ 'collections.general.new' | t }}";
 window.PXUTheme.translation.pre_order_text = "{{ 'collections.general.pre_order' | t }}";
@@ -131,7 +135,11 @@ window.PXUTheme.media_queries.larger = window.matchMedia( "(min-width: 960px)" )
 window.PXUTheme.media_queries.xlarge = window.matchMedia( "(min-width: 1200px)" );
 window.PXUTheme.media_queries.ie10 = window.matchMedia( "all and (-ms-high-contrast: none), (-ms-high-contrast: active)" );
 window.PXUTheme.media_queries.tablet = window.matchMedia( "only screen and (min-width: 799px) and (max-width: 1024px)" );
+window.PXUTheme.media_queries.mobile_and_tablet = window.matchMedia( "(max-width: 1024px)" );
 
 {% endcapture %}
 {%- assign js_variables = js_variables | split: 'Shopify.' -%}
-{%- for variable in js_variables -%}{%- assign variableblock = variable | strip -%}{% if forloop.first %}{{ variableblock }}{% else %}{{ variableblock | prepend: 'Shopify.' }}{% endif %}{%- endfor -%}
+{%- for variable in js_variables -%}
+  {%- assign variableblock = variable | strip -%}
+  {% if forloop.first %}{{ variableblock }}{% else %}{{ variableblock | prepend: 'Shopify.' }}{% endif %}
+{%- endfor -%}

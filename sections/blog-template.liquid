@@ -5,7 +5,9 @@
 >
 </script>
 
-{% assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop %}
+{% style %}
+  {% render 'section-space' %}
+{% endstyle %}
 
 {% if current_tags %}
   {% assign banner_title = current_tags %}
@@ -19,7 +21,6 @@
     image: section.settings.image,
     mobile_image: section.settings.mobile_image,
     background_style: section.settings.caption_content_background,
-    mobile_crop: mobile_crop,
     wide_display: section.settings.wide_display,
     banner_title: banner_title,
     banner_subheading: section.settings.subtitle,
@@ -58,7 +59,7 @@
 
     {% unless section.settings.image != blank %}
       <div class="one-whole column">
-        <div class="feature_divider"></div>
+        <div class="feature-divider"></div>
       </div>
     {% endunless %}
 
@@ -233,30 +234,6 @@
       "info": "Display a different image on mobile screens. This only appears when the desktop image is set."
     },
     {
-      "type": "select",
-      "id": "mobile_image_crop",
-      "label": "Mobile image cropping",
-      "default": "none",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
-    },
-    {
       "type": "text",
       "id": "subtitle",
       "label": "Subheading"
@@ -375,6 +352,30 @@
       "id": "toggle",
       "label": "Collapse sidebar content",
       "default": false
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     }
   ],
   "blocks": [

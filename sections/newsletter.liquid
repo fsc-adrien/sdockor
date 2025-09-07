@@ -5,7 +5,9 @@
 >
 </script>
 
-{% include 'include-newsletter' %}
+<div class="section-wrapper--{{ template.name }} {% if section.settings.wide_display %}is-width-wide{% endif %}">
+  {% include 'include-newsletter' %}
+</div>
 
 {% schema %}
 {
@@ -43,24 +45,10 @@
       "default": "<p>Sign up to get the latest on sales, new releases and more …</p>"
     },
     {
-      "type": "select",
+      "type": "text_alignment",
       "id": "newsletter_section_text_align",
       "label": "Text alignment",
-      "default": "center",
-      "options": [
-          {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
+      "default": "center"
     },
     {
       "type": "header",
@@ -77,6 +65,30 @@
       "id": "mobile_image",
       "label": "Mobile banner image",
       "info": "Display a different image on mobile screens. This only appears when the desktop image is set."
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     },
     {
       "type": "header",
@@ -97,10 +109,15 @@
       "label": "Custom CSS"
     }
   ],
-  "presets": [{
-    "name": "Newsletter",
-    "category": "Promotional"
-  }]
+  "presets": [
+    {
+      "name": "Newsletter",
+      "category": "Promotional"
+    }
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

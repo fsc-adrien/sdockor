@@ -6,8 +6,6 @@
 </script>
 
 {% liquid
-  assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop
-
   if section.settings.title != blank
     assign banner_title = section.settings.title
   else
@@ -20,7 +18,6 @@
   image: section.settings.image,
   mobile_image: section.settings.mobile_image,
   background_style: section.settings.caption_content_background,
-  mobile_crop: mobile_crop,
   wide_display: section.settings.wide_display,
   banner_pretext: section.settings.pretext,
   banner_title: banner_title,
@@ -87,30 +84,6 @@
       "info": "Display a different image on mobile screens. This only appears when the desktop image is set."
     },
     {
-      "type": "select",
-      "id": "mobile_image_crop",
-      "label": "Mobile image cropping",
-      "default": "none",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
-    },
-    {
       "type": "header",
       "content": "Text contrast",
       "info": "Improve legibility by applying a contrast technique to your banner’s text."
@@ -175,23 +148,9 @@
       ]
     },
     {
-      "type": "select",
+      "type": "text_alignment",
       "id": "text_align",
-      "label": "Text alignment",
-      "options": [
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
+      "label": "Text alignment"
     },
     {
       "type": "text",

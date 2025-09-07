@@ -42,7 +42,6 @@
       "type": "search-template",
       "settings": {
         "wide_display": true,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "search_breadcrumb": false,
         "search_term": "Sök...",

@@ -4,25 +4,27 @@
 #Recently viewed
 #Load more / infinite load
 #Filter products with AJAX
-#Search autocomplete
+#Predictive search
+#Mobile search
+#Site overlay
 #Sidebar filter on collection pages
 #Misc
 #Quick shop
+#Back to top button
 #Newsletter popup
-#Currency converter
 #Product Media Controls
 #Plyr setup
 
 /*============================================================================
-  Image functions
+  #Image functions
 ==============================================================================*/
 
 
 window.usePageDots = window.PXUTheme.theme_settings.page_dots_enabled;
 
  window.imageFunctions = {
-  zoom: function(){
-    var $image = $(event.target);
+  zoom: function($image) {
+    var $image = $image && $image[0] ? $image : $(event.target);
     var zoomSrc = $image.data('zoom-src');
 
     if (zoomSrc) {
@@ -160,7 +162,7 @@ window.usePageDots = window.PXUTheme.theme_settings.page_dots_enabled;
 }
 
 /* ============================================================================
-  Recently viewed
+  #Recently viewed
 ============================================================================== */
 
 window.recentlyViewed = {
@@ -359,7 +361,7 @@ window.recentlyViewed = {
 
 var enableLoadMoreProducts = function() {
   $('body').on('click', '.js-load-more a', function(e) {
-    enableInfiniteScroll('.product-list');
+    enableInfiniteScroll('[data-product-list]');
     e.stopPropagation();
     return false;
   });
@@ -389,7 +391,7 @@ var enableLoadMoreButton = function(parentClass) {
       url: url,
       beforeSend: function () {
         $button.addClass('is-loading');
-        $('.load-more__icon').addClass('loading-in-progress').css({
+        $('.loading-icon').addClass('loading-in-progress').css({
           'height': '40px',
           'width': '40px',
           'opacity': '1'
@@ -397,7 +399,7 @@ var enableLoadMoreButton = function(parentClass) {
       },
       success: function success(data) {
         $button.removeClass('is-loading');
-        $('.load-more__icon').removeClass('loading-in-progress').css({
+        $('.loading-icon').removeClass('loading-in-progress').css({
           'height': '0',
           'width': '0',
           'opacity': '0'
@@ -514,7 +516,7 @@ window.hideNoScript = function(){
 }
 
 /*============================================================================
-  Filter Products with AJAX
+  #Filter Products with AJAX
 ==============================================================================*/
 
 Shopify.queryParams = {};
@@ -528,27 +530,16 @@ if (location.search.length) {
 }
 
 var quickFilter = {
-  init: function(){
+  init() {
     var selectedOptions = [],
         query = '',
-        currentTags = '',
-        url1 = $.url('1') ? '/' + $.url('1') + '/' : ''
-
-        // Check the length of url1 to see if there is a translation added to the end of the host URL, if there is, use a different path
-        if ( url1.length <= 4) {
-          url2 = $.url('2') ? $.url('2') + '/' : '',
-          url3 = $.url('3') ? $.url('3') + '/' : '',
-          path = url1 + url2 + url3;
-        } else {
-          url2 = $.url('2') ? $.url('2') + '/' : '',
-          path = url1 + url2;
-        }
+        currentTags = '';
 
     //Handle dropdowns if they exist
     if ($('#sort-by').length){
       query = $('#sort-by').val();
     } else {
-      query = url('?sort_by');
+      query = new URLSearchParams(window.location.search).get('sort_by');
     }
 
     if ($('#tag_filter').length){
@@ -592,9 +583,9 @@ var quickFilter = {
     Shopify.queryParams.sort_by = query;
     query = '?' + $.param(Shopify.queryParams).replaceAll('%2B', '+');
 
-    quickFilter.processUrl(path, currentTags, query);
+    quickFilter.processUrl(currentTags, query);
   },
-  updateView: function(filterURL) {
+  updateView(filterURL) {
 
     $.ajax({
       type: 'GET',
@@ -624,7 +615,7 @@ var quickFilter = {
 
         var filteredData = $(data).find('.product-list--collection');
         $('.product-list--collection').remove();
-        filteredData.insertBefore( $('.load-more__icon') );
+        filteredData.insertBefore( $('.loading-icon') );
 
         window.history && window.history.pushState && window.history.pushState("", "", filterURL);
 
@@ -659,6 +650,20 @@ var quickFilter = {
         $('.swatch_options label').on('click', function() {
           window.quickShop.toggleSwatchImages($(this));
         });
+
+          // Load more / infinite load
+
+        if (window.PXUTheme.theme_settings.pagination_type === 'load_more') {
+          window.enableLoadMoreProducts();
+        }
+
+        if (window.PXUTheme.theme_settings.pagination_type === 'load_more_button') {
+          window.enableLoadMoreButton('[data-product-list]');
+        }
+
+        if (window.PXUTheme.theme_settings.pagination_type === 'infinite_scroll') {
+          window.enableInfiniteScroll('[data-product-list]');
+        }
       },
       error: function(x, t, m) {
         console.log(x);
@@ -670,12 +675,15 @@ var quickFilter = {
       dataType: "html"
     });
   },
-  processUrl: function(path, tags, query){
+  processUrl(tags, query) {
+    const currentPath = window.location.pathname.split('/');
 
-    var query = query.replace(/\page=(\w+)&/, ''),
-        urlString = '';
+    const newQuery = query.replace(/\page=(\w+)&/, '');
 
-    urlString = path + tags + query;
+    const endIndex = currentPath.indexOf('collections') + 1;
+    const newPath = currentPath.slice(0, endIndex + 1).join('/') + '/';
+
+    const urlString = newPath + tags + newQuery;
 
     quickFilter.updateView(urlString);
 
@@ -684,288 +692,202 @@ var quickFilter = {
 
 
 /*============================================================================
-  Search autocomplete
+  #Predictive search
 ==============================================================================*/
 
-window.searchAutocomplete = {
-  vars: {
-    term: '',
-    searchPath: window.PXUTheme.routes.search_url,
-    displayTimer: ''
-  },
-  init: function(){
+window.predictiveSearch = {
+  init() {
+    this.events = new EventHandler();
+    this.forms = document.querySelectorAll('[data-autocomplete-true]');
 
-    this.unload();
+    this.forms.forEach(form => {
+      const input = form.querySelector('[data-search-input]');
+      const results = form.querySelector('[data-predictive-search-results]');
+      const resultsContainer = form.querySelector('[data-predictive-search]');
+      const animation = window.animations.transition({ el: resultsContainer });
 
-    // Focus state to display search results
-    $('[data-autocomplete-true]').on('focus', function() {
-      $(this).parents('[data-autocomplete-true]').find('.search__results-wrapper').show();
-    });
+      this.events.register(form, 'submit', e => this._onSubmit(e, input));
+      this.events.register(window, 'resize', debounce(() => this._onResize(resultsContainer), 250));
+      this.events.register(window, 'keyup', e => this._onKeyUp(e, form, input, animation));
+      this.events.register(input, 'focus', () => this._onFocus(form, input, results, resultsContainer, animation));
+      this.events.register(resultsContainer, 'focusout', (e) => this._onFocusOut(e, form, animation));
+      this.events.register(input, 'input', debounce(() => this._onChange(form, input, results, resultsContainer, animation), 250));
 
-    // Clicking outside makes the results disappear.
-    $(document).on('click focusout', function(e) {
-      if (window.PXUTheme.media_queries.large.matches) {
-        var searchForm = $(e.target).parents('.search__form');
-
-        if (searchForm.length === 0) {
-          $('[data-autocomplete-true] .search__results-wrapper').hide().removeClass('results-found');
-        }
-      }
-    });
-
-    $('[data-dropdown-rel="search"]').on('click', function(e) {
-      if (window.PXUTheme.theme_settings.enable_autocomplete && window.PXUTheme.media_queries.medium.matches) {
-        e.preventDefault();
-        var formType = $(this).closest('form').find('[name="type"]').val();
-        var position = $(document).scrollTop();
-        window.searchAutocomplete.showMobileSearch(formType, position);
-      }
-    });
-
-    $('.search-close').on('click touchstart', function() {
-      $('body').removeClass('is-active');
-      $('.dropdown_link').removeClass('active_link');
-      $('.dropdown_container').hide();
-      $('.mobile_nav').find('div').removeClass('open');
-      $('[data-autocomplete-true] .search__results-wrapper').hide().removeClass('results-found');
-    })
-
-    // Submit wildcard searches
-    $("[data-autocomplete-true] form").on("submit", function(e) {
-      e.preventDefault();
-      var formValue = $(this).find('input[name="q"]').val();
-      var cleanFormValue = encodeURI(formValue);
-
-      if ($(this).find('[name="type"]').length > 0) {
-        var searchType = $(this).find('[name="type"]').val();
-      } else {
-        var searchType = window.PXUTheme.theme_settings.search_option;
-      }
-
-      if (cleanFormValue == null) {
-        window.location.href = window.PXUTheme.routes.search_url + '?type=' + searchType;
-      } else {
-        window.location.href = window.searchAutocomplete.vars.searchPath + '?type=' + searchType + '&q=' + cleanFormValue + '*';
-      }
-    });
-
-    $('[data-autocomplete-true] form').each(function() {
-      var $this = $(this);
-      var input = $this.find('input[name="q"]');
-
-      // Adding a list for showing search results.
-      $('<div class="search__results-wrapper"><ul class="search__results"></ul></div>').appendTo($this);
-
-      input.attr('autocomplete', 'off').on('input', function() {
-        clearTimeout(window.searchAutocomplete.vars.displayTimer);
-        if ($(this).val().length > 3) {
-          window.searchAutocomplete.vars.term = $(this).val();
-          window.searchAutocomplete.getResults(window.searchAutocomplete.vars.term, $this);
-        } else {
-          $('[data-autocomplete-true] .search__results-wrapper').hide().removeClass('results-found');
+      this.events.register(document.body, 'click', e => {
+        if (form.classList.contains('search-form--active') && !form.contains(e.target)) {
+          this._close(form, animation);
         }
       });
     });
   },
-  getResults: function(term, $this) {
+  _onSubmit(e, input) {
+    // Prevent empty form submissions
+    if (this._getQuery(input).length === 0) e.preventDefault();
+  },
+  _onResize(resultsContainer) {
+    this._resizeSearchResults(resultsContainer);
+  },
+  _onKeyUp(e, form, input, animation) {
+    if (e.code === 'Escape') {
+      input.value = '';
 
-    if ($this.find('[name="type"]').length > 0) {
-      var searchType = $this.find('[name="type"]').val();
-    } else {
-      var searchType = window.PXUTheme.theme_settings.search_option;
+      this._close(form, animation);
+    }
+  },
+  _onFocus(form, input, results, resultsContainer, animation) {
+    const term = this._getQuery(input);
+
+    if (term.length === 0) return;
+
+    this._fetchResults(term, form, results, resultsContainer);
+    this._open(form, resultsContainer, animation);
+  },
+  _onFocusOut(e, form, animation) {
+    if (e.target.matches('[data-search-button]')) {
+      this._close(form, animation);
+    }
+  },
+  _onChange(form, input, results, resultsContainer, animation) {
+    const term = this._getQuery(input);
+
+    if (term.length === 0) {
+      this._close(form, animation);
+      return;
     }
 
-    jQuery.getJSON("/search/suggest.json", {
-      "q": term,
-      "resources": {
-        "type": searchType,
-        "limit": window.PXUTheme.theme_settings.search_items_to_display,
-        "options": {
-          "unavailable_products": "last",
-          "fields": "title,body,variants.title,vendor,product_type,tag"
+    this._fetchResults(term, form, results, resultsContainer);
+    this._open(form, resultsContainer, animation);
+  },
+  _getQuery(input) {
+    return input.value.trim();
+  },
+  _open(form, resultsContainer, animation) {
+    form.classList.add('search-form--active');
+
+    if (!window.PXUTheme.media_queries.medium.matches) {
+      document.body.classList.add('scroll-locked');
+    }
+
+    animation.animateTo('open');
+    this._resizeSearchResults(resultsContainer);
+  },
+  _close(form, animation) {
+    form.classList.remove('search-form--active');
+
+    if (!window.PXUTheme.media_queries.medium.matches) {
+      document.body.classList.remove('scroll-locked');
+    }
+
+    animation.animateTo('closed');
+  },
+  _fetchResults(term, form, results, resultsContainer) {
+    const resourceType = form.classList.contains('search-form--blog') ? '&resources[type]=article' : '';
+
+    resultsContainer.setAttribute('data-loading', 'true');
+
+    fetch(`${window.PXUTheme.routes.predictive_search_url}?q=${encodeURIComponent(term)}${resourceType}&section_id=predictive-search`)
+      .then(response => {
+        if (!response.ok) {
+          const error = new Error(response.status);
+          throw error;
         }
-      }
-    }).done(function(response) {
 
-      var suggestions = [
-        response.resources.results.products,
-        response.resources.results.pages,
-        response.resources.results.articles
-      ];
-
-      var filteredResults = [];
-
-      // Store results in array
-      $.each(suggestions, function(index, suggestion) {
-        if (suggestion !== undefined && suggestion.length > 0) { // Ensure suggestion exists
-          filteredResults.push(suggestion)
-        }
+        return response.text();
       })
-
-      // Display results
-      window.searchAutocomplete.vars.displayTimer = setTimeout(function() {
-        window.searchAutocomplete.displayResults(filteredResults[0], $this);
-      }, 500)
-    });
-  },
-  displayResults: function(results, $this) {
-
-    var $resultsWrapper = $this.find('.search__results-wrapper');
-    var $resultsList = $this.find('.search__results');
-    $resultsWrapper.show();
-    $resultsList.empty();
-
-    if ($this.find('[name="type"]').length > 0) {
-      var searchType = $this.find('[name="type"]').val();
-    } else {
-      var searchType = window.PXUTheme.theme_settings.search_option;
-    }
-
-    if (results && results.length > 0) {
-      $.each(results, function(index, result) {
-
-        var link = $('<a tabindex="0"></a>').attr('href', result.url);
-        if (window.PXUTheme.routes.root_url !== '/') {
-          link = $('<a tabindex="0"></a>').attr('href', window.PXUTheme.routes.root_url + result.url);
-        }
-
-        // If result is a product
-        if (result['price']) {
-          function formatPrice(price) {
-            if (window.PXUTheme.currency.display_format === 'money_with_currency_format') {
-              return `<span class="money">${window.PXUTheme.currency.symbol}${price} ${window.PXUTheme.currency.iso_code}</span>`;
-            } else {
-              return `<span class="money">${window.PXUTheme.currency.symbol}${price}</span>`;
-            }
-          }
-
-          if (result.available === true) {
-            const maxComparePrice = parseFloat(result.compare_at_price_max);
-            const minComparePrice = parseFloat(result.compare_at_price_min);
-            const minPrice = parseFloat(result.price_min);
-            const maxPrice = parseFloat(result.price_max);
-            const resultPrice = parseFloat(result.price);
-
-            if (maxComparePrice > maxPrice || minComparePrice > minPrice ) {
-              var itemPrice = formatPrice(result.price) + ' <span class="was_price">' + formatPrice(result.compare_at_price_min) + '</span>';
-            } else {
-            if (resultPrice > 0) {
-                if (minPrice != maxPrice) {
-                  var itemPrice = window.PXUTheme.translation.from_text + ' ' + formatPrice(result.price);
-                } else {
-                  var itemPrice = formatPrice(result.price);
-                }
-              } else {
-                var itemPrice = window.PXUTheme.theme_settings.free_text;
-              }
-            }
-          } else {
-            var itemPrice = window.PXUTheme.theme_settings.sold_out_text;
-          }
-
-          // If result has an image
-          if (result['image']) {
-            link.append('<div class="thumbnail"><img class="lazyload transition--' + window.PXUTheme.theme_settings.image_loading_style + '" src="' + window.utils.addImageDimension(result['image'], '_300x') + '" /></div>');
-          }
-
-          link.append('<div class="search-title">' + result.title + '<br><span class="item-pricing price">'+ itemPrice +'</span></div>');
-
-          // If result is an article
-        } else if(result['summary_html']) {
-          if(result.image != 'NULL') {
-            link.append('<div class="thumbnail"><img class="lazyload transition--' +  window.PXUTheme.theme_settings.image_loading_style + '" src="' + window.utils.addImageDimension(result['image'], '_300x') + '" /></div>');
-          }
-          link.append('<div class="search-title">' + result.title + '<br><span class="item-description">'+ result.summary_html.replace(/(<([^>]+)>)/ig,"").slice(0, 25) +' </span></div>');
-
-          // If result is a page
-        } else if(result['published_at']) {
-          link.append('<div class="search-title">' + result.title + '<br><span class="item-description">'+ result.body.replace(/(<([^>]+)>)/ig,"").slice(0, 25) +' </span></div>');
-
-        }
-
-        // Wrap link and append to list
-        link.wrap('<li class="item-result"></li>');
-        $resultsList.append(link.parent());
+      .then(text => {
+        const resultsMarkup = new DOMParser().parseFromString(text, 'text/html').querySelector('#shopify-section-predictive-search').innerHTML;
+        this._renderResults(resultsMarkup, results, resultsContainer);
+      })
+      .catch(error => {
+        throw error;
       });
-
-      $resultsList.prepend('<li class="all-results"><span class="search-title see-all"><a href="' + this.vars.searchPath + '?type=' + searchType + '&q=' + this.vars.term + '*"><span>' + window.PXUTheme.translation.all_results + '</span><span class="icon-right-arrow"></span></a></span></li>');
-
-      if (window.PXUTheme.currency.show_multiple_currencies || window.PXUTheme.currency.native_multi_currency) {
-        window.currencyConverter.init();
-      }
-
-      $resultsList.parents('.search__results-wrapper').addClass('results-found');
-
-    } else {
-      // if no results
-      var noResults = '<li class="item-result"><span class="no-results search-title">' + window.PXUTheme.translation.no_results + '</span></li>';
-      $resultsList.append(noResults);
-      $resultsList.parents('.search__results-wrapper').removeClass('results-found');
-    }
-
-    $resultsList.show();
   },
-  showMobileSearch: function(formType, position) {
-    $('body').css('max-height', window.innerHeight);
-
-    $('.mobile-search').fadeIn(200);
-
-    if(/iPad|iPhone|iPod/.test(navigator.platform) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) {
-      $('.mobile-search input#q').focus();
-    } else {
-      //Set delay to ensure focus triggers on android
-      setTimeout(function() {
-        $('.mobile-search input#q').focus();
-      }, 205);
-    }
-
-    document.body.style.position = 'fixed';
-    document.body.style.top = '-' + position + 'px';
-    $('.mobile-search').css('top', position)
-
-    var searchHeight = window.innerHeight - 60; //Full screen height - form height
-    $('.mobile-search .search__results-wrapper').css('max-height', searchHeight)
-
-    if (formType) {
-      $('.mobile-search [name="type"]').val(formType);
-    } else {
-      $('.mobile-search [name="type"]').val(window.PXUTheme.theme_settings.search_option);
-    }
-
-    $('.search-form .close-search').on('click touchstart', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      window.searchAutocomplete.hideMobileSearch(position);
-      $('[data-autocomplete-true] .search__results-wrapper').hide().removeClass('results-found');
-    });
-
-    $('.search-form .submit-search').on('click touchstart', function(e) {
-      $(this).parents('form').submit();
-    });
+  _renderResults(resultsMarkup, results, resultsContainer) {
+    resultsContainer.setAttribute('data-loading', 'false');
+    results.innerHTML = resultsMarkup;
   },
-  hideMobileSearch: function(position) {
-    $('body').css('max-height', 'none');
+  _resizeSearchResults(resultsContainer) {
+    const offset = 30;
+    const position = resultsContainer.parentNode.getBoundingClientRect();
+    const maxHeight = window.innerHeight - position.bottom - offset;
 
-    document.body.style.position = '';
-    document.body.style.top = '';
-    window.scrollTo(0, position);
-
-    $('.mobile-search').fadeOut(200);
-    $('.mobile-search [name="q"]').val('');
-
-    $('body').off('focus', '.search-form .close-search');
-    $('body').off('focus', '.search-form .submit-search');
-  },
-  unload: function() {
-    $('body').off('focus', '[data-autocomplete-true] input');
-    $('input[name="q"]').off();
-    $('[data-dropdown-rel="search"], [data-autocomplete-true] input').off();
-    $('.search__results-wrapper').remove();
+    resultsContainer.style.setProperty('--search-results-max-height', `${maxHeight}px`);
   }
 }
 
 /*============================================================================
-  Sidebar filter on collection pages
+  #Mobile search
+==============================================================================*/
+
+window.mobileSearch = {
+  init() {
+    this.events = new EventHandler();
+    this.el = document.querySelector('[data-mobile-search]');
+    this.closeEl = this.el.querySelector('[data-mobile-search-close]');
+    this.animation = window.animations.transition({ el: this.el, state: 'closed' });
+
+    this.events.register(this.closeEl, 'click', () => this.close());
+
+    this.closed = true;
+  },
+  open() {
+    if (this.closed) {
+      this.animation.animateTo('open');
+      window.siteOverlay.open();
+      this.closed = false;
+    }
+  },
+  close() {
+    if (!this.closed) {
+      this.animation.animateTo('closed');
+      window.siteOverlay.close();
+      this.closed = true;
+    }
+  },
+  isClosed() {
+    return this.closed;
+  }
+}
+
+/*============================================================================
+  #Site overlay
+==============================================================================*/
+
+window.siteOverlay = {
+  init() {
+    this.events = new EventHandler();
+    this.el = document.querySelector('[data-site-overlay]');
+    this.animation = window.animations.transition({ el: this.el, state: 'closed' });
+
+    this.events.register(this.el, 'click', () => this.close());
+
+    this.closed = true;
+  },
+  open() {
+    if (this.closed) {
+      document.body.classList.add('scroll-locked');
+      this.animation.animateTo('open');
+      this.closed = false;
+    }
+  },
+  close() {
+    if (!this.closed && window.PXUTheme.media_queries.medium.matches) {
+      document.body.classList.remove('scroll-locked');
+      this.animation.animateTo('closed');
+      this.closed = true;
+
+      if (!window.mobileSearch.isClosed()) {
+        window.mobileSearch.close();
+      }
+    }
+  },
+  isClosed() {
+    return this.closed;
+  }
+}
+
+/*============================================================================
+  #Sidebar filter on collection pages
 ==============================================================================*/
 
 window.collectionSidebarFilter = {
@@ -992,7 +914,8 @@ window.collectionSidebarFilter = {
     openActiveFilters();
 
     //Hide filters if types or vendors is in URL (can't be combined)
-    if ($.url(2) === 'types' || $.url(2) === 'vendors'){
+    const pathSegments = window.location.pathname.split('/').filter(Boolean);  // The filter() removes any empty strings from the array
+    if (pathSegments[1] === 'types' || pathSegments[1] === 'vendors') {
       $('.sidebar__collection-filter').remove();
     }
 
@@ -1132,7 +1055,7 @@ window.sidebarAccordions = {
 }
 
 /*============================================================================
-  Misc
+  #Misc
 ==============================================================================*/
 if (window.PXUTheme.theme_settings.slideshow_arrow_size == 'bold'){
   window.arrowSize = {
@@ -1199,33 +1122,43 @@ window.utils = {
     });
 
     $(container).find(tab + '.active').next().slideToggle();
-    $('body').on('click', specificTab, function(e){
+    $(specificTab).on('click', function(e) {
       e.preventDefault();
       $(this).toggleClass('active');
       $(this).next().slideToggle();
     });
   },
-  mobileAccordion: function(container, tab, content){
+  mobileAccordion: function(container, tab) {
     $container = $(container);
-    $tab = $(container).find(tab);
-    $content = $(container).find(content);
+
+    $tab = $(container).find(tab)
+      .filter((_, el) => {
+        const href = el.getAttribute('href');
+        // `href === null` check is for disclosure links such as language/currency selectors.
+        // Checking `href === '#'` won't work if there's a locale code (eg. `/fr#`).
+        return !href || href === '/' || href.includes('#');
+      });
 
     $(tab + '.active').next().slideToggle();
 
-    $('body').on('click', tab, function(e){
+    $tab.on('click', function(e) {
       e.preventDefault();
       $(this).toggleClass('active');
       $(this).next().slideToggle();
     });
   },
-  mobileParentActiveAccordion: function(container, tab, content){
+  mobileParentActiveAccordion: function(container, tab) {
     $container = $(container);
-    $tab = $(container).find(tab);
-    $content = $(container).find(content);
+
+    $tab = $(container).find(tab)
+      .filter((_, el) => {
+        const href = el.parentNode.getAttribute('href');
+        return href !== '' && href !== '/' && !href.includes('#');
+      });
 
     $(tab + '.active').parent().next().slideToggle();
 
-    $('body').on('click', tab, function(e){
+    $tab.on('click', function(e) {
       e.preventDefault();
       $(this).toggleClass('active');
       $(this).parent().next().slideToggle();
@@ -1292,7 +1225,10 @@ window.utils = {
 
     //Check if current opened menu is offscreen
     function checkOffScreen($openedToggle) {
-      if($openedToggle.siblings('.disclosure__list-wrap').is(':off-right')) {
+      const el = $openedToggle.siblings('.disclosure__list-wrap')[0];
+      const rect = el.getBoundingClientRect();
+
+      if (rect.right > window.innerWidth) {
         $openedToggle.siblings('.disclosure__list-wrap').addClass('disclosure--left');
       }
     }
@@ -1400,7 +1336,7 @@ window.sliderBlock = {
 }
 
 /*============================================================================
-  Quick shop
+  #Quick shop
 ==============================================================================*/
 
 var globalQuickShopProduct;
@@ -1460,10 +1396,7 @@ window.quickShop = {
 
                 $quickshop.addClass('quick-shop--loaded');
                 $quickshop.addClass('content-loaded');
-              
-(typeof window.BOLD!== 'undefined' && typeof window.BOLD.options !== 'undefined' && typeof window.BOLD.options.app !== 'undefined' && (BOLD.options.app.unload()));
-(typeof window.BOLD!== 'undefined' && typeof window.BOLD.options !== 'undefined' && typeof window.BOLD.options.app !== 'undefined' && (BOLD.options.app.boot()));
-},
+              },
               beforeClose: (_e, instance) => {
                 // Use unique identifier for the product gallery
                 const { src } = instance;
@@ -1491,7 +1424,66 @@ window.quickShop = {
 }
 
 /*============================================================================
-  Newsletter Popup
+  #Back to top button
+==============================================================================*/
+
+window.back_to_top_button = {
+  init() {
+    this.el = document.querySelector('[data-back-to-top]');
+    this.label = this.el.querySelector('.back-to-top__button-label');
+    this.events = new EventHandler();
+    this.buttonAnimation = window.animations.transition({ el: this.el });
+    this.labelAnimation = window.animations.transition({ el: this.label, state: 'hidden' });
+    this.scrollThreshold = 0.3;
+    this.events.register(this.el, 'click', () => this._scrollToTop());
+    this.events.register(this.el, 'mouseenter', () => this._onHover());
+    this.events.register(this.el, 'mouseleave', () => this._onHoverEnd());
+    this.events.register(window, 'scroll', debounce(() => this._onScroll(), 100, true));
+  },
+  get scrollPosition() {
+    return window.scrollY / (document.body.offsetHeight - window.innerHeight);
+  },
+  _onScroll() {
+    if (window.PXUTheme.media_queries.medium.matches) return;
+
+    if (this.scrollPosition >= this.scrollThreshold) {
+      this.buttonAnimation.animateTo('visible');
+    } else {
+      this.buttonAnimation.animateTo('hidden');
+    }
+  },
+  _onHover() {
+    if (window.PXUTheme.media_queries.mobile_and_tablet.matches) return;
+    this.labelAnimation.animateTo('visible', {
+      onStart: ({ el }) => {
+        // When this function is called, element is `display: block; width: 0;`
+        // but the wrapper's scrollWidth is the width we want to transition to
+        const { scrollWidth } = el;
+
+        // Add 8px to the width to create padding between the text and the chevron
+        // We add this space here because adding padding via CSS causes a 'stepped'
+        // animation effect due to the way browsers calculate visible width
+        const adjustedScrollWidth = parseInt(scrollWidth, 10) + 8;
+
+        el.style.setProperty('--open-width', `${adjustedScrollWidth}px`);
+      },
+    });
+  },
+  _onHoverEnd() {
+    if (window.PXUTheme.media_queries.mobile_and_tablet.matches) return;
+    this.labelAnimation.animateTo('hidden');
+  },
+  _scrollToTop() {
+    document.activeElement.blur();
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+  }
+}
+
+/*============================================================================
+  #Newsletter Popup
 ==============================================================================*/
 
 window.newsletter_popup = {
@@ -1535,7 +1527,7 @@ window.newsletter_popup = {
 }
 
 /*============================================================================
-Product media controls
+  #Product media controls
 ==============================================================================*/
 
 window.productMedia = {
@@ -1569,7 +1561,7 @@ window.productMedia = {
 }
 
 /*============================================================================
-Plyr setup
+  #Plyr setup
 ==============================================================================*/
 
 window.videoEl = {

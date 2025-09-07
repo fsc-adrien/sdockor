@@ -4,7 +4,7 @@
     data-gallery-arrows-enabled="false">
 
   {% for media in product.media %}
-    <div class="gallery-cell" data-product-id="{{ product.id }}" data-media-type="{% if media.alt contains 'youtube' or media.alt contains 'vimeo' %}external_video{% else %}{{ media.media_type }}{% endif %}" data-thumb="{{ image_large }}" data-title="{% if image_alt contains 'youtube' or image_alt contains 'vimeo' %}{{ product.title }}{% else %}{{ image_alt | escape }}{% endif %}">
+    <div class="gallery-cell" data-product-id="{{ product.id }}" data-media-type="{% if media.alt contains 'youtube' or media.alt contains 'vimeo' %}external_video{% else %}{{ media.media_type }}{% endif %}" data-thumb="{{ image_large }}" data-title="{% if image_alt contains 'youtube' or image_alt contains 'vimeo' %}{{ product.title | escape }}{% else %}{{ image_alt | escape }}{% endif %}">
       {% if media.media_type == 'image' %}
 
         {% capture image_id %}{{ media.id }}{% endcapture %}
@@ -43,11 +43,12 @@
           {% endif %}
         </div>
       {% else %}
-        {% render 'image-element',
+        {%
+          render 'image-element',
           image: product.featured_media.preview_image,
           alt: alt_text,
           object_fit: align_height,
-          max_height: collection_height
+          max_height: collection_height,
         %}
       {% endif %}
     </div>
@@ -55,11 +56,12 @@
 
   {% if product.media == blank %}
     <div class="gallery-cell">
-      {% render 'image-element',
-              image: product.featured_media.preview_image,
-              alt: alt_text,
-              object_fit: align_height,
-              max_height: collection_height
+      {%
+        render 'image-element',
+        image: product.featured_media.preview_image,
+        alt: alt_text,
+        object_fit: align_height,
+        max_height: collection_height,
       %}
     </div>
   {% endif %}

@@ -19,7 +19,7 @@
       <h1>{{ page.title }}</h1>
 
       {% if section.settings.show_divider %}
-        <div class="feature_divider"></div>
+        <div class="feature-divider"></div>
       {% endif %}
 
       {%
@@ -60,7 +60,8 @@
                   render 'image-element',
                   image: block.settings.image,
                   alt: block.settings.image.alt,
-                  back_to_basics: use_basic
+                  back_to_basics: use_basic,
+                  focal_point: block.settings.image.presentation.focal_point,
                 %}
 
                 {% if section.settings.enable_lightbox and block.settings.image_link == blank %}

@@ -16,11 +16,15 @@
       ]
     }
   </script>
-{% endunless %}
-
-{% if settings.pagination_type == 'load_more_button' %}
+{% endunless %}{% if settings.pagination_type == 'load_more_button' %}
   {% assign paginationType = 'data-load-more--grid' %}
 {% endif %}
+
+{%- liquid
+  assign lazyload = true
+  assign row_count_threshold = 2
+  assign product_lazyload_threshold = products_per_row | times: row_count_threshold
+-%}
 
 <div
   class="
@@ -30,6 +34,7 @@
     is-flex-wrap
     equal-columns--outside-trim
   "
+  data-product-list
   itemtype="http://schema.org/ItemList"
   {{ paginationType }}
 >
@@ -46,12 +51,18 @@
   {% for product in products limit: for_limit %}
     {% comment %} Skip product if we're on its product page {% endcomment %}
     {% if product.id != skip_product.id %}
+      {%- liquid
+        if section.index0 < 2 and forloop.index0 < product_lazyload_threshold
+          assign lazyload = false
+        endif
+      -%}
       {%
         render 'product-thumbnail',
         product: product,
         collection: collection,
         products_per_row: products_per_row,
         sidebar: sidebar,
+        lazyload: lazyload,
       %}
     {% endif %}
   {% endfor %}
@@ -86,4 +97,5 @@
     {% endif %}
   {% endif %}
 </div>
-<div class="load-more__icon"></div>
+
+{%- render 'loading-icon' -%}

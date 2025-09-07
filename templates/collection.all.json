@@ -81,7 +81,6 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": false,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "display_collection_title": false,
         "collection_breadcrumb": false,
@@ -330,26 +329,24 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/articulated_hand_wm-doll_uppgraderad_hand_fingrar-1_Sexdocka_Docklandet.jpg",
-            "image_crop": "none",
             "title": "Upgraderade händer",
             "text": "<p><strong>Finns tillgängligt för WM-Doll, YL-Doll, Irontech Doll, Zelex, Starpery</strong></p>",
             "button_label": "",
             "link": "",
-            "bg_color": "",
-            "text_color": ""
+            "text_color": "",
+            "bg_color": ""
           }
         },
         "1662365563f2c9f1f0-1": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Breathing_doll_Sexdocka_Docklandet.jpg",
-            "image_crop": "none",
             "title": "Dockan andas",
             "text": "<p>Helt ny funktion för WM-dockor. Din docka ser ut att andas vi</p>",
             "button_label": "",
             "link": "",
-            "bg_color": "",
-            "text_color": ""
+            "text_color": "",
+            "bg_color": ""
           }
         }
       },

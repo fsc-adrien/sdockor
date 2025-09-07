@@ -5,8 +5,9 @@
 >
 </script>
 
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
     css: section.settings.custom_css,
@@ -48,6 +49,30 @@
     },
     {
       "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
+    },
+    {
+      "type": "header",
       "content": "Advanced"
     },
     {
@@ -65,10 +90,15 @@
       "label": "Custom CSS"
     }
   ],
-  "presets": [{
-    "name": "Custom HTML",
-    "category": "Content"
-  }]
+  "presets": [
+    {
+      "name": "Custom HTML",
+      "category": "Content"
+    }
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

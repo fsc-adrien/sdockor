@@ -7,8 +7,9 @@
 
 {% assign loop_limit = section.settings.rv_max_display | minus: 1 %}
 
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
     css: section.settings.custom_css,
@@ -31,7 +32,7 @@
         {% if section.settings.rv_title != blank %}
           <div class="recently-viewed-products__title">
             <h2 class="title center">{{ section.settings.rv_title | escape }}</h2>
-            <div class="feature_divider"></div>
+            <div class="feature-divider"></div>
           </div>
         {% endif %}
       </div>
@@ -116,6 +117,30 @@
       "max": 5,
       "step": 1,
       "default": 4
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     },
     {
       "type": "header",

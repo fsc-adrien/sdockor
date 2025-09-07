@@ -6,16 +6,14 @@
 >
 </script>
 
-{% assign object_selector = '#shopify-section-' | append: section.id %}
-{% assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop %}
-{% assign mobile_text_alpha = section.settings.mobile_text_color | default: 'rgba(0,0,0,0)' | color_extract: 'alpha' %}
+{% liquid
+  assign id = section.id
+  assign object_selector = '#shopify-section-' | append: id
+  assign mobile_text_alpha = section.settings.mobile_text_color | default: 'rgba(0,0,0,0)' | color_extract: 'alpha'
+%}
 
-<style>
-  {%
-    render 'css-loop',
-    css: section.settings.custom_css,
-    id: section.id
-  %}
+{% style %}
+  {% render 'section-space' %}
 
   {% if section.settings.mobile_text_below_image and mobile_text_alpha != 0 %}
     @media only screen and (max-width: 480px) {
@@ -26,7 +24,13 @@
       }
     }
   {% endif %}
-</style>
+
+  {%
+    render 'css-loop',
+    css: section.settings.custom_css,
+    id: id,
+  %}
+{% endstyle %}
 
 <section
   class="
@@ -49,13 +53,13 @@
             caption-background-{{ section.settings.caption_content_background }}
             caption--below-{{ section.settings.mobile_text_below_image }}
           "
-          id="video-{{ section.id }}"
+          id="video-{{ id }}"
           data-autoplay="{{ section.settings.autoplay }}"
           data-autoloop="{{ section.settings.autoloop }}"
           data-mute-video="{{ section.settings.mute_video }}"
           data-video-src="{{ section.settings.iframe_video.id }}"
           data-aspect-ratio="{{ section.settings.aspect_ratio }}"
-          data-poster-image-uploaded="{% if section.settings.image != blank %}true{% else %}false{% endif%}"
+          data-poster-image-uploaded="{%- if section.settings.image != blank -%}true{%- else -%}false{%- endif -%}"
         >
           <div class="video__overlay"></div>
             {% if section.settings.image != blank %}
@@ -65,7 +69,7 @@
                   image: section.settings.image,
                   alt: section.settings.image.alt,
                   stretch_width: true,
-                  additional_classes: mobile_crop
+                  focal_point: section.settings.image.presentation.focal_point,
                 %}
                 {% if section.settings.caption_content_background == 'darken_bg' %}
                   <div class="darken-bg"></div>
@@ -85,7 +89,7 @@
                   image: section.settings.mobile_image,
                   alt: section.settings.mobile_image.alt,
                   stretch_width: true,
-                  additional_classes: mobile_crop
+                  focal_point: section.settings.mobile_image.presentation.focal_point,
                 %}
                 {% if section.settings.caption_content_background == 'darken_bg' %}
                   <div class="darken-bg"></div>
@@ -98,7 +102,7 @@
               {% if section.settings.iframe_video.type == 'vimeo' %}
                 <div
                   class="plyr__video-embed"
-                  id="video-{{ section.id }}"
+                  id="video-{{ id }}"
                   data-video-element
                   data-external-video
                 >
@@ -107,7 +111,7 @@
               {% elsif section.settings.iframe_video.type == 'youtube' %}
                 <div
                   class="plyr__video-embed"
-                  id="video-{{ section.id }}"
+                  id="video-{{ id }}"
                   data-video-element
                   data-external-video
                 >
@@ -117,7 +121,7 @@
               {% comment %} Checks there is an HTML5 video {% endcomment %}
             {% elsif section.settings.html5_video != blank %}
               <video
-                class="video-{{ section.id }}"
+                class="video-{{ id }}"
                 data-video-element
                 data-html5-video
               >
@@ -389,24 +393,10 @@
       ]
     },
     {
-      "type": "select",
+      "type": "text_alignment",
       "id": "text_align",
       "label": "Text alignment",
-      "default": "center",
-      "options": [
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
+      "default": "center"
     },
     {
       "type": "header",
@@ -448,30 +438,6 @@
       "info": "Display a different image on mobile screens. This only appears when the desktop image is set."
     },
     {
-      "type": "select",
-      "id": "mobile_image_crop",
-      "label": "Image cropping",
-      "default": "none",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
-    },
-    {
       "type": "checkbox",
       "id": "mobile_text_below_image",
       "label": "Show text below image",
@@ -482,6 +448,30 @@
       "id": "mobile_text_color",
       "label": "Text below image",
       "info": "Set this to “None” to use the “Regular text” color."
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     },
     {
       "type": "header",
@@ -502,14 +492,19 @@
       "label": "Custom CSS"
     }
   ],
-  "presets": [{
-    "name": "Video",
-    "category": "Video",
-    "settings": {
-      "iframe_video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-      "button1_label": "Play Video"
+  "presets": [
+    {
+      "name": "Video",
+      "category": "Video",
+      "settings": {
+        "iframe_video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "button1_label": "Play Video"
+      }
     }
-  }]
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

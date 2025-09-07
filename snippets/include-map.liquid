@@ -3,32 +3,26 @@
 - Draggable section
 {% endcomment %}
 
-{% comment %} Assign object as block or section {% endcomment %}
-{% if type == 'block' %}
-  {%- assign object = block -%}
-{% else %}
-  {%- assign object = section -%}
-{% endif %}
+{% liquid
+  if type == 'block'
+    assign object = block
+  else
+    assign object = section
+  endif
 
-{%- assign id = object.id -%}
+  assign id = object.id
+  assign map_address = object.settings.map_address
+  assign image = object.settings.map_image
+  assign mobile_image = object.settings.map_mobile_image
+%}
 
-{% comment %} Content settings {% endcomment %}
-{%- assign map_address = object.settings.map_address -%}
-{%- assign image = object.settings.map_image -%}
-{%- assign mobile_image = object.settings.map_mobile_image -%}
-
-{% comment %} End content settings {% endcomment %}
-
-{% comment %} Advanced {% endcomment %}
-{%- assign css_class = object.settings.css_class -%}
-{%- assign custom_css = object.settings.custom_css -%}
-
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
-    css: custom_css,
-    id: id
+    css: object.settings.custom_css,
+    id: id,
   %}
 {% endstyle %}
 
@@ -45,7 +39,7 @@
     section--draggable
     map-id--{{ id }}
     full-width--{{ object.settings.map_wide_display }}
-    {{ css_class }}
+    {{ object.settings.css_class }}
   "
 >
   <div class="container">
@@ -76,9 +70,11 @@
             <div class="is-hidden-mobile-only">
           {% endif %}
           {% if image != blank %}
-            {% render 'image-element',
-                    image: image,
-                    alt: image.alt
+            {%
+              render 'image-element',
+              image: image,
+              alt: image.alt,
+              focal_point: image.presentation.focal_point,
             %}
           {% else %}
             {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg placeholder-svg--map' }}
@@ -86,10 +82,12 @@
           {% if mobile_image != blank %}
             </div>
             <div class="is-hidden-desktop-only">
-              {% render 'image-element',
-                      image: mobile_image,
-                      alt: mobile_image.alt,
-                      stretch_width: true
+              {%
+                render 'image-element',
+                image: mobile_image,
+                alt: mobile_image.alt,
+                stretch_width: true,
+                focal_point: mobile_image.presentation.focal_point,
               %}
             </div>
           {% endif %}

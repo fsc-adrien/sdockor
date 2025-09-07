@@ -12,84 +12,80 @@
     "performance": "sport",
     "image_loading_style": "appear",
     "custom_scripts": "",
-    "logo_color": "#ffffff",
-    "regular_color": "#333333",
-    "headline_color": "#333333",
-    "headline_footer_text_color": "#7f8c8d",
-    "sub_footer_text_color": "#6b6b6b",
-    "sale_color": "#dd4982",
-    "was_price_color": "#8c8b8b",
-    "product_hover_text_color": "#ffffff",
-    "promo_text_color": "#333333",
-    "shop_home_page_content_text_color": "#363636",
-    "newsletter_popup_color": "#363636",
-    "newsletter_section_color": "#ffffff",
-    "collection_filter_color": "#333333",
-    "top_bar_color": "#f4f4f4",
-    "top_bar_color_hover": "#dd4982",
-    "nav_color": "#d9d9d9",
-    "nav_color_home": "#d9d9d9",
-    "nav_color_hover": "#dd4982",
-    "link_color": "#dd4982",
-    "link_hover_color": "#dd4982",
-    "sidebar_nav_color": "#363636",
-    "sidebar_nav_color_hover": "#dd4982",
-    "sub_footer_link_color": "#7f8c8d",
-    "sub_footer_link_color_hover": "#f4f4f4",
-    "btn_color": "#dd4982",
-    "btn_hover_color": "#333333",
-    "btn_text_color": "#ffffff",
-    "button_style": "square",
-    "read_more_style": "button",
-    "banner_button_color": "#ffffff",
-    "banner_color": "#ffffff",
-    "banner_background_color": "#1e1e1e",
-    "banner_placeholder_background_color": "#666666",
-    "swatch_style": "square",
-    "table_styles_enabled": true,
-    "slideshow_arrow_size": "regular",
-    "arrow_color": "#dd4982",
-    "slideshow_button_style": false,
-    "slideshow_nav_buttons": false,
-    "border_color": "#cccccc",
-    "headline_border_color": "#aaaaaa",
-    "headline_border": "1",
-    "divider_style": "solid",
-    "sub_footer_border_color": "#1b1f23",
-    "stock_banner_color": "#dd4982",
-    "sale_banner_color": "#dd4982",
-    "new_banner_color": "#03a196",
-    "sticker_style": "square",
-    "search_section_color": "#000000",
-    "search_section_bg_color": "#f8c5e3",
-    "testimonial_color": "#ffffff",
-    "testimonial_bg_color": "#666666",
-    "featured_promotions_color": "#fff",
-    "featured_promotions_color_hover": "#fff",
-    "featured_promotions_background": "#000",
-    "featured_promotions_mobile_background": true,
-    "modal_background_color": "#ffffff",
-    "modal_text_color": "#2b2e38",
     "shop_bg_color": "#ffffff",
     "custom_bg": "",
     "repeat_bg": "repeat",
     "bg_fixed": false,
     "bg_stretched": false,
-    "top_bar_bg_color": "#1b1f23",
-    "top_bar_cart_bg_color": "#dd4982",
-    "minicart_bg_color": "#ffffff",
+    "regular_color": "#333333",
+    "headline_color": "#333333",
+    "link_color": "#dd4982",
+    "link_hover_color": "#dd4982",
+    "sidebar_nav_color": "#363636",
+    "sidebar_nav_color_hover": "#dd4982",
+    "border_color": "#cccccc",
+    "collection_filter_color": "#333333",
+    "arrow_color": "#dd4982",
+    "slideshow_arrow_size": "regular",
+    "slideshow_nav_buttons": false,
+    "slideshow_button_style": false,
+    "table_styles_enabled": true,
+    "btn_color": "#dd4982",
+    "btn_hover_color": "#333333",
+    "btn_text_color": "#ffffff",
+    "button_style": "square",
+    "read_more_style": "button",
     "header_bg_color": "#1b1f23",
+    "nav_color": "#d9d9d9",
+    "nav_color_hover": "#dd4982",
+    "nav_color_home": "#d9d9d9",
     "header_background": true,
     "transparent_header": true,
+    "minicart_bg_color": "#ffffff",
+    "top_bar_bg_color": "#1b1f23",
+    "top_bar_color": "#f4f4f4",
+    "top_bar_color_hover": "#dd4982",
+    "top_bar_cart_bg_color": "#dd4982",
+    "logo_color": "#ffffff",
+    "promo_text_color": "#333333",
     "promo_bg_color": "#f2f2f2",
-    "shop_home_page_content_bg_color": "#f6f7f9",
-    "featured_links_background": "#ffffff",
-    "product_hover_bg_color": "#000000",
     "sub_footer_color": "#1b1f23",
     "footer_bg": "",
     "footer_bg_stretched": false,
-    "newsletter_popup_background_color": "#ffffff",
+    "sub_footer_text_color": "#6b6b6b",
+    "headline_footer_text_color": "#7f8c8d",
+    "sub_footer_link_color": "#7f8c8d",
+    "sub_footer_link_color_hover": "#f4f4f4",
+    "sub_footer_border_color": "#1b1f23",
+    "shop_home_page_content_bg_color": "#f6f7f9",
+    "shop_home_page_content_text_color": "#363636",
+    "headline_border_color": "#aaaaaa",
+    "headline_border": "1",
+    "divider_style": "solid",
+    "sale_color": "#dd4982",
+    "was_price_color": "#8c8b8b",
+    "product_hover_text_color": "#ffffff",
+    "product_hover_bg_color": "#000000",
+    "sale_banner_color": "#dd4982",
+    "new_banner_color": "#03a196",
+    "swatch_style": "square",
+    "modal_text_color": "#2b2e38",
+    "modal_background_color": "#ffffff",
+    "banner_color": "#ffffff",
+    "banner_button_color": "#ffffff",
+    "banner_background_color": "#1e1e1e",
+    "banner_placeholder_background_color": "#666666",
+    "featured_promotions_color": "#fff",
+    "featured_promotions_color_hover": "#fff",
+    "featured_promotions_background": "#000",
+    "featured_promotions_mobile_background": true,
+    "featured_links_background": "#ffffff",
+    "newsletter_section_color": "#ffffff",
     "newsletter_section_background_color": "#f8c5e3",
+    "search_section_color": "#000000",
+    "search_section_bg_color": "#f8c5e3",
+    "testimonial_color": "#ffffff",
+    "testimonial_bg_color": "#666666",
     "password_page_text_color": "#ffffff",
     "password_page_background_color": "#000000",
     "logo__font": "oswald_n4",
@@ -127,14 +123,9 @@
     "footer_logo_font_size": 20,
     "footer_heading_font_size": 18,
     "footer_font_size": 13,
-    "mega_menu_1": false,
-    "mega_menu_2": false,
-    "mega_menu_3": false,
-    "mega_menu_4": false,
-    "mega_menu_5": false,
-    "search_option": "product",
     "enable_autocomplete": true,
-    "search_to_display": 10,
+    "sale_banner_enabled": true,
+    "sticker_style": "square",
     "product_form_style": "swatches",
     "show_dynamic_checkout_button": false,
     "display_product_quantity": false,
@@ -142,15 +133,12 @@
     "display_inventory_left": true,
     "inventory_threshold": 10,
     "notify_me_form": true,
-    "notify_me_richtext": "<p>Notify me when this product is available:</p>",
     "display_vendor": false,
     "collection_swatches": false,
     "show_star_ratings": false,
-    "sale_banner_enabled": true,
     "thumbnail_hover_enabled": false,
     "mobile_products_per_row": "2",
     "display_price": false,
-    "sold_out_text": "Slutsåld",
     "free_price_text": "Välj produkt",
     "pagination_type": "basic_pagination",
     "collection_secondary_image": true,
@@ -174,6 +162,8 @@
     "default_currency": "SEK",
     "mailchimp_link": "",
     "newsletter_popup": false,
+    "newsletter_popup_seconds": 0,
+    "newsletter_popup_days": "14",
     "newsletter_popup_close": false,
     "newsletter_popup_mobile": false,
     "newsletter_popup_form": false,
@@ -181,33 +171,59 @@
     "display_last_name": false,
     "use_newsletter_border": false,
     "newsletter_bg": "",
-    "image_crop": "none",
     "newsletter_popup_image_align": "left",
     "newsletter_popup_title": "",
     "newsletter_popup_text": "<p></p>",
     "newsletter_popup_text_align": "center",
+    "newsletter_popup_color": "#363636",
+    "newsletter_popup_background_color": "#ffffff",
     "popup_button1": "",
     "popup_button1_link": "",
     "popup_button1_highlight": false,
     "popup_button2": "",
     "popup_button2_link": "",
     "popup_button2_highlight": false,
-    "newsletter_popup_seconds": 0,
-    "newsletter_popup_days": "14",
-    "twitter_link": "",
-    "facebook_link": "https://www.facebook.com/docklandet/",
-    "youtube_link": "https://www.youtube.com/@Docklandet_Sweden",
-    "vimeo_link": "https://vimeo.com/docklandet",
-    "pinterest_link": "",
-    "tumblr_link": "",
-    "instagram_link": "https://instagram.com/docklandet",
-    "snapchat_link": "",
-    "houzz_link": "",
-    "linkedin_link": "",
+    "behance_link": "",
+    "clubhouse_link": "",
+    "discord_link": "",
     "email_link": "info@docklandet.se",
+    "facebook_link": "https://www.facebook.com/docklandet/",
+    "flickr_link": "",
+    "houzz_link": "",
+    "instagram_link": "https://instagram.com/docklandet",
+    "kickstarter_link": "",
+    "linkedin_link": "",
+    "medium_link": "",
+    "messenger_link": "",
+    "opensea_link": "",
+    "pinterest_link": "",
+    "reddit_link": "",
+    "rss_link": "",
+    "snapchat_link": "",
+    "spotify_link": "",
+    "tumblr_link": "",
+    "twitch_link": "",
+    "twitter_link": "",
+    "vimeo_link": "https://vimeo.com/docklandet",
+    "whatsapp_link": "",
+    "youtube_link": "https://www.youtube.com/@Docklandet_Sweden",
     "favicon": "shopify://shop_images/docklandet_logo_favicon_D_1.png",
     "disqus_enabled": false,
     "disqus_shortname": "",
+    "enable_shopify_review_comments": true,
+    "enable_shopify_collection_badges": true,
+    "tikok_link": "",
+    "dribble_link": "",
+    "stock_banner_color": "#dd4982",
+    "mega_menu_1": false,
+    "mega_menu_2": false,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "search_to_display": 10,
+    "notify_me_richtext": "<p>Notify me when this product is available:</p>",
+    "sold_out_text": "Slutsåld",
+    "image_crop": "none",
     "pt_show_refine": false,
     "pt_show_collection_group": true,
     "pt_show_inactive_filters": false,
@@ -267,8 +283,6 @@
     "banner_style": "square",
     "search_pagination_type": "basic_pagination",
     "size_chart": "",
-    "enable_shopify_review_comments": true,
-    "enable_shopify_collection_badges": true,
     "show_payment_button": true,
     "quick_shop_display_vendor": false,
     "quick_shop_display_savings": true,
@@ -284,89 +298,6 @@
     "secondary_newsletter_banner": false,
     "og_image_fallback": "",
     "sections": {
-      "header": {
-        "type": "header",
-        "settings": {
-          "promo_text": "",
-          "social_icons_header": true,
-          "phone_number": "",
-          "top_bar_menu": "",
-          "show_cart": true,
-          "cart_icon": "cart",
-          "show_locale_selector": false,
-          "show_currency_selector": true,
-          "logo_display_width": 205,
-          "logo": "shopify://shop_images/DOCKLANDET_LOGO_TEXT-1.svg",
-          "main_linklist": "main-menu",
-          "main_linklist2": "",
-          "vertical_menu": false,
-          "dropdown_click": false,
-          "search_enabled": true,
-          "fixed_header": true,
-          "logo_position": "left",
-          "logo_alignment": "left",
-          "menu_position": "inline",
-          "menu_alignment": "center"
-        }
-      },
-      "footer": {
-        "type": "footer",
-        "blocks": {
-          "footer-0": {
-            "type": "logo",
-            "settings": {
-              "image": "shopify://shop_images/DOCKLANDET_LOGO_TEXT-AND-ICON-6_300x_33dbfe2c-6390-4ad0-9a8f-9e361e34e599.png",
-              "text_align": "center",
-              "social_icons_footer": false
-            }
-          },
-          "1582561490215": {
-            "type": "text",
-            "settings": {
-              "title": "Docklandet.se",
-              "content": "<p><em>Vårt sortiment erbjuder över 4000 dockor (real doll's) i olika prisklasser, stilar och storlekar. Vi är auktoriserad partner till flera världsledande fabrikat och i vår butik finns över 70 dockor uppställda. Vi är experter på sexdockor och kommer alltid göra allt för att du som kund ska bli nöjd! </em></p>",
-              "social_icons_footer": false
-            }
-          },
-          "1582561037798": {
-            "type": "text",
-            "settings": {
-              "title": "Vi garanterar",
-              "content": "<p>- Marknadens bästa priser<br/>- Noga utvalda produkter<br/>- Ett brett sortiment<br/>- Högsta kvalitet<br/>- 100% diskretion<br/>- Snabb leverans<br/>- Ingen tullavgift<br/>- <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\"><strong>Alltid fri frakt!</strong></a></p>",
-              "social_icons_footer": false
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "menu": "footer",
-              "social_icons_footer": true
-            }
-          },
-          "footer-3": {
-            "type": "text",
-            "settings": {
-              "title": "Kontakt",
-              "content": "<p><a href=\"/pages/kontakt-docklandet-sexdockor\" title=\"Kontakt Docklandet\"><strong>Öppettider  (10:00 - 18:00)</strong></a><br/>Mail: <a href=\"mailto:info@docklandet.se\" target=\"_blank\" title=\"Skicka ett mail till oss!\">info@docklandet.se</a><br/>Telefon: 010-641 06 66</p><p><a href=\"https://www.allabolag.se/5592650468/dalarna-exclusive-ab\" target=\"_blank\" title=\"Allabolag.se - Dalarna Exclusive AB\"><strong>Dalarna Exclusive AB</strong></a><br/>Org-nr: 559265-0468<br/>Krokgatan 22 <br/>784 52 Borlänge</p>",
-              "social_icons_footer": false
-            }
-          }
-        },
-        "block_order": [
-          "footer-0",
-          "1582561490215",
-          "1582561037798",
-          "footer-1",
-          "footer-3"
-        ],
-        "settings": {
-          "copyright_text": "",
-          "display_designed_by": false,
-          "display_payment_methods": true,
-          "show_locale_selector": false,
-          "show_currency_selector": false
-        }
-      },
       "1582460042839": {
         "type": "slideshow",
         "blocks": {
@@ -382,8 +313,7 @@
               "button2": "<b>Navi</b>",
               "button2_link": "shopify://products/fantasidockor-sexdocka-yldoll-navi",
               "text_position": "center",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           },
           "1582484545111": {
@@ -398,8 +328,7 @@
               "button2": "<b>Amanda</b>",
               "button2_link": "shopify://products/sexdocka-wmdoll-amanda",
               "text_position": "center",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           },
           "1582484400809": {
@@ -414,8 +343,7 @@
               "button2": "<b>Nadia</b>",
               "button2_link": "shopify://products/sexdocka-wmdoll-nadia",
               "text_position": "center",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           }
         },
@@ -520,10 +448,6 @@
           "thumbnail_position": "bottom-slider"
         }
       },
-      "product-recommendations": {
-        "type": "product-recommendations",
-        "settings": {}
-      },
       "collection-template": {
         "type": "collection-template",
         "blocks": {
@@ -563,8 +487,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "center",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           },
           "1582486702254-0": {
@@ -580,8 +503,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "left",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           },
           "1582545497858": {
@@ -597,8 +519,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "left",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           },
           "1582546524278": {
@@ -614,8 +535,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "left",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           }
         },
@@ -650,8 +570,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "left",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           },
           "1582636388780-1": {
@@ -667,8 +586,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "left",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           },
           "1582636643628": {
@@ -684,8 +602,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "left",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           }
         },
@@ -1406,8 +1323,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "center",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           }
         },
@@ -1881,8 +1797,7 @@
               "button2": "",
               "button2_link": "",
               "text_position": "center",
-              "text_align": "center",
-              "mobile_image_crop": "none"
+              "text_align": "center"
             }
           }
         },
@@ -1914,7 +1829,7 @@
           "button2_link": "",
           "text_position": "center",
           "text_align": "center",
-          "mobile_image_crop": "none",
+          "mobile_image_crop": false,
           "mobile_text_below_image": false,
           "mobile_text_color": ""
         }
@@ -1977,7 +1892,7 @@
           "button2_link": "",
           "text_position": "center",
           "text_align": "center",
-          "mobile_image_crop": "none",
+          "mobile_image_crop": false,
           "mobile_text_below_image": false,
           "mobile_text_color": ""
         }
@@ -2088,7 +2003,7 @@
           "button2_link": "",
           "text_position": "center",
           "text_align": "center",
-          "mobile_image_crop": "none",
+          "mobile_image_crop": false,
           "mobile_text_below_image": false,
           "mobile_text_color": ""
         }

@@ -37,6 +37,29 @@
       "in_stock": "Em estoque"
     }
   },
+  "recipient": {
+    "form": {
+      "checkbox_label": "Eu quero enviar isso como um presente",
+      "email_label": "E-mail do destinatário",
+      "email_placeholder": "E-mail do destinatário",
+      "error_message": "O e-mail não é válido",
+      "name_label": "Nome do destinatário (opcional)",
+      "name_placeholder": "Nome do destinatário",
+      "message_label": "Mensagem (opcional)",
+      "message_placeholder": "Mensagem",
+      "max_characters": "Máximo de {{ max_characters }} caracteres",
+      "send_on_label": "Enviar em (opcional)",
+      "send_on_placeholder": "AAAA-MM-DD"
+    }
+  },
+  "sections": {
+    "complementary_product_block": {
+      "from": "A partir de",
+      "now": "Agora",
+      "price_per_unit_html": "{{ total_quantity }} | {{ unit_price }} / {{ unit_measure }}",
+      "view_details": "Ver produto"
+    }
+  },
   "date_formats": {
     "month_day_year": "%B %d, %Y"
   },
@@ -49,6 +72,10 @@
     "accessibility": {
       "total_reviews": "total de avaliações",
       "star_reviews_info": "{{ rating_value }} de {{ rating_max }} estrelas"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Topo",
+      "mobile_button_label": "Voltar ao topo"
     },
     "password_page": {
       "opening_soon": "Abertura em Breve",
@@ -101,9 +128,22 @@
         "one": "{{ count }} resultado",
         "other": "{{ count }} resultados"
       },
+      "results_text": "{{ results }} encontrado para \"{{ search_terms }}\"",
+      "no_results_text": "{{ results }} para \"{{ search_terms }}\"",
       "placeholder": "Pesquisar...",
+      "placeholder_with_blog_name": "Pesquise {{ blog_title }}...",
       "placeholder_with_shop_name": "Pesquisar {{ shop_name }}...",
-      "submit": "Pesquisar"
+      "submit": "Pesquisar",
+      "close": "Fechar"
+    },
+    "predictive_search": {
+      "no_results_text": "Nenhum resultado correspondente encontrado.",
+      "query_suggestions_heading": "Sugestões",
+      "product_suggestions_heading": "Produtos",
+      "posts_suggestions_heading": "Postagens",
+      "pages_suggestions_heading": "Páginas",
+      "pages_and_posts_suggestions_heading": "Postagens e páginas",
+      "search_button_label": "Pesquise \"{{ search_terms }}\""
     },
     "currency": {
       "dropdown_label": "Moeda"
@@ -216,7 +256,8 @@
         "one": "item deixado",
         "other": "itens deixados"
       },
-      "view_in_your_space": "Ver en tu espacio"
+      "view_in_your_space": "Ver en tu espacio",
+      "percent_off": "% desligado"
     },
     "notify_form": {
       "email": "Digite seu endereço de e-mail...",
@@ -225,7 +266,8 @@
       "message_content_first": "Favor notificar-me quando ",
       "message_content_last": " estiver disponível - ",
       "post_success": "Obrigado! Iremos notificá-lo quando este produto estiver disponível!",
-      "post_error": "Favor fornecer um endereço de e-mail válido."
+      "post_error": "Favor fornecer um endereço de e-mail válido.",
+      "notify_me_richtext": "Avise-me quando este produto estiver disponível:"
     },
     "item": {
       "price": {
@@ -381,7 +423,8 @@
       "promotion_description": "Texto da promoção",
       "blogpost_title": "Título",
       "caption_button": "Botão",
-      "product_vendor": "Nome do vendedor"
+      "product_vendor": "Nome do vendedor",
+      "hotspot_identifier": "Produto {{ identifier }}"
     }
   },
   "gift_cards": {

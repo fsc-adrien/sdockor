@@ -55,8 +55,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "image_PxTAVF": {
@@ -75,8 +74,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "image_4qz4K3": {
@@ -95,8 +93,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "image_PciCrb": {
@@ -115,8 +112,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "image_9qQLaR": {
@@ -135,8 +131,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         }
       },
@@ -564,7 +559,6 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": true,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "display_collection_title": false,
         "collection_breadcrumb": false,

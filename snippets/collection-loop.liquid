@@ -43,11 +43,12 @@
             {% endif %}
           {% endif %}
 
-          {% render 'image-element',
-                  image: image_src,
-                  alt: link_title,
-                  object_fit: section.settings.align_height,
-                  max_height: section.settings.collection_height
+          {%
+            render 'image-element',
+            image: image_src,
+            alt: link_title,
+            object_fit: section.settings.align_height,
+            max_height: section.settings.collection_height,
           %}
         {% endcapture %}
 

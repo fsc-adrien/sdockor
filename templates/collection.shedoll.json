@@ -136,7 +136,6 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": false,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "display_collection_title": false,
         "collection_breadcrumb": false,
@@ -625,26 +624,24 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/03_c0fbf16d-4547-4b5a-a225-374b6b0fb7b7.jpg",
-            "image_crop": "none",
             "title": "silikon",
             "text": "<p>Tillbehör inkluderas i alla silikon dockor</p>",
             "button_label": "",
             "link": "",
-            "bg_color": "",
-            "text_color": ""
+            "text_color": "",
+            "bg_color": ""
           }
         },
         "image_heLAMb": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Untitled-1_73e06adb-b5a5-4cd0-95ac-a596f90a9184.jpg",
-            "image_crop": "none",
             "title": "TPE",
             "text": "<p>Tillbehör Inkluderas i alla TPE dockor</p>",
             "button_label": "",
             "link": "",
-            "bg_color": "",
-            "text_color": ""
+            "text_color": "",
+            "bg_color": ""
           }
         }
       },

@@ -104,6 +104,30 @@
     },
     {
       "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
+    },
+    {
+      "type": "header",
       "content": "Advanced"
     },
     {
@@ -126,7 +150,10 @@
       "name": "Map",
       "category": "Store information"
     }
-  ]
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

@@ -5,16 +5,19 @@
 >
 </script>
 
-{% assign object_selector = '#shopify-section-' | append: section.id %}
-{% assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop %}
-{% assign mobile_text_alpha = section.settings.mobile_text_color | default: 'rgba(0,0,0,0)' | color_extract: 'alpha' %}
+{% liquid
+  assign object_selector = '#shopify-section-' | append: section.id
+  assign mobile_crop = 'mobile-banner-crop-' | append: section.settings.mobile_image_crop
+  assign mobile_text_alpha = section.settings.mobile_text_color | default: 'rgba(0,0,0,0)' | color_extract: 'alpha'
+  assign lazyload = true
 
-<style>
-  {%
-    render 'css-loop',
-    css: section.settings.custom_css,
-    id: section.id
-  %}
+  if section.index0 < 2
+    assign lazyload = false
+  endif
+%}
+
+{% style %}
+  {% render 'section-space' %}
 
   {% if section.settings.mobile_text_below_image and mobile_text_alpha != 0 %}
     @media only screen and (max-width: 480px) {
@@ -25,7 +28,13 @@
       }
     }
   {% endif %}
-</style>
+
+  {%
+    render 'css-loop',
+    css: section.settings.custom_css,
+    id: section.id,
+  %}
+{% endstyle %}
 
 <section
   id="banner-{{ section.id }}"
@@ -61,7 +70,8 @@
           image: section.settings.image,
           alt: section.settings.image.alt,
           stretch_width: true,
-          additional_classes: mobile_crop
+          focal_point: section.settings.image.presentation.focal_point,
+          lazyload: lazyload,
         %}
 
         {% if section.settings.caption_content_background == 'darken_bg' %}
@@ -79,7 +89,9 @@
             image: section.settings.mobile_image,
             alt: section.settings.mobile_image.alt,
             stretch_width: true,
-            additional_classes: mobile_crop
+            focal_point: section.settings.mobile_image.presentation.focal_point,
+            additional_classes: mobile_crop,
+            lazyload: lazyload,
           %}
 
           {% if section.settings.caption_content_background == 'darken_bg' %}
@@ -280,23 +292,9 @@
       ]
     },
     {
-      "type": "select",
+      "type": "text_alignment",
       "id": "text_align",
-      "label": "Text alignment",
-      "options": [
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
+      "label": "Text alignment"
     },
     {
       "type": "header",
@@ -338,27 +336,10 @@
       "info": "Display a different image on mobile screens. This only appears when the desktop image is set."
     },
     {
-      "type": "select",
+      "type": "checkbox",
       "id": "mobile_image_crop",
-      "label": "Image cropping",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
+      "label": "Crop image",
+      "default": false
     },
     {
       "type": "checkbox",
@@ -371,6 +352,30 @@
       "id": "mobile_text_color",
       "label": "Text below image",
       "info": "Set this to “None” to use the “Regular text” color."
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     },
     {
       "type": "header",
@@ -402,7 +407,10 @@
         "text_align": "center"
       }
     }
-  ]
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

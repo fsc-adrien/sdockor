@@ -3,34 +3,28 @@
 - Draggable section
 {% endcomment %}
 
-{% comment %} Assign object as block or section {% endcomment %}
-{% if type == 'block' %}
-  {%- assign object = block -%}
-{% else %}
-  {%- assign object = section -%}
-{% endif %}
+{% liquid
+  if type == 'block'
+    assign object = block
+  else
+    assign object = section
+  endif
 
-{%- assign id = object.id -%}
+  assign blog = blogs[object.settings.blog_widget_select]
+  assign title = object.settings.title | escape
+%}
 
-{% comment %} Content settings {% endcomment %}
-{%- assign blog = blogs[object.settings.blog_widget_select] -%}
-{%- assign title = object.settings.title | escape -%}
-{% comment %} End content settings {% endcomment %}
-
-{% comment %} Advanced {% endcomment %}
-{%- assign css_class = object.settings.css_class -%}
-{%- assign custom_css = object.settings.custom_css -%}
-
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
-    css: custom_css,
-    id: id
+    css: object.settings.custom_css,
+    id: object.id,
   %}
 {% endstyle %}
 
-<section class="section {{ css_class }}">
+<section class="section {{ object.settings.css_class }}">
   <div class="container">
     {% if title != blank %}
       <div class="one-whole column">
@@ -43,7 +37,7 @@
         >
           <a {% if blog.url != blank %}href="{{ blog.url }}"{% endif %}>{{ title }}</a>
         </h2>
-        <div class="feature_divider"></div>
+        <div class="feature-divider"></div>
       </div>
     {% endif %}
 
@@ -66,7 +60,7 @@
               {%
                 render 'image-element',
                 image: article.image,
-                alt: article.image.alt
+                alt: article.image.alt,
               %}
             </a>
           {% endif %}

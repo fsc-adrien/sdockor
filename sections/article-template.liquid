@@ -13,8 +13,6 @@
     {% assign sidebar = false %}
   {% endif %}
 
-  {% assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop %}
-
   {% if section.settings.featured_image == 'banner' %}
     {% assign show_caption = true %}
   {% endif %}
@@ -24,7 +22,6 @@
       render 'template-banner',
       image: article.image,
       background_style: section.settings.caption_content_background,
-      mobile_crop: mobile_crop,
       wide_display: section.settings.wide_display,
       banner_title: article.title,
       show_caption: show_caption,
@@ -92,7 +89,7 @@
           {% unless article.image and section.settings.featured_image == 'banner' %}
             <div class="one-whole column">
               <h1 class="align_left article_title">{{ article.title }}</h1>
-              <div class="feature_divider"></div>
+              <div class="feature-divider"></div>
             </div>
           {% endunless %}
 
@@ -139,7 +136,7 @@
               {%
                 render 'image-element',
                 image: article.image,
-                alt: article.image.alt
+                alt: article.image.alt,
               %}
             {% endif %}
 
@@ -424,30 +421,6 @@
       "id": "wide_display",
       "label": "Wide display",
       "default": true
-    },
-    {
-      "type": "select",
-      "id": "mobile_image_crop",
-      "label": "Mobile image cropping",
-      "default": "none",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
     },
     {
       "type": "select",

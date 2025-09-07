@@ -11,9 +11,11 @@
                 data-height="{{ block.settings.detail_image_1.height }}"
                 data-srcset="{{ block.settings.detail_image_1 |  img_url: '1600x' }} 1600w, {{ block.settings.detail_image_1 |  img_url: '1200x' }} 1200w, {{ block.settings.detail_image_1 |  img_url: '640x' }} 640w"
                 rel="gallery">
-              {% render 'image-element',
-                      image: block.settings.detail_image_1,
-                      alt: block.settings.detail_image_1.alt
+              {%
+                render 'image-element',
+                image: block.settings.detail_image_1,
+                alt: block.settings.detail_image_1.alt,
+                focal_point: block.settings.detail_image_1.presentation.focal_point,
               %}
             </a>
           </div>
@@ -32,9 +34,11 @@
                 data-height="{{ block.settings.detail_image_2.height }}"
                 data-srcset="{{ block.settings.detail_image_2 |  img_url: '1600x' }} 1600w, {{ block.settings.detail_image_2 |  img_url: '1200x' }} 1200w, {{ block.settings.detail_image_2 |  img_url: '640x' }} 640w"
                 rel="gallery">
-              {% render 'image-element',
-                      image: block.settings.detail_image_2,
-                      alt: block.settings.detail_image_2.alt
+              {%
+                render 'image-element',
+                image: block.settings.detail_image_2,
+                alt: block.settings.detail_image_2.alt,
+                focal_point: block.settings.detail_image_2.presentation.focal_point,
               %}
             </a>
           </div>
@@ -53,9 +57,11 @@
                 data-height="{{ block.settings.detail_image_3.height }}"
                 data-srcset="{{ block.settings.detail_image_3 |  img_url: '1600x' }} 1600w, {{ block.settings.detail_image_3 |  img_url: '1200x' }} 1200w, {{ block.settings.detail_image_3 |  img_url: '640x' }} 640w"
                 rel="gallery">
-              {% render 'image-element',
-                      image: block.settings.detail_image_3,
-                      alt: block.settings.detail_image_3.alt
+              {%
+                render 'image-element',
+                image: block.settings.detail_image_3,
+                alt: block.settings.detail_image_3.alt,
+                focal_point: block.settings.detail_image_3.presentation.focal_point,
               %}
             </a>
           </div>

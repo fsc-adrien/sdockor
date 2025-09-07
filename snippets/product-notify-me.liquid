@@ -30,9 +30,7 @@
             {{ 'products.notify_form.message_content' | t }}:
           </label>
 
-          {% if settings.notify_me_richtext %}
-            {{ settings.notify_me_richtext }}
-          {% endif %}
+          <p>{{ 'products.notify_form.notify_me_richtext' | t }}</p>
 
           <div class="notify_form__inputs" data-url="{{ canonical_url }}">
             {% if product.variants.size == 1 and product.available == false %}

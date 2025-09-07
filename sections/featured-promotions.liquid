@@ -5,22 +5,18 @@
 >
 </script>
 
-{%- assign id = section.id -%}
+{% liquid
+  assign id = section.id
+  assign blocks = section.blocks
+%}
 
-{% comment %} Content settings {% endcomment %}
-{%- assign blocks = section.blocks -%}
-{% comment %} End content settings {% endcomment %}
-
-{% comment %} Advanced {% endcomment %}
-{%- assign css_class = section.settings.css_class -%}
-{%- assign custom_css = section.settings.custom_css -%}
-
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
-    css: custom_css,
-    id: id
+    css: section.settings.custom_css,
+    id: id,
   %}
 {% endstyle %}
 
@@ -32,7 +28,7 @@
         is-width-wide
         has-no-side-gutter
       {% endif %}
-      {{ css_class }}
+      {{ section.settings.css_class }}
     "
   >
     <div
@@ -61,7 +57,8 @@
                 render 'image-element',
                 image: image,
                 alt: image.alt,
-                stretch_width: true
+                stretch_width: true,
+                focal_point: image.presentation.focal_point,
               %}
             {% else %}
               {% capture i %}{% cycle "1", "2", "3", "4", "5", "6" %}{% endcapture %}
@@ -74,7 +71,8 @@
                   render 'image-element',
                   image: mobile_image,
                   alt: mobile_image.alt,
-                  stretch_width: true
+                  stretch_width: true,
+                  focal_point: mobile_image.presentation.focal_point,
                 %}
               </div>
             {% endif %}
@@ -159,15 +157,15 @@
       "options": [
         {
           "value": "fadeIn",
-          "label": "Fade In"
+          "label": "Fade in"
         },
         {
           "value": "fadeInUp",
-          "label": "Fade Up"
+          "label": "Fade up"
         },
         {
           "value": "fadeInDown",
-          "label": "Fade Down"
+          "label": "Fade down"
         },
         {
           "value": "",
@@ -194,6 +192,30 @@
           "label": "Rounded"
         }
       ]
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     },
     {
       "type": "header",
@@ -256,21 +278,26 @@
       ]
     }
   ],
-  "presets": [{
-    "name": "Featured promotions",
-    "category": "Image",
-    "blocks": [
-      {
-        "type": "image"
-      },
-      {
-        "type": "image"
-      },
-      {
-        "type": "image"
-      }
-    ]
-  }]
+  "presets": [
+    {
+      "name": "Featured promotions",
+      "category": "Image",
+      "blocks": [
+        {
+          "type": "image"
+        },
+        {
+          "type": "image"
+        },
+        {
+          "type": "image"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

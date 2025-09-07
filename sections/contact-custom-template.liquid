@@ -5,15 +5,12 @@
 >
 </script>
 
-{% assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop %}
-
 {% if section.settings.image != blank %}
   {%
     render 'template-banner',
     image: section.settings.image,
     mobile_image: section.settings.mobile_image,
     background_style: section.settings.caption_content_background,
-    mobile_crop: mobile_crop,
     wide_display: section.settings.wide_display,
     banner_title: section.settings.contact_heading,
     banner_subheading: section.settings.subtitle,
@@ -49,30 +46,6 @@
       "id": "mobile_image",
       "label": "Mobile banner image",
       "info": "Display a different image on mobile screens. This only appears when the desktop image is set."
-    },
-    {
-      "type": "select",
-      "id": "mobile_image_crop",
-      "label": "Mobile image cropping",
-      "default": "none",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
     },
     {
       "type": "text",
@@ -154,25 +127,9 @@
       ]
     },
     {
-      "type": "select",
+      "type": "text_alignment",
       "id": "contact_text_alignment",
-      "label": "Text alignment",
-      "default": "left",
-      "default": "left",
-      "options": [
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
+      "label": "Text alignment"
     },
     {
       "type": "checkbox",

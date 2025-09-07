@@ -8,21 +8,20 @@
 {% assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop %}
 
 <script type="application/ld+json">
+  {% assign faq_blocks = section.blocks | where: "type", "question" %}
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      {% for block in section.blocks %}
-        {% unless block.type == 'heading' %}
-          {
-            "@type": "Question",
-            "name": "{{ block.settings.title | escape }}",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "{{ block.settings.subtitle | strip_html | escape }}"
-            }
-          }{% unless forloop.last %},{% endunless %}
-        {% endunless %}
+      {% for faq in faq_blocks %}
+        {
+          "@type": "Question",
+          "name": "{{ faq.settings.title | escape }}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{ faq.settings.subtitle | strip_html | escape }}"
+          }
+        }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ]
   }
@@ -68,7 +67,7 @@
     >
       {% unless section.settings.image != blank or section.settings.show_banner %}
         <h1>{{ page.title }}</h1>
-        <div class="feature_divider"></div>
+        <div class="feature-divider"></div>
       {% endunless %}
       {%
         render 'page-multi-column',
@@ -120,7 +119,7 @@
               </dt>
 
               <dd id="panel-01" aria-hidden="false">
-                {{ block.settings.subtitle }}
+                {{ block.settings.content }}
               </dd>
             {% endif %}
           {% endfor %}
@@ -148,6 +147,7 @@
               image: block.settings.image,
               alt: block.settings.image.alt,
               stretch_width: true,
+              focal_point: block.settings.image.presentation.focal_point,
             %}
           {% else %}
             {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}

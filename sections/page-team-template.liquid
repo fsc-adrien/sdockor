@@ -2,15 +2,14 @@
   type="application/json"
   data-section-type="page-team-template"
   data-section-id="{{ section.id }}"
->
-</script>
+></script>
 
 <section class="section">
   <div class="container content">
     {% if page.title %}
       <div class="one-whole column page">
         <h1>{{ page.title }}</h1>
-        <div class="feature_divider"></div>
+        <div class="feature-divider"></div>
       </div>
     {% endif %}
 
@@ -19,11 +18,11 @@
         <div class="team-page__content--{{ section.settings.image_position }} {% if section.settings.image != blank and section.settings.text != blank %}teamPage__content--multiple{% endif %}">
           {% if section.settings.image != blank %}
             <div class="team-page__image">
-              {%
-                render 'image-element',
+              {% render 'image-element',
                 image: section.settings.image,
                 alt: section.settings.image.alt,
-                progressive: true
+                progressive: true,
+                focal_point: section.settings.image.presentation.focal_point
               %}
             </div>
           {% endif %}
@@ -47,7 +46,7 @@
 
     {% if section.settings.image != blank or section.settings.text != blank or section.settings.title != blank %}
       <div class="one-whole column">
-        <hr class="feature_divider">
+        <hr class="feature-divider">
       </div>
     {% endif %}
 
@@ -60,10 +59,10 @@
       <div class="{% render 'column-width', value: section.settings.employee_per_row %} column medium-down--one-whole center team-member__profile">
         <figure class="team-member__wrap">
           {% if block.settings.image %}
-            {%
-              render 'image-element',
+            {% render 'image-element',
               image: block.settings.image,
-              alt: block.settings.image.alt
+              alt: block.settings.image.alt,
+              focal_point: block.settings.image.presentation.focal_point
             %}
           {% else %}
             {% capture i %}{% cycle "1", "2", "3", "4", "5", "6" %}{% endcapture %}
@@ -73,7 +72,7 @@
           <figcaption class="team-member__overlay">
             <div class="team-member__details">
               {% if title != blank %}
-                <h4 class="team-member__title">{{title}}</h4>
+                <h4 class="team-member__title">{{ title }}</h4>
               {% endif %}
 
               {% if description != blank %}
@@ -81,7 +80,9 @@
               {% endif %}
 
               {% if twitter_handle != blank %}
-                <a href="https://twitter.com/{{twitter_handle}}"><span class="icon-twitter"></span>@{{twitter_handle}}</a>
+                <a href="https://twitter.com/{{twitter_handle}}"
+                  ><span class="icon-twitter"></span>@{{ twitter_handle -}}
+                </a>
               {% endif %}
             </div>
           </figcaption>
@@ -102,8 +103,13 @@
   .team-member__details h4::after { background-color: {{ section.settings.member_accent_color }}; }
 
   {%- assign hover_bg = section.settings.member_overlay_color | color_extract: 'alpha' -%}
-
-  {% if hover_bg != 0 %}
+  {%- assign hover_bg_gradient = section.settings.member_overlay_color_gradient -%}
+  {% if hover_bg_gradient != ''  %}
+    .team-member__overlay {
+      background: {{section.settings.member_overlay_color_gradient }};
+      filter: opacity(75%);
+    }
+  {% elsif hover_bg != 0 %}
     .team-member__overlay {
       background-color: {{ section.settings.member_overlay_color | color_modify: 'alpha', 0.8 }}
     }
@@ -198,6 +204,11 @@
       "id": "member_overlay_color",
       "label": "Overlay",
       "default": "#000"
+    },
+    {
+      "type": "color_background",
+      "id": "member_overlay_color_gradient",
+      "label": "Overlay gradient"
     }
   ],
   "blocks": [

@@ -4,33 +4,31 @@
 - Uses blocks
 {% endcomment %}
 
-{% comment %} Assign object as block or section {% endcomment %}
-{% if type == 'block' %}
-  {%- assign object = block -%}
-{% else %}
-  {%- assign object = section -%}
-{% endif %}
+{% liquid
+  if type == 'block'
+    assign object = block
+  else
+    assign object = section
+  endif
 
-{%- assign id = object.id -%}
+  assign id = object.id
 
-{% comment %} Content settings {% endcomment %}
-{%- assign blocks = object.blocks -%}
-{%- assign contact_image = object.settings.contact_image -%}
-{%- assign contact_heading = object.settings.contact_heading -%}
-{%- assign contact_subheading = object.settings.contact_subheading -%}
-{%- assign contact_content = object.settings.contact_content -%}
-{% comment %} End content settings {% endcomment %}
+  assign blocks = object.blocks
+  assign contact_image = object.settings.contact_image
+  assign contact_heading = object.settings.contact_heading
+  assign contact_subheading = object.settings.contact_subheading
+  assign contact_content = object.settings.contact_content
+  assign css_class = object.settings.css_class
+  assign custom_css = object.settings.custom_css
+%}
 
-{% comment %} Advanced {% endcomment %}
-{%- assign css_class = object.settings.css_class -%}
-{%- assign custom_css = object.settings.custom_css -%}
-
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
     css: custom_css,
-    id: id
+    id: id,
   %}
 {% endstyle %}
 
@@ -52,7 +50,7 @@
       {% if contact_heading != blank and object.settings.image == blank %}
         <div class="custom-contact-form__heading">
           <h2 class="title center">{{ contact_heading | escape }}</h2>
-          <div class="feature_divider"></div>
+          <div class="feature-divider"></div>
         </div>
       {% endif %}
     </div>
@@ -75,8 +73,9 @@
         <div class="custom-contact-form__image">
           {%
             render 'image-element',
-            image: contact_image.src,
-            alt: contact_image.alt
+            image: contact_image,
+            alt: contact_image.alt,
+            focal_point: contact_image.presentation.focal_point,
           %}
         </div>
       {% endif %}
@@ -125,8 +124,9 @@
         <div class="custom-contact-form__logo">
           {%
             render 'image-element',
-            image: object.settings.contact_logo.src,
-            alt: object.settings.contact_logo.alt
+            image: object.settings.contact_logo,
+            alt: object.settings.contact_logo.alt,
+            focal_point: object.settings.contact_logo.presentation.focal_point,
           %}
         </div>
       {% endif %}
@@ -277,7 +277,8 @@
                       image: block.settings.image,
                       alt: block.settings.image.alt,
                       stretch_width: true,
-                      additional_classes: 'custom-contact-form__image'
+                      additional_classes: 'custom-contact-form__image',
+                      focal_point: block.settings.image.presentation.focal_point,
                     %}
                   {% endif %}
 

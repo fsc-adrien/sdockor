@@ -14,7 +14,6 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": true,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "collection_breadcrumb": false,
         "display_collection_title": false,

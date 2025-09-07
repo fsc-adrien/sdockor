@@ -1,0 +1,76 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/DOCKLANDET_LOGO_TEXT-AND-ICON-6_300x_33dbfe2c-6390-4ad0-9a8f-9e361e34e599.png",
+            "text_align": "center",
+            "social_icons_footer": false
+          }
+        },
+        "1582561490215": {
+          "type": "text",
+          "settings": {
+            "title": "Docklandet.se",
+            "content": "<p><em>Vårt sortiment erbjuder över 4000 dockor (real doll's) i olika prisklasser, stilar och storlekar. Vi är auktoriserad partner till flera världsledande fabrikat och i vår butik finns över 70 dockor uppställda. Vi är experter på sexdockor och kommer alltid göra allt för att du som kund ska bli nöjd! </em></p>",
+            "social_icons_footer": false
+          }
+        },
+        "1582561037798": {
+          "type": "text",
+          "settings": {
+            "title": "Vi garanterar",
+            "content": "<p>- Marknadens bästa priser<br/>- Noga utvalda produkter<br/>- Ett brett sortiment<br/>- Högsta kvalitet<br/>- 100% diskretion<br/>- Snabb leverans<br/>- Ingen tullavgift<br/>- <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\"><strong>Alltid fri frakt!</strong></a></p>",
+            "social_icons_footer": false
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "menu": "footer",
+            "social_icons_footer": true
+          }
+        },
+        "footer-3": {
+          "type": "text",
+          "settings": {
+            "title": "Kontakt",
+            "content": "<p><a href=\"/pages/kontakt-docklandet-sexdockor\" title=\"Kontakt Docklandet\"><strong>Öppettider  (10:00 - 18:00)</strong></a><br/>Mail: <a href=\"mailto:info@docklandet.se\" target=\"_blank\" title=\"Skicka ett mail till oss!\">info@docklandet.se</a><br/>Telefon: 010-641 06 66</p><p><a href=\"https://www.allabolag.se/5592650468/dalarna-exclusive-ab\" target=\"_blank\" title=\"Allabolag.se - Dalarna Exclusive AB\"><strong>Dalarna Exclusive AB</strong></a><br/>Org-nr: 559265-0468<br/>Krokgatan 22 <br/>784 52 Borlänge</p>",
+            "social_icons_footer": false
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "1582561490215",
+        "1582561037798",
+        "footer-1",
+        "footer-3"
+      ],
+      "settings": {
+        "copyright_text": "",
+        "display_designed_by": false,
+        "display_payment_methods": true,
+        "show_locale_selector": false,
+        "show_currency_selector": false
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

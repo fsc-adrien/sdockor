@@ -5,12 +5,13 @@
 >
 </script>
 
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
     css: section.settings.custom_css,
-    id: section.id
+    id: section.id,
   %}
 {% endstyle %}
 
@@ -40,7 +41,7 @@
         <h2 class="title center">
           {{ section.settings.title | escape }}
         </h2>
-        <div class="feature_divider"></div>
+        <div class="feature-divider"></div>
       </div>
     {% endif %}
 
@@ -105,6 +106,7 @@
                 image: block.settings.image,
                 alt: block.settings.image.alt,
                 additional_classes: 'gallery__image',
+                focal_point: block.settings.image.presentation.focal_point,
               %}
 
               {% if section.settings.enable_lightbox and image_link == blank %}
@@ -209,6 +211,30 @@
     },
     {
       "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
+    },
+    {
+      "type": "header",
       "content": "Advanced"
     },
     {
@@ -271,7 +297,10 @@
         }
       ]
     }
-  ]
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

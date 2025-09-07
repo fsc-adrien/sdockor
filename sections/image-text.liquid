@@ -2,32 +2,26 @@
   type="application/json"
   data-section-type="image-text"
   data-section-id="{{ section.id }}"
->
-</script>
+></script>
 
-{% comment %} Assign object as block or section {% endcomment %}
-{% if type == 'block' %}
-  {%- assign object = block -%}
-{% else %}
-  {%- assign object = section -%}
-{% endif %}
+{% liquid
+  if type == 'block'
+    assign object = block
+  else
+    assign object = section
+  endif
 
-{%- assign id = object.id -%}
+  assign id = object.id
+  assign blocks = object.blocks
+%}
 
-{% comment %} Content settings {% endcomment %}
-{%- assign blocks = object.blocks -%}
-{% comment %} End content settings {% endcomment %}
-
-{% comment %} Advanced {% endcomment %}
-{%- assign css_class = object.settings.css_class -%}
-{%- assign custom_css = object.settings.custom_css -%}
-
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
-    css: custom_css,
-    id: id
+    css: object.settings.custom_css,
+    id: id,
   %}
 {% endstyle %}
 
@@ -44,7 +38,7 @@
       is-flex
       is-flex-wrap
     {% endif %}
-    {{ css_class }}
+    {{ object.settings.css_class }}
   "
 >
   {% if blocks.size > 0 %}
@@ -71,20 +65,34 @@
         "
         {{ block.shopify_attributes }}
       >
+        {% comment %} Content settings {% endcomment %}
+        {%- assign image = block.settings.image -%}
+        {% comment %} End content settings {% endcomment %}
 
-      {% comment %} Content settings {% endcomment %}
-      {%- assign image = block.settings.image -%}
-      {% comment %} End content settings {% endcomment %}
-
-        <div class="featured-link--half one-half column image-with-text__image-column is-align-center image-with-text__column medium-down--one-whole image-crop--{{ block.settings.image_crop }}">
+        <div
+          class="
+            featured-link--half
+            one-half
+            column
+            image-with-text__image-column
+            is-align-center
+            image-with-text__column
+            medium-down--one-whole
+          "
+        >
           <div class="featured-link--wrap">
-            <a {% if block.settings.link != blank %}href="{{ block.settings.link }}"{% endif %} title="{{ block.settings.title }}">
+            <a
+              {% if block.settings.link != blank %}
+                href="{{ block.settings.link }}"
+              {% endif %}
+              title="{{ block.settings.title }}"
+            >
               {% if image != blank %}
-                {%
-                  render 'image-element',
+                {% render 'image-element',
                   image: image,
                   alt: image.alt,
-                  stretch_width: true
+                  stretch_width: true,
+                  focal_point: image.presentation.focal_point
                 %}
               {% else %}
                 {% capture i %}{% cycle "1", "2", "3", "4", "5", "6" %}{% endcapture %}
@@ -95,14 +103,22 @@
         </div>
         <div class="featured-link--half one-half column image-with-text__text-column is-flex is-align-center image-with-text__column medium-down--one-whole block--{{ block.id }}">
           <div class="info text-align--{{ object.settings.frontpage_text_align }}">
-            <a {% if block.settings.link != blank %}href="{{ block.settings.link }}"{% endif %} class="collection_title">
+            <a
+              {% if block.settings.link != blank %}
+                href="{{ block.settings.link }}"
+              {% endif %}
+              class="collection_title"
+            >
               {{ block.settings.title | escape }}
             </a>
             {% if block.settings.text != blank %}
               <div class="description">{{ block.settings.text }}</div>
             {% endif %}
             {% unless block.settings.button_label == blank %}
-              {% assign local_text_alpha = block.settings.text_color | default: 'rgba(0,0,0,0)' | color_extract: 'alpha' %}
+              {% assign local_text_alpha = block.settings.text_color
+                | default: 'rgba(0,0,0,0)'
+                | color_extract: 'alpha'
+              %}
               {% if local_text_alpha != 0 %}
                 <style>
                   .block--{{ block.id }} .global-button {
@@ -114,7 +130,9 @@
                 </style>
               {% endif %}
               <a
-                {% if block.settings.link != blank %}href="{{ block.settings.link }}"{% endif %}
+                {% if block.settings.link != blank %}
+                  href="{{ block.settings.link }}"
+                {% endif %}
                 class="global-button global-button--text image-text__button"
               >
                 {{ block.settings.button_label }}
@@ -133,8 +151,13 @@
     {% comment %} Is the color set to transparent? {% endcomment %}
     {%- assign bg_alpha = block.settings.bg_color | default: 'rgba(0,0,0,0)' | color_extract: 'alpha' -%}
     {%- assign text_alpha = block.settings.text_color | default: 'rgba(0,0,0,0)' | color_extract: 'alpha' -%}
+    {%- assign bg_gradient = block.settings.bg_color_gradient %}
 
-    {% if bg_alpha != 0 %}
+    {% if bg_gradient != '' %}
+      .block--{{ block.id }} {
+        background: {{ block.settings.bg_color_gradient }};
+      }
+    {% elsif bg_alpha != 0 %}
       .block--{{ block.id }} {
         background-color: {{ block.settings.bg_color }};
       }
@@ -199,24 +222,9 @@
       ]
     },
     {
-      "type": "select",
+      "type": "text_alignment",
       "id": "frontpage_text_align",
-      "label": "Text alignment",
-      "default": "left",
-      "options": [
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
+      "label": "Text alignment"
     },
     {
       "type": "select",
@@ -234,6 +242,30 @@
           "label": "Right"
         }
       ]
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     },
     {
       "type": "header",
@@ -266,31 +298,6 @@
           "info": "1024 x 1024px recommended"
         },
         {
-          "type": "select",
-          "id": "image_crop",
-          "label": "Image cropping",
-          "info": "Only applied when text area is taller than image.",
-          "default": "none",
-          "options": [
-            {
-              "value": "left",
-              "label": "Left"
-            },
-            {
-              "value": "right",
-              "label": "Right"
-            },
-            {
-              "value": "center",
-              "label": "Center"
-            },
-            {
-              "value": "none",
-              "label": "None"
-            }
-          ]
-        },
-        {
           "type": "text",
           "id": "title",
           "label": "Heading",
@@ -319,33 +326,43 @@
         },
         {
           "type": "color",
+          "id": "text_color",
+          "label": "Text"
+        },
+        {
+          "type": "color",
           "id": "bg_color",
           "label": "Background"
         },
         {
-          "type": "color",
-          "id": "text_color",
-          "label": "Text"
+          "type": "color_background",
+          "id": "bg_color_gradient",
+          "label": "Background gradient"
         }
       ]
     }
   ],
-  "presets": [{
-    "name": "Image with text",
-    "category": "Image",
-    "settings": {
-      "featured_links_per_row": "1",
-      "frontpage_text_align": "left"
-    },
-    "blocks": [
-      {
-        "type": "image"
+  "presets": [
+    {
+      "name": "Image with text",
+      "category": "Image",
+      "settings": {
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left"
       },
-      {
-        "type": "image"
-      }
-    ]
-  }]
+      "blocks": [
+        {
+          "type": "image"
+        },
+        {
+          "type": "image"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["*"]
+  }
 }
 
 {% endschema %}

@@ -9,7 +9,6 @@ wide_display: <boolean>
 background_style: <string>
 image: <image object>
 mobile_image: <image object>
-mobile_crop: <string>
 banner_pretext: <string>
 banner_text: <string>
 banner_subheading: <string>
@@ -30,12 +29,13 @@ show_caption: <boolean>
             <div class="is-hidden-mobile-only">
           {% endif %}
           {% if image %}
-            {% render 'image-element',
-                    image: image,
-                    alt: image.alt,
-                    stretch_width: true,
-                    progressive: true,
-                    additional_classes: mobile_crop
+            {%
+              render 'image-element',
+              image: image,
+              alt: image.alt,
+              stretch_width: true,
+              progressive: true,
+              focal_point: image.presentation.focal_point,
             %}
             {% if background_style == 'darken_bg' %}
               <div class="darken-bg"></div>
@@ -46,11 +46,12 @@ show_caption: <boolean>
           {% if mobile_image and image %}
             </div>
             <div class="is-hidden-desktop-only">
-              {% render 'image-element',
-                      image: mobile_image,
-                      alt: mobile_image.alt,
-                      stretch_width: true,
-                      additional_classes: mobile_crop
+              {%
+                render 'image-element',
+                image: mobile_image,
+                alt: mobile_image.alt,
+                stretch_width: true,
+                focal_point: mobile_image.presentation.focal_point,
               %}
               {% if background_style == 'darken_bg' %}
                 <div class="darken-bg"></div>

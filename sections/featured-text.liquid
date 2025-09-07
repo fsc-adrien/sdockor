@@ -6,10 +6,12 @@
 </script>
 
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
     css: section.settings.custom_css,
-    id: section.id
+    id: section.id,
   %}
 {% endstyle %}
 
@@ -23,9 +25,10 @@
           {% endif %}
           {%
             render 'image-element',
-            image: section.settings.image.src,
+            image: section.settings.image,
             alt: section.settings.image.alt,
-            stretch_width: true
+            stretch_width: true,
+            focal_point: section.settings.image.presentation.focal_point,
           %}
           {% if section.settings.mobile_image %}
             </div>
@@ -34,7 +37,8 @@
                 render 'image-element',
                 image: section.settings.mobile_image,
                 alt: section.settings.mobile_image.alt,
-                stretch_width: true
+                stretch_width: true,
+                focal_point: section.settings.mobile_image.presentation.focal_point,
               %}
             </div>
           {% endif %}
@@ -43,9 +47,8 @@
         {% if section.settings.title != blank %}
           <h1 class="rich-text__heading title">
             {{ section.settings.title | escape }}
-          </h1>
-          <div class="feature_divider"></div>
-        {% endif %}
+</h1>
+<div class="feature-divider"></div>        {% endif %}
 
         <div class="rich-text__text {{ section.settings.text_size }}">
           {% if section.settings.content != blank %}
@@ -140,6 +143,30 @@
     },
     {
       "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
+    },
+    {
+      "type": "header",
       "content": "Advanced"
     },
     {
@@ -162,7 +189,10 @@
       "name": "Rich text and image",
       "category": "Text"
     }
-  ]
+  ],
+  "enabled_on": {
+    "templates": [ "*" ]
+  }
 }
 
 {% endschema %}

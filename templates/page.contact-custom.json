@@ -56,7 +56,6 @@
       "settings": {
         "wide_display": false,
         "image": "shopify://shop_images/docklandet_lager_sexdockor_real_doll_sverige-1_1_Sexdocka_Docklandet.jpg",
-        "mobile_image_crop": "none",
         "contact_heading": "",
         "subtitle": "",
         "caption_content_background": "original",
@@ -85,8 +84,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         }
       },
@@ -132,8 +130,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "b67be5fa-07bb-436b-9446-352bff7b1875": {
@@ -151,8 +148,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "f6d30479-1a70-4dbc-9379-a4c0dd6e7ad9": {
@@ -170,8 +166,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "1650389780cbc29200-0": {
@@ -189,8 +184,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         },
         "6054e2c9-763f-421f-af74-4e877290a729": {
@@ -208,8 +202,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "none"
+            "caption_content_background": "original"
           }
         }
       },

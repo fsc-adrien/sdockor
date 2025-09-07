@@ -96,7 +96,6 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": false,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "display_collection_title": false,
         "collection_breadcrumb": false,
@@ -146,8 +145,7 @@
             "text_position": "center",
             "text_align": "center",
             "caption_content_background": "text_box",
-            "mobile_image": "shopify://shop_images/sexdocka_real_doll_sex_doll_docklandet_svart_box.jpg",
-            "mobile_image_crop": "none"
+            "mobile_image": "shopify://shop_images/sexdocka_real_doll_sex_doll_docklandet_svart_box.jpg"
           }
         }
       },

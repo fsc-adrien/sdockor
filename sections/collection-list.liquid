@@ -6,33 +6,28 @@
 >
 </script>
 
-{%- assign id = section.id -%}
+{% liquid
+  assign blocks = section.blocks
+  assign title = section.settings.title | escape
+%}
 
-{% comment %} Content settings {% endcomment %}
-{%- assign title = section.settings.title | escape -%}
-{%- assign blocks = section.blocks -%}
-{% comment %} End content settings {% endcomment %}
-
-{% comment %} Advanced {% endcomment %}
-{%- assign css_class = section.settings.css_class -%}
-{%- assign custom_css = section.settings.custom_css -%}
-
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
-    css: custom_css,
-    id: id
+    css: section.settings.custom_css,
+    id: section.id,
   %}
 {% endstyle %}
 
 {% if blocks.size > 0 %}
-  <section class="section {{ css_class }}">
+  <section class="section {{ section.settings.css_class }}">
     <div class="container">
       {% if title != blank %}
         <div class="one-whole column center">
           <h2 class="title">{{ title }}</h2>
-          <div class="feature_divider"></div>
+          <div class="feature-divider"></div>
         </div>
       {% endif %}
 
@@ -62,10 +57,11 @@
                     <div class="image__container">
                       {%
                         render 'image-element',
-                        image: collection_image.src,
+                        image: collection_image,
                         alt: collection_image_alt,
                         object_fit: section.settings.align_height,
-                        max_height: section.settings.collection_height
+                        max_height: section.settings.collection_height,
+                        focal_point: collection_image.presentation.focal_point,
                       %}
                     </div>
                   {% else %}
@@ -178,6 +174,30 @@
     },
     {
       "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
+    },
+    {
+      "type": "header",
       "content": "Advanced"
     },
     {
@@ -213,21 +233,26 @@
       ]
     }
   ],
-  "presets": [{
-    "name": "Collection list",
-    "category": "Collection",
-    "blocks": [
-      {
-        "type": "collection"
-      },
-      {
-        "type": "collection"
-      },
-      {
-        "type": "collection"
-      }
-    ]
-  }]
+  "presets": [
+    {
+      "name": "Collection list",
+      "category": "Collection",
+      "blocks": [
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

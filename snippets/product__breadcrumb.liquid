@@ -52,6 +52,6 @@
   {% endif %}
   <span class="breadcrumb-divider">/</span>
   <a href="{{ product.url }}" class="breadcrumb_link">
-    <span>{{ product.title }}</span>
+    <span>{{ product.title | escape }}</span>
   </a>
 </div>

@@ -86,10 +86,11 @@
                       {{ product.media[1] | video_tag: controls: false }}
                     </div>
                   {% else %}
-                    {% render 'image-element',
-                            image: product.media[1].preview_image,
-                            alt: alt_text,
-                            additional_classes: 'secondary lazypreload secondary-media-hidden'
+                    {%
+                      render 'image-element',
+                      image: product.media[1].preview_image,
+                      alt: alt_text,
+                      additional_classes: 'secondary lazypreload secondary-media-hidden',
                     %}
                   {% endif %}
                 {% endif %}

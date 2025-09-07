@@ -1,0 +1,225 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "header": {
+      "type": "header",
+      "settings": {
+        "promo_text": "",
+        "social_icons_header": true,
+        "phone_number": "",
+        "top_bar_menu": "",
+        "show_cart": true,
+        "cart_icon": "cart",
+        "show_locale_selector": false,
+        "show_currency_selector": true,
+        "logo_display_width": 205,
+        "logo": "shopify://shop_images/DOCKLANDET_LOGO_TEXT-1.svg",
+        "main_linklist": "main-menu",
+        "main_linklist2": "",
+        "vertical_menu": false,
+        "dropdown_click": false,
+        "search_enabled": true,
+        "fixed_header": true,
+        "logo_position": "left",
+        "logo_alignment": "left",
+        "menu_position": "inline",
+        "menu_alignment": "center"
+      }
+    },
+    "mega_menu_1": {
+      "type": "mega-menu-1",
+      "blocks": {
+        "mega-menu-1-2": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "mega-menu-1-3": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Link to your collections, sales and even external links</p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "mega-menu-1-4": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Add up to five columns</p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega-menu-1-2",
+        "mega-menu-1-3",
+        "mega-menu-1-4"
+      ],
+      "settings": {
+        "parent": ""
+      }
+    },
+    "mega_menu_2": {
+      "type": "mega-menu-2",
+      "blocks": {
+        "mega-menu-2-0": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Add description, images, menus and links to your mega menu</p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "mega-menu-2-1": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>A column with no settings can be used as a spacer</p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "mega-menu-2-2": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "mega-menu-2-3": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Link to your collections, sales and even external links</p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "mega-menu-2-4": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Add up to five columns</p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega-menu-2-0",
+        "mega-menu-2-1",
+        "mega-menu-2-2",
+        "mega-menu-2-3",
+        "mega-menu-2-4"
+      ],
+      "settings": {
+        "parent": ""
+      }
+    }
+  },
+  "order": [
+    "header",
+    "mega_menu_1",
+    "mega_menu_2"
+  ]
+}

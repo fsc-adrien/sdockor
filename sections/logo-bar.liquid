@@ -1,68 +1,64 @@
 <script
   type="application/json"
-  data-section-type="logo-bar"
+  data-section-type="logo-list"
   data-section-id="{{ section.id }}"
 >
 </script>
 
-{%- assign id = section.id -%}
-
-{% comment %} Content settings {% endcomment %}
-{%- assign title = section.settings.title | escape -%}
-{%- assign blocks = section.blocks -%}
-{% comment %} End content settings {% endcomment %}
-
-{% comment %} Advanced {% endcomment %}
-{%- assign css_class = section.settings.css_class -%}
-{%- assign custom_css = section.settings.custom_css -%}
-
-{% comment %} Section specific CSS {% endcomment %}
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
-    css: custom_css,
-    id: id
+    css: section.settings.custom_css,
+    id: section.id,
   %}
 {% endstyle %}
 
-<section class="section {{ css_class }}">
+<section class="section {{ section.settings.css_class }}">
   <div class="container">
     <div class="one-whole column">
-      {% if title != blank %}
-        <h2 class="title center">{{ title }}</h2>
-        <div class="feature_divider no-margin"></div>
+      {% if section.settings.title != blank %}
+        <h2 class="title center">
+          {{ section.settings.title | escape }}
+        </h2>
+        <div class="feature-divider"></div>
       {% endif %}
+    </div>
 
-      {% if blocks.size > 0 %}
-        <div class="logo-bar">
-          {% for block in blocks %}
-            {% comment %} Content settings {% endcomment %}
-            {%- assign image = block.settings.image -%}
-            {%- assign link = block.settings.link -%}
-            {% comment %} End content settings {% endcomment %}
+    <div class="one-whole column">
+      <div
+        class="
+          logo-list
+          logo-list--{{ section.settings.layout }}
+        "
+        {% if section.settings.layout == 'slider' %}
+          data-logo-slider
+        {% endif %}
+      >
+        {% for block in section.blocks %}
+          <div class="logo-list__item" {{ block.shopify_attributes }}>
+            {% if block.settings.link != blank %}
+              <a class="logo-list__item-link" href="{{ block.settings.link }}">
+            {% endif %}
 
-            <div class="logo-bar__item" {{ block.shopify_attributes }}>
-              {% if block.settings.link != blank %}
-                <a href="{{ block.settings.link }}" class="logo-bar__link">
-              {% endif %}
+            {% if block.settings.image != blank %}
+              {%
+                render 'image-element',
+                image: block.settings.image,
+                alt: block.settings.image.alt,
+                focal_point: block.settings.image.presentation.focal_point,
+              %}
+            {% else %}
+              {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+            {% endif %}
 
-              {% if image != blank %}
-                {%
-                  render 'image-element',
-                  image: image,
-                  alt: image.alt
-                %}
-              {% else %}
-                {{ 'logo' | placeholder_svg_tag: 'placeholder-svg' }}
-              {% endif %}
-
-              {% if block.settings.link != blank %}
-                </a>
-              {% endif %}
-            </div>
-          {% endfor %}
-        </div>
-      {% endif %}
+            {% if block.settings.link != blank %}
+              </a>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </section>
@@ -78,6 +74,46 @@
       "id": "title",
       "label": "Heading",
       "default": "Logo list"
+    },
+    {
+      "type": "radio",
+      "id": "layout",
+      "label": "Layout",
+      "default": "grid",
+      "options": [
+        {
+          "value": "slider",
+          "label": "Slider"
+        },
+        {
+          "value": "grid",
+          "label": "Grid"
+        }
+      ]
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     },
     {
       "type": "header",
@@ -136,7 +172,10 @@
         }
       ]
     }
-  ]
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

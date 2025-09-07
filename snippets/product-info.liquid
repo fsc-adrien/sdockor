@@ -1,7 +1,9 @@
 {% assign variant = product.selected_or_first_available_variant %}
 
 <div class="product-details">
-  <span class="title" itemprop="name">{{ product.title }}</span>
+  <span class="title" itemprop="name">
+    {{- product.title | escape -}}
+  </span>
   {% if settings.display_vendor %}
     <span class="brand">
       {{ product.vendor }}
@@ -134,7 +136,7 @@
         {% endunless %}
         <div class="sold_out">
           {% unless product.available %}
-            {{ settings.sold_out_text }}
+            {{ 'products.product.sold_out' | t }}
           {% endunless %}
         </div>
       </span>

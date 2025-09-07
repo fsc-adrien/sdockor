@@ -26,7 +26,7 @@ Set the extension of your color files below. Use 'png', 'jpeg', 'jpg' or 'gif'.
   {%- assign values = '' -%}
 
   {% for variant in product.variants %}
-    {%- assign value = variant.options[option_index] -%}
+    {%- assign value = variant.options[option_index] | escape -%}
 
     {% unless values contains value %}
       {%- assign values = values | join: ',' -%}

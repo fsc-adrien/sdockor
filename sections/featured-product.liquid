@@ -5,18 +5,22 @@
 >
 </script>
 
-{% assign product = all_products[section.settings.product] %}
-{% assign onboarding = false %}
+{% liquid
+  assign product = all_products[section.settings.product]
+  assign onboarding = false
 
-{% if product.empty? %}
-  {% assign onboarding = true %}
-{% endif %}
+  if product.empty?
+    assign onboarding = true
+  endif
+%}
 
 {% style %}
+  {% render 'section-space' %}
+
   {%
     render 'css-loop',
     css: section.settings.custom_css,
-    id: section.id
+    id: section.id,
   %}
 {% endstyle %}
 
@@ -48,7 +52,8 @@
     set_product_height: section.settings.set_product_height,
     product_height: section.settings.product_height,
     video_looping: section.settings.video_looping,
-    show_dynamic_checkout_button: settings.show_dynamic_checkout_button
+    show_dynamic_checkout_button: settings.show_dynamic_checkout_button,
+    show_only_selected_variant_image: section.settings.show_only_selected_variant_image,
   %}
 
 </section>
@@ -220,6 +225,36 @@
       "default": true
     },
     {
+      "type": "checkbox",
+      "id": "show_only_selected_variant_image",
+      "label": "Show only selected variant image",
+      "default": false
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
+    },
+    {
       "type": "header",
       "content": "Advanced"
     },
@@ -299,24 +334,9 @@
           "default": "Pop-up link text"
         },
         {
-          "type": "select",
+          "type": "text_alignment",
           "id": "text_alignment",
-          "label": "Text alignment",
-          "default": "left",
-          "options": [
-            {
-              "value": "left",
-              "label": "Left"
-            },
-            {
-              "value": "center",
-              "label": "Center"
-            },
-            {
-              "value": "right",
-              "label": "Right"
-            }
-          ]
+          "label": "Text alignment"
         },
         {
           "type": "page",
@@ -489,18 +509,20 @@
       ]
     }
   ],
-  "templates": [
-    "404",
-    "article",
-    "blog",
-    "cart",
-    "collection",
-    "list-collections",
-    "index",
-    "page",
-    "product",
-    "search"
-  ]
+  "enabled_on": {
+    "templates": [
+      "404",
+      "article",
+      "blog",
+      "cart",
+      "collection",
+      "list-collections",
+      "index",
+      "page",
+      "product",
+      "search"
+    ]
+  }
 }
 
 {% endschema %}

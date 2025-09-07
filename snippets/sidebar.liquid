@@ -100,7 +100,11 @@
                   {%- for filter_value in filter.active_values -%}
                     {% assign has_active_filters = true %}
                     <a class="faceted-active-filters__remove-filter global-button" href="{{ filter_value.url_to_remove }}">
-                      <i class="x-icon"></i>{{ filter_value.label }}
+                      <i class="x-icon"></i>
+                      {% if filter.type == 'boolean' %}
+                        {{ filter.label | escape }}:
+                      {% endif %}
+                      {{ filter_value.label | escape }}
                     </a>
                   {%- endfor -%}
                 {% endif %}
@@ -168,7 +172,7 @@
                   </div>
 
                   {%- case filter.type -%}
-                    {%- when 'list' -%}
+                    {%- when 'boolean' or 'list' -%}
                       <ul class="faceted-filter-group-display__list">
                         {%- for filter_value in filter.values -%}
                           <li class="faceted-filter-group-display__list-item">
@@ -186,9 +190,24 @@
                                 {% if filter_value.active -%}checked{%- endif %}
                                 {% if filter_value.count == 0 and filter_value.active == false -%}disabled{%- endif %}
                               >
-                              <svg class="faceted-filter-group-display__checkmark" aria-hidden="true" focusable="false" role="presentation" width="14" height="14" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-                                <path class="faceted-filter-group-display__checkmark-check" fill="none" d="M2.5 7L5.5 10L11.5 4"></path>
-                              </svg>
+
+                              {%- case filter.presentation -%}
+                                {%- when 'swatch' -%}
+                                  {%-
+                                    render 'faceted-filter-swatch',
+                                    type: filter_value.display.type,
+                                    value: filter_value.display.value,
+                                    -%}
+                                {%- when 'image' -%}
+                                  <span class="faceted-filter-image">
+                                    {{ filter_value | image_url: width: 100 | image_tag: class: 'faceted-filter-image__image', alt: filter_value.alt, loading: 'lazy' }}
+                                  </span>
+                                {%- else -%}
+                                  <svg class="faceted-filter-group-display__checkmark" aria-hidden="true" focusable="false" role="presentation" width="14" height="14" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+                                    <path class="faceted-filter-group-display__checkmark-check" fill="none" d="M2.5 7L5.5 10L11.5 4"></path>
+                                  </svg>
+                              {%- endcase -%}
+
                               <span class="faceted-filter-group-display__list-item-label-text">{{ filter_value.label }} {% if block.settings.show_filter_product_count %}({{ filter_value.count }}){% endif %}</span>
                             </label>
                           </li>

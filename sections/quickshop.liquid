@@ -32,7 +32,8 @@
         set_product_height: section.settings.set_product_height,
         product_height: section.settings.product_height,
         video_looping: section.settings.video_looping,
-        show_dynamic_checkout_button: settings.show_dynamic_checkout_button
+        show_dynamic_checkout_button: settings.show_dynamic_checkout_button,
+        show_only_selected_variant_image: section.settings.show_only_selected_variant_image,
       %}
     </section>
   </div>
@@ -163,6 +164,12 @@
       "id": "enable_thumbnail_slider",
       "label": "Enable thumbnail slider",
       "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_only_selected_variant_image",
+      "label": "Show only selected variant image",
+      "default": false
     }
   ],
   "blocks": [
@@ -243,24 +250,9 @@
           "default": "Pop-up link text"
         },
         {
-          "type": "select",
+          "type": "text_alignment",
           "id": "text_alignment",
-          "label": "Text alignment",
-          "default": "left",
-          "options": [
-            {
-              "value": "left",
-              "label": "Left"
-            },
-            {
-              "value": "center",
-              "label": "Center"
-            },
-            {
-              "value": "right",
-              "label": "Right"
-            }
-          ]
+          "label": "Text alignment"
         },
         {
           "type": "page",

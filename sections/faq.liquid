@@ -5,26 +5,9 @@
 >
 </script>
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {% for block in section.blocks %}
-        {% unless block.type == 'heading' %}
-          {
-            "@type": "Question",
-            "name": "{{ block.settings.title | escape }}",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "{{ block.settings.subtitle | strip_html | escape }}"
-            }
-          }{% unless forloop.last %},{% endunless %}
-        {% endunless %}
-      {% endfor %}
-    ]
-  }
-</script>
+{% style %}
+  {% render 'section-space' %}
+{% endstyle %}
 
 <section class="section">
   <div
@@ -117,7 +100,8 @@
               {%
                 render 'image-element',
                 image: block.settings.image,
-                alt: block.settings.image.alt
+                alt: block.settings.image.alt,
+                focal_point: block.settings.image.presentation.focal_point,
               %}
             {% else %}
               {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
@@ -139,6 +123,30 @@
       "id": "title",
       "label": "Heading",
       "default": "FAQ"
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     }
   ],
   "blocks": [
@@ -239,7 +247,10 @@
         }
       ]
     }
-  ]
+  ],
+  "disabled_on": {
+    "groups": [ "*" ]
+  }
 }
 
 {% endschema %}

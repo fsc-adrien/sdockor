@@ -17,6 +17,7 @@
         <{{ sidebar_block_element }}
           class="
             sidebar-block
+            sidebar-block--{{ block.type }}
             {% if forloop.first %}sidebar-block--first{% endif %}
           "
           data-sidebar-block
@@ -107,13 +108,10 @@
               {% endif %}
 
             {% when 'search' %}
-              <div data-autocomplete-{{ settings.enable_autocomplete }}>
-                <form class="blog_search search__form" action="{{ routes.search_url }}">
-                  <input type="hidden" name="type" value="article" />
-                  <span class="icon-search search-submit"></span>
-                  <input type="text" name="q" class="search_box" placeholder="{{ 'general.search.title' | t }} {{ blog.title | escape }}..." autocapitalize="off" autocomplete="off" autocorrect="off" value="{{ search.terms }}" />
-                </form>
-              </div>
+              {%
+                render 'search-form',
+                context: 'blog',
+              %}
 
             {% when 'newsletter' %}
               {% if block.settings.newsletter_title != blank %}

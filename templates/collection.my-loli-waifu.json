@@ -28,7 +28,6 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": false,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "display_collection_title": false,
         "collection_breadcrumb": false,
@@ -57,8 +56,7 @@
             "button2_style": "global-button--banner",
             "text_position": "right",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "left"
+            "caption_content_background": "original"
           }
         },
         "image_DNK67X": {
@@ -76,8 +74,7 @@
             "button2_style": "global-button--primary",
             "text_position": "right",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "center"
+            "caption_content_background": "original"
           }
         },
         "image_wXKciD": {
@@ -95,8 +92,7 @@
             "button2_style": "global-button--banner",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "center"
+            "caption_content_background": "original"
           }
         },
         "image_iG3jcg": {
@@ -114,8 +110,7 @@
             "button2_style": "global-button--primary",
             "text_position": "right",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "center"
+            "caption_content_background": "original"
           }
         }
       },
@@ -615,8 +610,7 @@
             "button2_style": "global-button--banner",
             "text_position": "right",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "left"
+            "caption_content_background": "original"
           }
         },
         "image_jiaJrK": {
@@ -634,8 +628,7 @@
             "button2_style": "global-button--primary",
             "text_position": "right",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "center"
+            "caption_content_background": "original"
           }
         },
         "image_R9XbUJ": {
@@ -653,8 +646,7 @@
             "button2_style": "global-button--primary",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "center"
+            "caption_content_background": "original"
           }
         },
         "image_y3DFUA": {
@@ -672,8 +664,7 @@
             "button2_style": "global-button--primary",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "original",
-            "mobile_image_crop": "center"
+            "caption_content_background": "original"
           }
         }
       },

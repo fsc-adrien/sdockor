@@ -14,7 +14,6 @@
       "settings": {
         "featured_image": "none",
         "wide_display": true,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "blog_breadcrumb": false,
         "blog_pagination": false,

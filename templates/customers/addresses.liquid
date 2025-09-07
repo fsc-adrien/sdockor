@@ -17,7 +17,7 @@
     </div>
 
     <div class="one-whole column">
-      <div class="feature_divider"></div>
+      <div class="feature-divider"></div>
     </div>
 
     <aside class="one-third column medium-down--one-whole account-sidebar">
@@ -173,10 +173,12 @@
 {% section 'newsletter' %}
 
 <script type="text/javascript" charset="utf-8" data-no-instant>
-  // initialize observers on address selectors
-  new Shopify.CountryProvinceSelector('address_country_new', 'address_province_new', {hideElement: 'address_province_container_new'});
+  window.addEventListener('DOMContentLoaded', event => {
+    // Initialize observers on address selectors
+    new Shopify.CountryProvinceSelector('address_country_new', 'address_province_new', {hideElement: 'address_province_container_new'});
 
-  {% for address in customer.addresses %}
-    new Shopify.CountryProvinceSelector('address_country_{{address.id}}', 'address_province_{{address.id}}', {hideElement: 'address_province_container_{{address.id}}'});
-  {% endfor %}
+    {% for address in customer.addresses %}
+      new Shopify.CountryProvinceSelector('address_country_{{ address.id }}', 'address_province_{{ address.id }}', {hideElement: 'address_province_container_{{ address.id }}'});
+    {% endfor %}
+  });
 </script>

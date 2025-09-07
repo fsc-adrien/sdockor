@@ -2,7 +2,7 @@
 {%- assign collection_handles = product.collections | map: 'handle' -%}
 
 {% if product.featured_media.preview_image.alt contains 'youtube' or image.alt contains 'vimeo' %}
-  {%- assign alt_text = product.title -%}
+  {%- assign alt_text = product.title | escape -%}
 {% else %}
   {%- assign alt_text = product.featured_image.alt -%}
 {% endif %}
@@ -54,6 +54,7 @@
                 render 'image-element',
                 image: product.selected_or_first_available_variant.image,
                 alt: alt_text,
+                lazyload: lazyload,
                 object_fit: align_height,
                 max_height: collection_height,
               %}
@@ -62,6 +63,7 @@
                 render 'image-element',
                 image: product.featured_media.preview_image,
                 alt: alt_text,
+                lazyload: lazyload,
                 object_fit: align_height,
                 max_height: collection_height,
               %}
@@ -71,7 +73,14 @@
 
         {% if settings.collection_secondary_image != blank and product.media[1] != blank %}
           {% if product.media[1].media_type == 'external_video' %}
-            <div class="external-video__container lazyload lazypreload secondary-media-hidden video-on-hover">
+            <div
+              class="
+                external-video__container
+                {% if section.index0 < 2 %}lazyload{% else %}lazypreload{% endif %}
+                secondary-media-hidden
+                video-on-hover
+              "
+            >
               <div class="youtube-wrapper" data-youtube-video>
                 {{ product.media[1] | external_video_tag }}
               </div>

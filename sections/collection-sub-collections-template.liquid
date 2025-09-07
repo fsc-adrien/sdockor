@@ -5,6 +5,29 @@
 >
 </script>
 
+{% style %}
+  {% render 'section-space' %}
+{% endstyle %}
+
+{%- if collection.products.size > 0 -%}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {%- for product in collection.products limit: section.settings.pagination_limit -%}
+          {
+            "@type": "ListItem",
+            "position": "{{ forloop.index | json }}",
+            "url": "{{ shop.url }}{{ product.url }}",
+            "name": "{{ product.title | strip_html | escape }}"
+          } {%- unless forloop.last -%},{%- endunless -%}
+        {%- endfor -%}
+      ]
+    }
+  </script>
+{%- endif -%}
+
 {% liquid
   if collection.image
     assign collection_image = collection.image
@@ -13,8 +36,6 @@
   else
     assign collection_image = collection.products.first.featured_image
   endif
-
-  assign mobile_crop = 'mobile-banner--crop-' | append: section.settings.mobile_image_crop
 
   assign has_faceted_filtering_block = false
   assign faceted_filtering_blocks_count = section.blocks | where: "type", "faceted_filtering" | size
@@ -29,7 +50,6 @@
     image: collection_image,
     mobile_image: section.settings.mobile_image,
     background_style: section.settings.caption_content_background,
-    mobile_crop: mobile_crop,
     wide_display: section.settings.wide_display,
     banner_title: collection.title,
     show_caption: section.settings.display_collection_title,
@@ -163,7 +183,7 @@
       </div>
 
       <div class="one-whole column">
-        <div class="feature_divider"></div>
+        <div class="feature-divider"></div>
       </div>
 
       {% comment %} Check to see if sidebar should be enabled {% endcomment %}
@@ -215,20 +235,25 @@
             </div>
           </div>
 
-          {% if collection.products.size > 0 %}
-            <div class="container">
-              <div class="one-whole column">
-                {%- assign products_per_row = section.settings.products_per_row -%}
+          <div class="container">
+            <div class="one-whole column">
+              {% if collection.products.size == 0 %}
+                <div class="product-list product-list--collection">
+                  <p class="quote">{{ 'collections.general.no_matches' | t }}</p>
+                </div>
+              {% else %}
                 {%
                   render 'product-loop',
+                  paginate: paginate,
                   products: products,
                   skip_product: product,
-                  products_per_row: products_per_row,
+                  products_per_row: section.settings.products_per_row,
                   sidebar: sidebar,
+                  paginate: paginate
                 %}
-              </div>
+              {% endif %}
             </div>
-          {% endif %}
+          </div>
 
           {% if settings.pagination_type == 'basic_pagination' %}
             {%
@@ -282,30 +307,6 @@
       "id": "mobile_image",
       "label": "Mobile banner image",
       "info": "Display a different image on mobile screens. This only appears when the desktop image is set."
-    },
-    {
-      "type": "select",
-      "id": "mobile_image_crop",
-      "label": "Mobile image cropping",
-      "default": "none",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ]
     },
     {
       "type": "select",
@@ -421,6 +422,30 @@
       "id": "toggle",
       "label": "Collapse sidebar content",
       "default": false
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Top spacing",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Bottom spacing",
+      "default": 0
     }
   ],
   "blocks": [

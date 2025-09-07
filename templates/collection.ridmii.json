@@ -125,7 +125,6 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": false,
-        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "display_collection_title": false,
         "collection_breadcrumb": false,
