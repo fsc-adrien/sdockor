@@ -14,15 +14,15 @@
       "page": "Страница {{ page_number }}"
     },
     "404": {
-      "title": "Не може да намери страница",
+      "title": "Не можах да намеря страница",
       "subtext": "Страницата, която търсите, не може да бъде намерена",
-      "continue_shopping_html": "Опитайте да търсите или <a href=\"/collections/all\">продължаване на пазаруването →</a>"
+      "continue_shopping_html": "Опитайте да потърсите или <a href=\"/collections/all\">да продължите да пазарувате →</a>"
     },
     "password_page": {
       "opening_soon": "Отваряне скоро",
-      "spread_the_word": "Разпространете информацията",
+      "spread_the_word": "Разпространявайте информацията",
       "or": "или",
-      "powered_by_shopify_html": "Този магазин ще се захранва от <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.се™ </a>\n"
+      "powered_by_shopify_html": "Този магазин ще бъде захранван от <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
     "forms": {
       "post_error": "Не всички полета са попълнени",
@@ -31,33 +31,33 @@
     "newsletter_form": {
       "title": "Новини и актуализации",
       "description": "Влезте в уебсайта ",
-      "name": "Име на организацията",
+      "name": "Вашето име",
       "email": "Адрес на електронна поща",
       "subscriber_first_name": "Първо име",
       "subscriber_last_name": "Фамилно име",
-      "success_text": "Благодаря ви!",
-      "placeholder": "Напишете своя имейл...",
+      "success_text": "Благодарим ви за отделеното време!",
+      "placeholder": "Моля, въведете вашия имейл...",
       "submit": "Абонирайте се за нашия бюлетин"
     },
     "breadcrumbs": {
-      "home": "Начало",
-      "page": "Страница {{ current_page }} на {{ pages }}"
+      "home": "Начална страница",
+      "page": "Страница {{ current_page }} От {{ pages }}"
     },
     "search": {
       "title": "Търсене",
       "description": "Търсене в магазина",
-      "no_results_html": "Търсенето ви на \"{{ terms }}\" за съжаление не съвпада с нищо. Вместо това опитайте да търсите в нашите менюта",
+      "no_results_html": "Вашето търсене за \"{{ terms }}\" за съжаление не съвпадна с нищо. Вместо това опитайте да търсите в нашите менюта",
       "advanced_search_html": "Разширено търсене →",
-      "no_results": "Съжалявам, няма резултати",
-      "load_more": "Вижте повече",
+      "no_results": "Съжаляваме, няма резултати",
+      "load_more": "Покажи повече",
       "all_results": "Покажи всички",
       "results_count": {
-        "zero": "{{ count }} резултат",
-        "one": "{{ count }} резултат",
-        "other": "{{ count }} резултат"
+        "zero": "{{ count }} Резултати",
+        "one": "{{ count }} Резултати",
+        "other": "{{ count }} Резултати"
       },
       "placeholder": "Търсене...",
-      "placeholder_with_shop_name": "Търсене {{ shop_name }}...",
+      "placeholder_with_shop_name": "Търсене за {{ shop_name }}...",
       "submit": "Търсене"
     },
     "accessibility": {

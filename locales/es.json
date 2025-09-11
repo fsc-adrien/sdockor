@@ -43,11 +43,11 @@
   "general": {
     "404": {
       "title": "No se encuentra la página",
-      "subtext": "No se ha encontrado la página que busca",
+      "subtext": "No se ha podido encontrar la página que busca",
       "continue_shopping_html": "Intente buscar o <a href=\"/collections/all\">seguir comprando →</a>"
     },
     "accessibility": {
-      "total_reviews": "número de revisiones",
+      "total_reviews": "número de opiniones",
       "star_reviews_info": "{{ rating_value }} de {{ rating_max }} estrellas"
     },
     "password_page": {
@@ -63,53 +63,58 @@
       "signup_form_success": "Le enviaremos un correo electrónico correcta antes de abrir!",
       "admin_link_html": "Le enviaremos un correo electrónico correcta antes de abrir! <a href=\"/admin\" class=\"text-link\">Entre aquí</a>",
       "password_link": "Entrar usando la contraseña",
-      "powered_by_shopify_html": "Esta tienda funcionará con <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
+      "powered_by_shopify_html": "Esta tienda funciona con <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
     "meta": {
       "tagged_html": "Tagged \"{{ tags }}\"",
       "page": "Página {{ page_number }}"
     },
     "forms": {
-      "post_error": "No se rellenan todos los campos",
+      "post_error": "No se han rellenado todos los campos",
       "post_field_error_html": "<strong>{{ field }}</strong> {{ error }}"
     },
     "newsletter_form": {
-      "title": "Noticias y actualidad",
+      "title": "Noticias y novedades",
       "description": "Acceder al sitio web ",
-      "name": "Nombre de la organización",
-      "email": "Correo electrónico",
-      "subscriber_first_name": "Nombre",
-      "subscriber_last_name": "Apellido",
-      "success_text": "Gracias.",
-      "placeholder": "Escribe tu e-mail...",
+      "name": "Nombre y apellidos",
+      "email": "Dirección de correo electrónico",
+      "subscriber_first_name": "Nombre de pila",
+      "subscriber_last_name": "Apellidos",
+      "success_text": "Gracias por su tiempo",
+      "placeholder": "Por favor, introduzca su email...",
       "submit": "Suscríbase a nuestro boletín"
     },
     "breadcrumbs": {
-      "home": "Inicio",
-      "page": "Página {{ current_page }} de {{ pages }}"
+      "home": "Página de inicio",
+      "page": "Página {{ current_page }} Por {{ pages }}"
     },
     "search": {
       "title": "Buscar en",
       "description": "Buscar en la tienda",
-      "no_results_html": "Su búsqueda de \"{{ terms }}\"desgraciadamente, no ha encontrado nada. Intente buscar en nuestros menús",
+      "no_results_html": "Su búsqueda de \"{{ terms }}\" no ha encontrado ningún resultado. Intente buscar en nuestros menús",
       "advanced_search_html": "Búsqueda avanzada →",
       "no_results": "Lo sentimos, no hay resultados",
-      "load_more": "Ver más",
-      "all_results": "Mostrar todo",
+      "load_more": "Mostrar más",
+      "all_results": "Mostrar todos",
       "results_count": {
-        "zero": "{{ count }} resultado",
-        "one": "{{ count }} resultado",
-        "other": "{{ count }} resultado"
+        "zero": "{{ count }} Resultados",
+        "one": "{{ count }} Resultados",
+        "other": "{{ count }} Resultados"
       },
-      "placeholder": "Busca...",
-      "placeholder_with_shop_name": "Buscar en {{ shop_name }}...",
-      "submit": "Buscar en"
+      "placeholder": "Buscar...",
+      "placeholder_with_shop_name": "Buscar {{ shop_name }}...",
+      "submit": "Buscar en",
+      "close": "Cerrar"
     },
     "currency": {
       "dropdown_label": "Moneda"
     },
     "language": {
       "dropdown_label": "Idioma"
+    },
+    "predictive_search": {
+      "no_results_text": "No se encontraron resultados",
+      "search_button_label": "Buscar"
     }
   },
   "blogs": {
@@ -4506,6 +4511,30 @@
       "buyer_consent_product": "Este artículo es una compra periódica o una compra con pago aplazado. Al continuar, acepto %{cancellationPolicyLink}. También les autorizo a realizar cargos en mi método de pago en las fechas, con las tarifas y con la frecuencia indicadas en esta página, hasta que se envíe mi pedido o hasta que lo cancele, si está permitido.",
       "buyer_consent_cart": "Uno o más artículos de su cesta de la compra es una compra periódica o una compra de pago aplazado. Al continuar, acepto %{cancellationPolicyLink}. También les autorizo a realizar cargos en mi método de pago en las fechas, con las tarifas y con la frecuencia indicadas en esta página, hasta que se envíe mi pedido o hasta que lo cancele, si está permitido.",
       "cancellation_policy": "política de cancelación"
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox_label": "Enviar como regalo",
+      "email_label": "Email del destinatario",
+      "email_placeholder": "Email del destinatario",
+      "error_message": "Error de validación",
+      "name_label": "Nombre del destinatario",
+      "name_placeholder": "Nombre del destinatario",
+      "message_label": "Mensaje",
+      "message_placeholder": "Escriba su mensaje aquí",
+      "max_characters": "Máximo 200 caracteres",
+      "send_on_label": "Enviar el (opcional)",
+      "send_on_placeholder": "AAAA-MM-DD"
+    }
+  },
+  "age_gate": {
+    "form": {
+      "confirm": "Confirmar",
+      "error": "Debe tener la edad suficiente para entrar a este sitio",
+      "day": "Día",
+      "month": "Mes",
+      "year": "Año"
     }
   }
 }

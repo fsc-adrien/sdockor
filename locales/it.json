@@ -15,8 +15,8 @@
     },
     "404": {
       "title": "Impossibile trovare la pagina",
-      "subtext": "Non è stato possibile trovare la pagina desiderata.",
-      "continue_shopping_html": "Prova a cercare o <a href=\"/collections/all\">continua a fare acquisti →</a>"
+      "subtext": "La pagina cercata non è stata trovata.",
+      "continue_shopping_html": "Provare a cercare o <a href=\"/collections/all\">continua lo shopping →</a>"
     },
     "password_page": {
       "opening_soon": "Prossima apertura",
@@ -30,39 +30,44 @@
     },
     "newsletter_form": {
       "title": "Notizie e aggiornamenti",
-      "description": "Accedere al sito web ",
-      "name": "Nome dell'organizzazione",
+      "description": "Accedi al sito web ",
+      "name": "Il tuo nome",
       "email": "Indirizzo e-mail",
-      "subscriber_first_name": "Nome",
+      "subscriber_first_name": "Nome e cognome",
       "subscriber_last_name": "Cognome",
-      "success_text": "Grazie!",
-      "placeholder": "Scrivi la tua e-mail...",
+      "success_text": "Grazie per il vostro tempo!",
+      "placeholder": "Inserisci la tua email...",
       "submit": "Iscriviti alla nostra newsletter"
     },
     "breadcrumbs": {
-      "home": "Casa",
-      "page": "Pagina {{ current_page }} di {{ pages }}"
+      "home": "Pagina iniziale",
+      "page": "Pagina {{ current_page }} Da {{ pages }}"
     },
     "search": {
       "title": "Ricerca",
       "description": "Ricerca nel negozio",
-      "no_results_html": "La tua ricerca di \"{{ terms }}\" purtroppo non ha avuto alcun riscontro. Provi invece a cercare nei nostri menu",
+      "no_results_html": "La tua ricerca per \"{{ terms }}\" purtroppo non ha trovato riscontro. Prova invece a cercare nei nostri menu",
       "advanced_search_html": "Ricerca avanzata →",
       "no_results": "Spiacente, nessun risultato",
-      "load_more": "Vedi di più",
+      "load_more": "Mostra di più",
       "all_results": "Mostra tutti",
       "results_count": {
-        "zero": "{{ count }} risultato",
-        "one": "{{ count }} risultato",
-        "other": "{{ count }} risultato"
+        "zero": "{{ count }} Risultati",
+        "one": "{{ count }} Risultati",
+        "other": "{{ count }} Risultati"
       },
       "placeholder": "Ricerca...",
-      "placeholder_with_shop_name": "Ricerca {{ shop_name }}...",
-      "submit": "Ricerca"
+      "placeholder_with_shop_name": "Ricerca per {{ shop_name }}...",
+      "submit": "Ricerca",
+      "close": "Chiudi"
     },
     "accessibility": {
       "total_reviews": "numero di recensioni",
       "star_reviews_info": "{{ rating_value }} di {{ rating_max }} stelle"
+    },
+    "predictive_search": {
+      "no_results_text": "Nessun risultato trovato",
+      "search_button_label": "Cerca"
     }
   },
   "date_formats": {
@@ -4512,6 +4517,36 @@
         }
       },
       "processing": "Elaborazione ..."
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox_label": "Invia come regalo",
+      "email_label": "Email del destinatario",
+      "email_placeholder": "Email del destinatario",
+      "error_message": "Errore di validazione",
+      "name_label": "Nome del destinatario",
+      "name_placeholder": "Nome del destinatario",
+      "message_label": "Messaggio",
+      "message_placeholder": "Scrivi il tuo messaggio qui",
+      "max_characters": "Massimo 200 caratteri",
+      "send_on_label": "Invia il (opzionale)",
+      "send_on_placeholder": "AAAA-MM-GG"
+    }
+  },
+  "age_gate": {
+    "form": {
+      "confirm": "Conferma",
+      "error": "Devi avere l'età sufficiente per entrare in questo sito",
+      "day": "Giorno",
+      "month": "Mese",
+      "year": "Anno"
+    }
+  },
+  "store_availability": {
+    "general": {
+      "in_stock": "Disponibile",
+      "out_of_stock": "Esaurito"
     }
   }
 }

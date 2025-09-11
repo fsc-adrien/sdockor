@@ -16,13 +16,13 @@
     "404": {
       "title": "Не вдалося знайти сторінку",
       "subtext": "Сторінку, яку ви шукаєте, не вдалося знайти",
-      "continue_shopping_html": "Спробуйте здійснити пошук або <a href=\"/collections/all\">продовжити покупки →</a>"
+      "continue_shopping_html": "Спробуйте виконати пошук або <a href=\"/collections/all\">продовжуйте покупки →</a>"
     },
     "password_page": {
       "opening_soon": "Відкриття незабаром",
       "spread_the_word": "Розкажіть про це",
       "or": "або",
-      "powered_by_shopify_html": "Цей магазин буде працювати на <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
+      "powered_by_shopify_html": "Цей магазин буде працювати на базі <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se ™ </a>\n"
     },
     "forms": {
       "post_error": "Не всі поля заповнені",
@@ -31,38 +31,38 @@
     "newsletter_form": {
       "title": "Новини та оновлення",
       "description": "Увійдіть на сайт ",
-      "name": "Назва організації",
+      "name": "Ваше ім'я",
       "email": "Адреса електронної пошти",
       "subscriber_first_name": "Ім'я та прізвище",
-      "subscriber_last_name": "Прізвище",
-      "success_text": "Дякую!",
-      "placeholder": "Напишіть свій e-mail...",
+      "subscriber_last_name": "Прізвище та ім'я",
+      "success_text": "Дякуємо, що приділили нам час!",
+      "placeholder": "Будь ласка, введіть ваш email...",
       "submit": "Підпишіться на нашу розсилку"
     },
     "breadcrumbs": {
       "home": "Головна сторінка",
-      "page": "Сторінка {{ current_page }} з {{ pages }}"
+      "page": "Сторінка {{ current_page }} By {{ pages }}"
     },
     "search": {
       "title": "Пошук",
-      "description": "Пошук у магазині",
-      "no_results_html": "Ваш пошук за запитом \"{{ terms }}\", на жаль, нічого не знайдено. Спробуйте пошукати в наших меню",
+      "description": "Пошук в магазині",
+      "no_results_html": "Ваш пошук за \"{{ terms }}\", на жаль, нічого не знайдено. Спробуйте пошукати в нашому меню",
       "advanced_search_html": "Розширений пошук →",
       "no_results": "Вибачте, немає результатів",
-      "load_more": "Переглянути більше",
+      "load_more": "Показати більше",
       "all_results": "Показати всі",
       "results_count": {
-        "zero": "{{ count }} результат",
-        "one": "{{ count }} результат",
-        "other": "{{ count }} результат"
+        "zero": "{{ count }} Результати",
+        "one": "{{ count }} Результати",
+        "other": "{{ count }} Результати"
       },
-      "placeholder": "Обшук...",
-      "placeholder_with_shop_name": "Пошук {{ shop_name }}...",
+      "placeholder": "Пошук...",
+      "placeholder_with_shop_name": "Шукати для {{ shop_name }}...",
       "submit": "Пошук"
     },
     "accessibility": {
       "total_reviews": "кількість відгуків",
-      "star_reviews_info": "{{ rating_value }} з {{ rating_max }} зірки"
+      "star_reviews_info": "{{ rating_value }} про {{ rating_max }} зірками"
     }
   },
   "shopify": {

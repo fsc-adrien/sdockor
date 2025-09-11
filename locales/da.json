@@ -3061,11 +3061,11 @@
     "404": {
       "title": "Kunne ikke finde siden",
       "subtext": "Den side, du leder efter, kunne ikke findes",
-      "continue_shopping_html": "Prøv at søge eller <a href=\"/collections/all\">Fortsæt med at shoppe →.</a>"
+      "continue_shopping_html": "Prøv at søge eller <a href=\"/collections/all\">fortsæt med at shoppe →</a>"
     },
     "accessibility": {
       "total_reviews": "antal anmeldelser",
-      "star_reviews_info": "{{ rating_value }} af {{ rating_max }} Stjerner"
+      "star_reviews_info": "{{ rating_value }} af {{ rating_max }} stjerner"
     },
     "meta": {
       "tagged_html": "Tagged \"{{ tags }}\"",
@@ -3073,7 +3073,7 @@
     },
     "password_page": {
       "opening_soon": "Åbner snart",
-      "spread_the_word": "Spred budskabet",
+      "spread_the_word": "Spred ordet",
       "or": "eller",
       "change_your_password_settings": "",
       "login_form_heading": "",
@@ -3093,40 +3093,54 @@
     "newsletter_form": {
       "title": "Nyheder og opdateringer",
       "description": "Log ind på hjemmesiden ",
-      "name": "Organisationens navn",
-      "email": "E-mail-adresse",
-      "subscriber_first_name": "Fornavn",
+      "name": "Dit navn",
+      "email": "Din e-mailadresse",
+      "subscriber_first_name": "Dit fornavn",
       "subscriber_last_name": "Efternavn",
-      "success_text": "Tak skal du have!",
-      "placeholder": "Skriv din e-mail...",
+      "success_text": "Tak for din tid!",
+      "placeholder": "Indtast venligst din e-mail...",
       "submit": "Tilmeld dig vores nyhedsbrev"
     },
     "breadcrumbs": {
-      "home": "Hjem",
-      "page": "Side {{ current_page }} af {{ pages }}"
+      "home": "Startside",
+      "page": "Side {{ current_page }} Af {{ pages }}"
     },
     "search": {
-      "title": "Søg efter",
+      "title": "Søg",
       "description": "Søg i butikken",
-      "no_results_html": "Din søgning efter \"{{ terms }}\" matchede desværre ikke noget. Prøv at søge i vores menuer i stedet",
-      "advanced_search_html": "Avanceret søgning →.",
+      "no_results_html": "Din søgning efter \"{{ terms }}\" gav desværre ikke noget resultat. Prøv at søge i vores menuer i stedet",
+      "advanced_search_html": "Avanceret søgning →",
       "no_results": "Beklager, ingen resultater",
-      "load_more": "Se mere",
+      "load_more": "Vis mere",
       "all_results": "Vis alle",
       "results_count": {
-        "zero": "{{ count }} resultat",
-        "one": "{{ count }} resultat",
-        "other": "{{ count }} resultat"
+        "zero": "{{ count }} Resultater",
+        "one": "{{ count }} Resultater",
+        "other": "{{ count }} Resultater"
       },
       "placeholder": "Søg...",
       "placeholder_with_shop_name": "Søg efter {{ shop_name }}...",
-      "submit": "Søg efter"
+      "submit": "Søg",
+      "close": "Close"
     },
     "currency": {
       "dropdown_label": ""
     },
     "language": {
       "dropdown_label": ""
+    },
+    "predictive_search": {
+      "no_results_text": "No matching results found.",
+      "search_button_label": "Search for \"{{ search_terms }}\"",
+      "query_suggestions_heading": "Suggestions",
+      "product_suggestions_heading": "Products",
+      "posts_suggestions_heading": "Posts",
+      "pages_suggestions_heading": "Pages",
+      "pages_and_posts_suggestions_heading": "Posts & Pages"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Top",
+      "mobile_button_label": "Back to top"
     }
   },
   "blogs": {
@@ -4530,6 +4544,50 @@
         "too_many_requests": "For mange forespørgsler. Prøv venligst igen senere.",
         "generic": "Anmodningen gik ikke igennem"
       }
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox_label": "I want to send this as a gift",
+      "email_label": "Recipient email",
+      "email_placeholder": "Recipient email",
+      "error_message": "Email is not valid",
+      "name_label": "Recipient name (optional)",
+      "name_placeholder": "Recipient name",
+      "message_label": "Message (optional)",
+      "message_placeholder": "Message",
+      "max_characters": "{{ max_characters }} characters max",
+      "send_on_label": "Send on (optional)",
+      "send_on_placeholder": "YYYY-MM-DD"
+    }
+  },
+  "age_gate": {
+    "form": {
+      "confirm": "Confirm age and proceed to {{ shop }}",
+      "error": "Shop access is limited to adults age {{ age }} and older.",
+      "day": "Day",
+      "month": "Month",
+      "year": "Year",
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    }
+  },
+  "sections": {
+    "complementary_product_block": {
+      "from": "from",
+      "now": "now",
+      "view_details": "View product",
+      "price_per_unit_html": "{{ price }}/{{ unit }}"
     }
   }
 }

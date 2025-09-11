@@ -8,6 +8,11 @@
  * ------------------------------------------------------------
  */
 {
+  "navigation": {
+    "header": {
+      "main_nav": "导航"
+    }
+  },
   "store_availability": {
     "general": {
       "in_stock": "有现货",
@@ -285,6 +290,9 @@
       "message": "信件内容",
       "send": "寄出",
       "post_success": "谢谢您与我们联系。我们将尽快回复您。"
+    },
+    "fields": {
+      "email": "邮件地址"
     }
   },
   "customer": {

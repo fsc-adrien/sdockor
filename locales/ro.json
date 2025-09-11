@@ -31,33 +31,33 @@
     "newsletter_form": {
       "title": "Știri și actualizări",
       "description": "Conectați-vă la site ",
-      "name": "Numele organizației",
+      "name": "Numele dvs.",
       "email": "Adresa de e-mail",
       "subscriber_first_name": "Numele și prenumele",
-      "subscriber_last_name": "Numele de familie",
-      "success_text": "Vă mulțumim!",
-      "placeholder": "Scrie-ți e-mailul...",
+      "subscriber_last_name": "Ultimul nume",
+      "success_text": "Vă mulțumim pentru timpul acordat!",
+      "placeholder": "Vă rugăm să introduceți adresa dvs. de e-mail...",
       "submit": "Abonați-vă la newsletter-ul nostru"
     },
     "breadcrumbs": {
-      "home": "Acasă",
-      "page": "Pagina {{ current_page }} de {{ pages }}"
+      "home": "Pagina de pornire",
+      "page": "Pagina {{ current_page }} Prin {{ pages }}"
     },
     "search": {
       "title": "Căutare",
       "description": "Căutare în magazin",
-      "no_results_html": "Căutarea dvs. pentru \"{{ terms }}\", din păcate, nu s-a potrivit cu nimic. Încearcă să cauți în meniurile noastre",
+      "no_results_html": "Căutarea dvs. pentru \"{{ terms }}\" din păcate nu a găsit nimic. Încercați în schimb să căutați în meniurile noastre",
       "advanced_search_html": "Căutare avansată →",
-      "no_results": "Îmi pare rău, niciun rezultat",
-      "load_more": "Vezi mai mult",
+      "no_results": "Ne pare rău, niciun rezultat",
+      "load_more": "Arată mai multe",
       "all_results": "Arată toate",
       "results_count": {
-        "zero": "{{ count }} rezultat",
-        "one": "{{ count }} rezultat",
-        "other": "{{ count }} rezultat"
+        "zero": "{{ count }} Rezultate",
+        "one": "{{ count }} Rezultate",
+        "other": "{{ count }} Rezultate"
       },
       "placeholder": "Căutare...",
-      "placeholder_with_shop_name": "Căutare {{ shop_name }}...",
+      "placeholder_with_shop_name": "Căutare pentru {{ shop_name }}...",
       "submit": "Căutare"
     },
     "accessibility": {

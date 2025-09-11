@@ -16,13 +16,13 @@
     "404": {
       "title": "Nepodařilo se najít stránku",
       "subtext": "Hledanou stránku se nepodařilo najít.",
-      "continue_shopping_html": "Zkuste vyhledat nebo <a href=\"/collections/all\">pokračovat v nakupování →</a>"
+      "continue_shopping_html": "Zkuste vyhledat nebo <a href=\"/collections/all\">pokračovat v nákupu →</a>"
     },
     "password_page": {
-      "opening_soon": "Otevření již brzy",
+      "opening_soon": "Brzy otevřeno",
       "spread_the_word": "Šíření informací",
       "or": "nebo",
-      "powered_by_shopify_html": "Tento obchod bude poháněn <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
+      "powered_by_shopify_html": "Tento obchod bude napájen <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
     "forms": {
       "post_error": "Nejsou vyplněna všechna pole",
@@ -31,38 +31,38 @@
     "newsletter_form": {
       "title": "Novinky a aktualizace",
       "description": "Přihlášení na webové stránky ",
-      "name": "Název organizace",
+      "name": "Vaše jméno",
       "email": "E-mailová adresa",
       "subscriber_first_name": "Křestní jméno",
       "subscriber_last_name": "Příjmení",
-      "success_text": "Děkujeme!",
-      "placeholder": "Napište svůj e-mail...",
+      "success_text": "Děkujeme vám za váš čas!",
+      "placeholder": "Zadejte prosím svůj e-mail...",
       "submit": "Přihlaste se k odběru našeho newsletteru"
     },
     "breadcrumbs": {
-      "home": "Home",
-      "page": "Stránka {{ current_page }} z {{ pages }}"
+      "home": "Úvodní stránka",
+      "page": "Stránka {{ current_page }} Podle {{ pages }}"
     },
     "search": {
-      "title": "Vyhledávání",
+      "title": "Hledat na",
       "description": "Vyhledávání v obchodě",
-      "no_results_html": "Vaše vyhledávání \"{{ terms }}\" bohužel nic neodpovídalo. Zkuste místo toho vyhledávat v našich nabídkách",
+      "no_results_html": "Vaše vyhledávání pro \"{{ terms }}\" bohužel nic nevyhovělo. Zkuste místo toho hledat v našich nabídkách",
       "advanced_search_html": "Rozšířené vyhledávání →",
       "no_results": "Omlouváme se, žádné výsledky",
       "load_more": "Zobrazit více",
-      "all_results": "Zobrazit všechny",
+      "all_results": "Zobrazit vše",
       "results_count": {
-        "zero": "{{ count }} výsledek",
-        "one": "{{ count }} výsledek",
-        "other": "{{ count }} výsledek"
+        "zero": "{{ count }} Výsledky",
+        "one": "{{ count }} Výsledky",
+        "other": "{{ count }} Výsledky"
       },
       "placeholder": "Vyhledávání...",
       "placeholder_with_shop_name": "Vyhledávání {{ shop_name }}...",
-      "submit": "Vyhledávání"
+      "submit": "Hledat na"
     },
     "accessibility": {
       "total_reviews": "počet recenzí",
-      "star_reviews_info": "{{ rating_value }} z {{ rating_max }} hvězdy"
+      "star_reviews_info": "{{ rating_value }} z {{ rating_max }} hvězdičky"
     }
   },
   "customer_accounts": {

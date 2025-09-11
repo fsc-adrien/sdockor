@@ -8,12 +8,39 @@
  * ------------------------------------------------------------
  */
 {
+  "navigation": {
+    "header": {
+      "main_nav": "Navigasjon",
+      "main_nav_default": "Main navigation"
+    }
+  },
+  "list_view": "Vis listevisning",
+  "table_view": "Vis tabellvisning",
   "shopify": {
     "sentence": {
       "words_connector": ",",
       "two_words_connector": "og",
-      "last_word_connector": "og"
-    },
+      "last_word_connector": "og",
+      "general": {
+        "back_to_top_button": {
+          "desktop_button_label": "Tilbake til toppen",
+          "mobile_button_label": "Tilbake til toppen"
+        },
+        "search": {
+          "results_text": "Resultater",
+          "no_results_text": "Ingen resultater",
+          "placeholder_with_blog_name": "Søk i bloggen...",
+          "close": "Lukk"
+        },
+        "predictive_search": {
+          "no_results_text": "Ingen resultater",
+          "query_suggestions_heading": "Søke forslag",
+          "product_suggestions_heading": "Produktforslag",
+        "posts_suggestions_heading": "Innlegg forslag",
+        "pages_suggestions_heading": "Side forslag",
+        "pages_and_posts_suggestions_heading": "Sider og innlegg forslag",
+        "search_button_label": "Søk"
+      },
     "checkout": {
       "general": {
         "page_title": "Sjekk ut",
@@ -3021,27 +3048,7 @@
       "collections": "Samlinger",
       "product_types": "Type",
       "vendors": "Ekspeditør",
-      "tags": "Tagger",
-      "clear": "Klar",
-      "apply_filter": "Søke om",
-      "clear_all": "Fjern alt",
-      "from": "Fra",
-      "to": "Til"
-    },
-    "sorting": {
-      "title": "Sorter etter",
-      "sort_collection": "Sorter {{ title }}",
-      "filter": "Filter",
-      "filter_collection": "Filter {{ title }}",
-      "featured": "Akkurat nå",
-      "best_selling": "Bestselger"
-    }
-  },
-  "products": {
-    "general": {
-      "previous_product_html": "Tidligere",
-      "next_product_html": "Neste",
-      "from": "fra"
+      "tags": "Tagger"
     },
     "product": {
       "sold_out": "Utsolgt",
@@ -3061,8 +3068,23 @@
         "one": "dukken igjen",
         "other": "dukker igjen"
       },
-      "view_in_your_space": "Se privat"
+      "view_in_your_space": "Se privat",
+      "percent_off": "% avslag",
+      "up_to": "Opptil"
     },
+    "product": {
+      "sold_out": "Utsolgt"
+    },
+    "notify_form": {
+      "email": "Skriv inn email adressen din",
+      "send": "Sende",
+      "message_content": "",
+      "message_content_first": "",
+      "message_content_last": "",
+      "post_success": "",
+      "post_error": "",
+      "notify_me_richtext": "Varsle meg når tilgjengelig"
+    }
     "item": {
       "price": {
         "price_per_unit_html": ""
@@ -3187,24 +3209,25 @@
       "shipping_address": "",
       "fulfillment_status": "",
       "discount": "",
-      "shipping": "",
-      "tax": "",
-      "product": "",
-      "sku": "",
-      "price": "",
-      "quantity": "",
-      "total": "",
-      "fulfilled_at": "",
-      "subtotal": ""
-    },
-    "register": {
-      "title": "",
-      "sign_up": "",
-      "cancel": "",
-      "returning_customer_label": "",
-      "sign_in_html": "",
-      "first_name": "",
-      "last_name": "",
+  "homepage": {
+    "onboarding": {
+      "product_title": "",
+      "product_vendor": "",
+      "product_description": "",
+      "caption_headline": "",
+      "caption_subtitle": "",
+      "caption_button": "",
+      "promotion_name": "",
+      "promotion_description": "",
+      "collection_title": "",
+      "blog_title": "Nyheter",
+      "blogpost_title": "",
+      "blog_excerpt": "",
+      "blog_author": "",
+      "no_content": "",
+      "hotspot_identifier": "Hotspot"
+    }
+  },
       "email": "",
       "password": "",
       "or": "",
@@ -3311,32 +3334,6 @@
     "social_sharing": {
       "title": "Dele",
       "twitter_share": "Sjekk ut {{ title }} fra {{ name }}: {{ current_url }}",
-      "twitter_title": "Del på Twitter",
-      "facebook_title": "Del på Facebook",
-      "pinterest_title": "Del på Pinterest",
-      "pinterest_share": "{{ title }} fra {{ name }}",
-      "email_title": "Send e-post til en venn",
-      "email_subject": "Kanskje noe for deg {{ title }}",
-      "email_message": "Vi vil. Jeg så i {{ name }} og fant {{ title }}. Tenkte at dette kunne falle i smak;)"
-    },
-    "customer": {
-      "logged_in_as": "",
-      "log_out": "",
-      "log_in": "",
-      "my_account": "",
-      "create_account": ""
-    },
-    "counts": {
-      "items": {
-        "one": "Brygge",
-        "other": "dukker"
-      },
-      "items_with_count": {
-        "one": "Brygge",
-        "other": "dukker"
-      }
-    }
-  },
   "customer_accounts": {
     "navigation_and_structure": {
       "account_menu": {
@@ -3348,13 +3345,50 @@
         "close_menu_accessibility_label": "Lukk Accountigigation",
         "loading_message": "Laster inn kontoavigasjon"
       },
+      "country_switcher_toast_message": "Landet er endret.",
+      "switch_country": "Bytt land",
+      "search": "Søk",
+      "location_switcher_toast_message": "Stedet er endret.",
+      "switch_location": "Bytt sted",
+      "view_details": "Vis detaljer",
+      "company_location": "Bedriftssted",
+      "no_countries_found": "Ingen land funnet",
+      "no_locations_found": "Ingen steder funnet",
+      "try_new_search": "Prøv et nytt søk",
+      "skip_to_content": "Hopp til innhold",
+      "loading_policy_content_accessibility_label": "Laster policyinnhold"
+    },
+    "action_menu_accessibility_label": "Flere tiltak",
+    "close_menu_accessibility_label": "Lukk hovednavigasjon",
+    "contact_email_subject": "Kontakt fra nettbutikken {{shopName}}",
+    "contact_link": "Kontakt oss",
+    "delete_confirmation": {
+      "cancel": "Avbryt",
+      "delete": "Slett"
+    },
+    "dismiss_toast": "Avvise",
+    "document_title": "{{sectionName}} - {{shopName}} - Regnskap",
+    "generic_accessibility_label": "{{label}}: {{value}}",
+    "go_to_store_link": "Gå til butikken",
+    "loading_message": "Lasting",
+    "log_out_link": "Logg ut",
+    "logout_overlay_label": "Logger deg ut ...",
+    "nav_label_accessibility_label": "Hovednavigasjon",
+    "navigation_accessibility_message": "Du navigerte til {{sectionName}}",
+    "open_menu_accessibility_label": "Åpen hovednavigasjon",
+    "orders_link_label": "Bestillinger",
+    "shop_logo_accessibility_label": "{{shopName}}-Logotype",
+    "subscriptions_link_label": "Abonnement",
+    "settings_link": "Innstillinger"
+    },
+    },
+      },
       "action_menu_accessibility_label": "Flere tiltak",
       "close_menu_accessibility_label": "Lukk hovednavigasjon",
       "contact_email_subject": "Kontakt fra nettbutikken {{shopName}}",
-      "contact_link": "Kontakt oss",
-      "delete_confirmation": {
-        "cancel": "Avbryt",
-        "delete": "Slett"
+      "subscriptions_link_label": "Abonnement",
+      "settings_link": "Innstillinger"
+    }
       },
       "dismiss_toast": "Avvise",
       "document_title": "{{sectionName}} - {{shopName}} - Regnskap",
@@ -3367,7 +3401,8 @@
       "navigation_accessibility_message": "Du navigerte til {{sectionName}}",
       "open_menu_accessibility_label": "Åpen hovednavigasjon",
       "orders_link_label": "Bestillinger",
-      "shop_logo_accessibility_label": "{{shopName}}-Logotype",
+          "items": "Artikler",
+          "items_default": "Items"
       "subscriptions_link_label": "Abonnement",
       "settings_link": "Innstillinger"
     },
@@ -3388,14 +3423,26 @@
         "title": "Profil",
         "no_name_provided_accessibility_label": "Ingen navn lagt til"
       },
-      "profile_update_confirmation_message": "Profilen oppdatert",
-      "title": "Kontoinformasjon",
-      "people": {
-        "pagination": {
-          "load_more": "Les mer",
-          "load_more_accessibility_label": "Les flere mennesker",
-          "loading_accessibility_label": "Leser mennesker"
-        }
+      "order_list": {
+        "column_headers": {
+          "total": "Total",
+          "items": "Artikler",
+          "items_default": "Items",
+          "order": "Rekkefølge",
+          "actions_accessibility_label": "Handling",
+          "products_accessibility_label": "Produkter"
+        },
+        "list_view": "Vis listevisning",
+        "list_view_default": "List view",
+        "table_view": "Vis tabellvisning",
+        "table_view_default": "Table view",
+        "location_filter_picker": {
+          "all_location": "Alle steder",
+          "current_location": "Nåværende sted",
+          "switch_view": "Bytt visning"
+        },
+        "empty_state_with_location_title": "Ingen bestillinger for valgt sted",
+        "group_title_label_with_parent": "Del av: {{parent}}"
       },
       "add_button": "Legg til"
     },
@@ -3424,10 +3471,22 @@
         "order_number": "Rekkefølge {{name}}",
         "orders_title": "Bekreftet",
         "pagination": {
-          "nav_accessibility_label": "Bestill navigasjonsknapper",
-          "next": "NESTE",
-          "next_accessibility_label": "Neste bestillinger",
-          "previous": "Tidligere",
+          "order_total": {
+            "ascending": "Bestill sum (lav til høy)",
+            "descending": "Bestill sum (høy til lav)"
+          },
+          "payment_status": {
+            "table_view": {
+              "overdue": "Betaling forfaller",
+              "due": "Betaling forfaller {{date}}",
+              "due_today": "Betalingen forfaller i dag",
+              "paid": "Betalt",
+              "due_without_date": "Tidsfrist",
+              "due_on_fulfillment": "Betaling forfaller ved distribusjon",
+              "pay_to_confirm": "Betal for å bekrefte",
+              "payment_not_due": "Betalingen forfaller ikke ennå"
+            }
+          }
           "previous_accessibility_label": "Tidligere ordrer",
           "load_more": "Les mer",
           "load_more_accessibility_label": "Les flere bestillinger"
@@ -3437,11 +3496,11 @@
         "sort_show_options_accessibility_label": "Se sorteringsalternativer for bekreftede ordrer.",
         "sort_title": "Sortere",
         "sort": {
-          "date": {
-            "newest": "Nyeste til den eldste",
-            "oldest": "Eldste til nyeste"
-          },
-          "location": {
+          "previous_accessibility_label": "Tidligere ordrer",
+          "load_more": "Les mer",
+          "load_more_accessibility_label": "Les flere bestillinger"
+        },
+        "sort_by": "Sorter etter: {{option}}",
             "ascending": "Sted (A-ö)",
             "descending": "Sted (Ö-A)"
           },
@@ -3678,7 +3737,8 @@
             "delivery_guarantee_expired_label": "Leveringsgarantien er utløpt",
             "modal_accessibility_button_label": "Informasjon om leveringsløft",
             "download_shop_app_button_label": "Last ned butikk for å spore",
-            "track_with_shop_button_label": "Spor med butikk",
+      "status_title": "Ordre status",
+      "status_title_default": "Order status",
             "claim_shop_cash_button_label": "Gjør et krav om butikk kontanter"
           },
           "details_modal": {
@@ -4138,9 +4198,10 @@
           },
           "refund": {
             "title": "Tilbakebetalt",
-            "title_with_date": "Refunderte det {{date}}",
-            "description_full_refund": "Du mottok full refusjon for denne bestillingen.",
-            "description_single_refund": "Du mottok en del av refusjonen for denne bestillingen.",
+        "back_to_authentication_link": "Logg deg på en annen konto",
+        "back_to_authentication_link_default": "Back to authentication",
+        "description": "Du er ikke registrert som en B2B -kunde med {{shopName}}",
+        "title": "ingen adgang"
             "description_multiple_refunds": "Du mottok deler av tilbakebetaling for denne bestillingen."
           },
           "canceled": {
@@ -4174,11 +4235,14 @@
         "cancel": "Avbryt",
         "close_modal_accessibility_label": "Lukk Bloking Windows for innkjøpsordrenummer",
         "discard": "Avskjedige",
-        "discard_changes_modal_title": "Avskjedige endringer?",
-        "edit_accessibility_label": "Rediger innkjøpsordrenummer",
-        "edit_modal_title": "Rediger innkjøpsordrenummer",
-        "empty_state": "Ingen innkjøpsordre nummer",
-        "modal_po_number_input_label": "Innkjøpsordrenummer",
+      "no_access": {
+        "back_to_authentication_link": "Logg deg på en annen konto",
+        "back_to_authentication_link_default": "Back to authentication",
+        "description": "Du er ikke registrert som en B2B -kunde med {{shopName}}",
+        "description_default": "You are not registered as a B2B customer with {{shopName}}",
+        "title": "ingen adgang",
+        "title_default": "No access"
+      },
         "modal_po_number_input_max_length_error": "Innkjøpsordrenummer har maksimum {{maxLength}} skilt.",
         "save": "Lagre",
         "title": "Innkjøpsordrenummer {{poNumber}}"
@@ -4208,15 +4272,22 @@
       },
       "no_access_to_locations": {
         "description": "Du har ikke tilgang til noen steder"
-      },
-      "not_found": {
-        "description": "Sjekk URL> en eller prøv igjen om noen minutter.",
-        "title": "Kan ikke laste inn denne siden"
-      },
-      "order_not_found": {
-        "description": "Bestillingen eksisterer ikke, eller du har ikke tillatelse til å vise den.",
-        "title": "Bestillingen ble ikke funnet"
-      },
+    "shop_policies": {
+      "legal_notice": "Juridisk varsel",
+      "legal_notice_default": "Legal notice",
+      "privacy_policy": "Personvernregler",
+      "privacy_policy_default": "Privacy policy",
+      "refund_policy": "Angrerett",
+      "refund_policy_default": "Refund policy",
+      "shipping_policy": "Leveringspolitikk",
+      "shipping_policy_default": "Shipping policy",
+      "subscription_policy": "Abonnementspolicy",
+      "subscription_policy_default": "Subscription policy",
+      "terms_of_sale": "Salgsbetingelser",
+      "terms_of_sale_default": "Terms of sale",
+      "terms_of_service": "Vilkår for bruk",
+      "terms_of_service_default": "Terms of service"
+    },
       "profile_update_error": {
         "description": "Det var et problem med å oppdatere profilen din. Forsøk å oppdatere denne siden eller sjekke internettforbindelsen din."
       },
@@ -4247,15 +4318,15 @@
       "terms_of_sale": "Salgsbetingelser",
       "terms_of_service": "Vilkår for bruk"
     },
-    "payment_methods": {
-      "title": "Betalingsmetoder",
-      "add_payment_method_button": "Legg til betalingsmetode",
-      "payment_details": {
-        "title": "Detaljer for betalingsmetode",
-        "payment_method_expiring_on": "Utløper det {{expiryDate}}",
-        "preauthorized_payments": "Kontinuerlige betalinger",
-        "close_payment_modal": "Lukk",
-        "close_payment_modal_accessibility_label": "Lukk modal for detaljer for betalingsmetode",
+    "shop_policies": {
+      "legal_notice": "Juridisk varsel",
+      "privacy_policy": "Personvernregler",
+      "refund_policy": "Angrerett",
+      "shipping_policy": "Leveringspolitikk",
+      "subscription_policy": "Abonnementspolicy",
+      "terms_of_sale": "Salgsbetingelser",
+      "terms_of_service": "Vilkår for bruk"
+    }
         "payment_method_not_found_error": "Kan ikke finne betalingsmetode",
         "payment_details_loading": "Leser informasjon for betalingsmetode",
         "pre_authorized_payments": "Kontinuerlige betalinger",

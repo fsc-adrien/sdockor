@@ -16,11 +16,11 @@
     "404": {
       "title": "Nem találta az oldalt",
       "subtext": "A keresett oldal nem található meg",
-      "continue_shopping_html": "Próbáljon keresni vagy <a href=\"/collections/all\">tovább vásárolni →</a>"
+      "continue_shopping_html": "Próbáljon keresni vagy <a href=\"/collections/all\">folytassa a vásárlást →</a>"
     },
     "password_page": {
       "opening_soon": "Hamarosan nyitva",
-      "spread_the_word": "Terjessze az igét",
+      "spread_the_word": "Terjeszd a hírt",
       "or": "vagy",
       "powered_by_shopify_html": "Ezt a boltot a <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
@@ -30,39 +30,39 @@
     },
     "newsletter_form": {
       "title": "Hírek és frissítések",
-      "description": "Jelentkezzen be a weboldalra ",
-      "name": "A szervezet neve",
+      "description": "Bejelentkezés a weboldalra ",
+      "name": "Az Ön neve",
       "email": "E-mail cím",
       "subscriber_first_name": "Keresztnév",
       "subscriber_last_name": "Vezetéknév",
-      "success_text": "Köszönöm!",
-      "placeholder": "Írja meg az e-mailjét...",
+      "success_text": "Köszönjük, hogy időt szakított rám!",
+      "placeholder": "Kérjük, adja meg e-mail címét...",
       "submit": "Iratkozzon fel hírlevelünkre"
     },
     "breadcrumbs": {
-      "home": "Home",
-      "page": "Oldal {{ current_page }} a {{ pages }}"
+      "home": "Kezdőlap",
+      "page": "Oldal {{ current_page }} A  által {{ pages }}"
     },
     "search": {
       "title": "Keresés",
-      "description": "Keresés a boltban",
-      "no_results_html": "A keresése \"{{ terms }}\" sajnos nem találtam semmit. Próbáljon inkább a menük között keresni",
-      "advanced_search_html": "Speciális keresés →",
-      "no_results": "Sajnálom, nincs eredmény",
-      "load_more": "További részletek",
-      "all_results": "Mindent megmutatni",
+      "description": "Keresés az üzletben",
+      "no_results_html": "Keresés a \"{{ terms }}\" keresése sajnos nem talált semmit. Próbáljon inkább a menük között keresni",
+      "advanced_search_html": "Részletes keresés →",
+      "no_results": "Sajnálom, nincs találat",
+      "load_more": "Továbbiak megjelenítése",
+      "all_results": "Összes megjelenítése",
       "results_count": {
-        "zero": "{{ count }} eredmény",
-        "one": "{{ count }} eredmény",
-        "other": "{{ count }} eredmény"
+        "zero": "{{ count }} Eredmények",
+        "one": "{{ count }} Eredmények",
+        "other": "{{ count }} Eredmények"
       },
       "placeholder": "Keresés...",
       "placeholder_with_shop_name": "Keresés {{ shop_name }}...",
       "submit": "Keresés"
     },
     "accessibility": {
-      "total_reviews": "felülvizsgálatok száma",
-      "star_reviews_info": "{{ rating_value }} a {{ rating_max }} csillagok"
+      "total_reviews": "vélemények száma",
+      "star_reviews_info": "{{ rating_value }} a {{ rating_max }} stars"
     }
   },
   "date_formats": {

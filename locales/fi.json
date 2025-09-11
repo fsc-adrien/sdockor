@@ -3055,11 +3055,11 @@
     "404": {
       "title": "Sivua ei löydy",
       "subtext": "Etsimääsi sivua ei löytynyt.",
-      "continue_shopping_html": "Kokeile etsiä tai <a href=\"/collections/all\">jatkaa ostoksia →</a>"
+      "continue_shopping_html": "Yritä etsiä tai <a href=\"/collections/all\">jatka ostoksia →</a>"
     },
     "accessibility": {
       "total_reviews": "arvostelujen määrä",
-      "star_reviews_info": "{{ rating_value }} of {{ rating_max }} tähdet"
+      "star_reviews_info": "{{ rating_value }} osoitteesta {{ rating_max }} tähdet"
     },
     "meta": {
       "tagged_html": "Tagged \"{{ tags }}\"",
@@ -3078,7 +3078,7 @@
       "signup_form_success": "",
       "admin_link_html": "",
       "password_link": "",
-      "powered_by_shopify_html": "Tämä kauppa toimii seuraavilla järjestelmillä <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
+      "powered_by_shopify_html": "Tämä kauppa on powered by <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
     "forms": {
       "post_error": "Kaikkia kenttiä ei ole täytetty",
@@ -3087,40 +3087,54 @@
     "newsletter_form": {
       "title": "Uutisia ja päivityksiä",
       "description": "Kirjaudu sisään verkkosivustolle ",
-      "name": "Organisaation nimi",
+      "name": "Nimesi",
       "email": "Sähköpostiosoite",
       "subscriber_first_name": "Etunimi",
       "subscriber_last_name": "Sukunimi",
-      "success_text": "Kiitos!",
+      "success_text": "Kiitos ajastanne!",
       "placeholder": "Kirjoita sähköpostiosoitteesi...",
       "submit": "Tilaa uutiskirjeemme"
     },
     "breadcrumbs": {
       "home": "Etusivu",
-      "page": "Sivu {{ current_page }} of {{ pages }}"
+      "page": "Sivu {{ current_page }} By {{ pages }}"
     },
     "search": {
       "title": "Etsi",
       "description": "Haku kaupassa",
-      "no_results_html": "Hakusanalla \"{{ terms }}\" ei valitettavasti vastannut mitään. Kokeile sen sijaan hakua valikoistamme",
+      "no_results_html": "Hakusi \"{{ terms }}\" ei valitettavasti osunut mihinkään. Kokeile sen sijaan hakua valikoissamme",
       "advanced_search_html": "Tarkennettu haku →",
       "no_results": "Valitettavasti ei tuloksia",
       "load_more": "Näytä lisää",
       "all_results": "Näytä kaikki",
       "results_count": {
-        "zero": "{{ count }} tulos",
-        "one": "{{ count }} tulos",
-        "other": "{{ count }} tulos"
+        "zero": "{{ count }} Tulokset",
+        "one": "{{ count }} Tulokset",
+        "other": "{{ count }} Tulokset"
       },
       "placeholder": "Etsi...",
       "placeholder_with_shop_name": "Etsi {{ shop_name }}...",
-      "submit": "Etsi"
+      "submit": "Etsi",
+      "close": "Close"
     },
     "currency": {
       "dropdown_label": ""
     },
     "language": {
       "dropdown_label": ""
+    },
+    "predictive_search": {
+      "no_results_text": "No matching results found.",
+      "search_button_label": "Search for \"{{ search_terms }}\"",
+      "query_suggestions_heading": "Suggestions",
+      "product_suggestions_heading": "Products",
+      "posts_suggestions_heading": "Posts",
+      "pages_suggestions_heading": "Pages",
+      "pages_and_posts_suggestions_heading": "Posts & Pages"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Top",
+      "mobile_button_label": "Back to top"
     }
   },
   "blogs": {
@@ -4510,6 +4524,50 @@
         "future_purchases_notice": "Tämä maksutapa tallennetaan tulevia ostoksia varten.",
         "generic_error": "Päivittäminen ei ollut mahdollista. Yritä uudelleen."
       }
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox_label": "I want to send this as a gift",
+      "email_label": "Recipient email",
+      "email_placeholder": "Recipient email",
+      "error_message": "Email is not valid",
+      "name_label": "Recipient name (optional)",
+      "name_placeholder": "Recipient name",
+      "message_label": "Message (optional)",
+      "message_placeholder": "Message",
+      "max_characters": "{{ max_characters }} characters max",
+      "send_on_label": "Send on (optional)",
+      "send_on_placeholder": "YYYY-MM-DD"
+    }
+  },
+  "age_gate": {
+    "form": {
+      "confirm": "Confirm age and proceed to {{ shop }}",
+      "error": "Shop access is limited to adults age {{ age }} and older.",
+      "day": "Day",
+      "month": "Month",
+      "year": "Year",
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    }
+  },
+  "sections": {
+    "complementary_product_block": {
+      "from": "from",
+      "now": "now",
+      "view_details": "View product",
+      "price_per_unit_html": "{{ price }}/{{ unit }}"
     }
   }
 }

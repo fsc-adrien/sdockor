@@ -8,6 +8,11 @@
  * ------------------------------------------------------------
  */
 {
+  "navigation": {
+    "header": {
+      "main_nav": "Navegação"
+    }
+  },
   "store_availability": {
     "general": {
       "in_stock": "Em estoque",
@@ -441,6 +446,9 @@
   },
   "home_page": {
     "recent_articles": "Artigos recentes"
+  },
+  "fields": {
+    "email": "E-mail"
   },
   "cart": {
     "general": {
