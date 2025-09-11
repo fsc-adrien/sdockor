@@ -3055,11 +3055,11 @@
     "404": {
       "title": "Sivua ei löydy",
       "subtext": "Etsimääsi sivua ei löytynyt.",
-      "continue_shopping_html": "Yritä etsiä tai <a href=\"/collections/all\">jatka ostoksia →</a>"
+      "continue_shopping_html": "Kokeile etsiä tai <a href=\"/collections/all\">jatkaa ostoksia →</a>"
     },
     "accessibility": {
       "total_reviews": "arvostelujen määrä",
-      "star_reviews_info": "{{ rating_value }} osoitteesta {{ rating_max }} tähdet"
+      "star_reviews_info": "{{ rating_value }} of {{ rating_max }} tähdet"
     },
     "meta": {
       "tagged_html": "Tagged \"{{ tags }}\"",
@@ -3078,7 +3078,7 @@
       "signup_form_success": "",
       "admin_link_html": "",
       "password_link": "",
-      "powered_by_shopify_html": "Tämä kauppa on powered by <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
+      "powered_by_shopify_html": "Tämä kauppa toimii seuraavilla järjestelmillä <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
     "forms": {
       "post_error": "Kaikkia kenttiä ei ole täytetty",
@@ -3087,30 +3087,30 @@
     "newsletter_form": {
       "title": "Uutisia ja päivityksiä",
       "description": "Kirjaudu sisään verkkosivustolle ",
-      "name": "Nimesi",
+      "name": "Organisaation nimi",
       "email": "Sähköpostiosoite",
       "subscriber_first_name": "Etunimi",
       "subscriber_last_name": "Sukunimi",
-      "success_text": "Kiitos ajastanne!",
+      "success_text": "Kiitos!",
       "placeholder": "Kirjoita sähköpostiosoitteesi...",
       "submit": "Tilaa uutiskirjeemme"
     },
     "breadcrumbs": {
       "home": "Etusivu",
-      "page": "Sivu {{ current_page }} By {{ pages }}"
+      "page": "Sivu {{ current_page }} of {{ pages }}"
     },
     "search": {
       "title": "Etsi",
       "description": "Haku kaupassa",
-      "no_results_html": "Hakusi \"{{ terms }}\" ei valitettavasti osunut mihinkään. Kokeile sen sijaan hakua valikoissamme",
+      "no_results_html": "Hakusanalla \"{{ terms }}\" ei valitettavasti vastannut mitään. Kokeile sen sijaan hakua valikoistamme",
       "advanced_search_html": "Tarkennettu haku →",
       "no_results": "Valitettavasti ei tuloksia",
       "load_more": "Näytä lisää",
       "all_results": "Näytä kaikki",
       "results_count": {
-        "zero": "{{ count }} Tulokset",
-        "one": "{{ count }} Tulokset",
-        "other": "{{ count }} Tulokset"
+        "zero": "{{ count }} tulos",
+        "one": "{{ count }} tulos",
+        "other": "{{ count }} tulos"
       },
       "placeholder": "Etsi...",
       "placeholder_with_shop_name": "Etsi {{ shop_name }}...",

@@ -27,21 +27,21 @@
   },
   "general": {
     "404": {
-      "title": "A Página Não Foi Encontrada",
-      "subtext": "Lamentamos, mas a página que solicitou não existe.",
+      "title": "Não foi possível encontrar a página",
+      "subtext": "Não foi possível encontrar a página que procura",
       "continue_shopping_html": "Tente pesquisar ou <a href=\"/collections/all\">continuar a comprar →</a>"
     },
     "accessibility": {
-      "total_reviews": "Total de avaliações",
-      "star_reviews_info": "{{ rating_value }} fora de {{ rating_max }} estrelas"
+      "total_reviews": "número de revisões",
+      "star_reviews_info": "{{ rating_value }} de {{ rating_max }} estrelas"
     },
     "back_to_top_button": {
       "desktop_button_label": "Topo",
       "mobile_button_label": "Voltar ao topo"
     },
     "password_page": {
-      "opening_soon": "Abre Brevemente",
-      "spread_the_word": "Passe a palavra",
+      "opening_soon": "Abertura em breve",
+      "spread_the_word": "Espalhar a palavra",
       "or": "ou",
       "change_your_password_settings": "alterar as configurações de sua senha",
       "login_form_heading": "Entre na loja usando a palavra-passe",
@@ -52,26 +52,26 @@
       "signup_form_success": "Iremos enviar-lhe um e-mail para a direita antes de abrirmos!",
       "admin_link_html": "É o dono da loja? <a href=\"/admin\" class=\"text-link\">Inicie sessão aqui</a>",
       "password_link": "Entre usando a palavra-passe",
-      "powered_by_shopify_html": "Esta loja será movida <a href=\"https://shopify.pxf.io/pixel-union\" target=\"_blank\" rel=\"nofollow\">Shopify</a>"
+      "powered_by_shopify_html": "Esta loja será alimentada por <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
     "meta": {
-      "tagged_html": "Marcado \"{{ tags }}\"",
+      "tagged_html": "Tagged \"{{ tags }}\"",
       "page": "Página {{ page_number }}"
     },
     "forms": {
-      "post_error": "Nem todos os campos foram correctamente preenchidos",
-      "post_field_error_html": "O <strong>{{ field }}</strong> {{ error }}"
+      "post_error": "Nem todos os campos estão preenchidos",
+      "post_field_error_html": "<strong>{{ field }}</strong> {{ error }}"
     },
     "newsletter_form": {
-      "title": "Novidades e Actualizações",
-      "description": "Inscreva-se, para obter as últimas informações sobre saldos, novos lançamentos e mais …",
-      "name": "Nome",
-      "email": "E-mail",
-      "subscriber_first_name": "Primeiro Nome",
-      "subscriber_last_name": "Último Nome",
-      "success_text": "Obrigado por participar da nossa lista de e-mails!",
-      "placeholder": "Introduza o seu endereço de e-mail...",
-      "submit": "Inscreva-se"
+      "title": "Notícias e actualizações",
+      "description": "Iniciar sessão no sítio Web ",
+      "name": "Nome da organização",
+      "email": "Endereço eletrónico",
+      "subscriber_first_name": "Nome próprio",
+      "subscriber_last_name": "Apelido",
+      "success_text": "Obrigado!",
+      "placeholder": "Escreva o seu e-mail...",
+      "submit": "Subscrever a nossa newsletter"
     },
     "breadcrumbs": {
       "home": "Início",
@@ -79,23 +79,23 @@
     },
     "search": {
       "title": "Pesquisar",
-      "description": "Pesquisar tudo na loja.",
-      "no_results_html": "A sua pesquisa para \"{{ terms }}\" não coincidiu com quaisquer resultados.",
-      "advanced_search_html": "Pesquisa Avançada →",
-      "no_results": "Não foram encontrados resultados.",
-      "load_more": "Carregar Mais",
-      "all_results": "Ver todos os resultados",
+      "description": "Procurar na loja",
+      "no_results_html": "A sua pesquisa para \"{{ terms }}\"Infelizmente, não encontrou nada. Tente pesquisar nos nossos menus",
+      "advanced_search_html": "Pesquisa avançada →",
+      "no_results": "Lamento, mas não há resultados",
+      "load_more": "Ver mais",
+      "all_results": "Mostrar tudo",
       "results_count": {
-        "zero": "{{ count }} resultados",
+        "zero": "{{ count }} resultado",
         "one": "{{ count }} resultado",
-        "other": "{{ count }} resultados"
+        "other": "{{ count }} resultado"
       },
       "results_text": "{{ results }} encontrado para \"{{ search_terms }}\"",
       "no_results_text": "{{ results }} para \"{{ search_terms }}\"",
-      "placeholder": "Pesquisar...",
+      "placeholder": "Procurar...",
       "placeholder_with_blog_name": "Pesquise {{ blog_title }}...",
       "placeholder_with_shop_name": "Pesquisar {{ shop_name }}...",
-      "submit": "Pesquisa",
+      "submit": "Pesquisar",
       "close": "Fechar"
     },
     "predictive_search": {

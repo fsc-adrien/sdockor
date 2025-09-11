@@ -3061,11 +3061,11 @@
     "404": {
       "title": "Kunne ikke finde siden",
       "subtext": "Den side, du leder efter, kunne ikke findes",
-      "continue_shopping_html": "Prøv at søge eller <a href=\"/collections/all\">fortsæt med at shoppe →</a>"
+      "continue_shopping_html": "Prøv at søge eller <a href=\"/collections/all\">Fortsæt med at shoppe →.</a>"
     },
     "accessibility": {
       "total_reviews": "antal anmeldelser",
-      "star_reviews_info": "{{ rating_value }} af {{ rating_max }} stjerner"
+      "star_reviews_info": "{{ rating_value }} af {{ rating_max }} Stjerner"
     },
     "meta": {
       "tagged_html": "Tagged \"{{ tags }}\"",
@@ -3073,7 +3073,7 @@
     },
     "password_page": {
       "opening_soon": "Åbner snart",
-      "spread_the_word": "Spred ordet",
+      "spread_the_word": "Spred budskabet",
       "or": "eller",
       "change_your_password_settings": "",
       "login_form_heading": "",
@@ -3093,34 +3093,34 @@
     "newsletter_form": {
       "title": "Nyheder og opdateringer",
       "description": "Log ind på hjemmesiden ",
-      "name": "Dit navn",
-      "email": "Din e-mailadresse",
-      "subscriber_first_name": "Dit fornavn",
+      "name": "Organisationens navn",
+      "email": "E-mail-adresse",
+      "subscriber_first_name": "Fornavn",
       "subscriber_last_name": "Efternavn",
-      "success_text": "Tak for din tid!",
-      "placeholder": "Indtast venligst din e-mail...",
+      "success_text": "Tak skal du have!",
+      "placeholder": "Skriv din e-mail...",
       "submit": "Tilmeld dig vores nyhedsbrev"
     },
     "breadcrumbs": {
-      "home": "Startside",
-      "page": "Side {{ current_page }} Af {{ pages }}"
+      "home": "Hjem",
+      "page": "Side {{ current_page }} af {{ pages }}"
     },
     "search": {
-      "title": "Søg",
+      "title": "Søg efter",
       "description": "Søg i butikken",
-      "no_results_html": "Din søgning efter \"{{ terms }}\" gav desværre ikke noget resultat. Prøv at søge i vores menuer i stedet",
-      "advanced_search_html": "Avanceret søgning →",
+      "no_results_html": "Din søgning efter \"{{ terms }}\" matchede desværre ikke noget. Prøv at søge i vores menuer i stedet",
+      "advanced_search_html": "Avanceret søgning →.",
       "no_results": "Beklager, ingen resultater",
-      "load_more": "Vis mere",
+      "load_more": "Se mere",
       "all_results": "Vis alle",
       "results_count": {
-        "zero": "{{ count }} Resultater",
-        "one": "{{ count }} Resultater",
-        "other": "{{ count }} Resultater"
+        "zero": "{{ count }} resultat",
+        "one": "{{ count }} resultat",
+        "other": "{{ count }} resultat"
       },
       "placeholder": "Søg...",
       "placeholder_with_shop_name": "Søg efter {{ shop_name }}...",
-      "submit": "Søg"
+      "submit": "Søg efter"
     },
     "currency": {
       "dropdown_label": ""

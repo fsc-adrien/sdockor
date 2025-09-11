@@ -26,9 +26,11 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image_crop": "none",
+        "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -42,6 +44,8 @@
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -64,9 +68,11 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image_crop": "none",
+        "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -89,9 +95,11 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image_crop": "none",
+        "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -113,9 +121,11 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image_crop": "none",
+        "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -132,7 +142,9 @@
         "collection_sort": false,
         "products_per_row": 4,
         "pagination_limit": 32,
-        "toggle": false
+        "toggle": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1731775946ec1dbf45": {
@@ -148,6 +160,8 @@
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -169,9 +183,11 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image_crop": "none",
+        "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -199,7 +215,7 @@
             "text_size": 16,
             "text_size_mobile": 16,
             "content_alignment": "left",
-            "button_1_label": "Till Produkt",
+            "button_1_label": "Visa mer",
             "button_1_url": "shopify://products/aggie-sexdocka-ridmii-doll-163cm-d-kupa-tpe-silikon",
             "button_1_style": "fill",
             "button_1_background_color": "#000000",
@@ -226,7 +242,7 @@
             "text_size": 19,
             "text_size_mobile": 18,
             "content_alignment": "right",
-            "button_1_label": "Till Produkt",
+            "button_1_label": "Visa mer",
             "button_1_url": "shopify://products/miranda-sexdocka-ridmii-doll-168cm-e-kupa-tpe-silikon",
             "button_1_style": "fill",
             "button_1_background_color": "#000000",
@@ -253,7 +269,7 @@
             "text_size": 16,
             "text_size_mobile": 16,
             "content_alignment": "left",
-            "button_1_label": "Till Produkt",
+            "button_1_label": "Visa mer",
             "button_1_url": "shopify://products/marissa-sexdocka-ridmii-doll-167cm-f-kupa-tpe-silikon",
             "button_1_style": "fill",
             "button_1_background_color": "#000000",
@@ -357,10 +373,13 @@
       "settings": {
         "title": "Nyligen tillagda dockor",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "sexdockor-nyheter",
         "collection_style": "grid",
         "products_per": 6,
         "products_limit": 6,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -370,10 +389,13 @@
       "settings": {
         "title": "Nytt i lager",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "sexdockor-snabb-leverans-express-fri-frakt",
         "collection_style": "grid",
         "products_per": 6,
         "products_limit": 6,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -406,6 +428,22 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "featured_text_MGA8qj": {
+      "type": "featured-text",
+      "name": "Rich text and image",
+      "settings": {
+        "title": "Mera information",
+        "content": "<p><strong>Material och Tillverkningsprocess</strong></p><p>Redmii använder medicinskt silikon och TPE (termoplastisk elastomer) för att skapa hudliknande texturer som känns verklighetstrogna. Varje docka genomgår en noggrann tillverkningsprocess där detaljer som hudton, ögonfärg, hårstil och kroppstyp kan anpassas efter kundens önskemål.</p><p>Fördelar med Redmiis material:</p><p>Allergivänliga och hudvänliga</p><p>Lätt att rengöra och underhålla</p><p>Flexibla leder för realistiska rörelser</p><p>Möjlighet till värmefunktion och röstmodul</p><p></p><p></p><p><strong>Teknologisk Innovation</strong></p><p>Redmii ligger i framkant när det gäller att integrera teknik i sina produkter. Vissa modeller erbjuder:</p><p>AI-styrda funktioner som möjliggör samtal och interaktion</p><p>Uppvärmningssystem för kroppstemperatur</p><p>Sensorer som reagerar på beröring</p><p>App-styrning för personlig anpassning</p><p>Denna teknologiska utveckling gör att dockorna inte bara är fysiska objekt, utan också kan simulera närhet och respons på ett sätt som tidigare varit otänkbart.</p><p></p><p></p><p><strong>Anpassningsmöjligheter</strong></p><p>En av Redmiis största styrkor är möjligheten att skräddarsy dockan efter kundens preferenser. Du kan välja:</p><p>Kroppstyp (slank, kurvig, atletisk)</p><p>Hudton (ljus, medium, mörk)</p><p>Ögonfärg, hårfärg och frisyr</p><p>Ansiktsdrag och uttryck</p><p>Klädstil och tillbehör</p><p>Detta gör varje docka unik och personlig, vilket ökar kundens känsla av ägande och tillfredsställelse.</p><p></p><p></p><p><strong>Marknadsposition och Expansion</strong></p><p>Redmii har etablerat sig starkt i Sverige och expanderar nu till andra europeiska marknader. Genom strategiska samarbeten med distributörer och e-handelsplattformar har företaget ökat sin synlighet och tillgänglighet.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -424,6 +462,7 @@
     "72bf522a-a352-4f16-b041-f1dbb93644c4",
     "featured_collection_MExHGi",
     "1652224218445a4dc3",
-    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2"
+    "f4f084fc-10eb-419f-a43c-0e6e4ee6cab2",
+    "featured_text_MGA8qj"
   ]
 }

@@ -31,33 +31,33 @@
     "newsletter_form": {
       "title": "Haberler ve güncellemeler",
       "description": "Web sitesine giriş yapın ",
-      "name": "Sizin adınız",
+      "name": "Kuruluşun adı",
       "email": "E-posta adresi",
       "subscriber_first_name": "İlk isim",
       "subscriber_last_name": "Soyadı",
-      "success_text": "Zaman ayırdığınız için teşekkürler!",
-      "placeholder": "Lütfen e-posta adresinizi giriniz...",
+      "success_text": "Teşekkür ederim!",
+      "placeholder": "E-postanızı yazın...",
       "submit": "Haber bültenimize abone olun"
     },
     "breadcrumbs": {
-      "home": "Ana Sayfa",
-      "page": "Sayfa {{ current_page }} Tarafından {{ pages }}"
+      "home": "Ev",
+      "page": "Sayfa {{ current_page }} . {{ pages }}"
     },
     "search": {
       "title": "Arama",
       "description": "Mağazada arama yapın",
-      "no_results_html": "Aramanız \"{{ terms }}\" maalesef hiçbir şeyle eşleşmedi. Bunun yerine menülerimizi aramayı deneyin",
+      "no_results_html": "Aramanız \"{{ terms }}\" maalesef hiçbir şeyle eşleşmedi. Bunun yerine menülerimizde arama yapmayı deneyin",
       "advanced_search_html": "Gelişmiş arama →",
       "no_results": "Üzgünüm, sonuç yok",
-      "load_more": "Daha fazla göster",
+      "load_more": "Daha fazla görüntüle",
       "all_results": "Hepsini göster",
       "results_count": {
-        "zero": "{{ count }} Sonuçlar",
-        "one": "{{ count }} Sonuçlar",
-        "other": "{{ count }} Sonuçlar"
+        "zero": "{{ count }} Sonuç",
+        "one": "{{ count }} Sonuç",
+        "other": "{{ count }} Sonuç"
       },
       "placeholder": "Arama...",
-      "placeholder_with_shop_name": "Aramak için {{ shop_name }}...",
+      "placeholder_with_shop_name": "Arama {{ shop_name }}...",
       "submit": "Arama"
     },
     "accessibility": {

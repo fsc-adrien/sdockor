@@ -16,7 +16,7 @@
     "404": {
       "title": "Δεν μπόρεσε να βρει τη σελίδα",
       "subtext": "Η σελίδα που αναζητάτε δεν βρέθηκε",
-      "continue_shopping_html": "Δοκιμάστε την αναζήτηση ή <a href=\"/collections/all\">συνεχίστε τις αγορές →</a>"
+      "continue_shopping_html": "Δοκιμάστε την αναζήτηση ή <a href=\"/collections/all\">συνεχίστε τα ψώνια →</a>"
     },
     "password_page": {
       "opening_soon": "Άνοιγμα σύντομα",
@@ -30,39 +30,39 @@
     },
     "newsletter_form": {
       "title": "Νέα και ενημερώσεις",
-      "description": "Συνδεθείτε στην ιστοσελίδα ",
-      "name": "Το όνομά σας",
+      "description": "Συνδεθείτε στον ιστότοπο ",
+      "name": "Όνομα του οργανισμού",
       "email": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
-      "subscriber_first_name": "Ονοματεπώνυμο",
+      "subscriber_first_name": "Όνομα",
       "subscriber_last_name": "Επώνυμο",
-      "success_text": "Σας ευχαριστούμε για το χρόνο σας!",
-      "placeholder": "Παρακαλώ εισάγετε το email σας...",
+      "success_text": "Σας ευχαριστώ!",
+      "placeholder": "Γράψτε το e-mail σας...",
       "submit": "Εγγραφείτε στο ενημερωτικό μας δελτίο"
     },
     "breadcrumbs": {
       "home": "Αρχική σελίδα",
-      "page": "Σελίδα {{ current_page }} Με {{ pages }}"
+      "page": "Σελίδα {{ current_page }} του {{ pages }}"
     },
     "search": {
       "title": "Αναζήτηση",
       "description": "Αναζήτηση στο κατάστημα",
-      "no_results_html": "Η αναζήτησή σας για \"{{ terms }}\" δυστυχώς δεν βρήκε τίποτα. Δοκιμάστε να ψάξετε στα μενού μας αντ' αυτού",
+      "no_results_html": "Η αναζήτησή σας για \"{{ terms }}\" δυστυχώς δεν ταιριάζει με τίποτα. Δοκιμάστε να ψάξετε στα μενού μας",
       "advanced_search_html": "Σύνθετη αναζήτηση →",
       "no_results": "Λυπάμαι, δεν υπάρχουν αποτελέσματα",
-      "load_more": "Εμφάνιση περισσότερων",
+      "load_more": "Δείτε περισσότερα",
       "all_results": "Εμφάνιση όλων",
       "results_count": {
-        "zero": "{{ count }} Αποτελέσματα",
-        "one": "{{ count }} Αποτελέσματα",
-        "other": "{{ count }} Αποτελέσματα"
+        "zero": "{{ count }} αποτέλεσμα",
+        "one": "{{ count }} αποτέλεσμα",
+        "other": "{{ count }} αποτέλεσμα"
       },
       "placeholder": "Αναζήτηση...",
-      "placeholder_with_shop_name": "Αναζήτηση για {{ shop_name }}...",
+      "placeholder_with_shop_name": "Αναζήτηση {{ shop_name }}...",
       "submit": "Αναζήτηση"
     },
     "accessibility": {
-      "total_reviews": "Αριθμός κριτικών",
-      "star_reviews_info": "{{ rating_value }} του {{ rating_max }} stars"
+      "total_reviews": "αριθμός κριτικών",
+      "star_reviews_info": "{{ rating_value }} του {{ rating_max }} αστέρια"
     }
   },
   "date_formats": {

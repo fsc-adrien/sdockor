@@ -43,16 +43,16 @@
   "general": {
     "404": {
       "title": "Impossible de trouver la page",
-      "subtext": "La page que vous recherchez n'a pu être trouvée.",
-      "continue_shopping_html": "Essayez d'effectuer une recherche ou <a href=\"/collections/all\">continuer à acheter →</a>"
+      "subtext": "La page que vous recherchez n'a pas pu être trouvée",
+      "continue_shopping_html": "Essayez de faire une recherche ou <a href=\"/collections/all\">continuer à acheter →</a>"
     },
     "accessibility": {
-      "total_reviews": "nombre d'avis",
+      "total_reviews": "nombre d'examens",
       "star_reviews_info": "{{ rating_value }} de {{ rating_max }} étoiles"
     },
     "password_page": {
       "opening_soon": "Ouverture prochaine",
-      "spread_the_word": "Répandez le mot",
+      "spread_the_word": "Diffuser l'information",
       "or": "ou",
       "change_your_password_settings": "modifier vos paramètres de mot de passe",
       "login_form_heading": "Accéder à la boutique à l'aide d'un mot de passe",
@@ -63,7 +63,7 @@
       "signup_form_success": "Nous vous enverrons un e-mail à droite avant d'ouvrir!",
       "admin_link_html": "Êtes-vous le propriétaire de la boutique? <a href=\"/admin\" class=\"text-link\">Connectez-vous ici</a>.",
       "password_link": "Entrer avec un mot de passe",
-      "powered_by_shopify_html": "Cette boutique sera alimentée par <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
+      "powered_by_shopify_html": "Ce magasin sera alimenté par <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
     "meta": {
       "tagged_html": "Tagué \"{{ tags }}\"",
@@ -74,19 +74,19 @@
       "post_field_error_html": "<strong>{{ field }}</strong> {{ error }}"
     },
     "newsletter_form": {
-      "title": "Actualités et mises à jour",
-      "description": "Se connecter au site ",
-      "name": "Votre nom",
-      "email": "Votre adresse e-mail",
-      "subscriber_first_name": "Votre prénom",
+      "title": "Nouvelles et mises à jour",
+      "description": "Se connecter au site web ",
+      "name": "Nom de l'organisation",
+      "email": "Adresse électronique",
+      "subscriber_first_name": "Prénom",
       "subscriber_last_name": "Nom de famille",
-      "success_text": "Merci pour votre temps !",
-      "placeholder": "Veuillez entrer votre courriel...",
+      "success_text": "Merci de votre attention !",
+      "placeholder": "Ecrivez votre e-mail...",
       "submit": "S'abonner à notre lettre d'information"
     },
     "breadcrumbs": {
-      "home": "Page d'accueil",
-      "page": "Page d'accueil {{ current_page }} Par {{ pages }}"
+      "home": "Accueil",
+      "page": "Page {{ current_page }} de {{ pages }}"
     },
     "search": {
       "title": "Recherche",
@@ -94,15 +94,15 @@
       "no_results_html": "Votre recherche pour \"{{ terms }}\"n'a malheureusement rien donné. Essayez plutôt de rechercher dans nos menus",
       "advanced_search_html": "Recherche avancée →",
       "no_results": "Désolé, aucun résultat",
-      "load_more": "Afficher plus",
-      "all_results": "Tout afficher",
+      "load_more": "Voir plus",
+      "all_results": "Afficher tout",
       "results_count": {
-        "zero": "{{ count }} Résultats",
-        "one": "{{ count }} Résultats",
-        "other": "{{ count }} Résultats"
+        "zero": "{{ count }} résultat",
+        "one": "{{ count }} résultat",
+        "other": "{{ count }} résultat"
       },
-      "placeholder": "Rechercher...",
-      "placeholder_with_shop_name": "Rechercher {{ shop_name }}...",
+      "placeholder": "Recherche...",
+      "placeholder_with_shop_name": "Recherche {{ shop_name }}...",
       "submit": "Recherche"
     },
     "currency": {

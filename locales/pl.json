@@ -15,8 +15,8 @@
     },
     "404": {
       "title": "Nie można znaleźć strony",
-      "subtext": "Nie można znaleźć szukanej strony.",
-      "continue_shopping_html": "Spróbuj wyszukać lub <a href=\"/collections/all\">kontynuuj zakupy →</a>"
+      "subtext": "Nie można znaleźć szukanej strony",
+      "continue_shopping_html": "Spróbuj wyszukać lub <a href=\"/collections/all\">Kontynuuj zakupy →</a>"
     },
     "password_page": {
       "opening_soon": "Otwarcie wkrótce",
@@ -30,34 +30,34 @@
     },
     "newsletter_form": {
       "title": "Wiadomości i aktualizacje",
-      "description": "Zaloguj się na stronie ",
-      "name": "Twoje imię i nazwisko",
+      "description": "Zaloguj się do witryny ",
+      "name": "Nazwa organizacji",
       "email": "Adres e-mail",
       "subscriber_first_name": "Imię",
       "subscriber_last_name": "Nazwisko",
-      "success_text": "Dziękujemy za poświęcony czas!",
-      "placeholder": "Podaj swój adres e-mail...",
+      "success_text": "Dziękuję!",
+      "placeholder": "Napisz e-mail...",
       "submit": "Zapisz się do naszego newslettera"
     },
     "breadcrumbs": {
       "home": "Strona główna",
-      "page": "Strona {{ current_page }} Przez {{ pages }}"
+      "page": "Strona {{ current_page }} z {{ pages }}"
     },
     "search": {
       "title": "Wyszukiwanie",
       "description": "Wyszukiwanie w sklepie",
-      "no_results_html": "Twoje wyszukiwanie \"{{ terms }}\" niestety nie pasowało do niczego. Spróbuj zamiast tego przeszukać nasze menu",
+      "no_results_html": "Twoje wyszukiwanie \"{{ terms }}\" niestety nic nie pasowało. Spróbuj zamiast tego przeszukać nasze menu",
       "advanced_search_html": "Wyszukiwanie zaawansowane →",
       "no_results": "Przepraszamy, brak wyników",
-      "load_more": "Pokaż więcej",
+      "load_more": "Zobacz więcej",
       "all_results": "Pokaż wszystko",
       "results_count": {
-        "zero": "{{ count }} Wyniki",
-        "one": "{{ count }} Wyniki",
-        "other": "{{ count }} Wyniki"
+        "zero": "{{ count }} wynik",
+        "one": "{{ count }} wynik",
+        "other": "{{ count }} wynik"
       },
       "placeholder": "Szukaj...",
-      "placeholder_with_shop_name": "Szukaj {{ shop_name }}...",
+      "placeholder_with_shop_name": "Wyszukiwanie {{ shop_name }}...",
       "submit": "Wyszukiwanie"
     },
     "accessibility": {

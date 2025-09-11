@@ -20,7 +20,7 @@
     },
     "password_page": {
       "opening_soon": "Binnenkort geopend",
-      "spread_the_word": "Verspreid de boodschap",
+      "spread_the_word": "Zeg het voort",
       "or": "of",
       "powered_by_shopify_html": "Deze winkel wordt aangedreven door <a href=\"https://www.docklandet.se\" target=\"_blank\" rel=\"nofollow\">Docklandet.se™ </a>\n"
     },
@@ -30,35 +30,35 @@
     },
     "newsletter_form": {
       "title": "Nieuws en updates",
-      "description": "Log in op de website ",
-      "name": "Uw naam",
-      "email": "e-mailadres",
+      "description": "Inloggen op de website ",
+      "name": "Naam van de organisatie",
+      "email": "E-mailadres",
       "subscriber_first_name": "Voornaam",
       "subscriber_last_name": "Achternaam",
-      "success_text": "Bedankt voor uw tijd!",
-      "placeholder": "Voer uw e-mailadres in...",
+      "success_text": "Bedankt!",
+      "placeholder": "Schrijf je e-mail...",
       "submit": "Abonneer je op onze nieuwsbrief"
     },
     "breadcrumbs": {
-      "home": "Startpagina",
-      "page": "Pagina {{ current_page }} Door {{ pages }}"
+      "home": "Home",
+      "page": "Pagina {{ current_page }} van {{ pages }}"
     },
     "search": {
-      "title": "Zoeken",
+      "title": "Zoek op",
       "description": "Zoeken in de winkel",
-      "no_results_html": "Uw zoekopdracht voor \"{{ terms }}\" heeft helaas niets opgeleverd. Probeer in plaats daarvan in onze menu's te zoeken",
-      "advanced_search_html": "Uitgebreid zoeken →",
+      "no_results_html": "Uw zoekopdracht voor \"{{ terms }}\"Helaas kwam er niets uit. Probeer in plaats daarvan in onze menu's te zoeken",
+      "advanced_search_html": "Geavanceerd zoeken →",
       "no_results": "Sorry, geen resultaten",
-      "load_more": "Meer tonen",
+      "load_more": "Meer bekijken",
       "all_results": "Alles weergeven",
       "results_count": {
-        "zero": "{{ count }} Resultaten",
-        "one": "{{ count }} Resultaten",
-        "other": "{{ count }} Resultaten"
+        "zero": "{{ count }} resultaat",
+        "one": "{{ count }} resultaat",
+        "other": "{{ count }} resultaat"
       },
       "placeholder": "Zoeken...",
-      "placeholder_with_shop_name": "Zoeken naar {{ shop_name }}...",
-      "submit": "Zoeken"
+      "placeholder_with_shop_name": "Zoek op {{ shop_name }}...",
+      "submit": "Zoek op"
     },
     "accessibility": {
       "total_reviews": "aantal beoordelingen",

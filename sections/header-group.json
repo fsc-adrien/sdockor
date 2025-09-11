@@ -14,7 +14,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "promo_text": "",
+        "promo_text": "<p><strong>We are currently updating the platform for our store. If you experience any problems, it will be fixed soon.</strong></p>",
         "social_icons_header": true,
         "phone_number": "",
         "top_bar_menu": "",
@@ -102,6 +102,7 @@
         "mega-menu-1-3",
         "mega-menu-1-4"
       ],
+      "disabled": true,
       "settings": {
         "parent": ""
       }
@@ -212,6 +213,7 @@
         "mega-menu-2-3",
         "mega-menu-2-4"
       ],
+      "disabled": true,
       "settings": {
         "parent": ""
       }

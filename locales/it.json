@@ -15,8 +15,8 @@
     },
     "404": {
       "title": "Impossibile trovare la pagina",
-      "subtext": "La pagina cercata non è stata trovata.",
-      "continue_shopping_html": "Provare a cercare o <a href=\"/collections/all\">continua lo shopping →</a>"
+      "subtext": "Non è stato possibile trovare la pagina desiderata.",
+      "continue_shopping_html": "Prova a cercare o <a href=\"/collections/all\">continua a fare acquisti →</a>"
     },
     "password_page": {
       "opening_soon": "Prossima apertura",
@@ -30,34 +30,34 @@
     },
     "newsletter_form": {
       "title": "Notizie e aggiornamenti",
-      "description": "Accedi al sito web ",
-      "name": "Il tuo nome",
+      "description": "Accedere al sito web ",
+      "name": "Nome dell'organizzazione",
       "email": "Indirizzo e-mail",
-      "subscriber_first_name": "Nome e cognome",
+      "subscriber_first_name": "Nome",
       "subscriber_last_name": "Cognome",
-      "success_text": "Grazie per il vostro tempo!",
-      "placeholder": "Inserisci la tua email...",
+      "success_text": "Grazie!",
+      "placeholder": "Scrivi la tua e-mail...",
       "submit": "Iscriviti alla nostra newsletter"
     },
     "breadcrumbs": {
-      "home": "Pagina iniziale",
-      "page": "Pagina {{ current_page }} Da {{ pages }}"
+      "home": "Casa",
+      "page": "Pagina {{ current_page }} di {{ pages }}"
     },
     "search": {
       "title": "Ricerca",
       "description": "Ricerca nel negozio",
-      "no_results_html": "La tua ricerca per \"{{ terms }}\" purtroppo non ha trovato riscontro. Prova invece a cercare nei nostri menu",
+      "no_results_html": "La tua ricerca di \"{{ terms }}\" purtroppo non ha avuto alcun riscontro. Provi invece a cercare nei nostri menu",
       "advanced_search_html": "Ricerca avanzata →",
       "no_results": "Spiacente, nessun risultato",
-      "load_more": "Mostra di più",
+      "load_more": "Vedi di più",
       "all_results": "Mostra tutti",
       "results_count": {
-        "zero": "{{ count }} Risultati",
-        "one": "{{ count }} Risultati",
-        "other": "{{ count }} Risultati"
+        "zero": "{{ count }} risultato",
+        "one": "{{ count }} risultato",
+        "other": "{{ count }} risultato"
       },
       "placeholder": "Ricerca...",
-      "placeholder_with_shop_name": "Ricerca per {{ shop_name }}...",
+      "placeholder_with_shop_name": "Ricerca {{ shop_name }}...",
       "submit": "Ricerca"
     },
     "accessibility": {

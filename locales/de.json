@@ -42,17 +42,17 @@
   },
   "general": {
     "404": {
-      "title": "Konnte Seite nicht finden",
+      "title": "Seite konnte nicht gefunden werden",
       "subtext": "Die von Ihnen gesuchte Seite konnte nicht gefunden werden",
       "continue_shopping_html": "Versuchen Sie die Suche oder <a href=\"/collections/all\">weiter einkaufen →</a>"
     },
     "accessibility": {
       "total_reviews": "Anzahl der Bewertungen",
-      "star_reviews_info": "{{ rating_value }} von {{ rating_max }} Sternen"
+      "star_reviews_info": "{{ rating_value }} von {{ rating_max }} Sterne"
     },
     "password_page": {
       "opening_soon": "Baldige Eröffnung",
-      "spread_the_word": "Weitersagen",
+      "spread_the_word": "Verbreite das Wort",
       "or": "oder",
       "change_your_password_settings": "",
       "login_form_heading": "",
@@ -75,34 +75,34 @@
     },
     "newsletter_form": {
       "title": "Nachrichten und Aktualisierungen",
-      "description": "Auf der Website anmelden ",
-      "name": "Ihr Name",
-      "email": "Ihre E-Mail Adresse",
-      "subscriber_first_name": "Ihr Vorname",
+      "description": "Einloggen auf der Website ",
+      "name": "Name der Organisation",
+      "email": "E-Mail Adresse",
+      "subscriber_first_name": "Vornamen",
       "subscriber_last_name": "Nachname",
-      "success_text": "Vielen Dank für Ihre Zeit!",
-      "placeholder": "Bitte geben Sie Ihre E-Mail ein...",
+      "success_text": "Ich danke Ihnen!",
+      "placeholder": "Schreiben Sie Ihre E-Mail...",
       "submit": "Abonnieren Sie unseren Newsletter"
     },
     "breadcrumbs": {
-      "home": "Hauptseite",
-      "page": "Seite {{ current_page }} Von {{ pages }}"
+      "home": "Startseite",
+      "page": "Seite {{ current_page }} von {{ pages }}"
     },
     "search": {
       "title": "Suche",
       "description": "Suche im Shop",
       "no_results_html": "Ihre Suche nach \"{{ terms }}\" hat leider nichts ergeben. Versuchen Sie stattdessen unsere Menüs zu durchsuchen",
       "advanced_search_html": "Erweiterte Suche →",
-      "no_results": "Tut mir leid, keine Ergebnisse",
-      "load_more": "Mehr anzeigen",
+      "no_results": "Sorry, keine Ergebnisse",
+      "load_more": "Mehr sehen",
       "all_results": "Alle anzeigen",
       "results_count": {
-        "zero": "{{ count }} Ergebnisse",
-        "one": "{{ count }} Ergebnisse",
-        "other": "{{ count }} Ergebnisse"
+        "zero": "{{ count }} Ergebnis",
+        "one": "{{ count }} Ergebnis",
+        "other": "{{ count }} Ergebnis"
       },
       "placeholder": "Suche...",
-      "placeholder_with_shop_name": "Suche nach {{ shop_name }}...",
+      "placeholder_with_shop_name": "Suche {{ shop_name }}...",
       "submit": "Suche"
     },
     "currency": {

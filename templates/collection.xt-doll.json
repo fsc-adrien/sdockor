@@ -19,6 +19,8 @@
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -329,9 +331,11 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image_crop": "none",
+        "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -361,24 +365,270 @@
         "collection_sort": false,
         "products_per_row": 4,
         "pagination_limit": 44,
-        "toggle": false
+        "toggle": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0": {
       "type": "featured-text",
       "settings": {
         "title": "",
-        "content": "<h1><br/>XT Doll – Realistiska sexdockor för alla smaker</h1><p>XT Doll är en av världens mest kända tillverkare av realistiska sexdockor. Med fokus på hög kvalitet, prisvärda modeller och enastående design erbjuder XT dockor i både TPE och silikon. Här hittar du allt från nätta och smidiga kroppar till fylligare modeller med naturtrogna detaljer.</p><h3>Varför välja en XT Doll?</h3><ul><li><br/>Tillverkade i premium TPE eller silikon med realistisk hudkänsla.<br/></li><li><br/>Handgjorda detaljer och anpassade kroppstyper.<br/></li><li><br/>EVO-skelett och rörliga leder för flexibilitet.<br/></li><li><br/>Stort urval av ansikten, kroppar och hudtoner.<br/></li></ul><h3>Innovation och realism</h3><p>XT Doll utvecklar ständigt nya modeller med avancerad design, realistiska proportioner och autentiska ansiktsdrag. Med fokus på detaljrikedom – från ögonens glans till fingertopparnas struktur – skapas en känsla som ligger mycket nära verkligheten.</p><h3>Officiell distributör</h3><p>Som officiell återförsäljare erbjuder vi alltid senaste kollektionerna från XT Doll. Utforska vårt sortiment och hitta den docka som bäst passar dina önskemål – oavsett om du söker något diskret, prisvärt eller en avancerad premiummodell.</p>",
+        "content": "<h1><br/>XT Doll – Realistiska sexdockor för alla smaker</h1><p>XT Doll är en av världens mest kända tillverkare av realistiska sexdockor. Med fokus på hög kvalitet, prisvärda modeller och enastående design erbjuder XT dockor i både TPE och silikon. Här hittar du allt från nätta och smidiga kroppar till fylligare modeller med naturtrogna detaljer.</p><h3>Varför välja en XT Doll?</h3><p><br/>Tillverkade i premium TPE eller silikon med realistisk hudkänsla.</p><p><br/></p><p>Handgjorda detaljer och anpassade kroppstyper.<br/></p><p><br/>EVO-skelett och rörliga leder för flexibilitet.<br/></p><p><br/>Stort urval av ansikten, kroppar och hudtoner.<br/></p><h3>Innovation och realism</h3><p>XT Doll utvecklar ständigt nya modeller med avancerad design, realistiska proportioner och autentiska ansiktsdrag. Med fokus på detaljrikedom – från ögonens glans till fingertopparnas struktur – skapas en känsla som ligger mycket nära verkligheten.</p><h3>Officiell distributör</h3><p>Som officiell återförsäljare erbjuder vi alltid senaste kollektionerna från XT Doll. Utforska vårt sortiment och hitta den docka som bäst passar dina önskemål – oavsett om du söker något diskret, prisvärt eller en avancerad premiummodell.</p>",
         "button_label": "",
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
     },
-    "image_with_text_overlay_tm7d6E": {
+    "pxu_slideshow_Tm4FxV": {
+      "type": "pxu-slideshow",
+      "blocks": {
+        "slide_WgtgcF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Kala_Silicone_XT-bym20-B_52979ccb-c8e1-4f72-82e3-c482db9cc5af.jpg",
+            "heading": "Nahida",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>164 cm C-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "Visa mer",
+            "button_1_url": "https://docklandet.se/products/nahida-sexdocka-xt-doll-164cm-c-kupa-xt-bym20-b-silikon?_pos=1&_psq=nahi&_ss=e&_v=1.0",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_nqV6AV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner_150cm_4ft9_D-cup_Yina_Silicone_XT-bym15-B_a4ea4b1c-3d1a-402c-b942-ff180b177b75.jpg",
+            "heading": "Yina",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>150cm D-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "right",
+            "button_1_label": "Visa mer",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_fbqCEy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner_157cm_5ft1_D-cup_Asumi_Silicone_XT-bym16_0b09a41d-3314-4313-80b4-f19f40386515.jpg",
+            "heading": "Asumi",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>157 cm D-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "Visa Mer",
+            "button_1_url": "https://docklandet.se/products/asumi-sexdocka-xt-doll-157cm-d-kupa-xt-bym16-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_jGHwHi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Emma_Silicone_XT-byb38.jpg",
+            "heading": "Emma",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>164 cm C-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "right",
+            "button_1_label": "Visa mer",
+            "button_1_url": "https://docklandet.se/products/emma-sexdocka-xt-doll-164cm-c-kupa-xt-byb38-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_ex8TnX": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner_150cm_4ft9_D-cup_Lilly_Silicone_XT-20-C.jpg",
+            "heading": "Lily",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>150 cm D-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "Visa mer",
+            "button_1_url": "https://docklandet.se/products/lily-sexdocka-xt-doll-150cm-d-kupa-xt-20-c-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_fAbQLm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner_157cm_D-cup_Akira_Silicone.jpg",
+            "heading": "Akira",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>157 cm D-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "right",
+            "button_1_label": "Visa Mer",
+            "button_1_url": "https://docklandet.se/products/akira-sexdocka-xt-doll-157cm-d-kupa-xt-byx2-b-silikon-1?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_mLJYPe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner_157cm_5ft1_D-cup_Emi_Silicone_XT-B001-B.jpg",
+            "heading": "Emi",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>157 cm D-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "left",
+            "button_1_label": "Visa mera",
+            "button_1_url": "",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "",
+            "button_2_url": "",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        },
+        "slide_YUDqWD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Yunix_161_x_157.jpg",
+            "heading": "Yunix",
+            "heading_size": 40,
+            "heading_size_mobile": 32,
+            "text": "<p><strong>161 cm B-Kupa Silikon - 157 cm D-Kupa Silikon</strong></p>",
+            "text_size": 16,
+            "text_size_mobile": 16,
+            "content_alignment": "center",
+            "button_1_label": "Visa mer",
+            "button_1_url": "https://docklandet.se/products/yunxi-sexdocka-xt-doll-161cm-b-kupa-xt-bym15-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button_1_style": "fill",
+            "button_1_background_color": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_label": "Visa mer",
+            "button_2_url": "https://docklandet.se/products/yunxi-sexdocka-xt-doll-157cm-d-kupa-xt-bym15-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button_2_style": "fill",
+            "button_2_background_color": "#000000",
+            "button_2_text_color": "#ffffff",
+            "content_alignment_mobile": "center",
+            "text_color": "#ffffff",
+            "image_overlay_color": "#000000",
+            "image_overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "slide_WgtgcF",
+        "slide_nqV6AV",
+        "slide_fbqCEy",
+        "slide_jGHwHi",
+        "slide_ex8TnX",
+        "slide_fAbQLm",
+        "slide_mLJYPe",
+        "slide_YUDqWD"
+      ],
+      "name": "t:pxu_sections.sections.slideshow.name",
+      "settings": {
+        "content_width": "650px",
+        "autoplay": false,
+        "autoplay_duration": 3,
+        "slide_height": "small",
+        "enable_animations": true,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "image_with_text_overlay_Jjwgqb": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "wide_display": false,
@@ -395,9 +645,11 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image_crop": "none",
+        "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -408,145 +660,37 @@
         "image_wWpXQ3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/XT-1-A_Seanna.png"
+            "image": "shopify://shop_images/xt-doll_heads_docklandet-8-Single_Head_Option_Photos_1_65d8ab61-9e26-401e-81d1-9768203b0d69.jpg"
           }
         },
         "image_p4wrfJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/XT-1-B_Faye.png"
+            "image": "shopify://shop_images/xt-doll_heads_docklandet-9_08436436-ef48-40f1-b894-68084e3ff2f1.jpg"
           }
         },
         "image_H6LbbV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/XT-2_Nancy.png"
+            "image": "shopify://shop_images/xt-doll_heads_docklandet-10_d1e7da98-523e-4b67-b1fb-4cf07b8ee8b3.jpg"
           }
         },
         "image_qED8jJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/XT-2-B_Miriam.png"
+            "image": "shopify://shop_images/xt-doll_heads_docklandet-12_610761b9-c19d-4752-9af3-ad0c57f4e31f.jpg"
           }
         },
         "image_9y4XEJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/XT-3_Cynthia.png"
+            "image": "shopify://shop_images/xt-doll_heads_docklandet-13_41bb286c-e569-4de4-8a35-eea7c6188f8e.jpg"
           }
         },
         "image_L9rpa9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/XT-4_Elena.png"
-          }
-        },
-        "image_bEEWNR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-4-B_amelia.png"
-          }
-        },
-        "image_94RrKx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-7_Chiao.png"
-          }
-        },
-        "image_KYHAgK": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-7-B_Chase.png"
-          }
-        },
-        "image_rfErQt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-8_Aelene.png"
-          }
-        },
-        "image_EANdQQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-8-B_Angel.png"
-          }
-        },
-        "image_kFtf6q": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-9_Mercat.png"
-          }
-        },
-        "image_JCQNCz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-10_Sally.png"
-          }
-        },
-        "image_ptxfyN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-11_Jennifer.png"
-          }
-        },
-        "image_MMh3Ga": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-11-B_Isabella.png"
-          }
-        },
-        "image_ymw4KC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-12_Harley.png"
-          }
-        },
-        "image_MTjhMh": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-12-B_Vienve.png"
-          }
-        },
-        "image_cTj34J": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-13_Hailey.png"
-          }
-        },
-        "image_WjL4Ck": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-14_Eva.png"
-          }
-        },
-        "image_7TRhgD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-15_Hannah.png"
-          }
-        },
-        "image_xq4xR7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-15-B_Melanie.png"
-          }
-        },
-        "image_qVbJc4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-18_Irina.png"
-          }
-        },
-        "image_pGQ9nF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-19_Everleigh.png"
-          }
-        },
-        "image_Hb6xT7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/XT-19-B_Everleigh.png"
+            "image": "shopify://shop_images/xt-doll_heads_docklandet-14_c96dfda4-45a6-4157-b247-7bfaca2db7c3.jpg"
           }
         }
       },
@@ -556,26 +700,196 @@
         "image_H6LbbV",
         "image_qED8jJ",
         "image_9y4XEJ",
-        "image_L9rpa9",
-        "image_bEEWNR",
-        "image_94RrKx",
-        "image_KYHAgK",
-        "image_rfErQt",
-        "image_EANdQQ",
-        "image_kFtf6q",
-        "image_JCQNCz",
-        "image_ptxfyN",
-        "image_MMh3Ga",
-        "image_ymw4KC",
-        "image_MTjhMh",
-        "image_cTj34J",
-        "image_WjL4Ck",
-        "image_7TRhgD",
-        "image_xq4xR7",
-        "image_qVbJc4",
-        "image_pGQ9nF",
-        "image_Hb6xT7"
+        "image_L9rpa9"
       ],
+      "name": "Gallery",
+      "settings": {
+        "wide_display": false,
+        "title": "XT Doll Huvuden",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "gallery_aghEYM": {
+      "type": "gallery",
+      "blocks": {
+        "image_mdibeT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-1-A_Seanna.png"
+          }
+        },
+        "image_RV4bdf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-1-B_Faye.png"
+          }
+        },
+        "image_eVzFMH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-2_Nancy.png"
+          }
+        },
+        "image_MjdRG7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-2-B_Miriam.png"
+          }
+        },
+        "image_fB3jkB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-3_Cynthia.png"
+          }
+        },
+        "image_hKAw6L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-4_Elena.png"
+          }
+        },
+        "image_yzwa8N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-4-B_amelia.png"
+          }
+        },
+        "image_BDHXnP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-7_Chiao.png"
+          }
+        },
+        "image_R9zLPD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-7-B_Chase.png"
+          }
+        },
+        "image_Bb76Az": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-8_Aelene.png"
+          }
+        },
+        "image_AdmxMV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-8-B_Angel.png"
+          }
+        },
+        "image_c7RXNd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-9_Mercat.png"
+          }
+        },
+        "image_FkmwFB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-10_Sally.png"
+          }
+        },
+        "image_j4MGpp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-11_Jennifer.png"
+          }
+        },
+        "image_K7ELJW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-11-B_Isabella.png"
+          }
+        },
+        "image_8iJmjG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-12_Harley.png"
+          }
+        },
+        "image_JF8QDg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-12-B_Vienve.png"
+          }
+        },
+        "image_fbEKnV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-13_Hailey.png"
+          }
+        },
+        "image_F7ihtE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-14_Eva.png"
+          }
+        },
+        "image_AAWzeQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-15_Hannah.png"
+          }
+        },
+        "image_LcGhDa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-15-B_Melanie.png"
+          }
+        },
+        "image_fnemCz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-18_Irina.png"
+          }
+        },
+        "image_eYBreV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-19_Everleigh.png"
+          }
+        },
+        "image_Dkr4dC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/XT-19-B_Everleigh.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_mdibeT",
+        "image_RV4bdf",
+        "image_eVzFMH",
+        "image_MjdRG7",
+        "image_fB3jkB",
+        "image_hKAw6L",
+        "image_yzwa8N",
+        "image_BDHXnP",
+        "image_R9zLPD",
+        "image_Bb76Az",
+        "image_AdmxMV",
+        "image_c7RXNd",
+        "image_FkmwFB",
+        "image_j4MGpp",
+        "image_K7ELJW",
+        "image_8iJmjG",
+        "image_JF8QDg",
+        "image_fbEKnV",
+        "image_F7ihtE",
+        "image_AAWzeQ",
+        "image_LcGhDa",
+        "image_fnemCz",
+        "image_eYBreV",
+        "image_Dkr4dC"
+      ],
+      "disabled": true,
       "name": "Gallery",
       "settings": {
         "wide_display": false,
@@ -583,6 +897,8 @@
         "gallery_type": "classic",
         "grid-size": 4,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -761,6 +1077,7 @@
         "image_Pq3Hbk",
         "image_weFgAh"
       ],
+      "disabled": true,
       "name": "Gallery",
       "settings": {
         "wide_display": false,
@@ -768,6 +1085,8 @@
         "gallery_type": "classic",
         "grid-size": 4,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -834,6 +1153,7 @@
         "image_bf8XG4",
         "image_rbT9z6"
       ],
+      "disabled": true,
       "name": "Gallery",
       "settings": {
         "wide_display": false,
@@ -841,6 +1161,8 @@
         "gallery_type": "classic",
         "grid-size": 4,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -854,15 +1176,100 @@
         "custom_css": ""
       }
     },
+    "image_text_8ak3Ya": {
+      "type": "image-text",
+      "blocks": {
+        "image_tnKNNq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Rosaire_Silicone_XT-byb14_195d1a0b-3db9-4b0a-b975-40d0606bd23e.jpg",
+            "title": "Detaljer",
+            "text": "<p>Varenda liten detalj, från de minsta till de största, är noggrant målad för hand och mycket väl utförd.</p>",
+            "button_label": "",
+            "link": "",
+            "text_color": "",
+            "bg_color": "",
+            "bg_color_gradient": ""
+          }
+        },
+        "image_6BF8Hj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Included_-_Copy_1a1b89e8-d52d-496a-9ab6-f8a5e1ec3027.jpg",
+            "title": "Tillbehör",
+            "text": "<p>Rengöringspump, torkstickor, värmestav, kam, enkelt klädesplag, handskar, manual och autenticitet kort ingår i alla XT-Doll dockor</p>",
+            "button_label": "",
+            "link": "",
+            "text_color": "",
+            "bg_color": "",
+            "bg_color_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_tnKNNq",
+        "image_6BF8Hj"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_nbWdnH": {
+      "type": "featured-text",
+      "disabled": true,
+      "name": "Rich text and image",
+      "settings": {
+        "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Rosaire_Silicone_XT-byb14_53b2393c-1e10-46cd-af01-30b298463976.jpg",
+        "title": "",
+        "content": "<p>Varenda liten detalj, från de minsta till de största, är noggrant målad för hand och mycket väl utförd.</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_AXDaJk": {
+      "type": "featured-text",
+      "disabled": true,
+      "name": "Rich text and image",
+      "settings": {
+        "image": "shopify://shop_images/Included_-_Copy.jpg",
+        "title": "",
+        "content": "<p>Rengöringspump, torkstickor, värmestav, kam, enkelt klädesplag, handskar, manual och autenticitet kort ingår i alla XT-Doll dockor</p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "featured_collection_yCecHy": {
       "type": "featured-collection",
       "settings": {
         "title": "Populärt Silikon",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "populara-silikondockor",
         "collection_style": "grid",
         "products_per": 6,
         "products_limit": 6,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -872,10 +1279,13 @@
       "settings": {
         "title": "Nyligen tillagda dockor",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "sexdockor-nyheter",
         "collection_style": "grid",
         "products_per": 6,
         "products_limit": 6,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -885,10 +1295,13 @@
       "settings": {
         "title": "Nytt i lager",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "sexdockor-snabb-leverans-express-fri-frakt",
         "collection_style": "grid",
         "products_per": 6,
         "products_limit": 6,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -910,11 +1323,16 @@
     "image_with_text_overlay_6rBpEg",
     "main",
     "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
-    "image_with_text_overlay_tm7d6E",
+    "pxu_slideshow_Tm4FxV",
+    "image_with_text_overlay_Jjwgqb",
     "gallery_kGwJrg",
+    "gallery_aghEYM",
     "gallery_E4LYmD",
     "gallery_WC496q",
     "divider_CmY9Me",
+    "image_text_8ak3Ya",
+    "featured_text_nbWdnH",
+    "featured_text_AXDaJk",
     "featured_collection_yCecHy",
     "featured_collection_fxp6eb",
     "b47bc588-fb3e-49c6-a7cc-3da79648e005",

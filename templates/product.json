@@ -35,7 +35,9 @@
         },
         "form": {
           "type": "form",
-          "settings": {}
+          "settings": {
+            "show_gift_card_recipient_form": false
+          }
         },
         "34937dc4-379d-4e61-bc37-2cef0bca7702": {
           "type": "shopify://apps/klarna-on-site-messaging/blocks/app-block/b95936a9-74b6-4a95-8103-6a1b6459c25e",
@@ -90,7 +92,10 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true
+        "enable_thumbnail_slider": false,
+        "show_only_selected_variant_image": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "170558859796b79f10": {
@@ -135,10 +140,13 @@
       "settings": {
         "title": "Dockor i lager",
         "collection_description": true,
+        "collection_view_all": false,
         "collection": "sexdockor-snabb-leverans-express-fri-frakt",
         "collection_style": "slider",
         "products_per": 7,
         "products_limit": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -148,10 +156,13 @@
       "settings": {
         "title": "Prisvärda dockor",
         "collection_description": true,
+        "collection_view_all": false,
         "collection": "aibei-doll",
         "collection_style": "slider",
         "products_per": 7,
         "products_limit": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -161,10 +172,13 @@
       "settings": {
         "title": "Nyligen tillagda dockor",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "sexdockor-nyheter",
         "collection_style": "slider",
         "products_per": 7,
         "products_limit": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -195,6 +209,8 @@
         "rv_title": "Du besökte nyligen",
         "rv_max_display": 4,
         "rv_per": 4,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
