@@ -109,8 +109,8 @@
         "thumbnail_position": "bottom",
         "enable_thumbnail_slider": false,
         "show_only_selected_variant_image": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 30,
+        "padding_bottom": 30
       }
     },
     "167965365264d77f5a": {

@@ -58,16 +58,11 @@
       },
       "placeholder": "Szukaj...",
       "placeholder_with_shop_name": "Szukaj {{ shop_name }}...",
-      "submit": "Wyszukiwanie",
-      "close": "Close"
+      "submit": "Wyszukiwanie"
     },
     "accessibility": {
       "total_reviews": "liczba recenzji",
       "star_reviews_info": "{{ rating_value }} z {{ rating_max }} gwiazdy"
-    },
-    "predictive_search": {
-      "no_results_text": "No matching results found.",
-      "search_button_label": "Search for \"{{ search_terms }}\""
     }
   },
   "customer_accounts": {
@@ -4524,36 +4519,6 @@
       "sold_out": "Wyprzedane",
       "sale": "SALE",
       "in_stock": "Dostępne w magazynie"
-    }
-  },
-  "recipient": {
-    "form": {
-      "checkbox_label": "I want to send this as a gift",
-      "email_label": "Recipient email",
-      "email_placeholder": "Recipient email",
-      "error_message": "Email is not valid",
-      "name_label": "Recipient name (optional)",
-      "name_placeholder": "Recipient name",
-      "message_label": "Message (optional)",
-      "message_placeholder": "Message",
-      "max_characters": "{{ max_characters }} characters max",
-      "send_on_label": "Send on (optional)",
-      "send_on_placeholder": "YYYY-MM-DD"
-    }
-  },
-  "age_gate": {
-    "form": {
-      "confirm": "Confirm age and proceed to {{ shop }}",
-      "error": "Shop access is limited to adults age {{ age }} and older.",
-      "day": "Day",
-      "month": "Month",
-      "year": "Year"
-    }
-  },
-  "store_availability": {
-    "general": {
-      "in_stock": "In stock",
-      "out_of_stock": "Out of stock"
     }
   }
 }

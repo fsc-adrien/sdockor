@@ -103,27 +103,13 @@
       },
       "placeholder": "Suche...",
       "placeholder_with_shop_name": "Suche nach {{ shop_name }}...",
-      "submit": "Suche",
-      "close": "Schließen"
+      "submit": "Suche"
     },
     "currency": {
       "dropdown_label": ""
     },
     "language": {
       "dropdown_label": ""
-    },
-    "predictive_search": {
-      "no_results_text": "Keine Ergebnisse gefunden",
-      "search_button_label": "Suchen",
-      "query_suggestions_heading": "Suggestions",
-      "product_suggestions_heading": "Products",
-      "posts_suggestions_heading": "Posts",
-      "pages_suggestions_heading": "Pages",
-      "pages_and_posts_suggestions_heading": "Posts & Pages"
-    },
-    "back_to_top_button": {
-      "desktop_button_label": "Nach oben",
-      "mobile_button_label": "Nach oben"
     }
   },
   "blogs": {
@@ -4539,50 +4525,6 @@
         "too_many_requests": "Zu viele Anfragen. Bitte versuchen Sie es später noch einmal.",
         "generic": "Anfrage wurde nicht bearbeitet"
       }
-    }
-  },
-  "recipient": {
-    "form": {
-      "checkbox_label": "Als Geschenk senden",
-      "email_label": "E-Mail des Empfängers",
-      "email_placeholder": "E-Mail des Empfängers",
-      "error_message": "Validierungsfehler",
-      "name_label": "Name des Empfängers",
-      "name_placeholder": "Name des Empfängers",
-      "message_label": "Nachricht",
-      "message_placeholder": "Schreiben Sie hier Ihre Nachricht",
-      "max_characters": "Maximal 200 Zeichen",
-      "send_on_label": "Senden am (optional)",
-      "send_on_placeholder": "JJJJ-MM-TT"
-    }
-  },
-  "age_gate": {
-    "form": {
-      "confirm": "Bestätigen",
-      "error": "Sie müssen alt genug sein, um diese Website zu betreten",
-      "day": "Tag",
-      "month": "Monat",
-      "year": "Jahr",
-      "january": "Januar",
-      "february": "Februar",
-      "march": "März",
-      "april": "April",
-      "may": "Mai",
-      "june": "Juni",
-      "july": "Juli",
-      "august": "August",
-      "september": "September",
-      "october": "Oktober",
-      "november": "November",
-      "december": "Dezember"
-    }
-  },
-  "sections": {
-    "complementary_product_block": {
-      "from": "from",
-      "now": "now",
-      "view_details": "View product",
-      "price_per_unit_html": "{{ price }}/{{ unit }}"
     }
   }
 }

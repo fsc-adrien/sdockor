@@ -90,22 +90,9 @@
         "one": "{{ count }} Resultados",
         "other": "{{ count }} Resultados"
       },
-      "results_text": "{{ results }} encontrado para \"{{ search_terms }}\"",
-      "no_results_text": "{{ results }} para \"{{ search_terms }}\"",
       "placeholder": "Pesquisar...",
-      "placeholder_with_blog_name": "Pesquise {{ blog_title }}...",
       "placeholder_with_shop_name": "Procurar por {{ shop_name }}...",
-      "submit": "Pesquisa",
-      "close": "Fechar"
-    },
-    "predictive_search": {
-      "no_results_text": "Nenhum resultado correspondente encontrado.",
-      "query_suggestions_heading": "Sugestões",
-      "product_suggestions_heading": "Produtos",
-      "posts_suggestions_heading": "Postagens",
-      "pages_suggestions_heading": "Páginas",
-      "pages_and_posts_suggestions_heading": "Postagens e páginas",
-      "search_button_label": "Pesquise \"{{ search_terms }}\""
+      "submit": "Pesquisa"
     },
     "currency": {
       "dropdown_label": "Moeda"
@@ -220,8 +207,7 @@
         "one": "boneca esquerda",
         "other": "peças em stock"
       },
-      "view_in_your_space": "Ver em particular",
-      "percent_off": "% desligado"
+      "view_in_your_space": "Ver em particular"
     },
     "notify_form": {
       "email": "Introduza o seu endereço de correio eletrónico ",
@@ -230,8 +216,7 @@
       "message_content_first": "Por favor, avise-me quando ",
       "message_content_last": " já estiver disponível - ",
       "post_success": "Obrigado! Avisá-lo-emos quando o produto já estiver disponível!",
-      "post_error": "Por favor, dê-nos um endereço de e-mail válido.",
-      "notify_me_richtext": "Avise-me quando este produto estiver disponível:"
+      "post_error": "Por favor, dê-nos um endereço de e-mail válido."
     },
     "item": {
       "price": {
@@ -387,8 +372,7 @@
       "promotion_description": "Texto da promoção",
       "blogpost_title": "Título",
       "caption_button": "Botão",
-      "product_vendor": "Nome do vendedor",
-      "hotspot_identifier": "Produto {{ identifier }}"
+      "product_vendor": "Nome do vendedor"
     }
   },
   "gift_cards": {
@@ -4536,50 +4520,6 @@
         }
       },
       "processing": "Processamento ..."
-    }
-  },
-  "recipient": {
-    "form": {
-      "checkbox_label": "Enviar como presente",
-      "email_label": "E-mail do destinatário",
-      "email_placeholder": "E-mail do destinatário",
-      "error_message": "Erro na validação",
-      "name_label": "Nome do destinatário",
-      "name_placeholder": "Nome do destinatário",
-      "message_label": "Mensagem",
-      "message_placeholder": "Escreva sua mensagem aqui",
-      "max_characters": "Máximo 200 caracteres",
-      "send_on_label": "Enviar em (opcional)",
-      "send_on_placeholder": "AAAA-MM-DD"
-    }
-  },
-  "age_gate": {
-    "form": {
-      "confirm": "Confirmar",
-      "error": "Você deve ter idade suficiente para entrar neste site",
-      "day": "Dia",
-      "month": "Mês",
-      "year": "Ano",
-      "january": "Janeiro",
-      "february": "Fevereiro",
-      "march": "Março",
-      "april": "Abril",
-      "may": "Maio",
-      "june": "Junho",
-      "july": "Julho",
-      "august": "Agosto",
-      "september": "Setembro",
-      "october": "Outubro",
-      "november": "Novembro",
-      "december": "Dezembro"
-    }
-  },
-  "sections": {
-    "complementary_product_block": {
-      "from": "De",
-      "now": "Agora",
-      "view_details": "Ver detalhes",
-      "price_per_unit_html": "{{ price }}/{{ unit }}"
     }
   }
 }

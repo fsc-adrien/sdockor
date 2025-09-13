@@ -27,10 +27,80 @@
             "heading": "Leverans"
           }
         },
+        "content_ymiRWn": {
+          "type": "Content",
+          "settings": {
+            "title": "Till vilka länder kan vi leverera?",
+            "subtitle": "<p>Vi kan skicka till i princip alla länder i världen, så länge sexdockor är lagliga där. <br/>Vi kan sälja, och har också tidigare sålt, till många andra länder så som USA, Kanada, Norge, Schweiz.<br/><br/>Det finns dock länder som har andra regler kring sexdockor, och som går efter längden på dockan, även om dockor generellt är lagliga. <br/>I för exempel Norge och Storbritannien är minimum-längden på en docka 140cm, och detta är oavsett vad dockan har för utseende. Därför bör man välja en docka som är längre än 140cm om man vill undvika problem med tullhanteringen.</p>"
+          }
+        },
+        "block-2": {
+          "type": "Content",
+          "settings": {
+            "title": "Hur levereras sexdockorna? ",
+            "subtitle": "<p>Våra sexdockor levereras med DHL, PostNord, UPS eller Schenker, beroende på postort. Normal leveranstid för dockor i lager är 2-4 dagar; för dockor tillverkade i fabrik 3-5 veckor. När paketet anländer till din stad så kontaktas du i de flesta fall av fraktbolaget för att boka tid för utkörning. Ibland kan paketet levereras på din tomt även om du inte är hemma. Du har också möjlighet att själv hämta upp paketet på fraktbolagets terminal, kontakta dem innan utkörning så brukar det gå bra. Oftast skickar vi hela dockan i ett stort paket, men ibland skickar vi huvud och kropp i varsitt paket. </p><p>Dockan kommer naturligtvis i ett diskret paket, enkel brun kartong utan logotyper eller företagsnamn som kan avslöja innehållet.</p>"
+          }
+        },
+        "content_pM9wNJ": {
+          "type": "Content",
+          "settings": {
+            "title": "Mitt spårningsnummer säger \"Label Created\" men dockan verkar inte vara skickad?",
+            "subtitle": "<p>Spårningsnumret som du fått kommer att användas när paketet når Europa och UPS (i vissa fall DHL) tar över frakten. Mellan Kina och Europa är det tyvärr inte möjligt att spåra paketet då det fraktas i en container på tåg med många andra paket, så det får inga scanningar som f ex ett vanligt inrikespaket. </p><p>Under några veckors tid kan det se ut som att paketet ligger stilla i Polen eller Tyskland, men det är bara fraktsedeln som väntar på att paketet ska anlända så UPS kan ta över frakten! Detta är normalt fraktsätt för ordrar som tillverkas i fabrik och skickas från Kina. </p><p>Frakten från Kina till Europa tar ca 3-5 veckor! </p>"
+          }
+        },
+        "content_bCTcgP": {
+          "type": "Content",
+          "settings": {
+            "title": "Min order är försenad!",
+            "subtitle": "<p>Normal tid för frakt från fabrik till dig är 3-5 veckor. Tyvärr så kan förseningar inträffa, särskilt nu med oroligheter i Mellanöstern och östra Europa. Därför kan vissa leveranser dröja ytterligare 1-2 veckor ibland. </p><p>Men var inte orolig! Alla ordrar kommer fram till slut, och skulle en docka mot förmodan försvinna efter vägen så tillverkas naturligtvis en ersättningsdocka som skickas ut. </p>"
+          }
+        },
+        "content_xxU9nr": {
+          "type": "Content",
+          "settings": {
+            "title": "Kan ni skicka till mig på bestämd dag?",
+            "subtitle": "<p>Skickar vi en docka till dig från vårt lager i Borlänge kan den anlända inom 1-2 dagar; för övriga ordrar blir det svårare då det inte går att förutse vad som händer under fraktens gång. <br/>Men oftast går det bra att höra av sig till fraktbolaget när paketet är på gång för att komma överens om en mer specifik leveransdag som passar bättre! </p>"
+          }
+        },
         "heading_kgXzc8": {
           "type": "heading",
           "settings": {
             "heading": "Betalning"
+          }
+        },
+        "block-3": {
+          "type": "Content",
+          "settings": {
+            "title": "Hur betalar jag?",
+            "subtitle": "<p>Det går bra att betala med VISA, Mastercard och American Express via Stripe's betalväxel som Docklandet.se använder för kortbetalningar. </p><p>Det går även bra att betala med Klarna's betalningslösningar \"Betala senare\" eller \"Dela upp\". </p><p>Vi erbjuder även PayPal som betalningslösning för dig som föredrar det. Stripe, Klarna och PayPal har höga krav på säkerhet och sekretess, detta gäller både för deras egna tjänster och för deras samarbetspartners. Du kan alltid känna dig helt trygg med att dina pengar och uppgifter hanteras ansvarsfullt och säkert. </p><p>Du kan också betala direkt till oss med en banköverföring, kontakta oss för att få uppgifter. </p><p>Vid betalning via Klarna reserveras pengarna, och först när varan skickas dras betalningen från ditt konto.</p>"
+          }
+        },
+        "64d3ecf0-5024-49d5-a6f6-a73abca60b58": {
+          "type": "Content",
+          "settings": {
+            "title": "Kan jag delbetala eller betala senare?",
+            "subtitle": "<p>Det går bra att dela upp ditt köp med antingen Klarna eller med kreditkort (VISA/Mastercard). </p><p>Det går att dela upp betalning i upp till 36 månader med Klarna. Klarna börjar oftast ta betalt en månad efter att order är lagd. </p><p>Om du betalar med kreditkort så brukar det vara räntefritt första 3 månaderna, kontakta din kreditkortsleverantör eller bank för mer information.</p>"
+          }
+        },
+        "block-4": {
+          "type": "Content",
+          "settings": {
+            "title": "Jag är orolig för oväntade kostnader som frakt, skatt eller tullavgift, säkert att jag slipper det? Jag har läst om personer som handlat från andra butiker och kostnader som dykt upp i efterhand.",
+            "subtitle": "<p>100% säkert. Våra produkter skickas från Sverige och närliggande länder. Du riskerar aldrig oväntade kostnader som tullavgift och vi har alltid fri frakt. Det tillkommer aldrig extra kostnader utöver priset på varan. Det finns heller ingen risk att någon av våra dockor fastnar i tullen. Det ordinarie priset du ser på våra dockor är vad dockorna kan kosta från andra butiker inklusive frakt och tullavgift. Du betalar alltid vårat aktuella nedsatta pris och aldrig något mer än det. </p><p>De ordrar som skickas från Kina fraktas i container tillsammans med många andra paket och tullas in tillsammans. </p><p>Vi på Docklandet ansvarar för din vara under hela leveransen, skulle något oväntat ske med försändelsen så löser vi det. </p><p></p>"
+          }
+        },
+        "block-6": {
+          "type": "Content",
+          "settings": {
+            "title": "Om jag beställer en sexdocka, hur kan jag vara säker på att jag förblir anonym? ",
+            "subtitle": "<p>Varken Dalarna Exclusive AB eller Docklandet's namn eller logo syns på paketet. Finns heller ingenting annat som kan avslöja paketets innehåll. När köp genomförs så står det \"svensk handel\" eller \"SHANDEL\" på kontoutdraget. Alla transaktioner är krypterade och alla uppgifter skyddade. Vi på Dalarna Exclusive AB kommer aldrig lämna ut eller sälja vidare dina uppgifter. </p>"
+          }
+        },
+        "block-8": {
+          "type": "Content",
+          "settings": {
+            "title": "Problem med betalning (Klarna)",
+            "subtitle": "<p>Tyvärr är inte vårt system helt optimalt för alla. </p><p>Om du har problem i kassan med betalning så skriv gärna till oss på <strong>info@docklandet.se</strong> så svarar vi så snart som möjligt. </p><p><strong>Klarna</strong> fungerar ej för kunder som bor <strong>utanför Sverige</strong> tyvärr. Detta beror på en spärr som Klarna har i plattformen vi använder. Detta tycker vi är jättetråkigt. Ett sätt att använda Klarna från t.ex. Norge eller Finland är att göra en kortbetalning med ett Klarna-kort. Men det förutsätter att man har ett sådant kort såklart. </p><p>Ibland kan problem uppstå med Klarna om du har en annan adress angiven för leverans än den du har registrerad hos Klarna.</p><p>Ett alternativ till Klarna är att använda ett kreditkort och komma överens med kreditkortsföretag om delbetalning. Då får man oftast också bättre ränta. </p>"
           }
         },
         "block-5": {
@@ -39,10 +109,108 @@
             "heading": "Frågor om sexdockor"
           }
         },
+        "block-7": {
+          "type": "Content",
+          "settings": {
+            "title": "Är dockorna verkligen så snygga och verklighetstrogna som de ser ut på bilderna?",
+            "subtitle": "<p>Ja! Våra sexdockor är fantastiskt fina, både i ansikte och kropp. Värt att tänka på är att bilderna på dockorna är tagna med bra studioljus och ibland med viss styling så som hårspray, läppglans och kläder. Vi lovar att dockan du köpt och sett bilder på är den du får levererad hem till dig. Det går alltid att själv styla dockan så den ser ut exakt som på våra bilder. Många har egna idéer runt stil och styling. </p><p>För att få en bättre uppfattning av våra sexdockor så spana in våra <a href=\"/pages/realdoll-sexdoll-sexdocka-fabriksbilder\" title=\"<u></u><u></u><u></u>\"><strong>fabriksbilder</strong></a> och även gärna våra <a href=\"/pages/realdoll-sexdocka-sexdockor-videoklipp\" title=\"<u></u><u></u><u></u><u></u>\"><strong>videoklipp</strong></a>. Där syns det mycket bra hur dockorna ser ut! Utan studioljus, styling eller redigering. </p><p>Du kan också besöka oss i Borlänge! Vi har över 60 dockor uppställda hos oss. </p>"
+          }
+        },
+        "92ffb47b-5fa7-4547-a633-0bb97e13574c": {
+          "type": "Content",
+          "settings": {
+            "title": "Kan jag få se fler bilder på dockan? Vill gärna se \"fabriksbilder\" dvs. inte studiobilder.",
+            "subtitle": "<p>Det går bra! Skriv till oss så skickar vi över några fler bilder. Vi har i de flesta fall bilder på dockor från fabrik tillgängligt, och vi kan även om så önskas fota kropp + huvud direkt från förpackning (vi öppnar dock inga emballage). </p><p></p><p>Nyhet! Vi har nu en sektion med <a href=\"/pages/realdoll-sexdoll-sexdocka-fabriksbilder\" title=\"<u></u><u></u><u></u>\"><strong>fabriksbilder</strong></a>. </p>"
+          }
+        },
+        "df8c7689-d67c-4324-827f-1463cc8961f3": {
+          "type": "Content",
+          "settings": {
+            "title": "Kan dockorna stå av sig själva?",
+            "subtitle": "<p>Vissa modeller har \"stående fot\", sexdockan har då 3 metalltassar under vardera fot att balansera på. Dockan kan stå upp väldigt långa perioder utan att riskera att skadas av sin egen tyngd. Även de med vanlig fot kan stå upprätt en stund med något att stödja sig mot.</p>"
+          }
+        },
+        "4f378125-7fbd-4922-a9c2-0d0502034568": {
+          "type": "Content",
+          "settings": {
+            "title": "Går det att värma upp dockan på något vis?",
+            "subtitle": "<p>Dockorna värms snabbt upp av ens egen kroppsvärme. Det går även att för-värma dockan på olika vis. Smidigast är med hjälp av en värmestav och/eller elektronisk värmefilt. Var försiktig med att använda för hög värme då materialen är känsliga för höga temperaturer. </p><p>Det finns även inbyggd elektronisk värme som tillval till sexdockor. </p>"
+          }
+        },
+        "da214dba-684c-493b-a814-2ceb03186d74": {
+          "type": "Content",
+          "settings": {
+            "title": "Vilka märken på dockor har ni? Kan jag beställa dockor som inte finns i webbutiken?",
+            "subtitle": "<p>Vi säljer dockor av märkena WM-Doll, Irontech Doll, YL-Doll, JK-Doll, SE-Doll, FunWest Doll, Elsa Babe, Piperdoll, Irokebijin, Doll Forever, Starpery, Zelex, GameLady Doll, Gynoid Doll, Normon Doll, Tayu Doll, Climax Doll, Dolls Castle, Aibei Doll, EL-Doll, DX Value.</p><p>Vi har inte exakt alla dockor från våra samarbetspartners sortiment upplagda i vår butik, men så gott som alla. Några äldre modeller har vi skippat, men de går att beställa om så önskas!</p><p>Då vi är ett etablerat namn i dockvärlden så kan vi ordna i princip vilken docka som helst, även av andra fabrikat än de vi samarbetar med.  </p>"
+          }
+        },
+        "content_7RfGrK": {
+          "type": "Content",
+          "settings": {
+            "title": "Är sexdockor lagliga?",
+            "subtitle": "<p>Javisst, alla sexdockor som vi säljer i vår butik är lagliga i Sverige och i hela EU! <br/>Vi kan sälja, och har också tidigare sålt, till många andra länder så som USA, Kanada, Norge, Schweiz<br/><br/>Det finns dock länder som har andra regler kring sexdockor, och som går efter längden på dockan. <br/>I Norge och Storbritannien är minimum-längden på en docka 140cm, och detta är oavsett vad dockan har för utseende. <br/><br/>Det finns dessutom länder där sexdockor är helt olagliga eller som inte går att skicka till alls, däribland alla muslimska länder, länder i Sydostasien.<br/></p>"
+          }
+        },
+        "content_aAqVww": {
+          "type": "Content",
+          "settings": {
+            "title": "Hur förvarar jag bäst en docka?",
+            "subtitle": "<p>Ett av de allra bästa sätten att förvara en docka på är att ha den hängande i en krok som sätts i huvud-hålet på nacken, detta ger allra mest stöd och minst belastning då den hänger direkt i metall-skelettet. <br/>Det går också att ha den liggande, helst på mjukt underlag som en säng men det funkar också bra med kartongen som den levereras i. <br/>Har dockan stående fot med bultar går det också att ha den stående i f ex en garderob under perioder.<br/>Huvudsaken är att man varierar förvaringssätten något så att det inte blir för stor belastning under längre tid på någon kroppsdel! </p>"
+          }
+        },
+        "content_PpbN6J": {
+          "type": "Content",
+          "settings": {
+            "title": "Kan jag prova en sexdocka innan köp?",
+            "subtitle": "<p>Nej tyvärr, sexdockor räknas som sexleksaker och hygienprodukter, och det finns strikta regler kring hur dessa ska hanteras. Öppnar man och tar ur dockan ur lådan räknas den som använd, och eventuell ångerrätt blir ogiltig.</p>"
+          }
+        },
         "e64e6562-ae6d-4b51-9f7c-d395482d6ba4": {
           "type": "heading",
           "settings": {
             "heading": "Frågor om Docklandet"
+          }
+        },
+        "65cd4a09-66ce-4769-b9b2-44c992e1e156": {
+          "type": "Content",
+          "settings": {
+            "title": "Varför ska jag köpa en docka från Docklandet?",
+            "subtitle": "<p>Vi är Nordens ledande återförsäljare av sexdockor och har unika partnerskap med världens främsta tillverkare. Detta innebär att vi kan erbjuda de senaste dockorna på marknaden till väldigt konkurrenskraftiga priser. Vi har även erbjudanden unika för vår butik. För flera av våra märken ingår dyra uppgraderingar av dockor utan extra kostnad.</p><p>Hos Docklandet kan du alltid lita på att du får vad du betalar för. Vi har egna lager och showroom och kan erbjuda expressleverans på många av våra populäraste sexdockor. Du kan även modifiera din sexdocka utan extra kostnad men då behöver den tillverkas i fabrik. Docklandet tar då ansvar för hela processen från tillverkning till hemleverans.</p><p>Alla sexdockor i vår butik är av högsta kvalitet och noga utvalda av oss. Vi kan gå i god för att du kommer få det bästa marknaden har att erbjuda till ett riktigt bra pris. Detta gäller allt i vår butik, allt från våra dyraste silikondockor till våra lågpris-sexdockor.</p><p><strong>Prisvärda billiga sexdockor</strong> (inga missvisande bilder eller överpriser)<br/><strong>Exklusiva premium sexdockor</strong> (från marknadsledande tillverkare)<br/><strong>Sveriges bästa priser och största utbud</strong> (över 1000 dockor i sortimentet)<br/><strong>Möjlighet att besöka vårt showroom</strong> (jämför olika dockor innan köp)<br/><strong>Eget lager med dockor för expressleverans</strong> (fri frakt och 2-4 dagars leveranstid)</p>"
+          }
+        },
+        "3fdc3387-bf93-4add-9706-250aef008eca": {
+          "type": "Content",
+          "settings": {
+            "title": "Har ni alltid rea? ",
+            "subtitle": "<p>Kort och gott, ja! Alla dockor i sortimentet ligger en bit under det normala marknadspriser. Det kommer vi hålla i! Vi kör även tillfälliga korta kampanjer ibland på vissa dockor, oftast när vi har högt lagersaldo på dessa produkter, eller i vissa fall när vi vill sälja slut på en produkt. Vi kör även kampanjer vid Black Friday och andra liknande tillfällen och högtider.  </p>"
+          }
+        },
+        "e20859fe-6f4c-4e20-ae40-2c4272e028cf": {
+          "type": "Content",
+          "settings": {
+            "title": "Brukar ni köra med rabattkoder?",
+            "subtitle": "<p>Vi använder oss inte av rabattkoder generellt sett. De få gånger vi använder rabattkod så handlar det om oftast om en kompensation där kund själv valt rabatt på ett framtida köp istället för pengar tillbaka. </p><p>Det finns sidor på nätet som påstår sig ha rabatt-koder till Docklandet och andra butiker. Detta är fake! Dessa koder fungerar inte. </p>"
+          }
+        },
+        "3e2dcf9e-cf9c-4c27-8efe-d7a88f42c04b": {
+          "type": "Content",
+          "settings": {
+            "title": "Kan jag komma till er och titta på sexdockorna? ",
+            "subtitle": "<p>Det går bra! Vi har öppet vardagar 10:00 - 18:00. Ring eller maila gärna innan du dyker upp, men har du inte möjlighet så går det såklart bra att knacka på ändå. </p><p>Vi håller till i Borlänge och har väldigt många dockor hemma i lager för upphämtning. Om du vill titta på en docka vi inte har hemma, så kan vi i de flesta fall beställa hem den till oss med några dagars leveranstid. </p><p>Vi nås på <strong>010 - 641 06 66</strong> eller <strong>info@docklandet.se</strong></p>"
+          }
+        },
+        "34fc6f34-6607-4316-934a-8077df4a769e": {
+          "type": "Content",
+          "settings": {
+            "title": "Säljer ni skadade exemplar eller begagnade sexdockor?",
+            "subtitle": "<p>Vi har några dockor som skadats under leverans eller varit defekta som vi säljer till lägre pris. Det händer även att vi får returer som är helt i ny-skick som vi rear ut. Behöver du en eller flera dockor till för exempel ett event eller en fotografering så kan du få köpa dem för ett rimligt pris. </p>"
+          }
+        },
+        "content_TpqYdq": {
+          "type": "Content",
+          "settings": {
+            "title": "Kan jag hämta upp köpet på plats hos er?",
+            "subtitle": "<p>Självklart, det går bra att hämta upp ordern hos oss istället för att få det levererat! Notera detta i ett meddelande när du lägger ordern, eller ringa/mail oss innan så beställer vi paketet till oss istället. </p>"
           }
         },
         "5f103813-a858-47b8-bc57-4f47d0e617b6": {
@@ -51,10 +219,66 @@
             "heading": "Efter leverans - Problem, returer och garanti"
           }
         },
+        "188c50c6-b7e4-4bb4-96cd-c105548b2872": {
+          "type": "Content",
+          "settings": {
+            "title": "Hur gör jag om jag fått fel docka, om någon detalj inte stämmer eller om dockan är trasig?",
+            "subtitle": "<p>Det är väldigt ovanligt att fel docka skickas ut. Undersök dockan försiktigt innan användning. Om något inte stämmer så fotograferar du det och hör av dig till oss. Skulle det handla om att paketet är skadat under leverans så kontaktar du först fraktagenten som levererade paketet. Det är ovanligt med fel, men skulle detta ske så har du rätt till retur eller kompensation. Läs mer om vår fraktpolicy och återbetalningspolicy i kassan. </p>"
+          }
+        },
+        "bfa21611-8fb8-4707-b98e-7b8addd08c7e": {
+          "type": "Content",
+          "settings": {
+            "title": "Det verkar som att min dockas mun är försluten? ",
+            "subtitle": "<p>Vissa av våra dockor har mun och ibland även vagina försluten från fabrik. Denna \"hinna\" som sitter en bit in går lätt att trycka hål på med ett finger eller liknande. Det blir inga märken efter detta.</p>"
+          }
+        },
+        "2159780c-753b-48c2-b496-8890cde77249": {
+          "type": "Content",
+          "settings": {
+            "title": "Min docka \"nickar\" hela tiden, huvudet sitter inte fast bra alls?",
+            "subtitle": "<p>Med vissa dockor medföljer en extra skruv för halsen. En så kallad \"click-connector\". Denna är till för att snabbt kunna få på och av huvudet på dockan och används oftast för uppvisning av dockor och olika huvuden, den är inte tänkt att användas vid fysisk aktivitet. Huvudet sitter inte fast särskilt bra med denna skruv. Den skruv som används som standard till sexdockor är gängad hela vägen och medföljer alltid med dockorna. </p>"
+          }
+        },
+        "3e771100-bced-4672-937d-0e39f3c574a3": {
+          "type": "Content",
+          "settings": {
+            "title": "Har jag någon garanti?",
+            "subtitle": "<p>Om din sexdocka gått sönder eller är obrukbar på grund av ett dolt <span style=\"text-decoration:underline\">fabriksfel</span> (som du kan bevisa) så har du rätt till kompensation eller att få ett nytt exemplar skickat till dig. </p><p>Under leverans så ansvarar Docklandet för försändelsen och om något problem skulle uppstå så tar vi hand om det. T.ex. om ditt paket skulle försvinna så kommer vi att skicka att nytt. Det är dock ovanligt att problem uppstår under leverans. <br/></p>"
+          }
+        },
+        "d3e6162c-85cc-4a96-b478-8cf269a81705": {
+          "type": "Content",
+          "settings": {
+            "title": "Har jag ångerrätt och hur är det med returer?",
+            "subtitle": "<p>Självklart har du rätt att ångra ditt köp och returnera varan, Läs mer om köpvillkor och returer <a href=\"/policies/refund-policy\" title=\"Refund Policy\"><strong>här</strong></a>. </p><p>14 dagars ångerrätt gäller från den dag varan mottagits. Detta gäller varor som skickats från lager; för varor från fabrik läs köpvillkoren. </p>"
+          }
+        },
         "4e5b186e-b781-4169-a90b-fa30b88622b3": {
           "type": "heading",
           "settings": {
             "heading": "Tillbehör, uppgraderingar och specialbeställningar"
+          }
+        },
+        "015d3fa6-f0ad-45e6-b7f0-b88ca575b885": {
+          "type": "Content",
+          "settings": {
+            "title": "Om jag vill beställa en modifierad sexdocka efter mina önskemål, vad finns att erbjuda?",
+            "subtitle": "<p>Du kan modifiera eller kombinera i princip vilken docka/kropp/huvud du vill i vårt sortiment. Du kan såklart också fråga oss om vi kan få fram andra ansikten eller kroppar. Special-modifierade dockor innebär oftast att vi lär beställa direkt från fabrik, produktionstiden för dessa ligger på mellan 1-4 veckor beroende på om dockan är gjord i TPE eller silikon. Leveranstiden landar då på mellan 3 och 5 veckor ungefär. </p><p>De flesta av våra dockor har valmöjligheter för ändringar och uppgraderingar längst ner under produktinfon!</p>"
+          }
+        },
+        "951a539e-8bb9-41c9-a6bd-23771ef9a0be": {
+          "type": "Content",
+          "settings": {
+            "title": "Finns det några uppgraderingar eller tillval?",
+            "subtitle": "<p>Vi kan göra en specialbeställning från fabrik och kan då uppgradera dockan med följande; <br/><br/>-Extra mjuka bröst med gel-fyllning eller luft. <br/>-Elektronisk uppvärmning (med usb)<br/>-Rörelsesensorer med ljud<br/>-Extra rörliga axlar<br/>-Överrörligt metall-skelett (extra \"vig\")<br/>-Löstagbar eller fast penis<br/>-Löstagbar vagina<br/>-Stående fot<br/>-Tunga</p><p>Med mera! Gäller olika för olika märken. </p>"
+          }
+        },
+        "a1fd84aa-0d6a-4da9-b510-d319448f9d98": {
+          "type": "Content",
+          "settings": {
+            "title": "Går det att beställa en docka skapad efter någon annans utseende? ",
+            "subtitle": "<p>Det går att ordna. Vi kan skapa en modell i 3D och sedan gjuta ett ansikte efter det. Kostnad varierar beroende på tillverkare, men sällan under 20 000 kronor. Det som behövs inför detta är foton på huvud från så många vinklar som möjligt, med uppsatt hår. Om du vill ha ett huvud inspirerat av en känd persons utseende som du inte själv kan fota, så får du själv leta på så många bra bilder som möjligt och skicka över till oss. Vi ger dig ett exempel på hur huvudet skulle se ut (digitalt i 3D), om du är nöjd så får du göra ett köp så startar vi tillverkningen och levererar till dig. Du berättar också vilken tillverkare av docka du vill ha så återkommer vi till dig med ett prisförslag. Tillverkningen sker genom en av våra samarbetspartners som är mycket skickliga och erfarna. </p>"
           }
         },
         "22ce62d1-043b-4852-96ef-735b1f448654": {
@@ -62,22 +286,63 @@
           "settings": {
             "heading": "Övrigt"
           }
+        },
+        "1a845056-ea41-4719-b62d-53d9fed4365a": {
+          "type": "Content",
+          "settings": {
+            "title": "Jag har väntat på svar på mitt mail väldigt länge nu...",
+            "subtitle": "<p>Tveka inte att skriva igen! Det händer att vi missar ett mail ibland, eller att vi väntar på svar från en leverantör som drar ut på tiden. Du behöver aldrig känna dig tjatig utan bättre att höra av sig för mycket än för lite. Vi nås även i direktchatten på våran Instagram. </p>"
+          }
         }
       },
       "block_order": [
         "block-1",
+        "content_ymiRWn",
+        "block-2",
+        "content_pM9wNJ",
+        "content_bCTcgP",
+        "content_xxU9nr",
         "heading_kgXzc8",
+        "block-3",
+        "64d3ecf0-5024-49d5-a6f6-a73abca60b58",
+        "block-4",
+        "block-6",
+        "block-8",
         "block-5",
+        "block-7",
+        "92ffb47b-5fa7-4547-a633-0bb97e13574c",
+        "df8c7689-d67c-4324-827f-1463cc8961f3",
+        "4f378125-7fbd-4922-a9c2-0d0502034568",
+        "da214dba-684c-493b-a814-2ceb03186d74",
+        "content_7RfGrK",
+        "content_aAqVww",
+        "content_PpbN6J",
         "e64e6562-ae6d-4b51-9f7c-d395482d6ba4",
+        "65cd4a09-66ce-4769-b9b2-44c992e1e156",
+        "3fdc3387-bf93-4add-9706-250aef008eca",
+        "e20859fe-6f4c-4e20-ae40-2c4272e028cf",
+        "3e2dcf9e-cf9c-4c27-8efe-d7a88f42c04b",
+        "34fc6f34-6607-4316-934a-8077df4a769e",
+        "content_TpqYdq",
         "5f103813-a858-47b8-bc57-4f47d0e617b6",
+        "188c50c6-b7e4-4bb4-96cd-c105548b2872",
+        "bfa21611-8fb8-4707-b98e-7b8addd08c7e",
+        "2159780c-753b-48c2-b496-8890cde77249",
+        "3e771100-bced-4672-937d-0e39f3c574a3",
+        "d3e6162c-85cc-4a96-b478-8cf269a81705",
         "4e5b186e-b781-4169-a90b-fa30b88622b3",
-        "22ce62d1-043b-4852-96ef-735b1f448654"
+        "015d3fa6-f0ad-45e6-b7f0-b88ca575b885",
+        "951a539e-8bb9-41c9-a6bd-23771ef9a0be",
+        "a1fd84aa-0d6a-4da9-b510-d319448f9d98",
+        "22ce62d1-043b-4852-96ef-735b1f448654",
+        "1a845056-ea41-4719-b62d-53d9fed4365a"
       ],
       "settings": {
         "wide_display": false,
         "show_banner": true,
         "image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor_Real_Doll_Sverige.jpg",
         "mobile_image": "shopify://shop_images/Docklandet_Express_Leverans_Sexdockor__Mobile.jpg",
+        "mobile_image_crop": "none",
         "caption_content_background": "original",
         "pretext": "",
         "title": "",

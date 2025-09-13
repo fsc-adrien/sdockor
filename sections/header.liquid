@@ -176,7 +176,7 @@
   </div>
 
   {% if section.settings.search_enabled %}
-    <div class="dropdown_container" data-dropdown="search">
+    <div class="dropdown_container is-hidden-mobile-only" data-dropdown="search">
       <div class="dropdown" data-autocomplete-{{ settings.enable_autocomplete }}>
         <form action="{{ routes.search_url }}" class="header_search_form">
           <input type="hidden" name="type" value="{{ settings.search_option }}" />

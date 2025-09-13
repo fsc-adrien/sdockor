@@ -92,7 +92,9 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true
+        "enable_thumbnail_slider": false,
+        "padding_top": 30,
+        "padding_bottom": 30
       }
     },
     "16508241729f32ff4d": {

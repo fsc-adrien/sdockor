@@ -103,18 +103,13 @@
       },
       "placeholder": "Buscar...",
       "placeholder_with_shop_name": "Buscar {{ shop_name }}...",
-      "submit": "Buscar en",
-      "close": "Cerrar"
+      "submit": "Buscar en"
     },
     "currency": {
       "dropdown_label": "Moneda"
     },
     "language": {
       "dropdown_label": "Idioma"
-    },
-    "predictive_search": {
-      "no_results_text": "No se encontraron resultados",
-      "search_button_label": "Buscar"
     }
   },
   "blogs": {
@@ -4511,30 +4506,6 @@
       "buyer_consent_product": "Este artículo es una compra periódica o una compra con pago aplazado. Al continuar, acepto %{cancellationPolicyLink}. También les autorizo a realizar cargos en mi método de pago en las fechas, con las tarifas y con la frecuencia indicadas en esta página, hasta que se envíe mi pedido o hasta que lo cancele, si está permitido.",
       "buyer_consent_cart": "Uno o más artículos de su cesta de la compra es una compra periódica o una compra de pago aplazado. Al continuar, acepto %{cancellationPolicyLink}. También les autorizo a realizar cargos en mi método de pago en las fechas, con las tarifas y con la frecuencia indicadas en esta página, hasta que se envíe mi pedido o hasta que lo cancele, si está permitido.",
       "cancellation_policy": "política de cancelación"
-    }
-  },
-  "recipient": {
-    "form": {
-      "checkbox_label": "Enviar como regalo",
-      "email_label": "Email del destinatario",
-      "email_placeholder": "Email del destinatario",
-      "error_message": "Error de validación",
-      "name_label": "Nombre del destinatario",
-      "name_placeholder": "Nombre del destinatario",
-      "message_label": "Mensaje",
-      "message_placeholder": "Escriba su mensaje aquí",
-      "max_characters": "Máximo 200 caracteres",
-      "send_on_label": "Enviar el (opcional)",
-      "send_on_placeholder": "AAAA-MM-DD"
-    }
-  },
-  "age_gate": {
-    "form": {
-      "confirm": "Confirmar",
-      "error": "Debe tener la edad suficiente para entrar a este sitio",
-      "day": "Día",
-      "month": "Mes",
-      "year": "Año"
     }
   }
 }

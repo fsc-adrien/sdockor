@@ -29,7 +29,7 @@
         "mobile_image_crop": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""

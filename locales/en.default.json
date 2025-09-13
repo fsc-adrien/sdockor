@@ -8,6 +8,11 @@
  * ------------------------------------------------------------
  */
 {
+  "navigation": {
+    "header": {
+      "main_nav": "Navigation"
+    }
+  },
   "store_availability": {
     "general": {
       "in_stock": "",
@@ -3303,49 +3308,7 @@
       "reset_password_html": "This email address is already linked to an account. If this account is yours, you can <a href=\"/account/login#recover\">reset your password</a>",
       "verify_email": "We have sent an email to %{customer_email}. Please click on the link provided in the email to verify your email address.",
       "blocked_address": "The site is not supported",
-      "product_not_available": "The product is not published for this customer.",
-      "shop_404": {
-        "title": "Create an ecommerce website and sell online! Ecommerce software by Shopify",
-        "heros": {
-          "store_unavailable": "Sorry, this store is not available at this time.",
-          "store_not_exist": "The store does not exist.",
-          "no_storefront": "This store does not have a website yet."
-        },
-        "links": {
-          "explore_other_stores": "Explore other stores",
-          "start_free_trial": "Start your free trial"
-        },
-        "owner_ctas": {
-          "header": "Are you the store owner?",
-          "fix_domain": "Go to the %{domain_settings_link} to complete the configuration of the new URL. Click on \"Connect domain\" and enter: %{domain}.<br>Visit the page %{forgot_your_store_link} if you have problems accessing your store.",
-          "fix_domain_link_text": "your domain settings",
-          "forgot_your_store_link_text": "Have you forgotten your store?",
-          "add_storefront": "You can configure your website by adding the webshop channel to %{admin_link}. Visit the page %{forgot_your_store_link} if you have problems accessing the shop.",
-          "admin_link_text": "admin"
-        },
-        "ctas": {
-          "sell_in_person": {
-            "header": "Sell in person",
-            "caption": "Get the features you need to run your retail store, whether you're starting out or expanding.",
-            "link_text": "Start your free trial"
-          },
-          "open_a_store": {
-            "header": "Open a new Shopify store",
-            "caption": "Start a three-day free trial, then continue for $1/month for another three months.",
-            "link_text": "Sign up now"
-          },
-          "editions": {
-            "header": "Check out Shopify Editions",
-            "caption": "With over 100 product updates, you can be more productive, creative, and powerful in commerce than you ever imagined.",
-            "link_text": "Explore Editions"
-          },
-          "store_owner": {
-            "header": "Are you the store owner?",
-            "caption": "Are you having trouble accessing the store? Try the feature %{forgot_your_store_link}. Contact the store %{shopify_support_link} if you want to reactivate the store.",
-            "shopify_support_link_text": "Shopify support"
-          }
-        }
-      }
+      "product_not_available": "The product is not published for this customer."
     },
     "notices": {
       "customer": {

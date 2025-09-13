@@ -21,7 +21,9 @@
         "text_size": "featured_text",
         "text_alignment": "center",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "",
+        "padding_top": 30,
+        "padding_bottom": 0
       }
     },
     "image_with_text_overlay_TUKDLM": {
@@ -120,7 +122,7 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true,
+        "enable_thumbnail_slider": false,
         "css_class": "",
         "custom_css": ""
       }

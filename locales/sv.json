@@ -8,6 +8,13 @@
  * ------------------------------------------------------------
  */
 {
+  "sv":{
+    "navigation": {
+      "header": {
+        "main_nav": "Navigation"
+      }
+    }
+  },
   "date_formats": {
     "month_day_year": "%Y %B, %d"
   },
@@ -62,10 +69,6 @@
     "search": {
       "title": "Sök",
       "description": "Sök i butiken",
-      "results_text": "Resultat",
-      "no_results_text": "Inga resultat hittades",
-      "placeholder_with_blog_name": "Sök i bloggen...",
-      "close": "Stäng",
       "no_results_html": "Din sökning efter \"{{ terms }}\" matchade tyvärr inget. Prova att leta i våra menyer istället",
       "advanced_search_html": "Avancerad sökning &#8594;",
       "no_results": "Tyvärr, inga resultat",
@@ -429,11 +432,6 @@
       "close_window": "Stäng",
       "designer_credits_html": "<a href=\"http://www.docklandet.se\"> <b><font color=\"#DD4982\"> Docklandet.se™ </font></b></a>"
     },
-    "navigation": {
-      "header": {
-        "main_nav": "Navigation"
-      }
-    },
     "social_sharing": {
       "title": "Dela",
       "twitter_share": "Kolla in {{ title }} från {{ name }}: {{ current_url }}",
@@ -584,50 +582,6 @@
       "sold_out": "Slutsåld",
       "sale": "REA",
       "in_stock": "Finns i lager"
-    }
-  },
-  "recipient": {
-    "form": {
-      "checkbox_label": "Skicka som present",
-      "email_label": "Mottagarens e-post",
-      "email_placeholder": "Mottagarens e-post",
-      "error_message": "Fel vid giltighet",
-      "name_label": "Mottagarens namn",
-      "name_placeholder": "Mottagarens namn",
-      "message_label": "Meddelande",
-      "message_placeholder": "Skriv ditt meddelande här",
-      "max_characters": "Max 200 tecken",
-      "send_on_label": "Skicka på (valfritt)",
-      "send_on_placeholder": "ÅÅÅÅ-MM-DD"
-    }
-  },
-  "age_gate": {
-    "form": {
-      "confirm": "Bekräfta",
-      "error": "Du måste vara tillräckligt gammal för att komma in på denna webbplats",
-      "day": "Dag",
-      "month": "Månad",
-      "year": "År",
-      "january": "Januari",
-      "february": "Februari",
-      "march": "Mars",
-      "april": "April",
-      "may": "Maj",
-      "june": "Juni",
-      "july": "Juli",
-      "august": "Augusti",
-      "september": "September",
-      "october": "Oktober",
-      "november": "November",
-      "december": "December"
-    }
-  },
-  "sections": {
-    "complementary_product_block": {
-      "from": "Från",
-      "now": "Nu",
-      "view_details": "Visa detaljer",
-      "price_per_unit_html": "{{ price }}/{{ unit }}"
     }
   }
 }

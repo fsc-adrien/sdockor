@@ -103,18 +103,13 @@
       },
       "placeholder": "Rechercher...",
       "placeholder_with_shop_name": "Rechercher {{ shop_name }}...",
-      "submit": "Recherche",
-      "close": "Fermer"
+      "submit": "Recherche"
     },
     "currency": {
       "dropdown_label": "Devise"
     },
     "language": {
       "dropdown_label": "Langue"
-    },
-    "predictive_search": {
-      "no_results_text": "Aucun résultat trouvé",
-      "search_button_label": "Rechercher"
     }
   },
   "blogs": {
@@ -4518,30 +4513,6 @@
       "buyer_consent_product": "Cet article est un achat récurrent ou un achat avec paiement différé. En continuant, j'accepte de %{cancellationPolicyLink}. Je vous autorise également à débiter mon moyen de paiement aux dates, aux taux et à la fréquence indiqués sur cette page, jusqu'à ce que ma commande soit expédiée ou jusqu'à ce que je l'annule, si cela est permis.",
       "buyer_consent_cart": "Un ou plusieurs articles de votre panier sont des achats récurrents ou des achats à paiement différé. En continuant, j'accepte de %{cancellationPolicyLink}. Je vous autorise également à débiter mon moyen de paiement aux dates, aux taux et à la fréquence indiqués sur cette page, jusqu'à ce que ma commande soit expédiée ou jusqu'à ce que je l'annule, si cela est permis.",
       "cancellation_policy": "la politique d'annulation"
-    }
-  },
-  "recipient": {
-    "form": {
-      "checkbox_label": "Envoyer comme cadeau",
-      "email_label": "E-mail du destinataire",
-      "email_placeholder": "E-mail du destinataire",
-      "error_message": "Erreur de validation",
-      "name_label": "Nom du destinataire",
-      "name_placeholder": "Nom du destinataire",
-      "message_label": "Message",
-      "message_placeholder": "Écrivez votre message ici",
-      "max_characters": "200 caractères maximum",
-      "send_on_label": "Envoyer le (optionnel)",
-      "send_on_placeholder": "AAAA-MM-JJ"
-    }
-  },
-  "age_gate": {
-    "form": {
-      "confirm": "Confirmer",
-      "error": "Vous devez être assez âgé pour entrer sur ce site",
-      "day": "Jour",
-      "month": "Mois",
-      "year": "Année"
     }
   }
 }

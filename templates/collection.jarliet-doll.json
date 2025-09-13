@@ -20,7 +20,9 @@
         "text_size": "featured_text",
         "text_alignment": "center",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "",
+        "padding_top": 30,
+        "padding_bottom": 0
       }
     },
     "f9969e49-dbff-4c21-8a98-e67e14a5bcee": {

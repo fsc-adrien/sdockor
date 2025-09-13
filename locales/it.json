@@ -58,16 +58,11 @@
       },
       "placeholder": "Ricerca...",
       "placeholder_with_shop_name": "Ricerca per {{ shop_name }}...",
-      "submit": "Ricerca",
-      "close": "Chiudi"
+      "submit": "Ricerca"
     },
     "accessibility": {
       "total_reviews": "numero di recensioni",
       "star_reviews_info": "{{ rating_value }} di {{ rating_max }} stelle"
-    },
-    "predictive_search": {
-      "no_results_text": "Nessun risultato trovato",
-      "search_button_label": "Cerca"
     }
   },
   "date_formats": {
@@ -4517,36 +4512,6 @@
         }
       },
       "processing": "Elaborazione ..."
-    }
-  },
-  "recipient": {
-    "form": {
-      "checkbox_label": "Invia come regalo",
-      "email_label": "Email del destinatario",
-      "email_placeholder": "Email del destinatario",
-      "error_message": "Errore di validazione",
-      "name_label": "Nome del destinatario",
-      "name_placeholder": "Nome del destinatario",
-      "message_label": "Messaggio",
-      "message_placeholder": "Scrivi il tuo messaggio qui",
-      "max_characters": "Massimo 200 caratteri",
-      "send_on_label": "Invia il (opzionale)",
-      "send_on_placeholder": "AAAA-MM-GG"
-    }
-  },
-  "age_gate": {
-    "form": {
-      "confirm": "Conferma",
-      "error": "Devi avere l'età sufficiente per entrare in questo sito",
-      "day": "Giorno",
-      "month": "Mese",
-      "year": "Anno"
-    }
-  },
-  "store_availability": {
-    "general": {
-      "in_stock": "Disponibile",
-      "out_of_stock": "Esaurito"
     }
   }
 }

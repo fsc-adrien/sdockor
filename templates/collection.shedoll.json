@@ -30,7 +30,9 @@
         "mobile_text_below_image": true,
         "mobile_text_color": "",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "",
+        "padding_top": 30,
+        "padding_bottom": 0
       }
     },
     "featured_text_cFVByi": {
@@ -280,7 +282,7 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true,
+        "enable_thumbnail_slider": false,
         "css_class": "",
         "custom_css": ""
       }
@@ -327,7 +329,7 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true,
+        "enable_thumbnail_slider": false,
         "css_class": "",
         "custom_css": ""
       }
@@ -374,7 +376,7 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true,
+        "enable_thumbnail_slider": false,
         "css_class": "",
         "custom_css": ""
       }
@@ -422,7 +424,7 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true,
+        "enable_thumbnail_slider": false,
         "css_class": "",
         "custom_css": ""
       }
@@ -470,7 +472,7 @@
         "slideshow_speed": 0,
         "slideshow_animation": "slide",
         "thumbnail_position": "bottom",
-        "enable_thumbnail_slider": true,
+        "enable_thumbnail_slider": false,
         "css_class": "",
         "custom_css": ""
       }
