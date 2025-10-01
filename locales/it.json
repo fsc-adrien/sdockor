@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "numero di recensioni",
       "star_reviews_info": "{{ rating_value }} di {{ rating_max }} stelle"
+    },
+    "predictive_search": {
+      "search_button_label": "Ricerca",
+      "query_suggestions_heading": "Proposte di ricerca",
+      "product_suggestions_heading": "Prodotti",
+      "posts_suggestions_heading": "Post di blog",
+      "pages_suggestions_heading": "Lati",
+      "pages_and_posts_suggestions_heading": "Pagine e post",
+      "no_results_text": "Non sono stati trovati risultati"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "In cima",
+      "mobile_button_label": "In cima"
     }
   },
   "date_formats": {
@@ -192,6 +205,9 @@
       "message": "Messaggio",
       "send": "Inviami la tua e-mail",
       "post_success": "Grazie per averci contattato! Vi risponderemo al più presto!"
+    },
+    "fields": {
+      "email": "E-mail"
     }
   },
   "customer": {
@@ -1042,7 +1058,9 @@
         "optional_zip_code_label": "Codice postale (opzionale)",
         "optional_postal_code_label": "Codice postale (opzionale)",
         "optional_postcode_label": "Codice postale (opzionale)",
-        "optional_pincode_label": "Codice PIN (opzionale)"
+        "optional_pincode_label": "Codice PIN (opzionale)",
+        "email_rollup_accessibility_label": "Opzioni e -mail",
+        "phone_rollup_accessibility_label": "Opzioni telefoniche"
       },
       "delivery_options": {
         "ship": "Consegna (opzionale)",
@@ -1084,7 +1102,8 @@
         "saved_address_option_description": {
           "one": "Hai {{count}} salvato l'indirizzo.",
           "other": "Avete {{count}} indirizzi salvati."
-        }
+        },
+        "rollup_accessibility_label": "Opzioni dell'account"
       },
       "stock": {
         "page_title": "Problemi di inventario",
@@ -1927,7 +1946,13 @@
           "accessibility_label": "Selezionare un'opzione di pagamento"
         },
         "billing_address_rollup_accessibility_label": "Mostra le opzioni dell'indirizzo di fatturazione",
-        "payment_method_rollup_accessibility_label": "Visualizza le opzioni del metodo di pagamento"
+        "payment_method_rollup_accessibility_label": "Visualizza le opzioni del metodo di pagamento",
+        "usdc_cashback_title": "1% di cashback",
+        "usdc_cashback_additional_info": "Ricevi l'1% in USDC direttamente nel tuo portafoglio digitale.",
+        "usdc_cashback_terms": "I termini si applicano",
+        "markets_pro_disclaimer_label_express_checkout": "Attraverso il tuo acquisto accetti il ​​nostro fornitore di servizi internazionali Global-ES %{markets_pro_terms} E %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "termini",
+        "markets_pro_disclaimer_express_privacy_policy": "politica sulla riservatezza"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Saldo corrente %{amount}",
@@ -2758,7 +2783,8 @@
           "add_address": "Aggiungi indirizzo",
           "save": "Salva questo indirizzo",
           "cancel": "Annullare l'acquisto"
-        }
+        },
+        "billing_address_rollup_accessibility_label": "Opzioni da fare fatture a"
       },
       "address_management": {
         "confirm_address_deletion": "Siete sicuri di voler cancellare l'indirizzo {{address}}?"
@@ -2896,6 +2922,11 @@
       "tooltip": {
         "accessibility_label_context": "Ulteriori informazioni su %{context}",
         "additional_payment_methods": "Ulteriori metodi di pagamento"
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "Il registratore di cassa contiene solo beni remoti. È richiesto il reindirizzamento al negozio remoto per completare il pagamento."
+        }
       }
     },
     "sentence": {
@@ -4512,6 +4543,13 @@
         }
       },
       "processing": "Elaborazione ..."
+    }
+  },
+  "sv": {
+    "navigation": {
+      "header": {
+        "main_nav": "Navigazione"
+      }
     }
   }
 }

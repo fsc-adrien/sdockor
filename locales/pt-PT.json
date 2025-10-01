@@ -99,6 +99,15 @@
     },
     "language": {
       "dropdown_label": "Idioma"
+    },
+    "predictive_search": {
+      "search_button_label": "Procurar",
+      "query_suggestions_heading": "Propostas de pesquisa",
+      "product_suggestions_heading": "Produtos",
+      "posts_suggestions_heading": "Postagens do blog",
+      "pages_suggestions_heading": "Lados",
+      "pages_and_posts_suggestions_heading": "Páginas e postagens",
+      "no_results_text": "Nenhum resultado foi encontrado"
     }
   },
   "blogs": {
@@ -1229,7 +1238,9 @@
         "optional_zip_code_label": "Código postal (facultativo)",
         "optional_postal_code_label": "Código postal (facultativo)",
         "optional_postcode_label": "Código postal (facultativo)",
-        "optional_pincode_label": "Código PIN (facultativo)"
+        "optional_pincode_label": "Código PIN (facultativo)",
+        "email_rollup_accessibility_label": "Opções de email",
+        "phone_rollup_accessibility_label": "Opções de telefone"
       },
       "delivery_options": {
         "ship": "Entrega (facultativo)",
@@ -1271,7 +1282,8 @@
         "saved_address_option_description": {
           "one": "Tem {{count}} endereço guardado.",
           "other": "Tem {{count}} endereços guardados."
-        }
+        },
+        "rollup_accessibility_label": "Opções de conta"
       },
       "stock": {
         "page_title": "Problemas de inventário",
@@ -2121,7 +2133,8 @@
         },
         "bank_account_choose": "Escolha uma conta para concluir sua compra com segurança",
         "bank_account_connect_another": "Conecte outra conta bancária",
-        "bank_account_connect": "Conecte a conta bancária"
+        "bank_account_connect": "Conecte a conta bancária",
+        "markets_pro_disclaimer_express_privacy_policy": "política de Privacidade"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Saldo atual %{amount}",
@@ -2952,7 +2965,8 @@
           "add_address": "Adicionar endereço",
           "save": "Guardar este endereço",
           "cancel": "Cancelar a sua compra"
-        }
+        },
+        "billing_address_rollup_accessibility_label": "Opções para faturar para"
       },
       "address_management": {
         "confirm_address_deletion": "Tem a certeza de que pretende apagar o endereço {{address}}?"

@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "vélemények száma",
       "star_reviews_info": "{{ rating_value }} a {{ rating_max }} stars"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Tetejére",
+      "mobile_button_label": "Tetejére"
+    },
+    "predictive_search": {
+      "no_results_text": "Nem találtak eredményeket",
+      "search_button_label": "Keresés",
+      "query_suggestions_heading": "Keresési javaslatok",
+      "product_suggestions_heading": "Termékek",
+      "posts_suggestions_heading": "Blogbejegyzések",
+      "pages_suggestions_heading": "Oldal",
+      "pages_and_posts_suggestions_heading": "Oldalak és hozzászólások"
     }
   },
   "date_formats": {
@@ -1042,7 +1055,9 @@
         "optional_zip_code_label": "Irányítószám (nem kötelező)",
         "optional_postal_code_label": "Irányítószám (nem kötelező)",
         "optional_postcode_label": "Irányítószám (nem kötelező)",
-        "optional_pincode_label": "PIN-kód (nem kötelező)"
+        "optional_pincode_label": "PIN-kód (nem kötelező)",
+        "email_rollup_accessibility_label": "E -mail beállítások",
+        "phone_rollup_accessibility_label": "Telefonos lehetőségek"
       },
       "delivery_options": {
         "ship": "Szállítási cím (nem kötelező)",
@@ -1084,7 +1099,8 @@
         "saved_address_option_description": {
           "one": "Önnek van {{count}} elmentett cím.",
           "other": "Ön már {{count}} elmentett címek."
-        }
+        },
+        "rollup_accessibility_label": "Számlaopciók"
       },
       "stock": {
         "page_title": "Leltározási problémák",
@@ -1934,7 +1950,12 @@
         },
         "bank_account_choose": "Válasszon egy fiókot a vásárlás biztonságos kitöltéséhez",
         "bank_account_connect_another": "Csatlakoztasson egy másik bankszámlát",
-        "bank_account_connect": "Csatlakoztassa a bankszámlát"
+        "bank_account_connect": "Csatlakoztassa a bankszámlát",
+        "usdc_cashback_title": "1% Cashback",
+        "usdc_cashback_additional_info": "Vegye vissza az 1% -ot az USDC -be közvetlenül a digitális pénztárcájába.",
+        "usdc_cashback_terms": "A feltételek érvényesek",
+        "markets_pro_disclaimer_label_express_checkout": "Vásárlásán keresztül Ön elfogadja a globális-ES nemzetközi szolgáltatónkat %{markets_pro_terms} és %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "kifejezés"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Aktuális egyenleg %{amount}",

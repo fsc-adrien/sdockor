@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "брой прегледи",
       "star_reviews_info": "{{ rating_value }} на {{ rating_max }} звезди"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "До върха",
+      "mobile_button_label": "До върха"
+    },
+    "predictive_search": {
+      "no_results_text": "Не са намерени резултати",
+      "search_button_label": "Търсене",
+      "query_suggestions_heading": "Предложения за търсене",
+      "product_suggestions_heading": "Продукти",
+      "posts_suggestions_heading": "Публикации в блогове",
+      "pages_suggestions_heading": "Страни",
+      "pages_and_posts_suggestions_heading": "Страници и публикации"
     }
   },
   "date_formats": {
@@ -192,6 +205,9 @@
       "message": "Съобщение",
       "send": "Изпратете ми вашия имейл",
       "post_success": "Благодарим ви, че се свързахте с нас! Ще се свържем с вас възможно най-скоро!"
+    },
+    "fields": {
+      "email": "Електронна поща"
     }
   },
   "customer": {
@@ -4519,6 +4535,13 @@
         }
       },
       "processing": "Обработка ..."
+    }
+  },
+  "sv": {
+    "navigation": {
+      "header": {
+        "main_nav": "Навигация"
+      }
     }
   }
 }

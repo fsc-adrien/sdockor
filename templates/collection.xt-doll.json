@@ -385,13 +385,186 @@
         "custom_css": ""
       }
     },
+    "slideshow_UQHNYG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_VyBXHj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Kala_Silicone_XT-bym20-B_fbf1bafa-8d75-4871-9a43-b540d7e90473.jpg",
+            "pretext": "",
+            "title": "Nahida",
+            "subtitle": "<p><strong>164 cm C-Kupa Silikon</strong></p>",
+            "button1": "Visa Mer",
+            "button1_link": "https://docklandet.se/products/nahida-sexdocka-xt-doll-164cm-c-kupa-xt-bym20-b-silikon?_pos=1&_psq=nahi&_ss=e&_v=1.0",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "left",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        },
+        "image_HywRxC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_150cm_4ft9_D-cup_Yina_Silicone_XT-bym15-B.jpg",
+            "pretext": "",
+            "title": "Yina",
+            "subtitle": "<p><strong>150cm D-Kupa Silikon</strong></p>",
+            "button1": "Visa mer",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "right",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        },
+        "image_3PTY9Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_157cm_5ft1_D-cup_Asumi_Silicone_XT-bym16.jpg",
+            "pretext": "",
+            "title": "Asumi",
+            "subtitle": "<p><strong>157 cm D-Kupa Silikon</strong></p>",
+            "button1": "Visa Mer",
+            "button1_link": "https://docklandet.se/products/asumi-sexdocka-xt-doll-157cm-d-kupa-xt-bym16-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "left",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        },
+        "image_89AgYb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Emma_Silicone_XT-byb38.jpg",
+            "pretext": "",
+            "title": "Emma",
+            "subtitle": "<p><strong>164 cm C-Kupa Silikon</strong></p>",
+            "button1": "Visa mer",
+            "button1_link": "https://docklandet.se/products/emma-sexdocka-xt-doll-164cm-c-kupa-xt-byb38-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "right",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        },
+        "image_8F8PdM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_150cm_4ft9_D-cup_Lilly_Silicone_XT-20-C_d276afe1-ed2a-44a7-bc0e-b8b9fb1e344a.jpg",
+            "pretext": "",
+            "title": "Lily",
+            "subtitle": "<p><strong>150 cm D-Kupa Silikon</strong></p>",
+            "button1": "Visa mer",
+            "button1_link": "https://docklandet.se/products/lily-sexdocka-xt-doll-150cm-d-kupa-xt-20-c-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "left",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        },
+        "image_m8KJK7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_157cm_D-cup_Akira_Silicone_4c0d4f6e-f819-4cc1-b258-4c60cf0d87a1.jpg",
+            "pretext": "",
+            "title": "Akira",
+            "subtitle": "<p><strong>157 cm D-Kupa Silikon</strong></p>",
+            "button1": "Visa Mer",
+            "button1_link": "https://docklandet.se/products/akira-sexdocka-xt-doll-157cm-d-kupa-xt-byx2-b-silikon-1?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "right",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        },
+        "image_phYpXH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_157cm_5ft1_D-cup_Emi_Silicone_XT-B001-B.jpg",
+            "pretext": "",
+            "title": "Emi",
+            "subtitle": "<p><strong>157 cm D-Kupa Silikon</strong></p>",
+            "button1": "Visa mera",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "left",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        },
+        "image_9BgKUD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Yunix_161_x_157_e7a3aba1-fb32-40d7-a944-f18975726398.jpg",
+            "pretext": "",
+            "title": "Yunix",
+            "subtitle": "<p><strong>161 cm B-Kupa Silikon - 157 cm D-Kupa Silikon</strong></p>",
+            "button1": "Visa mer",
+            "button1_link": "https://docklandet.se/products/yunxi-sexdocka-xt-doll-161cm-b-kupa-xt-bym15-silikon?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button1_style": "global-button--banner",
+            "button2": "Visa mer",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        }
+      },
+      "block_order": [
+        "image_VyBXHj",
+        "image_HywRxC",
+        "image_3PTY9Q",
+        "image_89AgYb",
+        "image_8F8PdM",
+        "image_m8KJK7",
+        "image_phYpXH",
+        "image_9BgKUD"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "wide_display": false,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "pxu_slideshow_Tm4FxV": {
       "type": "pxu-slideshow",
       "blocks": {
         "slide_WgtgcF": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Kala_Silicone_XT-bym20-B_52979ccb-c8e1-4f72-82e3-c482db9cc5af.jpg",
+            "image": "shopify://shop_images/Banner_164cm_5ft4_C-cup_Kala_Silicone_XT-bym20-B_fbf1bafa-8d75-4871-9a43-b540d7e90473.jpg",
             "heading": "Nahida",
             "heading_size": 40,
             "heading_size_mobile": 32,
@@ -615,6 +788,7 @@
         "slide_mLJYPe",
         "slide_YUDqWD"
       ],
+      "disabled": true,
       "name": "t:pxu_sections.sections.slideshow.name",
       "settings": {
         "content_width": "650px",
@@ -1323,6 +1497,7 @@
     "image_with_text_overlay_6rBpEg",
     "main",
     "b9002e4b-ea9b-477b-b793-6f1a72ecb9e0",
+    "slideshow_UQHNYG",
     "pxu_slideshow_Tm4FxV",
     "image_with_text_overlay_Jjwgqb",
     "gallery_kGwJrg",

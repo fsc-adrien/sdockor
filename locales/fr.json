@@ -110,6 +110,19 @@
     },
     "language": {
       "dropdown_label": "Langue"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Au sommet",
+      "mobile_button_label": "Au sommet"
+    },
+    "predictive_search": {
+      "no_results_text": "Aucun résultat n'a été trouvé",
+      "search_button_label": "Recherche",
+      "query_suggestions_heading": "Rechercher des propositions",
+      "product_suggestions_heading": "Produits",
+      "posts_suggestions_heading": "Articles de blog",
+      "pages_suggestions_heading": "Côtés",
+      "pages_and_posts_suggestions_heading": "Pages et postes"
     }
   },
   "blogs": {
@@ -1996,7 +2009,9 @@
         "optional_zip_code_label": "Code postal (facultatif)",
         "optional_postal_code_label": "Code postal (facultatif)",
         "optional_postcode_label": "Code postal (facultatif)",
-        "optional_pincode_label": "Code PIN (facultatif)"
+        "optional_pincode_label": "Code PIN (facultatif)",
+        "email_rollup_accessibility_label": "Options par e-mail",
+        "phone_rollup_accessibility_label": "Options téléphoniques"
       },
       "delivery_options": {
         "ship": "Livraison (facultatif)",
@@ -2038,7 +2053,8 @@
         "saved_address_option_description": {
           "one": "Vous avez {{count}} une adresse sauvegardée.",
           "other": "Vous avez {{count}} adresses enregistrées."
-        }
+        },
+        "rollup_accessibility_label": "Options de compte"
       },
       "stock": {
         "page_title": "Problèmes d'inventaire",
@@ -2881,7 +2897,12 @@
           "accessibility_label": "Sélectionnez une option de paiement"
         },
         "billing_address_rollup_accessibility_label": "Afficher les options d'adresse de facturation",
-        "payment_method_rollup_accessibility_label": "Afficher les options de mode de paiement"
+        "payment_method_rollup_accessibility_label": "Afficher les options de mode de paiement",
+        "usdc_cashback_title": "1% de cashback",
+        "usdc_cashback_additional_info": "Obtenez 1% dans USDC directement dans votre portefeuille numérique.",
+        "usdc_cashback_terms": "Les conditions s'appliquent",
+        "markets_pro_disclaimer_label_express_checkout": "Grâce à votre achat, vous acceptez notre fournisseur de services internationaux Global-ES %{markets_pro_terms} et %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "termes"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Solde actuel %{amount}",

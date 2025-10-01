@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "liczba recenzji",
       "star_reviews_info": "{{ rating_value }} z {{ rating_max }} gwiazdy"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Na górę",
+      "mobile_button_label": "Na górę"
+    },
+    "predictive_search": {
+      "no_results_text": "Nie znaleziono żadnych wyników",
+      "search_button_label": "Szukaj",
+      "query_suggestions_heading": "Wyszukaj propozycje",
+      "product_suggestions_heading": "Produkty",
+      "posts_suggestions_heading": "Posty na blogu",
+      "pages_suggestions_heading": "Boki",
+      "pages_and_posts_suggestions_heading": "Strony i posty"
     }
   },
   "customer_accounts": {
@@ -1900,7 +1913,12 @@
         },
         "bank_account_choose": "Wybierz konto, aby bezpiecznie wypełnić zakup",
         "bank_account_connect_another": "Połącz inne konto bankowe",
-        "bank_account_connect": "Połącz konto bankowe"
+        "bank_account_connect": "Połącz konto bankowe",
+        "usdc_cashback_title": "1% zwrotny",
+        "usdc_cashback_additional_info": "Odzyskaj 1% w USDC bezpośrednio w portfelu cyfrowym.",
+        "usdc_cashback_terms": "Obowiązują warunki",
+        "markets_pro_disclaimer_label_express_checkout": "Dzięki zakupowi zgadzasz się z naszym międzynarodowym dostawcą usług Global-Es %{markets_pro_terms} I %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "warunki"
       },
       "review": {
         "blocks": {
@@ -2642,7 +2660,9 @@
         "optional_zip_code_label": "Kod pocztowy (opcjonalnie)",
         "optional_postal_code_label": "Kod pocztowy (opcjonalnie)",
         "optional_postcode_label": "Kod pocztowy (opcjonalnie)",
-        "optional_pincode_label": "Kod PIN (opcjonalnie)"
+        "optional_pincode_label": "Kod PIN (opcjonalnie)",
+        "email_rollup_accessibility_label": "Opcje e -mail",
+        "phone_rollup_accessibility_label": "Opcje telefoniczne"
       },
       "delivery_options": {
         "ship": "Dostawa (opcjonalnie)",
@@ -2684,7 +2704,8 @@
         "saved_address_option_description": {
           "one": "Masz {{count}} zapisany adres.",
           "other": "Masz {{count}} zapisanych adresów."
-        }
+        },
+        "rollup_accessibility_label": "Opcje konta"
       },
       "stock": {
         "page_title": "Problemy z inwentaryzacją",

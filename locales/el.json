@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "Αριθμός κριτικών",
       "star_reviews_info": "{{ rating_value }} του {{ rating_max }} stars"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Στην κορυφή",
+      "mobile_button_label": "Στην κορυφή"
+    },
+    "predictive_search": {
+      "no_results_text": "Δεν βρέθηκαν αποτελέσματα",
+      "search_button_label": "Ερευνα",
+      "query_suggestions_heading": "Προτάσεις αναζήτησης",
+      "product_suggestions_heading": "Προϊόντα",
+      "posts_suggestions_heading": "Αναρτήσεις ιστολογίου",
+      "pages_suggestions_heading": "Πλευρές",
+      "pages_and_posts_suggestions_heading": "Σελίδες και δημοσιεύσεις"
     }
   },
   "date_formats": {
@@ -2005,7 +2018,10 @@
         },
         "bank_account_choose": "Επιλέξτε έναν λογαριασμό για να ολοκληρώσετε την αγορά σας με ασφάλεια",
         "bank_account_connect_another": "Συνδέστε έναν άλλο τραπεζικό λογαριασμό",
-        "bank_account_connect": "Συνδέστε τον τραπεζικό λογαριασμό"
+        "bank_account_connect": "Συνδέστε τον τραπεζικό λογαριασμό",
+        "markets_pro_disclaimer_label_express_checkout": "Μέσω της αγοράς σας συμφωνείτε με τον διεθνή παροχέα υπηρεσιών μας Global-ES %{markets_pro_terms} και %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "όροι",
+        "markets_pro_disclaimer_express_privacy_policy": "Πολιτική απορρήτου"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Τρέχον υπόλοιπο %{amount}",
@@ -2910,6 +2926,11 @@
       "tooltip": {
         "accessibility_label_context": "Περισσότερες πληροφορίες σχετικά με %{context}",
         "additional_payment_methods": "Πρόσθετες μέθοδοι πληρωμής"
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "Το ταμείο περιέχει μόνο απομακρυσμένα αγαθά. Η ανακατεύθυνση στο απομακρυσμένο κατάστημα απαιτείται για την ολοκλήρωση της πληρωμής."
+        }
       }
     },
     "notices": {
@@ -4526,6 +4547,13 @@
         }
       },
       "processing": "Επεξεργασία ..."
+    }
+  },
+  "sv": {
+    "navigation": {
+      "header": {
+        "main_nav": "Πλοήγηση"
+      }
     }
   }
 }

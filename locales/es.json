@@ -110,6 +110,19 @@
     },
     "language": {
       "dropdown_label": "Idioma"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "A la cima",
+      "mobile_button_label": "A la cima"
+    },
+    "predictive_search": {
+      "no_results_text": "No se encontraron resultados",
+      "search_button_label": "Buscar",
+      "query_suggestions_heading": "Propuestas de búsqueda",
+      "product_suggestions_heading": "Productos",
+      "posts_suggestions_heading": "Publicaciones de blog",
+      "pages_suggestions_heading": "Lado",
+      "pages_and_posts_suggestions_heading": "Páginas y publicaciones"
     }
   },
   "blogs": {
@@ -1896,7 +1909,13 @@
         },
         "bank_account_choose": "Elija una cuenta para completar su compra de forma segura",
         "bank_account_connect_another": "Conectar otra cuenta bancaria",
-        "bank_account_connect": "Conecte la cuenta bancaria"
+        "bank_account_connect": "Conecte la cuenta bancaria",
+        "usdc_cashback_title": "1% de reembolso",
+        "usdc_cashback_additional_info": "Obtenga 1% de regreso en USDC directamente en su billetera digital.",
+        "usdc_cashback_terms": "Se aplican términos",
+        "markets_pro_disclaimer_label_express_checkout": "A través de su compra, acepta nuestro proveedor de servicios internacionales Global-ES %{markets_pro_terms} y %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "términos",
+        "markets_pro_disclaimer_express_privacy_policy": "política de privacidad"
       },
       "review": {
         "blocks": {
@@ -2638,7 +2657,9 @@
         "optional_zip_code_label": "Código postal (opcional)",
         "optional_postal_code_label": "Código postal (opcional)",
         "optional_postcode_label": "Código postal (opcional)",
-        "optional_pincode_label": "Código PIN (opcional)"
+        "optional_pincode_label": "Código PIN (opcional)",
+        "email_rollup_accessibility_label": "Opciones de correo electrónico",
+        "phone_rollup_accessibility_label": "Opciones telefónicas"
       },
       "delivery_options": {
         "ship": "Entrega (opcional)",
@@ -2680,7 +2701,8 @@
         "saved_address_option_description": {
           "one": "Usted ha {{count}} dirección guardada.",
           "other": "Ha guardado {{count}} direcciones guardadas."
-        }
+        },
+        "rollup_accessibility_label": "Opciones de cuenta"
       },
       "stock": {
         "page_title": "Problemas de inventario",
@@ -4027,7 +4049,8 @@
           "add_address": "Añadir dirección",
           "save": "Guardar esta dirección",
           "cancel": "Cancelar la compra"
-        }
+        },
+        "billing_address_rollup_accessibility_label": "Opciones para facturar a"
       },
       "address_management": {
         "confirm_address_deletion": "¿Está seguro de que desea eliminar la dirección? {{address}}?"
@@ -4143,6 +4166,11 @@
       "tooltip": {
         "accessibility_label_context": "Más información %{context}",
         "additional_payment_methods": "Formas de pago adicionales"
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "La caja registradora contiene solo bienes remotos. Se requiere redirección a la tienda remota para completar el pago."
+        }
       }
     },
     "sentence": {

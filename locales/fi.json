@@ -3121,6 +3121,19 @@
     },
     "language": {
       "dropdown_label": ""
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Ylhäältä",
+      "mobile_button_label": "Ylhäältä"
+    },
+    "predictive_search": {
+      "no_results_text": "Tuloksia ei löytynyt",
+      "search_button_label": "Haku",
+      "query_suggestions_heading": "Hakuehdotukset",
+      "product_suggestions_heading": "Tuotteet",
+      "posts_suggestions_heading": "Blogiviestit",
+      "pages_suggestions_heading": "Puolet",
+      "pages_and_posts_suggestions_heading": "Sivut ja viestit"
     }
   },
   "blogs": {
@@ -3258,6 +3271,9 @@
       "message": "Viesti",
       "send": "Lähetä minulle sähköpostia",
       "post_success": "Kiitos yhteydenotosta! Otamme sinuun yhteyttä mahdollisimman pian!"
+    },
+    "fields": {
+      "email": "Sähköposti"
     }
   },
   "customer": {
@@ -4509,6 +4525,13 @@
         "billing_address_choose_from_list": "Valitse luettelosta",
         "future_purchases_notice": "Tämä maksutapa tallennetaan tulevia ostoksia varten.",
         "generic_error": "Päivittäminen ei ollut mahdollista. Yritä uudelleen."
+      }
+    }
+  },
+  "sv": {
+    "navigation": {
+      "header": {
+        "main_nav": "Navigointi"
       }
     }
   }

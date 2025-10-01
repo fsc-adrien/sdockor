@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "aantal beoordelingen",
       "star_reviews_info": "{{ rating_value }} van {{ rating_max }} sterren"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Bovenaan",
+      "mobile_button_label": "Bovenaan"
+    },
+    "predictive_search": {
+      "no_results_text": "Er werden geen resultaten gevonden",
+      "search_button_label": "Zoekopdracht",
+      "query_suggestions_heading": "Zoekvoorstellen",
+      "product_suggestions_heading": "Producten",
+      "posts_suggestions_heading": "Blogberichten",
+      "pages_suggestions_heading": "Zijkanten",
+      "pages_and_posts_suggestions_heading": "Pagina's en berichten"
     }
   },
   "customer_accounts": {
@@ -1939,7 +1952,9 @@
         "optional_zip_code_label": "Postcode (optioneel)",
         "optional_postal_code_label": "Postcode (optioneel)",
         "optional_postcode_label": "Postcode (optioneel)",
-        "optional_pincode_label": "PIN-code (optioneel)"
+        "optional_pincode_label": "PIN-code (optioneel)",
+        "email_rollup_accessibility_label": "E -mailopties",
+        "phone_rollup_accessibility_label": "Telefoonopties"
       },
       "delivery_options": {
         "ship": "Levering (optioneel)",
@@ -1981,7 +1996,8 @@
         "saved_address_option_description": {
           "one": "Je hebt {{count}} adres opgeslagen.",
           "other": "Je hebt {{count}} adressen opgeslagen."
-        }
+        },
+        "rollup_accessibility_label": "Accountopties"
       },
       "stock": {
         "page_title": "Problemen met de inventaris",
@@ -2831,7 +2847,12 @@
         },
         "bank_account_choose": "Kies een account om uw aankoop veilig te voltooien",
         "bank_account_connect_another": "Verbind een andere bankrekening",
-        "bank_account_connect": "Verbind bankrekening"
+        "bank_account_connect": "Verbind bankrekening",
+        "usdc_cashback_title": "1% cashback",
+        "usdc_cashback_additional_info": "Krijg 1% terug in USDC rechtstreeks in uw digitale portemonnee.",
+        "usdc_cashback_terms": "Voorwaarden van toepassing",
+        "markets_pro_disclaimer_label_express_checkout": "Via uw aankoop akkoord gaat u met onze internationale dienstverlener Global-ES %{markets_pro_terms} En %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "voorwaarden"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Huidig saldo %{amount}",

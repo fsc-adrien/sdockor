@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "počet recenzí",
       "star_reviews_info": "{{ rating_value }} z {{ rating_max }} hvězdičky"
+    },
+    "predictive_search": {
+      "search_button_label": "Vyhledávání",
+      "query_suggestions_heading": "Prohledávání návrhů",
+      "product_suggestions_heading": "Produkty",
+      "posts_suggestions_heading": "Příspěvky na blogu",
+      "pages_suggestions_heading": "Strany",
+      "pages_and_posts_suggestions_heading": "Stránky a příspěvky",
+      "no_results_text": "Nebyly nalezeny žádné výsledky"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Na vrchol",
+      "mobile_button_label": "Na vrchol"
     }
   },
   "customer_accounts": {
@@ -2027,7 +2040,9 @@
         "optional_zip_code_label": "Poštovní směrovací číslo (nepovinné)",
         "optional_postal_code_label": "Poštovní směrovací číslo (nepovinné)",
         "optional_postcode_label": "Poštovní směrovací číslo (nepovinné)",
-        "optional_pincode_label": "PIN kód (nepovinný)"
+        "optional_pincode_label": "PIN kód (nepovinný)",
+        "email_rollup_accessibility_label": "Možnosti e -mailu",
+        "phone_rollup_accessibility_label": "Možnosti telefonu"
       },
       "delivery_options": {
         "ship": "Doručení (nepovinné)",
@@ -2069,7 +2084,8 @@
         "saved_address_option_description": {
           "one": "Máte {{count}} uloženou adresu.",
           "other": "Máte {{count}} uložené adresy."
-        }
+        },
+        "rollup_accessibility_label": "Možnosti účtu"
       },
       "stock": {
         "page_title": "Problémy s inventurou",
@@ -2362,7 +2378,9 @@
         "total_due_label": "Celkový dluh",
         "total_price_label": "Celková cena",
         "for_add_on": "Pro: %{group_title}",
-        "unconfirmed_label": "Nepotvrzeno"
+        "unconfirmed_label": "Nepotvrzeno",
+        "from_shop_heading": "Z %{shop_name}",
+        "from_other_stores_heading": "Z jiných obchodů"
       },
       "shipping": {
         "title": "Nákladní doprava",
@@ -2919,7 +2937,8 @@
         },
         "bank_account_choose": "Vyberte si účet a bezpečně dokončíte nákup",
         "bank_account_connect_another": "Připojte další bankovní účet",
-        "bank_account_connect": "Připojte bankovní účet"
+        "bank_account_connect": "Připojte bankovní účet",
+        "markets_pro_disclaimer_express_privacy_policy": "Zásady ochrany osobních údajů"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Aktuální zůstatek %{amount}",
@@ -4029,7 +4048,8 @@
           "add_address": "Přidat adresu",
           "save": "Uložit tuto adresu",
           "cancel": "Zrušit nákup"
-        }
+        },
+        "billing_address_rollup_accessibility_label": "Možnosti fakturace"
       },
       "address_management": {
         "confirm_address_deletion": "Jste si jisti, že chcete adresu smazat? {{address}}?"
@@ -4137,6 +4157,11 @@
       "tooltip": {
         "accessibility_label_context": "Více informací o %{context}",
         "additional_payment_methods": "Další platební metody"
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "Pokladna obsahuje pouze vzdálené zboží. Pro dokončení platby je nutné přesměrování do vzdáleného obchodu."
+        }
       }
     },
     "sentence": {

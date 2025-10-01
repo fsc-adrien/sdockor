@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "număr de recenzii",
       "star_reviews_info": "{{ rating_value }} de {{ rating_max }} stele"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "În vârf",
+      "mobile_button_label": "În vârf"
+    },
+    "predictive_search": {
+      "no_results_text": "Nu s -au găsit rezultate",
+      "search_button_label": "Căutare",
+      "query_suggestions_heading": "Propuneri de căutare",
+      "product_suggestions_heading": "Produse",
+      "posts_suggestions_heading": "Postări pe blog",
+      "pages_suggestions_heading": "Laturi",
+      "pages_and_posts_suggestions_heading": "Pagini și postări"
     }
   },
   "date_formats": {
@@ -658,7 +671,8 @@
         },
         "bank_account_choose": "Alegeți un cont pentru a finaliza achiziția în siguranță",
         "bank_account_connect_another": "Conectați un alt cont bancar",
-        "bank_account_connect": "Conectați contul bancar"
+        "bank_account_connect": "Conectați contul bancar",
+        "markets_pro_disclaimer_express_privacy_policy": "Politica de confidențialitate"
       },
       "merchant_instruction_errors": {
         "invalid_variant_id_target": "%{name}descrierea comercială se referă la ID-ul variantei %{variant_id}dar această variantă nu este inclusă în produsele comerciale.",
@@ -1108,7 +1122,9 @@
         "optional_zip_code_label": "Cod poștal (opțional)",
         "optional_postal_code_label": "Cod poștal (opțional)",
         "optional_postcode_label": "Cod poștal (opțional)",
-        "optional_pincode_label": "Cod PIN (opțional)"
+        "optional_pincode_label": "Cod PIN (opțional)",
+        "email_rollup_accessibility_label": "Opțiuni de e -mail",
+        "phone_rollup_accessibility_label": "Opțiuni telefonice"
       },
       "delivery_options": {
         "ship": "Livrare (opțional)",
@@ -1150,7 +1166,8 @@
         "saved_address_option_description": {
           "one": "Aveți {{count}} salvat adresa.",
           "other": "Ați {{count}} adrese salvate."
-        }
+        },
+        "rollup_accessibility_label": "Opțiuni de cont"
       },
       "stock": {
         "page_title": "Probleme de inventar",
@@ -1443,7 +1460,9 @@
         "total_due_label": "Datorie totală",
         "total_price_label": "Prețul total",
         "for_add_on": "Pentru: %{group_title}",
-        "unconfirmed_label": "Neconfirmat"
+        "unconfirmed_label": "Neconfirmat",
+        "from_shop_heading": "Din %{shop_name}",
+        "from_other_stores_heading": "Din alte magazine"
       },
       "shipping": {
         "title": "Marfă",
@@ -2797,7 +2816,8 @@
           "add_address": "Adăugați adresa",
           "save": "Salvați această adresă",
           "cancel": "Anulați achiziția"
-        }
+        },
+        "billing_address_rollup_accessibility_label": "Opțiuni de facturare la"
       },
       "address_management": {
         "confirm_address_deletion": "Sunteți sigur că doriți să ștergeți adresa {{address}}?"
@@ -2903,6 +2923,11 @@
       "tooltip": {
         "accessibility_label_context": "Mai multe informații despre %{context}",
         "additional_payment_methods": "Metode de plată suplimentare"
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "Registrul de marcat conține numai mărfuri la distanță. Redirecția către magazinul de la distanță este necesară pentru a finaliza plata."
+        }
       }
     },
     "notices": {

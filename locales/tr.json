@@ -63,6 +63,19 @@
     "accessibility": {
       "total_reviews": "yorum sayısı",
       "star_reviews_info": "{{ rating_value }} . {{ rating_max }} Yıldızlar"
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Üstüne",
+      "mobile_button_label": "Üstüne"
+    },
+    "predictive_search": {
+      "no_results_text": "Sonuç bulunmadı",
+      "search_button_label": "Aramak",
+      "query_suggestions_heading": "Arama teklifleri",
+      "product_suggestions_heading": "Ürünler",
+      "posts_suggestions_heading": "Blog gönderileri",
+      "pages_suggestions_heading": "Taraf",
+      "pages_and_posts_suggestions_heading": "Sayfalar ve gönderiler"
     }
   },
   "date_formats": {
@@ -1048,7 +1061,9 @@
         "optional_zip_code_label": "Posta kodu (isteğe bağlı)",
         "optional_postal_code_label": "Posta kodu (isteğe bağlı)",
         "optional_postcode_label": "Posta kodu (isteğe bağlı)",
-        "optional_pincode_label": "PIN kodu (isteğe bağlı)"
+        "optional_pincode_label": "PIN kodu (isteğe bağlı)",
+        "email_rollup_accessibility_label": "E -posta seçenekleri",
+        "phone_rollup_accessibility_label": "Telefon Seçenekleri"
       },
       "delivery_options": {
         "ship": "Teslimat (isteğe bağlı)",
@@ -1090,7 +1105,8 @@
         "saved_address_option_description": {
           "one": "Sen varsın {{count}} Kayıtlı adres.",
           "other": "Sen varsın {{count}} Kayıtlı adresler."
-        }
+        },
+        "rollup_accessibility_label": "Hesap seçenekleri"
       },
       "stock": {
         "page_title": "Envanter sorunları",
@@ -1940,7 +1956,12 @@
         },
         "bank_account_choose": "Satın alma işleminizi güvenli bir şekilde tamamlamak için bir hesap seçin",
         "bank_account_connect_another": "Başka bir banka hesabı bağlayın",
-        "bank_account_connect": "Banka hesabını bağlayın"
+        "bank_account_connect": "Banka hesabını bağlayın",
+        "usdc_cashback_title": "% 1 Cashback",
+        "usdc_cashback_additional_info": "Doğrudan dijital cüzdanınızda USDC'ye% 1 geri alın.",
+        "usdc_cashback_terms": "Terimler geçerlidir",
+        "markets_pro_disclaimer_label_express_checkout": "Satın alma işleminiz sayesinde uluslararası hizmet sağlayıcısı Global-ES'leri kabul edersiniz. %{markets_pro_terms} Ve %{privacy_policy}",
+        "markets_pro_disclaimer_express_terms_and_conditions": "şartlar"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Mevcut bakiye %{amount}",

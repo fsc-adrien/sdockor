@@ -9,16 +9,169 @@
  */
 {
   "sections": {
-    "414b7af1-a4bd-4f84-a9d9-8eee3f0c8e7a": {
+    "featured_text_6UEHRb": {
       "type": "featured-text",
       "settings": {
         "image": "shopify://shop_images/fullsizesexdolls_Copy_5_7876f01b-2471-4493-b1b2-3695ecf17896.jpg",
         "title": "",
-        "content": "<h1><strong>- Bilder av sexdockor tagna i fabrik - </strong></h1><p>Här kan du se helt naturliga bilder av den sexdocka du är intresserad av. Bilderna är tagna med mobilkameror utan studiobelysning, utan styling och såklart utan redigering. Så gott som alla bilder som ligger uppe här är dockor beställda från oss på Docklandet. </p><p><strong>OBS! Vi har väldigt, väldigt många fler bilder än de som ligger uppe här. Många dockor har vi mängder av olika uppsättningar bilder på och andra nyare dockor/ordrar har vi kanske inte hunnit lägga upp än eller missat. Vi kan i de flesta fall ta fram fabriksbilder på vilken docka du än önskar se, antingen från vårat egna arkiv eller så ser vi till att skaffa dem från tillverkaren i fråga.</strong></p><p>Dockorna ser i princip ut exakt som på bilderna. Det som kan påverka dockans utseende mest är ljuset i fabriken. Ofta är det ett väldigt vitt ljus, men ibland ett mer dovt ljus. Är dockan gjord av TPE kan vitt ljus göra så att huden ser ljusare ut, och i mörkare ljus blir huden mer brun i tonen. Kvalitén på bilderna varierar också. </p><p>Dockornas huvuden är ej påskruvade i fabrik utan endast tillfälligt placerade på kroppen. I vissa fall kan halsen eller dockans position se lite skev ut på grund av detta. Detta gäller ej dockor från Piper Doll där kropp och huvud sitter helt ihop. </p><p>På vissa dockor är perukerna inte helt perfekt applicerade, de kan sitta löst eller lite snett. Detta fixar man såklart till snyggare när man själv har fått hem dockan. I vissa fall har en alternativ peruk används vid fototillfället i fabriken, men det är såklart rätt peruk som medföljer dockorna.</p><p>Hittar du inte fabriksbilder på just den docka du är intresserad av? Eller önskar du se ännu fler bilder på en specifik docka? Kontakta oss på <strong>info@docklandet.se</strong> så kan vi lägga upp fler bilder eller skicka över dem direkt till dig. Vi har väldigt många fler bilder än de som ligger uppe. Glöm inte att vissa dockor använder samma kroppar, så spana gärna in flera dockor med den typ av kropp du är intresserad av för att få en så bra uppfattning som möjligt av hur den ser ut. </p><p>Alla dessa bilder är från ordrar lagda av våra kunder och vi (Dalarna Exclusive AB) äger rättigheterna till bilderna. </p><p><strong>OBS! Bilderna är högupplösta, zooma in för att se tydligare.</strong></p>",
+        "content": "<h1><strong>- Bilder av sexdockor tagna i fabrik - </strong></h1><p>Här kan du se helt naturliga bilder av den sexdocka du är intresserad av. Bilderna är tagna med mobilkameror utan studiobelysning, utan styling och såklart utan redigering. Alla fabriksbilder är av dockor från ordrar beställda i vår butik.</p><p>OBS! Vi har väldigt, väldigt många fler bilder än de som ligger uppe här. Många dockor har vi mängder av olika uppsättningar bilder på och andra nyare dockor/ordrar har vi kanske inte hunnit lägga upp än eller missat. Vi kan i de flesta fall ta fram fabriksbilder på vilken docka du än önskar se, antingen från vårat egna arkiv eller så ser vi till att skaffa dem från tillverkaren i fråga.</p><p><strong>Nyhet! Vi har sedan länge för många fabriksbilder för att få plats i denna sektion. Vi har skapat forum där vi samlar fabriksbilder för alla dockor från märken godkända av TDF (dollforum.com) </strong></p><p><strong>Tryck på logotyperna nedan för att se fabriksbilder av dockor från det specifika märket</strong></p>",
         "button_label": "",
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "logo_bar_gQUCtj": {
+      "type": "logo-bar",
+      "blocks": {
+        "logo_image_Mt4BQ8": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-7_1.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=168943"
+          }
+        },
+        "logo_image_Uki3x4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-2.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=168927"
+          }
+        },
+        "logo_image_6PqXM4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-5_4.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=168978"
+          }
+        },
+        "logo_image_EpeNiz": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-6.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=200442"
+          }
+        },
+        "logo_image_nchALn": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-11_3.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=179891"
+          }
+        },
+        "logo_image_LxBefD": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-13_5.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=200446"
+          }
+        },
+        "logo_image_3r7RnU": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-4.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=200542"
+          }
+        },
+        "logo_image_8CxzBE": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-1.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=201617"
+          }
+        },
+        "logo_image_bWNkUC": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-5.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=198437"
+          }
+        },
+        "logo_image_XAVqDN": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-11_6.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=200438"
+          }
+        },
+        "logo_image_tfddk3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-8_1.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=168971"
+          }
+        },
+        "logo_image_RpPYGA": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-1_2.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=198728"
+          }
+        },
+        "logo_image_3LTf8D": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-11_11.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=194235"
+          }
+        },
+        "logo_image_bJgW6N": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-1_3.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=197786"
+          }
+        },
+        "logo_image_xNyyKc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logos_docklandet_realistic_dolls-15.jpg",
+            "link": "https://dollforum.com/forum/viewtopic.php?t=198437"
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_Mt4BQ8",
+        "logo_image_Uki3x4",
+        "logo_image_6PqXM4",
+        "logo_image_EpeNiz",
+        "logo_image_nchALn",
+        "logo_image_LxBefD",
+        "logo_image_3r7RnU",
+        "logo_image_8CxzBE",
+        "logo_image_bWNkUC",
+        "logo_image_XAVqDN",
+        "logo_image_tfddk3",
+        "logo_image_RpPYGA",
+        "logo_image_3LTf8D",
+        "logo_image_bJgW6N",
+        "logo_image_xNyyKc"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "title": "",
+        "layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured_text_9zKLMV": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p></p><p>Dockorna ser i princip ut exakt som på bilderna. Det som kan påverka dockans utseende mest är ljuset i fabriken. Ofta är det ett väldigt vitt ljus, men ibland ett mer dovt ljus. Är dockan gjord av TPE kan vitt ljus göra så att huden ser ljusare ut, och i mörkare ljus blir huden mer brun i tonen. Kvalitén på bilderna varierar också. </p><p>Dockornas huvuden är ej påskruvade i fabrik utan endast tillfälligt placerade på kroppen. I vissa fall kan halsen eller dockans position se lite skev ut på grund av detta. Detta gäller ej dockor från Piper Doll där kropp och huvud sitter helt ihop. </p><p>På vissa dockor är perukerna inte helt perfekt applicerade, de kan sitta löst eller lite snett. Detta fixar man såklart till snyggare när man själv har fått hem dockan. I vissa fall har en alternativ peruk används vid fototillfället i fabriken, men det är såklart rätt peruk som medföljer dockorna.</p><p>Hittar du inte fabriksbilder på just den docka du är intresserad av? Eller önskar du se ännu fler bilder på en specifik docka? Kontakta oss på <strong>info@docklandet.se</strong> så kan vi lägga upp fler bilder eller skicka över dem direkt till dig. Vi har väldigt många fler bilder än de som ligger uppe. Glöm inte att vissa dockor använder samma kroppar, så spana gärna in flera dockor med den typ av kropp du är intresserad av för att få en så bra uppfattning som möjligt av hur den ser ut. </p><p>Alla dessa bilder är från ordrar lagda av våra kunder och vi (Dalarna Exclusive AB) äger rättigheterna till bilderna. </p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -32,6 +185,8 @@
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -615,6 +770,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -799,6 +956,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -948,6 +1107,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1132,6 +1293,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1211,6 +1374,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1395,6 +1560,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1439,6 +1606,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1560,6 +1729,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1604,6 +1775,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1676,6 +1849,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1860,6 +2035,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -1987,6 +2164,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -2164,6 +2343,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -2313,6 +2494,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -2413,6 +2596,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -2457,6 +2642,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -2558,6 +2745,8 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -2644,13 +2833,17 @@
         "gallery_type": "classic",
         "grid-size": 3,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
     }
   },
   "order": [
-    "414b7af1-a4bd-4f84-a9d9-8eee3f0c8e7a",
+    "featured_text_6UEHRb",
+    "logo_bar_gQUCtj",
+    "featured_text_9zKLMV",
     "3734b07e-5a65-4a1a-986b-58e23f516d6b",
     "main",
     "16622152141fb4d43e",

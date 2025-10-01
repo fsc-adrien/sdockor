@@ -110,6 +110,13 @@
     },
     "language": {
       "dropdown_label": ""
+    },
+    "back_to_top_button": {
+      "desktop_button_label": "Nach oben",
+      "mobile_button_label": "Nach oben"
+    },
+    "predictive_search": {
+      "no_results_text": "Es wurden keine Ergebnisse gefunden"
     }
   },
   "blogs": {
@@ -905,7 +912,9 @@
         "optional_zip_code_label": "Postleitzahl (optional)",
         "optional_postal_code_label": "Postleitzahl (optional)",
         "optional_postcode_label": "Postleitzahl (optional)",
-        "optional_pincode_label": "PIN-Code (fakultativ)"
+        "optional_pincode_label": "PIN-Code (fakultativ)",
+        "email_rollup_accessibility_label": "E -Mail -Optionen",
+        "phone_rollup_accessibility_label": "Telefonoptionen"
       },
       "delivery_options": {
         "ship": "Zustellung (fakultativ)",

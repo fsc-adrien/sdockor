@@ -419,7 +419,9 @@
         "optional_zip_code_label": "Postnummer (valgfrit)",
         "optional_postal_code_label": "Postnummer (valgfrit)",
         "optional_postcode_label": "Postnummer (valgfrit)",
-        "optional_pincode_label": "PIN-kode (valgfrit)"
+        "optional_pincode_label": "PIN-kode (valgfrit)",
+        "email_rollup_accessibility_label": "E -mail -indstillinger",
+        "phone_rollup_accessibility_label": "Telefonindstillinger"
       },
       "delivery_options": {
         "ship": "Levering (valgfrit)",

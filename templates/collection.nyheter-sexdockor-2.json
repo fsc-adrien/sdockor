@@ -16,20 +16,20 @@
         "embedcode": "<span class=\"clerk\" data-template=\"@home-page-popular\"></span>"
       }
     },
-    "featured_text_YREzjW": {
+    "featured_text_we7YQA": {
       "type": "featured-text",
       "settings": {
         "image": "shopify://shop_images/nyheter_docklandet_sexdockor_real_doll_news-2_1_Sexdocka_Docklandet_e04de1fc-92b5-493a-b7ec-264f8f860bc0.jpg",
         "title": "",
-        "content": "<h1>Sexdockor Nyheter Sommar 2025</h1><p>Vi uppdaterar kontinuerligt vårat sortiment med de senaste dockorna från Zelex, Irontech Doll, WM-Doll, Starpery, Piper Doll, SE-Doll, FunWest Doll, FanReal, Tayu, Irokebijin, Climax, Game Lady, Galatea, Dolls Castle, Jiusheng, Bezlya, Elsa Babe, Real Lady, AK-Doll, My Loli Waifu, m fl!</p>",
+        "content": "<h1>Sexdockor Nyheter Höst 2025</h1><p>Vi uppdaterar kontinuerligt vårat sortiment med de senaste dockorna från Zelex, Irontech Doll, WM-Doll, Starpery, Piper Doll, SE-Doll, FunWest Doll, FanReal, Tayu, Irokebijin, Climax, Game Lady, Galatea, Dolls Castle, Jiusheng, Bezlya, Elsa Babe, Real Lady, AK-Doll, My Loli Waifu, m fl!</p>",
         "button_label": "",
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
-        "css_class": "",
-        "custom_css": "",
         "padding_top": 30,
-        "padding_bottom": 0
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
       }
     },
     "16622777925c4804a6": {
@@ -37,10 +37,13 @@
       "settings": {
         "title": "",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "sexdockor-nyheter",
         "collection_style": "grid",
         "products_per": 5,
         "products_limit": 50,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -93,10 +96,13 @@
       "settings": {
         "title": "Nya dockor i lager",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "sexdockor-snabb-leverans-express-fri-frakt",
         "collection_style": "slider",
         "products_per": 7,
         "products_limit": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -111,6 +117,8 @@
         "button_link": "shopify://collections/sexdockor-snabb-leverans-express-fri-frakt",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -128,7 +136,9 @@
         "collection_sort": false,
         "products_per_row": 4,
         "pagination_limit": 36,
-        "toggle": false
+        "toggle": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "ba5209e0-779b-43e5-b793-d4bfede67091": {
@@ -143,6 +153,8 @@
         "button_link": "",
         "text_size": "featured_text",
         "text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -208,6 +220,8 @@
         "gallery_type": "classic",
         "grid-size": 2,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -239,6 +253,8 @@
         "gallery_type": "masonry",
         "grid-size": 2,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -270,6 +286,8 @@
         "gallery_type": "masonry",
         "grid-size": 2,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -315,6 +333,8 @@
         "gallery_type": "masonry",
         "grid-size": 2,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -367,6 +387,8 @@
         "gallery_type": "masonry",
         "grid-size": 2,
         "enable_lightbox": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -376,10 +398,13 @@
       "settings": {
         "title": "Populära lågpris dockor",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "populara-sexdockor-popular-dolls-low-price",
         "collection_style": "slider",
         "products_per": 7,
         "products_limit": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -389,10 +414,13 @@
       "settings": {
         "title": "Populärt Full-Size TPE",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "populara-tpe-dockor",
         "collection_style": "slider",
         "products_per": 7,
         "products_limit": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -402,10 +430,13 @@
       "settings": {
         "title": "Populära silikondockor",
         "collection_description": false,
+        "collection_view_all": false,
         "collection": "populara-silikondockor",
         "collection_style": "slider",
         "products_per": 7,
         "products_limit": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
@@ -442,7 +473,7 @@
   },
   "order": [
     "165220583076f27bdb",
-    "featured_text_YREzjW",
+    "featured_text_we7YQA",
     "16622777925c4804a6",
     "divider_RGgKAd",
     "instafeed_F8wFDG",
